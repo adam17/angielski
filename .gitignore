@@ -1,2 +1,3 @@
-.DS_Store
 *.*
+!/snds/*
+!/imgs/*
