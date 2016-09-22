@@ -4245,6 +4245,12 @@ What is the past tense of <b>freeze</b>? /friːz/<snd>snds/freeze__gb_1.mp3</snd
 
 <category name="inne">
 
+<item id="1474583655" tmtrpt="2285" stmtrpt="2285" livl="0" rllivl="0" ivl="0" rp="0" gr="1">
+<q><![CDATA[
+(n) a young child, especially one who is learning or has recently learned to walk<img>imgs/toddler.845545.jpeg</img>]]></q>
+<a><![CDATA[<b>toddler</b> /ˈtɒd.lə(r)/<snd>snds/uktobyj005.mp3</snd>]]></a>
+</item>
+
 <item id="1441310259" tmtrpt="2286" stmtrpt="2286" livl="64" rllivl="64" ivl="127" rp="7" gr="4">
 <q>
 (v) to make someone want to have or do something that they should not</q>
@@ -4339,6 +4345,14 @@ People throughout the country are out of work. | He yawned throughout the perfor
 <a><![CDATA[<b>endeavour</b> /enˈdev.ə(r)/
 
 <span style="color:#03f">Engineers are endeavouring to locate the source of the problem.</span><snd>snds/ukencum010.mp3</snd>]]></a>
+</item>
+
+<item id="1474583408" tmtrpt="2286" stmtrpt="2286" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
+<q>
+(v) to recognize how good someone or something is and to value him, her, or it OR used when you are thanking someone or showing that you are grateful</q>
+<a><![CDATA[<b>appreciate</b> /əˈpriː.ʃi.eɪt/
+
+<span style="color:#03f">There's no point buying him expensive wines - he doesn't appreciate them. | We appreciate the need for immediate action. | We really appreciate all the help you gave us last weekend. | I appreciate your making the effort to come. | I don't think you quite appreciate the delicacy of the situation. | I don't want everyone to know, so if you could keep it to yourself I'd appreciate it. | I appreciate your honesty.</span><snd>snds/ukappra007.mp3</snd>]]></a>
 </item>
 
 <item id="1442006407" tmtrpt="2287" stmtrpt="2287" livl="69" rllivl="69" ivl="163" rp="5" gr="4">
@@ -4472,6 +4486,14 @@ People throughout the country are out of work. | He yawned throughout the perfor
 <a><![CDATA[<b>show off</b> /ʃˈəʊ ˈɒf/
 
 <span style="color:#03f">She only bought that sports car to show off and prove she could afford one. | He's always showing off to his classmates.</span>]]></a>
+</item>
+
+<item id="1474583528" tmtrpt="2288" stmtrpt="2288" livl="0" rllivl="0" ivl="3" rp="0" gr="4">
+<q>
+(adj) certain; without any doubt</q>
+<a><![CDATA[<b>sure</b> /ʃɔː(r)/
+
+<span style="color:#03f">"What's wrong with him?" "I'm not really sure." | I'm sure (that) I left my keys on the table. | I feel absolutely sure (that) you've made the right decision. | It now seems sure (that) the election will result in another victory for the government. | Shaun isn't sure whether/if he'll be able to come to the party or not. | Is there anything you're not sure of/about? | We arrive early to be sure of getting a good seat. | There is only one sure way (= one way that can be trusted) of finding out the truth.</span><snd>snds/ukshodd029.mp3.1</snd>]]></a>
 </item>
 
 <item id="1467650272" tmtrpt="2289" stmtrpt="2289" livl="17" rllivl="17" ivl="63" rp="2" gr="4">
@@ -11563,6 +11585,50 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><![CDATA[<b>jug</b> /dʒʌɡ/
 
 <span style="color:#03f">a jug of water</span><snd>snds/ukjudic007.mp3</snd>]]></a>
+</item>
+
+</category>
+
+<category name="friends_and_family">
+
+<item id="1474583818" tmtrpt="2285" stmtrpt="2285" livl="0" rllivl="0" ivl="0" rp="0" gr="2">
+<q>
+(n) a person that you have met but do not know well</q>
+<a><![CDATA[<b>acquaintance</b> /əˈkweɪn.təns/
+
+<span style="color:#03f">a business acquaintance | It was at the Taylors' party that I first made his acquaintance (= first met him).</span><snd>snds/ukacqua002.mp3</snd>]]></a>
+</item>
+
+<item id="1474583888" tmtrpt="2285" stmtrpt="2285" livl="0" rllivl="0" ivl="0" rp="0" gr="2">
+<q>
+(n) a person that has grown to full size and strength</q>
+<a><![CDATA[<b>adult</b> /ˈæd.ʌlt/ /əˈdʌlt/
+
+<span style="color:#03f">An adult under English law is someone over 18 years old. | Adults pay an admission charge but children get in free.</span><snd>snds/ukadmon026.mp3</snd>]]></a>
+</item>
+
+<item id="1474584062" tmtrpt="2285" stmtrpt="2285" livl="0" rllivl="0" ivl="0" rp="0" gr="1">
+<q>
+(n) an aunt</q>
+<a><![CDATA[<b>auntie</b> (<b>aunty</b>) /ˈɑːn.ti/
+
+<span style="color:#03f">My auntie and uncle are coming to visit. | Thank you for the present, Auntie Louise.</span><snd>snds/ukaudac024.mp3</snd>]]></a>
+</item>
+
+<item id="1474584161" tmtrpt="2285" stmtrpt="2285" livl="0" rllivl="0" ivl="0" rp="0" gr="0">
+<q>
+(n) a man who has never married</q>
+<a><![CDATA[<b>bachelor</b> /ˈbætʃ.(ə)l.ə(r)/
+
+<span style="color:#03f">He remained a bachelor until he was well into his 40s. | Sam is a confirmed bachelor (= he is unlikely ever to want to get married).</span><snd>snds/ukazt__021.mp3</snd>]]></a>
+</item>
+
+<item id="1474583963" tmtrpt="2286" stmtrpt="2286" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
+<q>
+(n) the sister of someone's father or mother, or the wife of someone's uncle or aunt</q>
+<a><![CDATA[<b>aunt</b> /ɑːnt/
+
+<span style="color:#03f">I have an aunt in Australia. | This is my Aunt Camille. | Do you want some tea, Aunt Alice?</span><snd>snds/ukarchi017.mp3</snd>]]></a>
 </item>
 
 </category>
