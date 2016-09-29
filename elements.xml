@@ -54,22 +54,6 @@ LEGEND:
 
 <category name="czasowniki nieregular">
 
-<item id="1295890881" tmtrpt="2292" stmtrpt="2292" livl="3" rllivl="4" ivl="3" rp="127" gr="4">
-<q><![CDATA[
-Podaj 3 formy nieregularne czasownika: <b>śmierdzieć</b>]]></q>
-<a><![CDATA[<b>stink</b> /stɪŋk/
-<b>stank</b> /stæŋk/
-<b>stunk</b> /stʌŋk/]]></a>
-</item>
-
-<item id="1295879780" tmtrpt="2292" stmtrpt="2292" livl="1" rllivl="1" ivl="2" rp="127" gr="5">
-<q><![CDATA[
-Podaj 3 formy nieregularne czasownika: <b>tonąć</b> ]]></q>
-<a><![CDATA[<b>sink</b> /sɪŋk/
-<b>sank</b> /sæŋk/
-<b>sunk</b> /sʌŋk/]]></a>
-</item>
-
 <item id="1295879813" tmtrpt="2293" stmtrpt="2293" livl="3" rllivl="3" ivl="3" rp="60" gr="3">
 <q><![CDATA[
 Podaj 3 formy nieregularne czasownika: <b>pośliznąć się</b>]]></q>
@@ -101,12 +85,28 @@ Podaj 3 formy nieregularne czasownika: <b>rosnąć</b>]]></q>
 <b>grown</b>  /ɡrəʊn/ ]]></a>
 </item>
 
+<item id="1295879780" tmtrpt="2294" stmtrpt="2294" livl="2" rllivl="2" ivl="2" rp="127" gr="4">
+<q><![CDATA[
+Podaj 3 formy nieregularne czasownika: <b>tonąć</b> ]]></q>
+<a><![CDATA[<b>sink</b> /sɪŋk/
+<b>sank</b> /sæŋk/
+<b>sunk</b> /sʌŋk/]]></a>
+</item>
+
 <item id="1439109637" tmtrpt="2296" stmtrpt="2296" livl="9" rllivl="9" ivl="12" rp="29" gr="4">
 <q><![CDATA[
 Podaj 3 formy nieregularne czasownika: <b>skakać</b>]]></q>
 <a><![CDATA[<b>spring</b>     /sprɪŋ/
 <b>sprang</b>    /spræŋ/
 <b>sprung</b>    /sprʌŋ/]]></a>
+</item>
+
+<item id="1295890881" tmtrpt="2296" stmtrpt="2296" livl="3" rllivl="3" ivl="4" rp="127" gr="5">
+<q><![CDATA[
+Podaj 3 formy nieregularne czasownika: <b>śmierdzieć</b>]]></q>
+<a><![CDATA[<b>stink</b> /stɪŋk/
+<b>stank</b> /stæŋk/
+<b>stunk</b> /stʌŋk/]]></a>
 </item>
 
 <item id="1295878839" tmtrpt="2299" stmtrpt="2299" livl="134" rllivl="514" ivl="465" rp="22" gr="4">
@@ -2486,23 +2486,6 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 
 <category name="air_travel">
 
-<item id="1437076098" tmtrpt="2292" stmtrpt="2292" livl="99" rllivl="104" ivl="232" rp="5" gr="4">
-<q>(n) the cheapest seats on a plane</q>
-<a><![CDATA[economy class <snd>snds/uka32680.mp3</snd>]]></a>
-</item>
-
-<item id="1437207667" tmtrpt="2292" stmtrpt="2292" livl="27" rllivl="27" ivl="36" rp="14" gr="4">
-<q>
-(n) an official document that you have to show when you enter or leave a country</q>
-<a><![CDATA[passport /ˈpɑːs.pɔːt/<snd>snds/ukpassi009.mp3</snd>]]></a>
-</item>
-
-<item id="1437075857" tmtrpt="2292" stmtrpt="2292" livl="1" rllivl="1" ivl="2" rp="27" gr="4">
-<q>
-(n) tax that you pay when bringing certain goods into a country from another country</q>
-<a><![CDATA[<b>customs duty</b> /kˈʌstəmz djˈuːti/<snd>snds/cbeduk02364.mp3</snd>]]></a>
-</item>
-
 <item id="1437156172" tmtrpt="2293" stmtrpt="2293" livl="69" rllivl="186" ivl="233" rp="4" gr="3">
 <q>(n) a place where you can ask for information about your flight</q>
 <a><![CDATA[information desk <snd>snds\cbeduk05208.mp3</snd>]]></a>
@@ -2520,6 +2503,12 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 <a><![CDATA[search /sɜːtʃ/
 
 <span style="color:#02f">I've searched high and low (= everywhere), but I can't find my birth certificate. | He searched (in/through) his pockets for some change. | I searched the internet for the best deal.</span><snd>snds/uksear_002.mp3</snd>]]></a>
+</item>
+
+<item id="1437075857" tmtrpt="2293" stmtrpt="2293" livl="0" rllivl="0" ivl="1" rp="28" gr="4">
+<q>
+(n) tax that you pay when bringing certain goods into a country from another country</q>
+<a><![CDATA[<b>customs duty</b> /kˈʌstəmz djˈuːti/<snd>snds/cbeduk02364.mp3</snd>]]></a>
 </item>
 
 <item id="1436988478" tmtrpt="2294" stmtrpt="2294" livl="7" rllivl="7" ivl="9" rp="26" gr="4">
@@ -2675,6 +2664,12 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 <a><![CDATA[stopover /ˈstɒpˌəʊ.vər/
 
 <span style="color:#00f">W</span><span style="color:#00f">e had a stopover in Santiago on our way to Australia.</span><snd>snds/ukstoma026.mp3</snd>]]></a>
+</item>
+
+<item id="1437207667" tmtrpt="2340" stmtrpt="2340" livl="36" rllivl="36" ivl="48" rp="15" gr="4">
+<q>
+(n) an official document that you have to show when you enter or leave a country</q>
+<a><![CDATA[passport /ˈpɑːs.pɔːt/<snd>snds/ukpassi009.mp3</snd>]]></a>
 </item>
 
 <item id="1436906498" tmtrpt="2341" stmtrpt="2341" livl="35" rllivl="35" ivl="51" rp="24" gr="4">
@@ -3000,6 +2995,12 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 <a><![CDATA[helicopter /ˈhel.ɪˌkɒp.tə/<snd>snds/ukheft_017.mp3</snd>]]></a>
 </item>
 
+<item id="1437076098" tmtrpt="2764" stmtrpt="2764" livl="232" rllivl="232" ivl="472" rp="6" gr="4">
+<q>
+(n) the cheapest seats on a plane</q>
+<a><![CDATA[<b>economy class</b> /ɪkˈɒnəmi klˈas/<snd>snds/uka32680.mp3</snd>]]></a>
+</item>
+
 <item id="1437076209" tmtrpt="2769" stmtrpt="2274" livl="214" rllivl="213" ivl="496" rp="4" gr="4">
 <q>(n) the door or gate where you go into a place</q>
 <a><![CDATA[entrance /ˈen.trəns/<snd>snds/ukentic016.mp3</snd>]]></a>
@@ -3021,70 +3022,13 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 
 <category name="the_animal_world">
 
-<item id="1438202951" tmtrpt="2292" stmtrpt="2292" livl="38" rllivl="38" ivl="71" rp="24" gr="5">
-<q>
-(v) a cat makes its typical sound</q>
-<a><![CDATA[miaow /ˌmiˈaʊ/<snd>snds\epd32437.mp3</snd>]]></a>
-</item>
-
-<item id="1437679766" tmtrpt="2292" stmtrpt="2292" livl="21" rllivl="21" ivl="34" rp="45" gr="4">
-<q><![CDATA[
-(n) a young sheep<img>imgs\lamb.jpeg</img>]]></q>
-<a><![CDATA[lamb /læm/<snd>snds/uklaidb013.mp3</snd>]]></a>
-</item>
-
-<item id="1438116811" tmtrpt="2292" stmtrpt="2292" livl="18" rllivl="18" ivl="19" rp="58" gr="3">
-<q><![CDATA[
-(n) the thin, hard, pointed part at the end of the foot of a bird or an animal<img>imgs\claw.jpeg</img>]]></q>
-<a><![CDATA[claw /klɔː/<snd>snds/ukclass011.mp3</snd>]]></a>
-</item>
-
-<item id="1437757276" tmtrpt="2292" stmtrpt="2292" livl="14" rllivl="14" ivl="17" rp="19" gr="4">
-<q><![CDATA[
-(n) an insect that has large wings and is attracted by lights at night<img>imgs\moth.jpeg</img>]]></q>
-<a><![CDATA[moth /mɒθ/
-
-<span style="color:#03f">Some types of moth eat holes in clothes.</span><snd>snds/ukmorta029.mp3</snd>]]></a>
-</item>
-
-<item id="1438202724" tmtrpt="2292" stmtrpt="2292" livl="17" rllivl="17" ivl="17" rp="61" gr="3">
+<item id="1438202724" tmtrpt="2293" stmtrpt="2293" livl="0" rllivl="0" ivl="1" rp="62" gr="3">
 <q><![CDATA[
 (v) when a dog or another animal does it, it makes a low sound in its throat, usually because it is <u>a</u>ngry<img>imgs/growl.3423.jpeg</img>]]></q>
 <a><![CDATA[growl /ɡraʊl/<snd>snds/ukgroun016.mp3</snd>]]></a>
 </item>
 
-<item id="1437679362" tmtrpt="2292" stmtrpt="2292" livl="12" rllivl="12" ivl="16" rp="26" gr="4">
-<q><![CDATA[
-(n) a very large animal with short legs and thick skin, that lives in and near rivers<img>imgs\hippopotamus.jpeg</img>]]></q>
-<a><![CDATA[hippopotamus /ˌhɪp.əˈpɒt.ə.məs/
-
-<span style="color:#03f">The common hippopotamus, or hippo, is a large, mostly herbivorous mammal in sub-Saharan Africa, and one of only two extant species in the family Hippopotamidae, the other being the pygmy hippopotamus.</span><snd>snds/ukhimal028.mp3</snd>]]></a>
-</item>
-
-<item id="1438202541" tmtrpt="2292" stmtrpt="2292" livl="7" rllivl="7" ivl="12" rp="9" gr="4">
-<q>
-(v) when a dog does it, it makes its typical short, loud sound
-</q>
-<a><![CDATA[bark /bɑːk/
-
-<span style="color:#00f">Our dog always barks at the postman.</span><snd>snds/ukbareb011.mp3</snd>]]></a>
-</item>
-
-<item id="1438116623" tmtrpt="2292" stmtrpt="2292" livl="82" rllivl="82" ivl="11" rp="9" gr="1">
-<q><![CDATA[
-(n) one of the two horns that are shaped like branches on the head of a male deer<img>imgs\antler.jpeg</img>]]></q>
-<a><![CDATA[antler /ˈænt.lər/<snd>snds/ukantis006.mp3</snd>]]></a>
-</item>
-
-<item id="1438117708" tmtrpt="2292" stmtrpt="2292" livl="8" rllivl="8" ivl="11" rp="24" gr="4">
-<q><![CDATA[
-(n) the foot of an animal such as a cat, a dog, or a bear<img>imgs\paw.png</img>]]></q>
-<a><![CDATA[paw /pɔː/
-
-<span style="color:#03f">I found paw prints in the kitchen. | Take your filthy paws off my nice clean towel! [humorous a human hand] | The dog hurt its paw. | She gave a little whimper as the vet inspected her paw. | He keeps a rabbit's paw as a lucky charm. | Lost: black cat with white paws. | His front paws are white.</span><snd>snds/ukpauci012.mp3</snd>]]></a>
-</item>
-
-<item id="1437821144" tmtrpt="2292" stmtrpt="2292" livl="21" rllivl="22" ivl="3" rp="34" gr="1">
+<item id="1437821144" tmtrpt="2293" stmtrpt="2293" livl="3" rllivl="3" ivl="1" rp="35" gr="1">
 <q><![CDATA[
 (n) a bird with large eyes that is active at night<img>imgs\owl.jpeg</img>]]></q>
 <a><![CDATA[owl /aʊl/<snd>snds/ukoverw010.mp3</snd>]]></a>
@@ -3114,6 +3058,12 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 <q><![CDATA[
 (n) a large flat shellfish that people often eat raw<img>imgs\th.jpeg</img>]]></q>
 <a><![CDATA[oyster /ˈɔɪ.stər/<snd>snds/ukoverw029.mp3</snd>]]></a>
+</item>
+
+<item id="1438116811" tmtrpt="2294" stmtrpt="2294" livl="19" rllivl="19" ivl="2" rp="59" gr="1">
+<q><![CDATA[
+(n) the thin, hard, pointed part at the end of the foot of a bird or an animal<img>imgs\claw.jpeg</img>]]></q>
+<a><![CDATA[claw /klɔː/<snd>snds/ukclass011.mp3</snd>]]></a>
 </item>
 
 <item id="1438117463" tmtrpt="2295" stmtrpt="2295" livl="14" rllivl="14" ivl="17" rp="25" gr="4">
@@ -3300,6 +3250,15 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 <a><![CDATA[goat /ɡəʊt/<snd>snds/ukgoall009.mp3</snd>]]></a>
 </item>
 
+<item id="1438202541" tmtrpt="2303" stmtrpt="2303" livl="12" rllivl="12" ivl="11" rp="10" gr="3">
+<q>
+(v) when a dog does it, it makes its typical short, loud sound
+</q>
+<a><![CDATA[bark /bɑːk/
+
+<span style="color:#00f">Our dog always barks at the postman.</span><snd>snds/ukbareb011.mp3</snd>]]></a>
+</item>
+
 <item id="1438283062" tmtrpt="2304" stmtrpt="2304" livl="65" rllivl="65" ivl="140" rp="6" gr="4">
 <q>
 (v) to jump on one foot or to move about in this way</q>
@@ -3324,6 +3283,14 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 <q>
 (n) a painful mark on your body where an animal, a snake, or an insect has bitten you</q>
 <a><![CDATA[bite /baɪt/<snd>snds/ukbitch002.mp3</snd>]]></a>
+</item>
+
+<item id="1438117708" tmtrpt="2305" stmtrpt="2305" livl="11" rllivl="11" ivl="13" rp="25" gr="4">
+<q><![CDATA[
+(n) the foot of an animal such as a cat, a dog, or a bear<img>imgs\paw.png</img>]]></q>
+<a><![CDATA[paw /pɔː/
+
+<span style="color:#03f">I found paw prints in the kitchen. | Take your filthy paws off my nice clean towel! [humorous a human hand] | The dog hurt its paw. | She gave a little whimper as the vet inspected her paw. | He keeps a rabbit's paw as a lucky charm. | Lost: black cat with white paws. | His front paws are white.</span><snd>snds/ukpauci012.mp3</snd>]]></a>
 </item>
 
 <item id="1438196420" tmtrpt="2306" stmtrpt="2306" livl="35" rllivl="35" ivl="66" rp="23" gr="5">
@@ -3357,10 +3324,32 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 <a><![CDATA[eel /iːl/<snd>snds/ukedgil030.mp3</snd>]]></a>
 </item>
 
+<item id="1438116623" tmtrpt="2309" stmtrpt="2309" livl="11" rllivl="11" ivl="17" rp="10" gr="4">
+<q><![CDATA[
+(n) one of the two horns that are shaped like branches on the head of a male deer<img>imgs\antler.jpeg</img>]]></q>
+<a><![CDATA[antler /ˈænt.lər/<snd>snds/ukantis006.mp3</snd>]]></a>
+</item>
+
 <item id="1438283151" tmtrpt="2310" stmtrpt="2310" livl="79" rllivl="80" ivl="161" rp="7" gr="4">
 <q>
 (v) move freely around an area</q>
 <a><![CDATA[roam /rəʊm/<snd>snds/ukrn___017.mp3</snd>]]></a>
+</item>
+
+<item id="1437757276" tmtrpt="2312" stmtrpt="2312" livl="17" rllivl="17" ivl="20" rp="20" gr="4">
+<q><![CDATA[
+(n) an insect that has large wings and is attracted by lights at night<img>imgs\moth.jpeg</img>]]></q>
+<a><![CDATA[moth /mɒθ/
+
+<span style="color:#03f">Some types of moth eat holes in clothes.</span><snd>snds/ukmorta029.mp3</snd>]]></a>
+</item>
+
+<item id="1437679362" tmtrpt="2313" stmtrpt="2313" livl="16" rllivl="16" ivl="21" rp="27" gr="4">
+<q><![CDATA[
+(n) a very large animal with short legs and thick skin, that lives in and near rivers<img>imgs\hippopotamus.jpeg</img>]]></q>
+<a><![CDATA[hippopotamus /ˌhɪp.əˈpɒt.ə.məs/
+
+<span style="color:#03f">The common hippopotamus, or hippo, is a large, mostly herbivorous mammal in sub-Saharan Africa, and one of only two extant species in the family Hippopotamidae, the other being the pygmy hippopotamus.</span><snd>snds/ukhimal028.mp3</snd>]]></a>
 </item>
 
 <item id="1437592581" tmtrpt="2316" stmtrpt="2316" livl="90" rllivl="176" ivl="242" rp="4" gr="3">
@@ -3554,6 +3543,12 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 <a><![CDATA[wasp /wɒsp/<snd>snds/ukwarp_030.mp3</snd>]]></a>
 </item>
 
+<item id="1437679766" tmtrpt="2363" stmtrpt="2363" livl="34" rllivl="34" ivl="71" rp="46" gr="4">
+<q><![CDATA[
+(n) a young sheep<img>imgs\lamb.jpeg</img>]]></q>
+<a><![CDATA[lamb /læm/<snd>snds/uklaidb013.mp3</snd>]]></a>
+</item>
+
 <item id="1438031948" tmtrpt="2364" stmtrpt="2364" livl="84" rllivl="84" ivl="122" rp="18" gr="4">
 <q><![CDATA[
 (n) a large bird that is kept on a farm for its meat<img>imgs/turkey.jpeg</img>]]></q>
@@ -3636,6 +3631,12 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 <q><![CDATA[
 (n) one of the hard pointed things that grow from an animal's head<img>imgs\horn.jpeg</img>]]></q>
 <a><![CDATA[horn /hɔːn/<snd>snds/ukhoove019.mp3</snd>]]></a>
+</item>
+
+<item id="1438202951" tmtrpt="2404" stmtrpt="2404" livl="71" rllivl="71" ivl="112" rp="25" gr="4">
+<q>
+(v) a cat makes its typical sound</q>
+<a><![CDATA[miaow /ˌmiˈaʊ/<snd>snds/epd32437.mp3</snd>]]></a>
 </item>
 
 <item id="1437931332" tmtrpt="2408" stmtrpt="2408" livl="96" rllivl="96" ivl="162" rp="9" gr="4">
@@ -3919,14 +3920,6 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 
 <category name="art_and_photography">
 
-<item id="1438445196" tmtrpt="2292" stmtrpt="2292" livl="6" rllivl="6" ivl="5" rp="21" gr="3">
-<q><![CDATA[
-(n) a large model of a person or an animal, made of stone or metal<img>imgs/statue.jpg</img>]]></q>
-<a><![CDATA[statue /ˈstætʃ.uː/
-
-<span style="color:#00f">a statue of a boy</span><snd>snds/ukstate023.mp3</snd>]]></a>
-</item>
-
 <item id="1438383985" tmtrpt="2293" stmtrpt="2293" livl="13" rllivl="13" ivl="11" rp="20" gr="3">
 <q><![CDATA[
 (n) an artist who makes works of art out of stone, metal, or wood<img>imgs/sculptor.jpg</img>]]></q>
@@ -3949,6 +3942,14 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 <a><![CDATA[watercolour /ˈwɔː.təˌkʌl.ər/
 
 <span style="color:#00f">I prefer painting with watercolours.</span><span style="color:#00f"> | </span><span style="color:#00f">He has a beautiful collection of watercolours.</span><snd>snds/ukwaspi028.mp3</snd>]]></a>
+</item>
+
+<item id="1438445196" tmtrpt="2299" stmtrpt="2299" livl="5" rllivl="5" ivl="7" rp="22" gr="4">
+<q><![CDATA[
+(n) a large model of a person or an animal, made of stone or metal<img>imgs/statue.jpg</img>]]></q>
+<a><![CDATA[statue /ˈstætʃ.uː/
+
+<span style="color:#00f">a statue of a boy</span><snd>snds/ukstate023.mp3</snd>]]></a>
 </item>
 
 <item id="1438380924" tmtrpt="2300" stmtrpt="2300" livl="58" rllivl="58" ivl="66" rp="6" gr="3">
@@ -4250,100 +4251,6 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 
 <category name="inne">
 
-<item id="1438502498" tmtrpt="2292" stmtrpt="2292" livl="12" rllivl="12" ivl="17" rp="46" gr="4">
-<q><![CDATA[
-(n) an amount of money that is borrowed, often from a bank, and has to be paid back, usually together with an extra amount of money that you have to pay as a charge for borrowing<img>imgs/debt32413.jpeg</img>]]></q>
-<a><![CDATA[<b>loan</b> /ləʊn/ 
-
-<span style="color:#00f">She's trying to get a $50,000 loan to start her own business.</span><span style="color:#00f"> | </span><span style="color:#00f">We could apply for/take out a l</span><span style="color:#00f">o</span><span style="color:#00f">an to buy a car.</span><snd>snds/ukload_008.mp3</snd>]]></a>
-</item>
-
-<item id="1472742796" tmtrpt="2292" stmtrpt="2292" livl="6" rllivl="6" ivl="15" rp="5" gr="4">
-<q><![CDATA[
-(n) the plastic front cover of a computer that can be removed and is designed to make the computer look more attractive OR a ring with a cut around the inside used to hold something such as the face of a watch in place<img>imgs/bezel.41246.png</img>]]></q>
-<a>bezel /ˈbez.əl/</a>
-</item>
-
-<item id="1467992782" tmtrpt="2292" stmtrpt="2292" livl="10" rllivl="10" ivl="12" rp="17" gr="4">
-<q>
-(adv) now or without waiting or thinking OR close to something or someone in distance or time</q>
-<a><![CDATA[immediately /ɪˈmiː.di.ət.li/
-<span style="color:#02f">
-We really ought to leave immediately. | The purpose of the meeting wasn't immediately obvious. | Milton Street is on the left, immediately after the bank. | We heard a loud crash from the room immediately above us.</span><snd>snds/ukimmac010.mp3</snd>]]></a>
-</item>
-
-<item id="1473786998" tmtrpt="2292" stmtrpt="2292" livl="3" rllivl="3" ivl="11" rp="2" gr="4">
-<q>
-(n) protection or safety, especially that given by a government to people who have been forced to leave their own countries for their safety or because of war</q>
-<a><![CDATA[<b>asylum</b> /əˈsaɪ.ləm/
-
-<span style="color:#03f">to seek/apply for political asylum</span><snd>snds/ukasund002.mp3</snd>]]></a>
-</item>
-
-<item id="1469573206" tmtrpt="2292" stmtrpt="2292" livl="8" rllivl="8" ivl="10" rp="20" gr="4">
-<q>
-(n) Compliance with standards, rules, or laws</q>
-<a><![CDATA[conformance /kənˈfɔː.məns/
-
-<span style="color:#00f">conformance to international standards</span><snd>snds/cald4uk0317.mp3</snd>]]></a>
-</item>
-
-<item id="1473785328" tmtrpt="2292" stmtrpt="2292" livl="5" rllivl="5" ivl="9" rp="2" gr="3">
-<q>
-(n) the fact of someone being married or not</q>
-<a><![CDATA[<b>marital status</b> /ˌmær.ɪ.təl ˈsteɪ.təs/
-
-<span style="color:#03f">Could I ask you about your marital status?</span><snd>snds/uka33738.mp3</snd>]]></a>
-</item>
-
-<item id="1469123974" tmtrpt="2292" stmtrpt="2292" livl="4" rllivl="4" ivl="5" rp="21" gr="4">
-<q>
-(v) to say that you will not do or accept something</q>
-<a><![CDATA[refuse /rɪˈfjuːz/
-
-<span style="color:#00f">He asked me to give him another loan, but I refused. | He's in trouble but he's refused all (my offers of) help. | On cold mornings the car always refuses to start. | The local council refused him planning permission to build an extra bedroom.</span> <snd>snds/refuse.verb.mp3</snd>]]></a>
-</item>
-
-<item id="1474583528" tmtrpt="2292" stmtrpt="2292" livl="3" rllivl="4" ivl="3" rp="1" gr="2">
-<q>
-(adj) certain; without any doubt</q>
-<a><![CDATA[<b>sure</b> /ʃɔː(r)/
-
-<span style="color:#03f">"What's wrong with him?" "I'm not really sure." | I'm sure (that) I left my keys on the table. | I feel absolutely sure (that) you've made the right decision. | It now seems sure (that) the election will result in another victory for the government. | Shaun isn't sure whether/if he'll be able to come to the party or not. | Is there anything you're not sure of/about? | We arrive early to be sure of getting a good seat. | There is only one sure way (= one way that can be trusted) of finding out the truth.</span><snd>snds/ukshodd029.mp3.1</snd>]]></a>
-</item>
-
-<item id="1473785498" tmtrpt="2292" stmtrpt="2292" livl="2" rllivl="2" ivl="3" rp="7" gr="3">
-<q>
-(v) to try to do something</q>
-<a><![CDATA[<b>endeavour</b> /enˈdev.ə(r)/
-
-<span style="color:#03f">Engineers are endeavouring to locate the source of the problem.</span><snd>snds/ukencum010.mp3</snd>]]></a>
-</item>
-
-<item id="1473786178" tmtrpt="2292" stmtrpt="2292" livl="0" rllivl="0" ivl="1" rp="7" gr="4">
-<q>
-(n) a container used for storing or putting objects in</q>
-<a><![CDATA[<b>receptacle</b> /rɪˈsep.tə.kəl/
-
-<span style="color:#03f">Residents are given four separate receptacles for their rubbish.</span><snd>snds/ukrebui025.mp3</snd>]]></a>
-</item>
-
-<item id="1475075244" tmtrpt="2292" stmtrpt="2292" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
-<q>
-(adj) having little importance, influence, or effect, especially when compared with other things of the same type</q>
-<a><![CDATA[<b>minor</b> /ˈmaɪ.nər/
-
-<span style="color:#03f">a minor operation | It's only a minor problem. | There's been an increase in minor offences, such as traffic violations and petty theft. | She suffered only minor injuries. | It requires a few minor adjustments. | a minor poet of the 16th century</span><snd>snds/ukmindl006.mp3</snd>]]></a>
-</item>
-
-<item id="1475075327" tmtrpt="2292" stmtrpt="2292" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
-<q>
-(adj) more important, bigger, or more serious than others of the same type</q>
-<a><![CDATA[<b>major</b> /ˈmeɪ.dʒər/
-
-<span style="color:#03f">All of her major plays have been translated into English. | Sugar is a major cause of tooth decay. | There are two problems with this situation, one major, one minor. | Citrus fruits are a major source of vitamin C. | There has been a major change in attitudes recently. | The United States is a major influence in the United Nations.</span><snd>snds/ukmains010.mp3</snd>]]></a>
-</item>
-
 <item id="1462914772" tmtrpt="2293" stmtrpt="2293" livl="31" rllivl="31" ivl="101" rp="3" gr="4">
 <q>
 (v) (informal) to touch someone's body in order to get sexual pleasure, usually when the person does not like it</q>
@@ -4384,6 +4291,46 @@ We really ought to leave immediately. | The purpose of the meeting wasn't immedi
 <span style="color:#03f">The company is reconsidering the way in which it deploys its resources/staff. | My job doesn't really allow me fully to deploy my skills/talents.</span><snd>snds/ukdepil009.mp3</snd>]]></a>
 </item>
 
+<item id="1473786998" tmtrpt="2293" stmtrpt="2293" livl="11" rllivl="11" ivl="1" rp="3" gr="0">
+<q>
+(n) protection or safety, especially that given by a government to people who have been forced to leave their own countries for their safety or because of war</q>
+<a><![CDATA[<b>asylum</b> /əˈsaɪ.ləm/
+
+<span style="color:#03f">to seek/apply for political asylum</span><snd>snds/ukasund002.mp3</snd>]]></a>
+</item>
+
+<item id="1475075327" tmtrpt="2293" stmtrpt="2293" livl="1" rllivl="1" ivl="1" rp="1" gr="2">
+<q>
+(adj) more important, bigger, or more serious than others of the same type</q>
+<a><![CDATA[<b>major</b> /ˈmeɪ.dʒər/
+
+<span style="color:#03f">All of her major plays have been translated into English. | Sugar is a major cause of tooth decay. | There are two problems with this situation, one major, one minor. | Citrus fruits are a major source of vitamin C. | There has been a major change in attitudes recently. | The United States is a major influence in the United Nations.</span><snd>snds/ukmains010.mp3</snd>]]></a>
+</item>
+
+<item id="1475075244" tmtrpt="2293" stmtrpt="2293" livl="0" rllivl="0" ivl="1" rp="1" gr="3">
+<q>
+(adj) having little importance, influence, or effect, especially when compared with other things of the same type</q>
+<a><![CDATA[<b>minor</b> /ˈmaɪ.nər/
+
+<span style="color:#03f">a minor operation | It's only a minor problem. | There's been an increase in minor offences, such as traffic violations and petty theft. | She suffered only minor injuries. | It requires a few minor adjustments. | a minor poet of the 16th century</span><snd>snds/ukmindl006.mp3</snd>]]></a>
+</item>
+
+<item id="1473785328" tmtrpt="2293" stmtrpt="2293" livl="0" rllivl="0" ivl="1" rp="3" gr="3">
+<q>
+(n) the fact of someone being married or not</q>
+<a><![CDATA[<b>marital status</b> /ˌmær.ɪ.təl ˈsteɪ.təs/
+
+<span style="color:#03f">Could I ask you about your marital status?</span><snd>snds/uka33738.mp3</snd>]]></a>
+</item>
+
+<item id="1475162170" tmtrpt="2293" stmtrpt="2293" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
+<q>
+(v) to say that something is not true OR to not allow someone to have or do something</q>
+<a><![CDATA[<b>deny</b> /dɪˈnaɪ/
+
+<span style="color:#03f">He will not confirm or deny the allegations. | Neil denies that he broke the window, but I'm sure he did. | Neil denies breaking the window. | Her request for time off work was denied. | No one should be denied a good education./A good education should be denied to no one. | The goalkeeper denied him his third goal. | I was denied the opportunity of learning French at school.</span><snd>snds/ukdensi012.mp3</snd>]]></a>
+</item>
+
 <item id="1467913465" tmtrpt="2294" stmtrpt="2294" livl="18" rllivl="18" ivl="56" rp="3" gr="4">
 <q>
 (n) an electronic device that allows one computer to send information to another through standard phone lines and therefore over long distances</q>
@@ -4422,6 +4369,14 @@ We really ought to leave immediately. | The purpose of the meeting wasn't immedi
 <a><![CDATA[complexity /kəmˈplek.sə.ti/
 
 <span style="color:#02f">a problem of great complexity</span><snd>snds/ukcompe024.mp3</snd>]]></a>
+</item>
+
+<item id="1474583528" tmtrpt="2294" stmtrpt="2294" livl="3" rllivl="3" ivl="2" rp="2" gr="2">
+<q>
+(adj) certain; without any doubt</q>
+<a><![CDATA[<b>sure</b> /ʃɔː(r)/
+
+<span style="color:#03f">"What's wrong with him?" "I'm not really sure." | I'm sure (that) I left my keys on the table. | I feel absolutely sure (that) you've made the right decision. | It now seems sure (that) the election will result in another victory for the government. | Shaun isn't sure whether/if he'll be able to come to the party or not. | Is there anything you're not sure of/about? | We arrive early to be sure of getting a good seat. | There is only one sure way (= one way that can be trusted) of finding out the truth.</span><snd>snds/ukshodd029.mp3.1</snd>]]></a>
 </item>
 
 <item id="1465033097" tmtrpt="2295" stmtrpt="2295" livl="14" rllivl="14" ivl="18" rp="13" gr="4">
@@ -4488,6 +4443,14 @@ He is the author of two books on French history. | The author has tried to deal 
 <span style="color:#03f">the remediation of reading problems | environmental remediation</span>]]></a>
 </item>
 
+<item id="1473786178" tmtrpt="2295" stmtrpt="2295" livl="1" rllivl="1" ivl="3" rp="8" gr="4">
+<q>
+(n) a container used for storing or putting objects in</q>
+<a><![CDATA[<b>receptacle</b> /rɪˈsep.tə.kəl/
+
+<span style="color:#03f">Residents are given four separate receptacles for their rubbish.</span><snd>snds/ukrebui025.mp3</snd>]]></a>
+</item>
+
 <item id="1462914900" tmtrpt="2296" stmtrpt="2296" livl="38" rllivl="38" ivl="78" rp="6" gr="4">
 <q>
 (n) 1. the floor of an entrance to a building or room
@@ -4543,6 +4506,14 @@ He is the author of two books on French history. | The author has tried to deal 
 <a><![CDATA[<b>irrevocable</b> /ɪˈrev.ə.kə.b(ə)l/
 
 <span style="color:#03f">an irrevocable decision</span><snd>snds/ukirres008.mp3</snd>]]></a>
+</item>
+
+<item id="1473785498" tmtrpt="2296" stmtrpt="2296" livl="3" rllivl="3" ivl="4" rp="8" gr="3">
+<q>
+(v) to try to do something</q>
+<a><![CDATA[<b>endeavour</b> /enˈdev.ə(r)/
+
+<span style="color:#03f">Engineers are endeavouring to locate the source of the problem.</span><snd>snds/ukencum010.mp3</snd>]]></a>
 </item>
 
 <item id="1467913760" tmtrpt="2297" stmtrpt="2297" livl="17" rllivl="17" ivl="68" rp="2" gr="4">
@@ -4661,6 +4632,14 @@ He drives so fast along those narrow country lanes. | I live at the end of Churc
 <a><![CDATA[<b>show off</b> /ʃˈəʊ ˈɒf/
 
 <span style="color:#03f">She only bought that sports car to show off and prove she could afford one. | He's always showing off to his classmates.</span>]]></a>
+</item>
+
+<item id="1469123974" tmtrpt="2299" stmtrpt="2299" livl="5" rllivl="5" ivl="7" rp="22" gr="4">
+<q>
+(v) to say that you will not do or accept something</q>
+<a><![CDATA[refuse /rɪˈfjuːz/
+
+<span style="color:#00f">He asked me to give him another loan, but I refused. | He's in trouble but he's refused all (my offers of) help. | On cold mornings the car always refuses to start. | The local council refused him planning permission to build an extra bedroom.</span> <snd>snds/refuse.verb.mp3</snd>]]></a>
 </item>
 
 <item id="1442865160" tmtrpt="2300" stmtrpt="2300" livl="76" rllivl="76" ivl="158" rp="7" gr="4">
@@ -4802,6 +4781,14 @@ He drives so fast along those narrow country lanes. | I live at the end of Churc
 <a><![CDATA[<b>toddler</b> /ˈtɒd.lə(r)/<snd>snds/uktobyj005.mp3</snd>]]></a>
 </item>
 
+<item id="1469573206" tmtrpt="2303" stmtrpt="2303" livl="10" rllivl="10" ivl="11" rp="21" gr="4">
+<q>
+(n) Compliance with standards, rules, or laws</q>
+<a><![CDATA[conformance /kənˈfɔː.məns/
+
+<span style="color:#00f">conformance to international standards</span><snd>snds/cald4uk0317.mp3</snd>]]></a>
+</item>
+
 <item id="1441310525" tmtrpt="2304" stmtrpt="2304" livl="78" rllivl="78" ivl="162" rp="6" gr="4">
 <q><![CDATA[
 (n) Short-term sexual relationship<img>imgs\fling.jpg</img>]]></q>
@@ -4854,6 +4841,14 @@ Draw a horizontal line across the bottom of the page. | Keep the patient horizon
 <a><![CDATA[swallow /ˈswɒl.əʊ/
 
 <span style="color:#00f">My throat is so sore that it really hurts when I swallow. | He put a grape into his mouth and swallowed it whole.</span><snd>snds/uksuspi018.mp3</snd>]]></a>
+</item>
+
+<item id="1467992782" tmtrpt="2307" stmtrpt="2307" livl="12" rllivl="12" ivl="15" rp="18" gr="4">
+<q>
+(adv) now or without waiting or thinking OR close to something or someone in distance or time</q>
+<a><![CDATA[immediately /ɪˈmiː.di.ət.li/
+<span style="color:#02f">
+We really ought to leave immediately. | The purpose of the meeting wasn't immediately obvious. | Milton Street is on the left, immediately after the bank. | We heard a loud crash from the room immediately above us.</span><snd>snds/ukimmac010.mp3</snd>]]></a>
 </item>
 
 <item id="1469443579" tmtrpt="2308" stmtrpt="2308" livl="20" rllivl="20" ivl="46" rp="6" gr="4">
@@ -4934,6 +4929,14 @@ Swimming was compulsory at my ​school. | The ​law made ​wearing ​seat �
 <span style="color:#02f">The meeting has been put off for a week. | I can't put off going to the dentist any longer. | They decided to put the wedding off until his brother had returned from Brazil.</span>]]></a>
 </item>
 
+<item id="1438502498" tmtrpt="2319" stmtrpt="2319" livl="17" rllivl="17" ivl="27" rp="47" gr="4">
+<q><![CDATA[
+(n) an amount of money that is borrowed, often from a bank, and has to be paid back, usually together with an extra amount of money that you have to pay as a charge for borrowing<img>imgs/debt32413.jpeg</img>]]></q>
+<a><![CDATA[<b>loan</b> /ləʊn/ 
+
+<span style="color:#00f">She's trying to get a $50,000 loan to start her own business.</span><span style="color:#00f"> | </span><span style="color:#00f">We could apply for/take out a l</span><span style="color:#00f">o</span><span style="color:#00f">an to buy a car.</span><snd>snds/ukload_008.mp3</snd>]]></a>
+</item>
+
 <item id="1469741127" tmtrpt="2320" stmtrpt="2320" livl="14" rllivl="14" ivl="35" rp="5" gr="4">
 <q>
 (adj) extremely unkind and unpleasant and causing pain to people or animals intentionally OR causing suffering</q>
@@ -4980,6 +4983,12 @@ Swimming was compulsory at my ​school. | The ​law made ​wearing ​seat �
 <a><![CDATA[throughout /θruːˈaʊt/
 <span style="color:#02f">
 People throughout the country are out of work. | He yawned throughout the performance. | The school has been repainted throughout.</span><snd>snds/ukthroa011.mp3</snd>]]></a>
+</item>
+
+<item id="1472742796" tmtrpt="2326" stmtrpt="2326" livl="15" rllivl="15" ivl="34" rp="6" gr="4">
+<q><![CDATA[
+(n) the plastic front cover of a computer that can be removed and is designed to make the computer look more attractive OR a ring with a cut around the inside used to hold something such as the face of a watch in place<img>imgs/bezel.41246.png</img>]]></q>
+<a>bezel /ˈbez.əl/</a>
 </item>
 
 <item id="1438462500" tmtrpt="2327" stmtrpt="2327" livl="38" rllivl="38" ivl="62" rp="32" gr="4">
@@ -5337,24 +5346,6 @@ in a ​lower ​position (than), under; less than a ​particular ​amount or 
 
 <category name="bikes">
 
-<item id="1441674776" tmtrpt="2292" stmtrpt="2292" livl="12" rllivl="12" ivl="14" rp="18" gr="4">
-<q><![CDATA[
-(n) the tools and materials you need to repair a flat tyre<img>imgs/puncturerepairkit.jpeg</img>]]></q>
-<a><![CDATA[<b>puncture repair kit</b> /pˈʌŋktʃə ɹɪpˈeə kˈɪt/]]></a>
-</item>
-
-<item id="1438730449" tmtrpt="2292" stmtrpt="2292" livl="5" rllivl="5" ivl="7" rp="11" gr="4">
-<q><![CDATA[
-(n) a large heavy bicycle with an engine<img>imgs/motorcycle.jpg</img>]]></q>
-<a><![CDATA[motorcycle /ˈməʊ.təˌsaɪ.kl̩/<snd>snds/ukmothe029.mp3</snd>]]></a>
-</item>
-
-<item id="1438775196" tmtrpt="2292" stmtrpt="2292" livl="1" rllivl="1" ivl="2" rp="20" gr="4">
-<q><![CDATA[
-(n) a seat on a bicycle or a motorcycle<img>imgs/saddle.jpg</img>]]></q>
-<a><![CDATA[saddle /ˈsæd.l̩/<snd>snds/uksacri013.mp3</snd>]]></a>
-</item>
-
 <item id="1438851767" tmtrpt="2293" stmtrpt="2293" livl="87" rllivl="87" ivl="107" rp="6" gr="3">
 <q>
 (n) how fast something moves or is done</q>
@@ -5383,6 +5374,12 @@ in a ​lower ​position (than), under; less than a ​particular ​amount or 
 <a><![CDATA[valve /vælv/
 
 <span style="color:#00f">The valve failed to open/close.</span><snd>snds/ukvagra030.mp3</snd>]]></a>
+</item>
+
+<item id="1438775196" tmtrpt="2295" stmtrpt="2295" livl="2" rllivl="2" ivl="3" rp="21" gr="4">
+<q><![CDATA[
+(n) a seat on a bicycle or a motorcycle<img>imgs/saddle.jpg</img>]]></q>
+<a><![CDATA[saddle /ˈsæd.l̩/<snd>snds/uksacri013.mp3</snd>]]></a>
 </item>
 
 <item id="1438669416" tmtrpt="2296" stmtrpt="2296" livl="105" rllivl="159" ivl="221" rp="5" gr="3">
@@ -5438,6 +5435,12 @@ in a ​lower ​position (than), under; less than a ​particular ​amount or 
 <a><![CDATA[mudguard /ˈmʌd.ɡɑːd/<snd>snds/ukmucky007.mp3</snd>]]></a>
 </item>
 
+<item id="1438730449" tmtrpt="2302" stmtrpt="2302" livl="7" rllivl="7" ivl="10" rp="12" gr="4">
+<q><![CDATA[
+(n) a large heavy bicycle with an engine<img>imgs/motorcycle.jpg</img>]]></q>
+<a><![CDATA[motorcycle /ˈməʊ.təˌsaɪ.kl̩/<snd>snds/ukmothe029.mp3</snd>]]></a>
+</item>
+
 <item id="1438730470" tmtrpt="2303" stmtrpt="2303" livl="65" rllivl="65" ivl="143" rp="5" gr="4">
 <q><![CDATA[
 (n) a hat made of a hard material, that you wear to protect your head<img>imgs/helmet.jpg</img>]]></q>
@@ -5460,6 +5463,12 @@ in a ​lower ​position (than), under; less than a ​particular ​amount or 
 <a><![CDATA[tyre /taɪər/
 
 <span style="color:#00f">I've got a flat tyre (= the air has gone out of it).</span><span style="color:#00f"> | </span><span style="color:#00f">He was driving along the motorway when his tyre burst.</span><span style="color:#00f"> | </span><span style="color:#00f">I keep a spare tyre in the back of the car.</span><snd>snds/uktippe011.mp3</snd>]]></a>
+</item>
+
+<item id="1441674776" tmtrpt="2308" stmtrpt="2308" livl="14" rllivl="14" ivl="16" rp="19" gr="4">
+<q><![CDATA[
+(n) the tools and materials you need to repair a flat tyre<img>imgs/puncturerepairkit.jpeg</img>]]></q>
+<a><![CDATA[<b>puncture repair kit</b> /pˈʌŋktʃə ɹɪpˈeə kˈɪt/]]></a>
 </item>
 
 <item id="1438775210" tmtrpt="2310" stmtrpt="2310" livl="82" rllivl="82" ivl="159" rp="7" gr="4">
@@ -5626,14 +5635,6 @@ handlebars /ˈhæn.dl̩.bɑːz/<snd>snds/ukhandb024.mp3</snd>]]></a>
 
 <category name="boats,_water,_and_the_coast">
 
-<item id="1439020659" tmtrpt="2292" stmtrpt="2292" livl="16" rllivl="16" ivl="20" rp="17" gr="4">
-<q><![CDATA[
-(n) a large boat for travelling on water, especially across the sea<img>imgs/ship.jpg</img>]]></q>
-<a><![CDATA[ship /ʃɪp/
-
-<span style="color:#00f">a sailing ship | a merchant/naval ship | They boarded (= went on to) a ship that was sailing (= leaving) the next day.</span><snd>snds/ukshine014.mp3</snd>]]></a>
-</item>
-
 <item id="1438851814" tmtrpt="2293" stmtrpt="2293" livl="13" rllivl="13" ivl="16" rp="18" gr="4">
 <q><![CDATA[
 (n) a piece of equipment, usually a ring filled with air or light material that floats, designed to help you float if you fall into water [<b>life preserver</b>]<img>imgs/lifebelt.jpg</img>]]></q>
@@ -5775,6 +5776,14 @@ handlebars /ˈhæn.dl̩.bɑːz/<snd>snds/ukhandb024.mp3</snd>]]></a>
 <a><![CDATA[pebble /ˈpeb.l̩/
 
 <span style="color:#00f">This part of the coast has pebble beaches.</span><snd>snds/ukpearl008.mp3</snd>]]></a>
+</item>
+
+<item id="1439020659" tmtrpt="2317" stmtrpt="2317" livl="20" rllivl="20" ivl="25" rp="18" gr="4">
+<q><![CDATA[
+(n) a large boat for travelling on water, especially across the sea<img>imgs/ship.jpg</img>]]></q>
+<a><![CDATA[ship /ʃɪp/
+
+<span style="color:#00f">a sailing ship | a merchant/naval ship | They boarded (= went on to) a ship that was sailing (= leaving) the next day.</span><snd>snds/ukshine014.mp3</snd>]]></a>
 </item>
 
 <item id="1439020723" tmtrpt="2318" stmtrpt="2318" livl="86" rllivl="162" ivl="244" rp="4" gr="3">
@@ -6184,44 +6193,6 @@ We used to go boating on that lake. | Lake Windermere</span><snd>snds/uklaidb010
 
 <category name="body">
 
-<item id="1439461647" tmtrpt="2292" stmtrpt="2292" livl="137" rllivl="140" ivl="212" rp="4" gr="3">
-<q><![CDATA[(n) any of the long, thin, separate parts of the hand, especially those that are not thumbs<img>imgs\finger.jpeg</img>]]></q>
-<a><![CDATA[finger /ˈfɪŋ.ɡər/
-
-<span style="color:#00f">He noticed her long delicate fingers. | I cut my finger chopping onions last night.</span><snd>snds/ukfinan018.mp3</snd>]]></a>
-</item>
-
-<item id="1439461667" tmtrpt="2292" stmtrpt="2292" livl="138" rllivl="140" ivl="212" rp="4" gr="3">
-<q><![CDATA[(n) one of the five separate parts at the end of your foot<img>imgs/toe.jpeg</img>]]></q>
-<a><![CDATA[toe /təʊ/
-
-<span style="color:#00f">your big toe (= largest toe) | your little toe (= smallest toe) </span><snd>snds/uktobyj007.mp3</snd>]]></a>
-</item>
-
-<item id="1439360766" tmtrpt="2292" stmtrpt="2292" livl="54" rllivl="54" ivl="100" rp="8" gr="4">
-<q><![CDATA[
-(v) to raise your hand and move it from side to side in order to attract someone's attention or to say goodbye<img>imgs\wave.at.jpg</img>]]></q>
-<a><![CDATA[wave at someone
-<span style="color:#00f">
-Wave goodbye to Grandma. | She waved at him.</span>]]></a>
-</item>
-
-<item id="1439474661" tmtrpt="2292" stmtrpt="2292" livl="7" rllivl="7" ivl="9" rp="17" gr="4">
-<q>
-(adj) attractive and pleasant</q>
-<a><![CDATA[pretty /ˈprɪti/
-
-<span style="color:#00f">Your daughter is very pretty.</span><snd>snds/ukprete012.mp3</snd>]]></a>
-</item>
-
-<item id="1440429564" tmtrpt="2292" stmtrpt="2292" livl="15" rllivl="15" ivl="8" rp="10" gr="2">
-<q><![CDATA[
-(n) the joint (= place where two bones are connected) between the foot and the leg, or the thin part of the leg just above the foot<img>imgs\ankle.jpg</img>]]></q>
-<a><![CDATA[ankle /ˈæŋ.kl̩/
-
-<span style="color:#00f">I fell over and sprained/twisted my ankle.</span><snd>snds/ukanima016.mp3</snd>]]></a>
-</item>
-
 <item id="1439474631" tmtrpt="2293" stmtrpt="2293" livl="66" rllivl="66" ivl="158" rp="5" gr="4">
 <q><![CDATA[(n) one of the two soft, red edges of the mouth<img>imgs\lips.jpeg</img>]]></q>
 <a><![CDATA[lip /lɪp/
@@ -6247,6 +6218,14 @@ Wave goodbye to Grandma. | She waved at him.</span>]]></a>
 <a><![CDATA[gesture /ˈdʒestʃər/
 
 <span style="color:#00f">He made a rude gesture at the crowd.</span><snd>snds/ukgerma020.mp3</snd>]]></a>
+</item>
+
+<item id="1440429564" tmtrpt="2293" stmtrpt="2293" livl="8" rllivl="8" ivl="1" rp="11" gr="0">
+<q><![CDATA[
+(n) the joint (= place where two bones are connected) between the foot and the leg, or the thin part of the leg just above the foot<img>imgs\ankle.jpg</img>]]></q>
+<a><![CDATA[ankle /ˈæŋ.kl̩/
+
+<span style="color:#00f">I fell over and sprained/twisted my ankle.</span><snd>snds/ukanima016.mp3</snd>]]></a>
 </item>
 
 <item id="1439274115" tmtrpt="2294" stmtrpt="2294" livl="11" rllivl="11" ivl="13" rp="18" gr="4">
@@ -6386,6 +6365,14 @@ Do you pluck your eyebrows (= remove some of the hairs to change their shape)? |
 <q><![CDATA[
 (n) a permanent mark left on the body from a cut or other injury<img>imgs\scar.jpg</img>]]></q>
 <a><![CDATA[scar /skɑː(r)/<snd>snds/ukscamp016.mp3</snd>]]></a>
+</item>
+
+<item id="1439474661" tmtrpt="2302" stmtrpt="2302" livl="9" rllivl="9" ivl="10" rp="18" gr="4">
+<q>
+(adj) attractive and pleasant</q>
+<a><![CDATA[pretty /ˈprɪti/
+
+<span style="color:#00f">Your daughter is very pretty.</span><snd>snds/ukprete012.mp3</snd>]]></a>
 </item>
 
 <item id="1440429676" tmtrpt="2303" stmtrpt="2303" livl="11" rllivl="12" ivl="14" rp="36" gr="4">
@@ -7030,6 +7017,14 @@ long eyelashes | false eyelashes</span><snd>snds/ukextri020.mp3</snd>]]></a>
 <span style="color:#00f">She's short and slim with dark hair.</span><snd>snds/ukshorn002.mp3</snd>]]></a>
 </item>
 
+<item id="1439360766" tmtrpt="2454" stmtrpt="2454" livl="100" rllivl="100" ivl="162" rp="9" gr="4">
+<q><![CDATA[
+(v) to raise your hand and move it from side to side in order to attract someone's attention or to say goodbye<img>imgs\wave.at.jpg</img>]]></q>
+<a><![CDATA[<b>wave at someone</b> /wˈeɪv at sˈʌmwɒn/
+<span style="color:#00f">
+Wave goodbye to Grandma. | She waved at him.</span>]]></a>
+</item>
+
 <item id="1439360748" tmtrpt="2455" stmtrpt="2455" livl="49" rllivl="167" ivl="389" rp="4" gr="4">
 <q><![CDATA[(n) the part of your body that is opposite to the front, from your shoulders to your bottom<img>imgs\back.jpeg</img>]]></q>
 <a><![CDATA[back /bæk/
@@ -7169,6 +7164,22 @@ He was shot in the chest at point blank range. | He folded his arms across his c
 <span style="color:#00f">She went blind after an accident. | This project provides guide dogs for the blind.</span><snd>snds/ukbleep018.mp3</snd>]]></a>
 </item>
 
+<item id="1439461647" tmtrpt="2755" stmtrpt="2755" livl="212" rllivl="212" ivl="463" rp="5" gr="4">
+<q><![CDATA[
+(n) any of the long, thin, separate parts of the hand, especially those that are not thumbs<img>imgs\finger.jpeg</img>]]></q>
+<a><![CDATA[finger /ˈfɪŋ.ɡər/
+
+<span style="color:#00f">He noticed her long delicate fingers. | I cut my finger chopping onions last night.</span><snd>snds/ukfinan018.mp3</snd>]]></a>
+</item>
+
+<item id="1439461667" tmtrpt="2757" stmtrpt="2757" livl="212" rllivl="212" ivl="465" rp="5" gr="4">
+<q><![CDATA[
+(n) one of the five separate parts at the end of your foot<img>imgs/toe.jpeg</img>]]></q>
+<a><![CDATA[toe /təʊ/
+
+<span style="color:#00f">your big toe (= largest toe) | your little toe (= smallest toe) </span><snd>snds/uktobyj007.mp3</snd>]]></a>
+</item>
+
 <item id="1439461635" tmtrpt="2820" stmtrpt="2820" livl="225" rllivl="225" ivl="534" rp="4" gr="4">
 <q>
 (adj) little in size or amount</q>
@@ -7188,29 +7199,6 @@ He was shot in the chest at point blank range. | He folded his arms across his c
 </category>
 
 <category name="business">
-
-<item id="1440429489" tmtrpt="2292" stmtrpt="2292" livl="70" rllivl="155" ivl="218" rp="4" gr="3">
-<q>(n) a plan that shows how much money you have and how you will spend it; the amount of money you have for something</q>
-<a><![CDATA[budget /ˈbʌdʒɪt/
-
-<span style="color:#00f">an annual budget of 30 million euros</span><snd>snds\ukbuddh007.mp3</snd>]]></a>
-</item>
-
-<item id="1440429686" tmtrpt="2292" stmtrpt="2292" livl="17" rllivl="17" ivl="23" rp="26" gr="4">
-<q>
-(idioms) new creative ideas</q>
-<a><![CDATA[<b>blue-sky thinking</b> /blˈuːskˈaɪ θˈɪŋkɪŋ/
-
-<span style="color:#00f">The origin of the management cliché may be obscure, but it suggests the emptiness of the skies - in blue-sky thinking there should be no preconceptions. </span>]]></a>
-</item>
-
-<item id="1440566631" tmtrpt="2292" stmtrpt="2292" livl="20" rllivl="20" ivl="17" rp="17" gr="3">
-<q>
-(v) to tell people about a product or service, on television, on the Internet, in newspapers, etc., so that people will buy it</q>
-<a><![CDATA[advertise /ˈædvətaɪz/
-
-<span style="color:#00f">Companies are not allowed to advertise cigarettes on television.</span><snd>snds/ukadult029.mp3</snd>]]></a>
-</item>
 
 <item id="1440429583" tmtrpt="2294" stmtrpt="2294" livl="14" rllivl="14" ivl="21" rp="34" gr="5">
 <q>
@@ -7351,6 +7339,14 @@ You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknu
 <span style="color:#00f">management skills | Management have accepted the proposal.</span><snd>snds/ukmammo008.mp3</snd>]]></a>
 </item>
 
+<item id="1440566631" tmtrpt="2306" stmtrpt="2306" livl="17" rllivl="17" ivl="14" rp="18" gr="3">
+<q>
+(v) to tell people about a product or service, on television, on the Internet, in newspapers, etc., so that people will buy it</q>
+<a><![CDATA[advertise /ˈædvətaɪz/
+
+<span style="color:#00f">Companies are not allowed to advertise cigarettes on television.</span><snd>snds/ukadult029.mp3</snd>]]></a>
+</item>
+
 <item id="1440429589" tmtrpt="2307" stmtrpt="2307" livl="13" rllivl="13" ivl="17" rp="38" gr="4">
 <q>
 (idiom) to think in a new and creative way</q>
@@ -7393,6 +7389,14 @@ You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknu
 <a><![CDATA[accounts /əˈkaʊnts/
 
 <span style="color:#00f">I keep my own accounts.</span><snd>snds/ukaccou003.mp3</snd>]]></a>
+</item>
+
+<item id="1440429686" tmtrpt="2309" stmtrpt="2309" livl="23" rllivl="23" ivl="17" rp="27" gr="3">
+<q>
+(idioms) new creative ideas</q>
+<a><![CDATA[<b>blue-sky thinking</b> /blˈuːskˈaɪ θˈɪŋkɪŋ/
+
+<span style="color:#00f">The origin of the management cliché may be obscure, but it suggests the emptiness of the skies - in blue-sky thinking there should be no preconceptions. </span>]]></a>
 </item>
 
 <item id="1439929827" tmtrpt="2311" stmtrpt="2311" livl="218" rllivl="218" ivl="26" rp="5" gr="1">
@@ -7709,6 +7713,14 @@ We’re having a meeting on Thursday to discuss the problem. | He’s in a meeti
 <a><![CDATA[supervisor /ˈsuːpəˌvaɪzə/<snd>snds/supervisor__gb_2.mp3</snd>]]></a>
 </item>
 
+<item id="1440429489" tmtrpt="2778" stmtrpt="2778" livl="218" rllivl="218" ivl="486" rp="5" gr="4">
+<q>
+(n) a plan that shows how much money you have and how you will spend it; the amount of money you have for something</q>
+<a><![CDATA[budget /ˈbʌdʒɪt/
+
+<span style="color:#00f">an annual budget of 30 million euros</span><snd>snds/ukbuddh007.mp3</snd>]]></a>
+</item>
+
 <item id="1440566757" tmtrpt="2816" stmtrpt="2816" livl="221" rllivl="222" ivl="527" rp="4" gr="4">
 <q>
 (n) the buying and selling of large numbers of things, especially between countries</q>
@@ -7721,33 +7733,20 @@ We’re having a meeting on Thursday to discuss the problem. | He’s in a meeti
 
 <category name="cars_and_road_travel">
 
-<item id="1440691689" tmtrpt="2292" stmtrpt="2292" livl="58" rllivl="147" ivl="219" rp="4" gr="3">
-<q><![CDATA[(n) a person who is walking<img>imgs\pedestrian.jpg</img>]]></q>
-<a><![CDATA[pedestrian /pɪˈdestriən/<snd>snds/ukpedal011.mp3</snd>]]></a>
-</item>
-
-<item id="1440566609" tmtrpt="2292" stmtrpt="2292" livl="6" rllivl="6" ivl="8" rp="17" gr="4">
-<q><![CDATA[
-(n) the part of a vehicle that you press with your foot before you move the gear shift<img>imgs/clutch.jpg</img>]]></q>
-<a><![CDATA[clutch /klʌtʃ/
-
-<span style="color:#00f">I've booked the car into the garage because the clutch is slipping. | Push the clutch in, put the car into gear, rev the engine, and then gently let the clutch out.</span><snd>snds/ukclosu030.mp3</snd>]]></a>
-</item>
-
-<item id="1440566615" tmtrpt="2292" stmtrpt="2292" livl="4" rllivl="4" ivl="5" rp="18" gr="4">
-<q>
-(n) a trip from one place to another</q>
-<a><![CDATA[journey /ˈdʒɜːni/
-
-<span style="color:#00f">a train journey | a three-week journey through China</span><snd>snds/ukjolli021.mp3</snd>]]></a>
-</item>
-
 <item id="1440429535" tmtrpt="2293" stmtrpt="2293" livl="18" rllivl="18" ivl="23" rp="28" gr="4">
 <q><![CDATA[
 (n) a large vehicle that is pulled by a car. You can sleep and eat inside on vacation.<img>imgs/caravan.jpg</img>]]></q>
 <a><![CDATA[caravan /ˈkær.ə.væn/
 
 <span style="color:#00f">a gypsy caravan</span><snd>snds/ukcarap004.mp3</snd>]]></a>
+</item>
+
+<item id="1440566609" tmtrpt="2293" stmtrpt="2293" livl="8" rllivl="8" ivl="1" rp="18" gr="0">
+<q><![CDATA[
+(n) the part of a vehicle that you press with your foot before you move the gear shift<img>imgs/clutch.jpg</img>]]></q>
+<a><![CDATA[clutch /klʌtʃ/
+
+<span style="color:#00f">I've booked the car into the garage because the clutch is slipping. | Push the clutch in, put the car into gear, rev the engine, and then gently let the clutch out.</span><snd>snds/ukclosu030.mp3</snd>]]></a>
 </item>
 
 <item id="1440566359" tmtrpt="2297" stmtrpt="2297" livl="57" rllivl="134" ivl="223" rp="10" gr="4">
@@ -7804,6 +7803,14 @@ We’re having a meeting on Thursday to discuss the problem. | He’s in a meeti
 <a><![CDATA[accelerate /əkˈseləreɪt/
 
 <span style="color:#00f">I accelerated to pass the bus.</span><snd>snds/ukac___011.mp3</snd>]]></a>
+</item>
+
+<item id="1440566615" tmtrpt="2299" stmtrpt="2299" livl="5" rllivl="5" ivl="7" rp="19" gr="4">
+<q>
+(n) a trip from one place to another</q>
+<a><![CDATA[journey /ˈdʒɜːni/
+
+<span style="color:#00f">a train journey | a three-week journey through China</span><snd>snds/ukjolli021.mp3</snd>]]></a>
 </item>
 
 <item id="1440566462" tmtrpt="2300" stmtrpt="2300" livl="62" rllivl="62" ivl="144" rp="5" gr="4">
@@ -7912,6 +7919,12 @@ We’re having a meeting on Thursday to discuss the problem. | He’s in a meeti
 <q><![CDATA[
 (n) the front part of a car that covers the engine [<b>hood</b>]<img>imgs/bonnet.jpg</img>]]></q>
 <a><![CDATA[bonnet /ˈbɒn.ɪt/<snd>snds/ukbonfi008.mp3</snd>]]></a>
+</item>
+
+<item id="1440691689" tmtrpt="2317" stmtrpt="2317" livl="219" rllivl="219" ivl="25" rp="5" gr="1">
+<q><![CDATA[
+(n) a person who is walking<img>imgs\pedestrian.jpg</img>]]></q>
+<a><![CDATA[pedestrian /pɪˈdestriən/<snd>snds/ukpedal011.mp3</snd>]]></a>
 </item>
 
 <item id="1440566641" tmtrpt="2319" stmtrpt="2319" livl="47" rllivl="118" ivl="245" rp="6" gr="4">
@@ -9326,12 +9339,6 @@ informal <b>speedo</b>]]></q>
 
 <category name="employment">
 
-<item id="1443378776" tmtrpt="2292" stmtrpt="2292" livl="18" rllivl="18" ivl="22" rp="8" gr="3">
-<q>
-(n) a ​period in which a woman is ​legally ​allowed to be ​absent from ​work in the ​weeks before and after she gives ​birth</q>
-<a><![CDATA[<b>maternity leave</b> /mətˈɜːnɪti lˈiːv/<snd>snds/ukl30167.mp3</snd>]]></a>
-</item>
-
 <item id="1443468556" tmtrpt="2293" stmtrpt="2293" livl="8" rllivl="8" ivl="12" rp="11" gr="4">
 <q>
 (adj) lasting or working for only a certain period of time</q>
@@ -9475,6 +9482,12 @@ informal <b>speedo</b>]]></q>
 <q>
 (v) to write a letter or write on a form in order to ask for a job</q>
 <a><![CDATA[<b>apply for a job</b> /ɐplˈaɪ fəɹə dʒˈɒb/]]></a>
+</item>
+
+<item id="1443378776" tmtrpt="2304" stmtrpt="2304" livl="22" rllivl="22" ivl="12" rp="9" gr="2">
+<q>
+(n) a ​period in which a woman is ​legally ​allowed to be ​absent from ​work in the ​weeks before and after she gives ​birth</q>
+<a><![CDATA[<b>maternity leave</b> /mətˈɜːnɪti lˈiːv/<snd>snds/ukl30167.mp3</snd>]]></a>
 </item>
 
 <item id="1443467375" tmtrpt="2305" stmtrpt="2305" livl="23" rllivl="23" ivl="21" rp="13" gr="3">
@@ -9953,42 +9966,6 @@ Government ​programs for the ​unemployed will ​place new emphasis on ​tr
 
 <category name="environment">
 
-<item id="1443725354" tmtrpt="2292" stmtrpt="2292" livl="12" rllivl="12" ivl="15" rp="35" gr="4">
-<q><![CDATA[
-(n) animals, birds, and plants in the place where they live<img>imgs/wildlife.456236.jpeg</img>]]></q>
-<a><![CDATA[wildlife /ˈwaɪldlaɪf/<snd>snds/ukwi___030.mp3</snd>]]></a>
-</item>
-
-<item id="1455931112" tmtrpt="2292" stmtrpt="2292" livl="6" rllivl="6" ivl="5" rp="27" gr="3">
-<q>
-(v) to ​keep something as it is, ​especially in ​order to ​prevent it from ​decaying or being ​damaged or ​destroyed</q>
-<a><![CDATA[preserve /prɪˈzɜːv/
-<span style="color:#00f">
-to preserve the ​environment | We ​want to preserve the ​character of the ​town while ​improving the ​facilities. | The ​agreement preserved ​our ​right to ​limit ​trade in ​endangered ​species. | Putting ​varnish on ​wood is a way of preserving it. | I need to get out of the ​house from ​time to ​time just to preserve (= ​prevent me from ​losing) my ​sanity.</span><snd>snds/ukprepo030.mp3</snd>]]></a>
-</item>
-
-<item id="1443724658" tmtrpt="2292" stmtrpt="2292" livl="4" rllivl="4" ivl="5" rp="17" gr="4">
-<q>
-(n) waste ​matter such as ​water or ​human ​urine or ​solid ​waste</q>
-<a><![CDATA[sewage /ˈsuː.ɪdʒ/
-
-<span style="color:#00f">Some ​cities in the ​world do not have ​proper ​facilities for the ​disposal of sewage. | Raw/​untreated sewage is being ​pumped into the ​sea, from where it ​pollutes ​our ​beaches.</span><snd>snds/ukseven011.mp3</snd>]]></a>
-</item>
-
-<item id="1443677993" tmtrpt="2292" stmtrpt="2292" livl="3" rllivl="3" ivl="5" rp="37" gr="4">
-<q><![CDATA[
-(n) an increase in the temperature of the air around the world that is caused by pollution<img>imgs/10-other-climate-effects-EPA.png</img>]]></q>
-<a><![CDATA[global warming /ˌɡləʊbəl ˈwɔːmɪŋ/<snd>snds/ukcld00573.mp3</snd>]]></a>
-</item>
-
-<item id="1443552190" tmtrpt="2292" stmtrpt="2292" livl="6" rllivl="6" ivl="1" rp="52" gr="1">
-<q>
-(n) the air, land, and water where people, animals, and plants live</q>
-<a><![CDATA[the environment /ði ɪnˈvaɪərənmənt/
-
-<span style="color:#00f">The new road may cause damage to the environment.</span><snd>snds/ukentre019.mp3</snd>]]></a>
-</item>
-
 <item id="1455931433" tmtrpt="2293" stmtrpt="2293" livl="62" rllivl="62" ivl="82" rp="5" gr="3">
 <q>
 (v) to use all of something, so that nothing is ​left</q>
@@ -10049,6 +10026,14 @@ to preserve the ​environment | We ​want to preserve the ​character of the 
 <span style="color:#00f">A ​large ​international ​meeting was ​held with the ​aim of ​promoting sustainable ​development in all ​countries.</span><snd>snds/uksuspi005.mp3</snd>]]></a>
 </item>
 
+<item id="1443552190" tmtrpt="2295" stmtrpt="2295" livl="1" rllivl="1" ivl="3" rp="53" gr="4">
+<q>
+(n) the air, land, and water where people, animals, and plants live</q>
+<a><![CDATA[the environment /ði ɪnˈvaɪərənmənt/
+
+<span style="color:#00f">The new road may cause damage to the environment.</span><snd>snds/ukentre019.mp3</snd>]]></a>
+</item>
+
 <item id="1443724452" tmtrpt="2296" stmtrpt="2296" livl="31" rllivl="31" ivl="47" rp="13" gr="4">
 <q><![CDATA[[english_vocabulary] 
 (n) ​energy that is ​produced using the sun, wind, etc., or from ​crops, rather than using ​fuels such as ​oil or coal<img>imgs/renewable.energy34254.jpeg</img>]]></q>
@@ -10061,6 +10046,28 @@ the ​renewable ​energy ​industry | ​renewable ​energy ​projects/​s
 <q><![CDATA[
 (n) waste produced by factories<img>imgs/industrial.waste.125346.jpeg</img>]]></q>
 <a><![CDATA[<b>industrial waste</b> /ɪndˈʌstɹɪəl wˈeɪst/]]></a>
+</item>
+
+<item id="1443677993" tmtrpt="2297" stmtrpt="2297" livl="5" rllivl="5" ivl="5" rp="38" gr="3">
+<q><![CDATA[
+(n) an increase in the temperature of the air around the world that is caused by pollution<img>imgs/10-other-climate-effects-EPA.png</img>]]></q>
+<a><![CDATA[global warming /ˌɡləʊbəl ˈwɔːmɪŋ/<snd>snds/ukcld00573.mp3</snd>]]></a>
+</item>
+
+<item id="1443724658" tmtrpt="2297" stmtrpt="2297" livl="5" rllivl="5" ivl="5" rp="18" gr="3">
+<q>
+(n) waste ​matter such as ​water or ​human ​urine or ​solid ​waste</q>
+<a><![CDATA[sewage /ˈsuː.ɪdʒ/
+
+<span style="color:#00f">Some ​cities in the ​world do not have ​proper ​facilities for the ​disposal of sewage. | Raw/​untreated sewage is being ​pumped into the ​sea, from where it ​pollutes ​our ​beaches.</span><snd>snds/ukseven011.mp3</snd>]]></a>
+</item>
+
+<item id="1455931112" tmtrpt="2298" stmtrpt="2298" livl="5" rllivl="5" ivl="6" rp="28" gr="4">
+<q>
+(v) to ​keep something as it is, ​especially in ​order to ​prevent it from ​decaying or being ​damaged or ​destroyed</q>
+<a><![CDATA[preserve /prɪˈzɜːv/
+<span style="color:#00f">
+to preserve the ​environment | We ​want to preserve the ​character of the ​town while ​improving the ​facilities. | The ​agreement preserved ​our ​right to ​limit ​trade in ​endangered ​species. | Putting ​varnish on ​wood is a way of preserving it. | I need to get out of the ​house from ​time to ​time just to preserve (= ​prevent me from ​losing) my ​sanity.</span><snd>snds/ukprepo030.mp3</snd>]]></a>
 </item>
 
 <item id="1443724031" tmtrpt="2299" stmtrpt="2299" livl="79" rllivl="79" ivl="112" rp="5" gr="3">
@@ -10141,6 +10148,12 @@ She was banned from driving for two ​years. | ban the use of chemicals</span><
 <q>
 (n) the ​poisonous ​gas ​formed by the ​burning of ​carbon, ​especially in the ​form of ​car ​fuel</q>
 <a><![CDATA[carbon monoxide /ˌkɑː.bən.mə ˈnɒk.saɪd/<snd>snds/ukcld00161.mp3</snd>]]></a>
+</item>
+
+<item id="1443725354" tmtrpt="2305" stmtrpt="2305" livl="15" rllivl="15" ivl="13" rp="36" gr="3">
+<q><![CDATA[
+(n) animals, birds, and plants in the place where they live<img>imgs/wildlife.456236.jpeg</img>]]></q>
+<a><![CDATA[wildlife /ˈwaɪldlaɪf/<snd>snds/ukwi___030.mp3</snd>]]></a>
 </item>
 
 <item id="1443551486" tmtrpt="2306" stmtrpt="2306" livl="13" rllivl="13" ivl="16" rp="22" gr="4">
@@ -10392,14 +10405,6 @@ Everest is the highest mountain in the world. | She’s travelled all over the w
 
 <category name="feelings and personal qualities">
 
-<item id="1458552623" tmtrpt="2292" stmtrpt="2292" livl="7" rllivl="7" ivl="1" rp="10" gr="1">
-<q>
-(adj) happy</q>
-<a><![CDATA[cheerful /ˈtʃɪəfəl/
-
-<span style="color:#00f">She seemed fairly cheerful.</span><snd>snds/ukcheat023.mp3</snd>]]></a>
-</item>
-
 <item id="1458552630" tmtrpt="2293" stmtrpt="2293" livl="16" rllivl="16" ivl="14" rp="41" gr="3">
 <q>
 (adj) feeling ashamed or shy</q>
@@ -10462,6 +10467,14 @@ Do you ​feel/get nervous during ​exams? | I was too nervous to ​speak. | S
 <a><![CDATA[frightened /ˈfraɪtənd/
 
 <span style="color:#00f">Don’t be frightened of the dog – he won’t bite.</span><snd>snds/ukfrica020.mp3</snd>]]></a>
+</item>
+
+<item id="1458552623" tmtrpt="2294" stmtrpt="2294" livl="1" rllivl="1" ivl="2" rp="11" gr="4">
+<q>
+(adj) happy</q>
+<a><![CDATA[cheerful /ˈtʃɪəfəl/
+
+<span style="color:#00f">She seemed fairly cheerful.</span><snd>snds/ukcheat023.mp3</snd>]]></a>
 </item>
 
 <item id="1458552600" tmtrpt="2295" stmtrpt="2295" livl="9" rllivl="9" ivl="11" rp="8" gr="3">
@@ -10935,44 +10948,6 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 
 <category name="food_and_drink">
 
-<item id="1473285606" tmtrpt="2292" stmtrpt="2292" livl="3" rllivl="3" ivl="19" rp="1" gr="5">
-<q><![CDATA[
-(n) a container for liquids, usually made of glass or plastic, with a narrow top<img>imgs/bottle.636745.jpeg</img>]]></q>
-<a><![CDATA[<b>bottle</b> /ˈbɒtl/
-
-<span style="color:#03f">a bottle of wine</span><snd>snds/ukbothe004.mp3</snd>]]></a>
-</item>
-
-<item id="1473459953" tmtrpt="2292" stmtrpt="2292" livl="6" rllivl="6" ivl="11" rp="2" gr="3">
-<q>
-(n) the feeling that you want to drink something</q>
-<a><![CDATA[thirst /θɜːst/<snd>snds/ukthick027.mp3</snd>]]></a>
-</item>
-
-<item id="1472568108" tmtrpt="2292" stmtrpt="2292" livl="16" rllivl="17" ivl="3" rp="3" gr="1">
-<q><![CDATA[
-(n) a sauce made from the huices that come from meat when it cooks<img>imgs/gravy.34512.jpg</img>]]></q>
-<a><![CDATA[gravy /ˈɡreɪ.vi/<snd>snds/ukgravi002.mp3</snd>]]></a>
-</item>
-
-<item id="1473459797" tmtrpt="2292" stmtrpt="2292" livl="0" rllivl="0" ivl="2" rp="4" gr="4">
-<q>
-(n) the feeling that you want to eat OR the state of not having enough food</q>
-<a><![CDATA[<b>hunger</b> /ˈhʌŋɡə(r)/
-
-<span style="color:#03f">Many of the refugees died of hunger.</span><snd>snds/ukhunch012.mp3</snd>]]></a>
-</item>
-
-<item id="1473877788" tmtrpt="2292" stmtrpt="2292" livl="0" rllivl="0" ivl="1" rp="3" gr="3">
-<q>
-(n) sweet food eaten at the end of a meal
-</q>
-<a><![CDATA[<b>dessert</b> /dɪˈzɜːt/
-
-<span style="color:#03f">a dessert fork/spoon | For dessert there's apple pie or fruit. | If you make the main course, I'll make a dessert.</span>
-<snd>snds/ukdescr010.mp3</snd>]]></a>
-</item>
-
 <item id="1473952597" tmtrpt="2293" stmtrpt="2293" livl="3" rllivl="3" ivl="11" rp="2" gr="4">
 <q><![CDATA[
 (adj) no longer fresh or good to eat or drink because of being too old. We can also say that something is <b>bad</b> (<span style="color:#03f">gone bad</span>).]]></q>
@@ -11045,6 +11020,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <span style="color:#03f">These plums are a bit sour.</span><snd>snds/uksound010.mp3</snd>]]></a>
 </item>
 
+<item id="1472568108" tmtrpt="2293" stmtrpt="2293" livl="3" rllivl="3" ivl="1" rp="4" gr="1">
+<q><![CDATA[
+(n) a sauce made from the huices that come from meat when it cooks<img>imgs/gravy.34512.jpg</img>]]></q>
+<a><![CDATA[gravy /ˈɡreɪ.vi/<snd>snds/ukgravi002.mp3</snd>]]></a>
+</item>
+
 <item id="1473112509" tmtrpt="2294" stmtrpt="2294" livl="6" rllivl="6" ivl="18" rp="3" gr="4">
 <q><![CDATA[
 (n) food made of vegetables and meat cooked together in liquid<img>imgs/stew.51512.jpeg</img>]]></q>
@@ -11059,6 +11040,16 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><![CDATA[<b>salty</b> /ˈsɒl.ti/
 
 <span style="color:#03f">This bacon is too salty for me.</span><snd>snds/uksalti003.mp3</snd>]]></a>
+</item>
+
+<item id="1473877788" tmtrpt="2294" stmtrpt="2294" livl="1" rllivl="1" ivl="2" rp="4" gr="3">
+<q>
+(n) sweet food eaten at the end of a meal
+</q>
+<a><![CDATA[<b>dessert</b> /dɪˈzɜːt/
+
+<span style="color:#03f">a dessert fork/spoon | For dessert there's apple pie or fruit. | If you make the main course, I'll make a dessert.</span>
+<snd>snds/ukdescr010.mp3</snd>]]></a>
 </item>
 
 <item id="1472759669" tmtrpt="2295" stmtrpt="2295" livl="6" rllivl="6" ivl="23" rp="2" gr="4">
@@ -11111,6 +11102,14 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <q><![CDATA[
 (n) a thick, white, cold sauce that is made from eggs and oil<img>imgs/mayonnaise.3512346.jpeg</img>]]></q>
 <a><![CDATA[mayonnaise /ˌmeɪəˈneɪz/<snd>snds/ukmauso023.mp3</snd>]]></a>
+</item>
+
+<item id="1473459797" tmtrpt="2297" stmtrpt="2297" livl="2" rllivl="2" ivl="5" rp="5" gr="4">
+<q>
+(n) the feeling that you want to eat OR the state of not having enough food</q>
+<a><![CDATA[<b>hunger</b> /ˈhʌŋɡə(r)/
+
+<span style="color:#03f">Many of the refugees died of hunger.</span><snd>snds/ukhunch012.mp3</snd>]]></a>
 </item>
 
 <item id="1474101453" tmtrpt="2298" stmtrpt="2298" livl="5" rllivl="5" ivl="8" rp="4" gr="3">
@@ -11294,6 +11293,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <q><![CDATA[
 (n) a soft food that you put on bread and use in cooking<img>imgs/margarine.537.jpeg</img>]]></q>
 <a><![CDATA[margarine /ˌmɑːdʒəˈriːn/<snd>snds/ukmanuf025.mp3</snd>]]></a>
+</item>
+
+<item id="1473459953" tmtrpt="2311" stmtrpt="2311" livl="11" rllivl="11" ivl="19" rp="3" gr="3">
+<q>
+(n) the feeling that you want to drink something</q>
+<a><![CDATA[thirst /θɜːst/<snd>snds/ukthick027.mp3</snd>]]></a>
 </item>
 
 <item id="1473460042" tmtrpt="2313" stmtrpt="2313" livl="9" rllivl="9" ivl="26" rp="4" gr="4">
@@ -11609,6 +11614,14 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <span style="color:#03f">a green salad | a mixed salad</span><snd>snds/uksalaa006.mp3</snd>]]></a>
 </item>
 
+<item id="1473285606" tmtrpt="2363" stmtrpt="2363" livl="19" rllivl="19" ivl="71" rp="2" gr="4">
+<q><![CDATA[
+(n) a container for liquids, usually made of glass or plastic, with a narrow top<img>imgs/bottle.636745.jpeg</img>]]></q>
+<a><![CDATA[<b>bottle</b> /ˈbɒtl/
+
+<span style="color:#03f">a bottle of wine</span><snd>snds/ukbothe004.mp3</snd>]]></a>
+</item>
+
 <item id="1473199061" tmtrpt="2379" stmtrpt="2379" livl="19" rllivl="19" ivl="88" rp="2" gr="5">
 <q><![CDATA[
 (n) a very sweet substance used to give flavour to food and drinks<img>imgs/sugar.452346.jpeg</img>]]></q>
@@ -11620,6 +11633,52 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 </category>
 
 <category name="friends_and_family">
+
+<item id="1475162292" tmtrpt="2292" stmtrpt="2292" livl="0" rllivl="0" ivl="0" rp="0" gr="1">
+<q>
+(n) the husband of your sister or brother, or the brother of your husband or wife, or the man who is married to the sister or brother of your wife or husband</q>
+<a><![CDATA[<b>brother-in-law</b> /ˈbrʌð.ə.rɪn.lɔː/<snd>snds/ukbroke029.mp3</snd>]]></a>
+</item>
+
+<item id="1475162565" tmtrpt="2292" stmtrpt="2292" livl="0" rllivl="0" ivl="0" rp="0" gr="1">
+<q>
+(n) the man who someone is engaged to be married to</q>
+<a><![CDATA[<b>fiancé</b> /fiˈɒn.seɪ/
+
+<span style="color:#03f">Have you met Christina's fiancé?</span><snd>snds/ukfette017.mp3</snd>]]></a>
+</item>
+
+<item id="1475162660" tmtrpt="2292" stmtrpt="2292" livl="0" rllivl="0" ivl="0" rp="0" gr="1">
+<q>
+(n) the woman who someone is engaged to be married to</q>
+<a><![CDATA[<b>fiancée</b> /fiˈɒn.seɪ/<snd>snds/ukfette01711.mp3</snd>]]></a>
+</item>
+
+<item id="1475162362" tmtrpt="2293" stmtrpt="2293" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
+<q>
+(n) in Western countries, the first name and not the family name</q>
+<a><![CDATA[<b>Christian name</b> /ˈkrɪs.tʃən ˌneɪm/<snd>snds/ukcld00204.mp3</snd>]]></a>
+</item>
+
+<item id="1475162443" tmtrpt="2293" stmtrpt="2293" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
+<q>
+(n) the woman who is married to your son or daughter</q>
+<a><![CDATA[<b>daughter-in-law</b> /ˈdɔː.tər.ɪn.lɔː/<snd>snds/ukdatag008.mp3</snd>]]></a>
+</item>
+
+<item id="1475162501" tmtrpt="2293" stmtrpt="2293" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
+<q>
+(n) the father of your husband or wife</q>
+<a><![CDATA[<b>father-in-law</b> /ˈfɑː.ðər.ɪn.lɔː/<snd>snds/ukfatal008.mp3</snd>]]></a>
+</item>
+
+<item id="1475162759" tmtrpt="2293" stmtrpt="2293" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
+<q>
+(n) an adult, used especially when talking to children</q>
+<a><![CDATA[<b>grown-up</b> /ˈɡrəʊn.ʌp/
+
+<span style="color:#03f">Ask a grown-up to cut the shape out for you.</span><snd>snds/epd31985.mp3</snd>]]></a>
+</item>
 
 <item id="1474583963" tmtrpt="2295" stmtrpt="2295" livl="1" rllivl="2" ivl="6" rp="3" gr="4">
 <q>
@@ -11666,79 +11725,6 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 </category>
 
 <category name="phrasal verbs">
-
-<item id="1459429092" tmtrpt="2292" stmtrpt="2292" livl="22" rllivl="22" ivl="29" rp="18" gr="4">
-<q>
-(phrasal) 1) to practice a performance or a series of actions
-2) to read or mention all the items on a list quickly</q>
-<a><![CDATA[<b>run through something</b> /ɹˈʌn θɹuː sˈʌmθɪŋ/
-
-<span style="color:#00f">Doug listened while I ran through the routine again. | I ran through the options with him.</span>]]></a>
-</item>
-
-<item id="1470245975" tmtrpt="2292" stmtrpt="2292" livl="12" rllivl="12" ivl="12" rp="10" gr="3">
-<q>
-(phrase) to relax completely, or not allow things to upset you</q>
-<a><![CDATA[<b>chill out</b> /tʃˈɪl ˈaʊt/
-
-<span style="color:#00f">I'm just chilling out in front of the TV. | Chill out, Dad. The train doesn't leave for another hour!</span>]]></a>
-</item>
-
-<item id="1469656154" tmtrpt="2292" stmtrpt="2292" livl="16" rllivl="16" ivl="11" rp="4" gr="2">
-<q>
-(phrase) to spend a lot of money on buying things, especially things that are pleasant to have but that you do not need [someone who buys something expensive]</q>
-<a><![CDATA[<b>splash out (sth)</b> /splˈaʃ ˈaʊt/
-
-<span style="color:#00f">They splashed out £3,000 on a holiday. | She splashed out on a fancy new camera.</span>]]></a>
-</item>
-
-<item id="1442904267" tmtrpt="2292" stmtrpt="2292" livl="16" rllivl="16" ivl="7" rp="13" gr="2">
-<q>
-(phrase) to request that someone come to you</q>
-<a><![CDATA[<b>call someone in</b> /kˈɔːl sˈʌmwɒn ˈɪn/
-
-<span style="color:#00f">The commanding officer called her in and said look, someone is spreading nasty rumors.</span>]]></a>
-</item>
-
-<item id="1465122519" tmtrpt="2292" stmtrpt="2292" livl="7" rllivl="7" ivl="6" rp="29" gr="3">
-<q>
-(phrase) to stay somewhere for the night</q>
-<a><![CDATA[put up
-
-<span style="color:#01f">We put up at a small hotel for the night.</span>]]></a>
-</item>
-
-<item id="1442990334" tmtrpt="2292" stmtrpt="2292" livl="2" rllivl="2" ivl="3" rp="19" gr="4">
-<q>
-(phrase) to telephone someone</q>
-<a><![CDATA[<b>call someone up</b> /kˈɔːl sˈʌmwɒn ˈʌp/
-
-<span style="color:#00f">When I'm in Pittsburgh, I'll call him up.</span>]]></a>
-</item>
-
-<item id="1448964484" tmtrpt="2292" stmtrpt="2292" livl="78" rllivl="78" ivl="2" rp="11" gr="0">
-<q>
-(v) to ​become so ​excited about something that you do not ​control what you say or do; to ​cause someone to ​become very ​excited and to ​lose ​control</q>
-<a><![CDATA[be/get carried away
-
-<span style="color:#00f">The ​crowd were ​carried away by his ​passionate ​speech. | There's ​far too much ​food - I'm ​afraid I got a ​bit ​carried away. | The ​manager ​warned his ​young ​players not to get ​carried away by the ​emotion of the ​occasion.</span>]]></a>
-</item>
-
-<item id="1472485245" tmtrpt="2292" stmtrpt="2292" livl="1" rllivl="1" ivl="2" rp="8" gr="3">
-<q>
-(phrase) to stay in a place and do nothing while you wait for someone to arrive or something to happen</q>
-<a><![CDATA[wait around/about
-
-<span style="color:#00f">We spent the whole day waiting around for something exciting to happen, but nothing did.</span>]]></a>
-</item>
-
-<item id="1459961012" tmtrpt="2292" stmtrpt="2292" livl="1" rllivl="1" ivl="2" rp="27" gr="4">
-<q>
-(phrase) to cause a particular situation</q>
-<a><![CDATA[<b>lead to something</b> /lˈiːd tə sˈʌmθɪŋ/
-
-<span style="color:#00f">Every time we talk about money it leads to an argument.</span>]]></a>
-</item>
 
 <item id="1461879102" tmtrpt="2293" stmtrpt="2293" livl="25" rllivl="25" ivl="119" rp="3" gr="5">
 <q>
@@ -11863,6 +11849,14 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 ]]></a>
 </item>
 
+<item id="1448964484" tmtrpt="2294" stmtrpt="2294" livl="2" rllivl="2" ivl="2" rp="12" gr="3">
+<q>
+(v) to ​become so ​excited about something that you do not ​control what you say or do; to ​cause someone to ​become very ​excited and to ​lose ​control</q>
+<a><![CDATA[be/get carried away
+
+<span style="color:#00f">The ​crowd were ​carried away by his ​passionate ​speech. | There's ​far too much ​food - I'm ​afraid I got a ​bit ​carried away. | The ​manager ​warned his ​young ​players not to get ​carried away by the ​emotion of the ​occasion.</span>]]></a>
+</item>
+
 <item id="1459789829" tmtrpt="2295" stmtrpt="2274" livl="18" rllivl="17" ivl="22" rp="19" gr="4">
 <q>
 (phrase) to happen</q>
@@ -11903,12 +11897,36 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 <span style="color:#00f">Would you like to settle up now, sir? | You buy the tickets and I'll settle up with you later. | You get the tickets, Evan, and I’ll settle up with you later.</span>]]></a>
 </item>
 
+<item id="1472485245" tmtrpt="2295" stmtrpt="2295" livl="2" rllivl="2" ivl="3" rp="9" gr="3">
+<q>
+(phrase) to stay in a place and do nothing while you wait for someone to arrive or something to happen</q>
+<a><![CDATA[wait around/about
+
+<span style="color:#00f">We spent the whole day waiting around for something exciting to happen, but nothing did.</span>]]></a>
+</item>
+
 <item id="1443552464" tmtrpt="2296" stmtrpt="2296" livl="15" rllivl="15" ivl="12" rp="30" gr="3">
 <q>
 (phrase) to try to find something</q>
 <a><![CDATA[<b>cast around (for)</b> /kˈast ɐɹˈaʊnd/
 
 <span style="color:#00f">She was casting around for an excuse not to go to the party.</span>]]></a>
+</item>
+
+<item id="1442990334" tmtrpt="2296" stmtrpt="2296" livl="3" rllivl="3" ivl="4" rp="20" gr="4">
+<q>
+(phrase) to telephone someone</q>
+<a><![CDATA[<b>call someone up</b> /kˈɔːl sˈʌmwɒn ˈʌp/
+
+<span style="color:#00f">When I'm in Pittsburgh, I'll call him up.</span>]]></a>
+</item>
+
+<item id="1459961012" tmtrpt="2296" stmtrpt="2296" livl="2" rllivl="2" ivl="4" rp="28" gr="4">
+<q>
+(phrase) to cause a particular situation</q>
+<a><![CDATA[<b>lead to something</b> /lˈiːd tə sˈʌmθɪŋ/
+
+<span style="color:#00f">Every time we talk about money it leads to an argument.</span>]]></a>
 </item>
 
 <item id="1442904184" tmtrpt="2297" stmtrpt="2297" livl="4" rllivl="4" ivl="7" rp="59" gr="4">
@@ -11999,6 +12017,14 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 <span style="color:#00f">Everyone is banking on his recovery.</span>]]></a>
 </item>
 
+<item id="1442904267" tmtrpt="2299" stmtrpt="2299" livl="7" rllivl="7" ivl="7" rp="14" gr="3">
+<q>
+(phrase) to request that someone come to you</q>
+<a><![CDATA[<b>call someone in</b> /kˈɔːl sˈʌmwɒn ˈɪn/
+
+<span style="color:#00f">The commanding officer called her in and said look, someone is spreading nasty rumors.</span>]]></a>
+</item>
+
 <item id="1467366790" tmtrpt="2300" stmtrpt="2300" livl="19" rllivl="20" ivl="67" rp="3" gr="4">
 <q>
 (phrase) to remove something, especially clothes</q>
@@ -12013,6 +12039,14 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 <a><![CDATA[<b>burn out</b> or <b>burn someone out</b> /bˈɜːn ˈaʊt/
 
 <span style="color:#00f">Some people burn out after only a few months in this job. | Patrick explained he is currently taking a break, as his accelerated program burned him out.</span><snd>snds/burn.out.wav</snd>]]></a>
+</item>
+
+<item id="1465122519" tmtrpt="2300" stmtrpt="2300" livl="6" rllivl="6" ivl="8" rp="30" gr="4">
+<q>
+(phrase) to stay somewhere for the night</q>
+<a><![CDATA[put up
+
+<span style="color:#01f">We put up at a small hotel for the night.</span>]]></a>
 </item>
 
 <item id="1443076737" tmtrpt="2301" stmtrpt="2301" livl="18" rllivl="18" ivl="25" rp="30" gr="4">
@@ -12233,6 +12267,14 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 <span style="color:#00f">Gradually, the old building fell apart. | My poor old boots are falling apart. | He bought some cheap shoes that fell apart after a couple of months. | My jacket is so old it's falling apart.</span>]]></a>
 </item>
 
+<item id="1469656154" tmtrpt="2309" stmtrpt="2309" livl="11" rllivl="11" ivl="17" rp="5" gr="3">
+<q>
+(phrase) to spend a lot of money on buying things, especially things that are pleasant to have but that you do not need [someone who buys something expensive]</q>
+<a><![CDATA[<b>splash out (sth)</b> /splˈaʃ ˈaʊt/
+
+<span style="color:#00f">They splashed out £3,000 on a holiday. | She splashed out on a fancy new camera.</span>]]></a>
+</item>
+
 <item id="1442937928" tmtrpt="2310" stmtrpt="2310" livl="21" rllivl="21" ivl="33" rp="38" gr="4">
 <q>
 (phrase) to cause something to happen</q>
@@ -12255,6 +12297,14 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 <a><![CDATA[<b>put something away</b> /pˌʊt sˈʌmθɪŋ ɐwˈeɪ/
 
 <span style="color:#02f">Put your toys away now.</span>]]></a>
+</item>
+
+<item id="1470245975" tmtrpt="2311" stmtrpt="2311" livl="12" rllivl="12" ivl="19" rp="11" gr="4">
+<q>
+(phrase) to relax completely, or not allow things to upset you</q>
+<a><![CDATA[<b>chill out</b> /tʃˈɪl ˈaʊt/
+
+<span style="color:#00f">I'm just chilling out in front of the TV. | Chill out, Dad. The train doesn't leave for another hour!</span>]]></a>
 </item>
 
 <item id="1443469513" tmtrpt="2312" stmtrpt="2312" livl="28" rllivl="28" ivl="43" rp="35" gr="4">
@@ -12457,6 +12507,15 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 <a><![CDATA[<b>play something down</b> /plˈeɪ sˈʌmθɪŋ dˈaʊn/
 
 <span style="color:#00f">Military ​spokespeople ​tried to ​play down the ​seriousness of the ​disaster.</span>]]></a>
+</item>
+
+<item id="1459429092" tmtrpt="2332" stmtrpt="2332" livl="29" rllivl="29" ivl="40" rp="19" gr="4">
+<q>
+(phrasal) 1) to practice a performance or a series of actions
+2) to read or mention all the items on a list quickly</q>
+<a><![CDATA[<b>run through something</b> /ɹˈʌn θɹuː sˈʌmθɪŋ/
+
+<span style="color:#00f">Doug listened while I ran through the routine again. | I ran through the options with him.</span>]]></a>
 </item>
 
 <item id="1443076729" tmtrpt="2333" stmtrpt="2333" livl="79" rllivl="79" ivl="179" rp="5" gr="4">
