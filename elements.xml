@@ -4342,14 +4342,6 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 
 <category name="inne">
 
-<item id="1476472081" tmtrpt="2307" stmtrpt="2307" livl="0" rllivl="0" ivl="0" rp="0" gr="1">
-<q><![CDATA[
-(n) the sound of people clapping their hands repeatedly to show enjoyment or approval of something such as a performance or speech<img>imgs/applause.45236.png</img>]]></q>
-<a><![CDATA[<b>applause</b> /əˈplɔːz/
-
-<span style="color:#03f">His speech met with (= received) loud applause. | So let's have a round of applause, please, for (= please applaud) a very talented young lady who is going to sing for us.</span><snd>snds/ukappen013.mp3</snd>]]></a>
-</item>
-
 <item id="1469443579" tmtrpt="2308" stmtrpt="2308" livl="20" rllivl="20" ivl="46" rp="6" gr="4">
 <q>
 (n) a single unit of language that has meaning and can be spoken or written</q>
@@ -4536,6 +4528,14 @@ He drives so fast along those narrow country lanes. | I live at the end of Churc
 <q><![CDATA[
 (n) a small, very intelligent African ape with black or brown fur<img>imgs/chimpanzee.t53673.jpeg</img>]]></q>
 <a><![CDATA[<b>chimpanzee</b> /ˌtʃɪm.pænˈziː/<snd>snds/ukchimn004.mp3</snd>]]></a>
+</item>
+
+<item id="1476472081" tmtrpt="2310" stmtrpt="2310" livl="0" rllivl="0" ivl="3" rp="0" gr="4">
+<q><![CDATA[
+(n) the sound of people clapping their hands repeatedly to show enjoyment or approval of something such as a performance or speech<img>imgs/applause.45236.png</img>]]></q>
+<a><![CDATA[<b>applause</b> /əˈplɔːz/
+
+<span style="color:#03f">His speech met with (= received) loud applause. | So let's have a round of applause, please, for (= please applaud) a very talented young lady who is going to sing for us.</span><snd>snds/ukappen013.mp3</snd>]]></a>
 </item>
 
 <item id="1464867164" tmtrpt="2311" stmtrpt="2311" livl="46" rllivl="46" ivl="77" rp="3" gr="3">
@@ -12145,21 +12145,21 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd>]]><
 
 <category name="fruit,_nuts,_and_vegetables">
 
-<item id="1476471916" tmtrpt="2307" stmtrpt="2307" livl="0" rllivl="0" ivl="0" rp="0" gr="0">
+<item id="1476471916" tmtrpt="2308" stmtrpt="2308" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
 <q><![CDATA[
 (n) a small, round, soft fruit with a pale orange, furry skin<img>imgs/apricot.463467.jpeg</img>]]></q>
 <a><![CDATA[<b>apricot</b> /ˈeɪ.prɪ.kɒt/<snd>snds/ukappro010.mp3</snd>]]></a>
 </item>
 
-<item id="1476472242" tmtrpt="2307" stmtrpt="2307" livl="0" rllivl="0" ivl="0" rp="0" gr="0">
+<item id="1476472242" tmtrpt="2310" stmtrpt="2310" livl="0" rllivl="0" ivl="3" rp="0" gr="4">
 <q><![CDATA[
 (n) a small, round fruit on particular plants and trees<img>imgs/berry.436257.jpeg</img>]]></q>
 <a><![CDATA[<b>berry</b> /ˈber.i/
 
-<span style="color:#03f">She survived in the forest by eating berries and trapping small animals and birds. | Gin is made from juniper berries, isn't it? | You must never eat the berries from that bush - they are poisonous. | Rachel took a nice juicy berry from the basket and popped it into her mouth. | The birds have devastated my strawberry plants - there's not a single berry left.</span>]]></a>
+<span style="color:#03f">She survived in the forest by eating berries and trapping small animals and birds. | Gin is made from juniper berries, isn't it? | You must never eat the berries from that bush - they are poisonous. | Rachel took a nice juicy berry from the basket and popped it into her mouth. | The birds have devastated my strawberry plants - there's not a single berry left.</span><snd>snds/ukbenev024.mp3</snd>]]></a>
 </item>
 
-<item id="1476472323" tmtrpt="2307" stmtrpt="2307" livl="0" rllivl="0" ivl="0" rp="0" gr="1">
+<item id="1476472323" tmtrpt="2310" stmtrpt="2310" livl="0" rllivl="0" ivl="3" rp="0" gr="4">
 <q><![CDATA[
 (n) the sweet fruit of various types of palm tree<img>imgs/date.fruit.4632467.jpeg</img>]]></q>
 <a><![CDATA[<b>date</b> /deɪt/
