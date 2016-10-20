@@ -4342,30 +4342,6 @@ What is the past participle of <b>drive</b>? /draɪv/<snd>snds/drive.mp3</snd>]]
 
 <category name="inne">
 
-<item id="1473786070" tmtrpt="2313" stmtrpt="2313" livl="0" rllivl="0" ivl="0" rp="20" gr="0">
-<q>
-(n) the process of improving or correcting a situation</q>
-<a><![CDATA[<b>remediation</b> /rɪˌmiː.diˈeɪ.ʃən/
-
-<span style="color:#03f">the remediation of reading problems | environmental remediation</span>]]></a>
-</item>
-
-<item id="1477001480" tmtrpt="2313" stmtrpt="2313" livl="0" rllivl="0" ivl="0" rp="0" gr="1">
-<q>
-(v) to move a switch that operates an electrical system, or to cause such a system to start or stop working by moving a switch</q>
-<a><![CDATA[<b>trip</b> /trɪp/
-
-<span style="color:#03f">A special system prevents the circuitry from being tripped accidentally by a power surge or lightning strike. | Circuit breakers trip, fuses blow</span><snd>snds/uktrima013.mp3</snd>]]></a>
-</item>
-
-<item id="1477001800" tmtrpt="2313" stmtrpt="2313" livl="0" rllivl="0" ivl="0" rp="0" gr="1">
-<q><![CDATA[
-(n) the outside layer of a loaf of bread OR a hard outer covering of something<img>imgs/crust.43625734.jpeg</img>]]></q>
-<a><![CDATA[<b>crust</b> /krʌst/
-
-<span style="color:#03f">pie crust (= the cooked pastry on top) | the earth's crust | Could you cut the crusts off the sandwiches, please?</span><snd>snds/ukcrumb013.mp3</snd>]]></a>
-</item>
-
 <item id="1446717753" tmtrpt="2314" stmtrpt="2314" livl="45" rllivl="46" ivl="62" rp="13" gr="4">
 <q>
 (adj) you must do it because of a ​rule or ​law</q>
@@ -4498,6 +4474,30 @@ Swimming was compulsory at my ​school. | The ​law made ​wearing ​seat �
 <a><![CDATA[<b>often</b> /ˈɒf.tən/
 
 <span style="color:#03f">I often see him in the garden. | How often do you wash your hair? | I don't often drink beer. | It's not often that you meet someone who you're instantly attracted to. | I don't see my parents as often as I'd like to. | Christmas is often mild in this country.</span><snd>snds/ukoffst003.mp3</snd>]]></a>
+</item>
+
+<item id="1473786070" tmtrpt="2314" stmtrpt="2314" livl="0" rllivl="0" ivl="1" rp="20" gr="4">
+<q>
+(n) the process of improving or correcting a situation</q>
+<a><![CDATA[<b>remediation</b> /rɪˌmiː.diˈeɪ.ʃən/
+
+<span style="color:#03f">the remediation of reading problems | environmental remediation</span>]]></a>
+</item>
+
+<item id="1477001480" tmtrpt="2314" stmtrpt="2314" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
+<q>
+(v) to move a switch that operates an electrical system, or to cause such a system to start or stop working by moving a switch</q>
+<a><![CDATA[<b>trip</b> /trɪp/
+
+<span style="color:#03f">A special system prevents the circuitry from being tripped accidentally by a power surge or lightning strike. | Circuit breakers trip, fuses blow</span><snd>snds/uktrima013.mp3</snd>]]></a>
+</item>
+
+<item id="1477001800" tmtrpt="2314" stmtrpt="2314" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
+<q><![CDATA[
+(n) the outside layer of a loaf of bread OR a hard outer covering of something<img>imgs/crust.43625734.jpeg</img>]]></q>
+<a><![CDATA[<b>crust</b> /krʌst/
+
+<span style="color:#03f">pie crust (= the cooked pastry on top) | the earth's crust | Could you cut the crusts off the sandwiches, please?</span><snd>snds/ukcrumb013.mp3</snd>]]></a>
 </item>
 
 <item id="1469121740" tmtrpt="2315" stmtrpt="2315" livl="14" rllivl="15" ivl="19" rp="18" gr="4">
@@ -12214,6 +12214,26 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd>]]><
 
 <category name="fruit,_nuts,_and_vegetables">
 
+<item id="1477003647" tmtrpt="2313" stmtrpt="2313" livl="0" rllivl="0" ivl="0" rp="0" gr="1">
+<q><![CDATA[
+(n) an oval, purple vegetable that is white inside and is usually eaten cooked<img>imgs/aubergine.845123.jpeg</img>]]></q>
+<a><![CDATA[<b>aubergine</b> /ˈəʊ.bə.ʒiːn/<snd>snds/ukatten025.mp3</snd>]]></a>
+</item>
+
+<item id="1477003910" tmtrpt="2313" stmtrpt="2313" livl="0" rllivl="0" ivl="0" rp="0" gr="2">
+<q><![CDATA[
+(n) a large, round vegetable with large green, white, or purple leaves that can be eaten cooked or uncooked<img>imgs/cabbage.3256489.jpeg</img>]]></q>
+<a><![CDATA[<b>cabbage</b> /ˈkæb.ɪdʒ/
+
+<span style="color:#03f">a savoy cabbage | red/white cabbage</span><snd>snds/ukbysta012.mp3</snd>]]></a>
+</item>
+
+<item id="1477004048" tmtrpt="2313" stmtrpt="2313" livl="0" rllivl="0" ivl="0" rp="0" gr="1">
+<q><![CDATA[
+(n) a long, thin vegetable with a dark green skin. It is a type of small marrow.<img>imgs/courgette.56275.jpeg</img>]]></q>
+<a><![CDATA[<b>courgette</b> /kɔːˈʒet/<snd>snds/ukcount030.mp3</snd>]]></a>
+</item>
+
 <item id="1476523452" tmtrpt="2314" stmtrpt="2314" livl="1" rllivl="1" ivl="5" rp="1" gr="4">
 <q><![CDATA[
 (n) the part of a plant that contains seeds, covered with a substance that you can often eat<img>imgs/fruit.3452346.jpeg</img>]]></q>
@@ -12272,6 +12292,18 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <q><![CDATA[
 (n) a small nut from a tropical American tree that can be eaten<img>imgs/cashew.3473.jpeg</img>]]></q>
 <a><![CDATA[<b>cashew (nut)</b> /ˈkæʃ.uː/ /kəˈʃuː/<snd>snds/ukcartr013.mp3</snd>]]></a>
+</item>
+
+<item id="1477003805" tmtrpt="2314" stmtrpt="2314" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
+<q><![CDATA[
+(n) the small, round, dark red root of a plant, eaten cooked as a vegetable, especially cold in salads<img>imgs/beet.4563457.jpeg</img>]]></q>
+<a><![CDATA[<b>beetroot</b> /ˈbiːt.ruːt/<snd>snds/ukbeer_006.mp3</snd>]]></a>
+</item>
+
+<item id="1477004140" tmtrpt="2314" stmtrpt="2314" livl="0" rllivl="0" ivl="1" rp="0" gr="3">
+<q><![CDATA[
+(n) a long, thin, pale green vegetable with dark green skin, usually eaten uncooked in salads<img>imgs/cucumber.65734.jpeg</img>]]></q>
+<a><![CDATA[<b>cucumber</b> /ˈkjuː.kʌm.bə(r)/<snd>snds/ukcsa__018.mp3</snd>]]></a>
 </item>
 
 <item id="1476523923" tmtrpt="2315" stmtrpt="2315" livl="1" rllivl="1" ivl="6" rp="1" gr="4">
@@ -12352,15 +12384,7 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 
 <category name="phrasal verbs">
 
-<item id="1472485245" tmtrpt="2313" stmtrpt="2313" livl="0" rllivl="0" ivl="0" rp="26" gr="3">
-<q>
-(phrase) to stay in a place and do nothing while you wait for someone to arrive or something to happen</q>
-<a><![CDATA[<b>wait around/about</b>
-
-<span style="color:#00f">We spent the whole day waiting around for something exciting to happen, but nothing did.</span>]]></a>
-</item>
-
-<item id="1476544764" tmtrpt="2313" stmtrpt="2313" livl="0" rllivl="0" ivl="0" rp="4" gr="3">
+<item id="1476544764" tmtrpt="2313" stmtrpt="2313" livl="0" rllivl="0" ivl="0" rp="4" gr="0">
 <q>
 (phrase) to save something, often money, secretly</q>
 <a><![CDATA[salt sth away
@@ -12527,6 +12551,14 @@ We packed a lot of sightseeing into our weekend in New York.</a>
 <a><![CDATA[<b>take off something</b> /tˈeɪk ˈɒf sˈʌmθɪŋ/
 
 <span style="color:#00f">I’ve decided to take next semester off and travel and write.</span>]]></a>
+</item>
+
+<item id="1472485245" tmtrpt="2314" stmtrpt="2314" livl="0" rllivl="0" ivl="1" rp="26" gr="4">
+<q>
+(phrase) to stay in a place and do nothing while you wait for someone to arrive or something to happen</q>
+<a><![CDATA[<b>wait around/about</b>
+
+<span style="color:#00f">We spent the whole day waiting around for something exciting to happen, but nothing did.</span>]]></a>
 </item>
 
 <item id="1459885945" tmtrpt="2315" stmtrpt="2315" livl="10" rllivl="11" ivl="13" rp="22" gr="4">
