@@ -1,0 +1,701 @@
+<category name="czasowniki nieregular">
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>kurczyć się</b></q>
+<a><b>shrink </b>/ʃrɪŋk/
+<b>shrank</b> /ʃræŋk/
+<b>shrunk</b> /ʃrʌŋk/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>śmierdzieć</b></q>
+<a><b>stink</b> /stɪŋk/
+<b>stank</b> /stæŋk/
+<b>stunk</b> /stʌŋk/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>huśtać</b> <b>się</b>, <b>machać</b> <b>czymś</b></q>
+<a><b>swing</b> /swɪŋ/
+<b>swung</b> /swʌŋ/
+<b>swung</b> /swʌŋ/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>widzieć</b></q>
+<a><b>see</b> /siː/
+<b>saw</b> /sɔː/
+<b>seen</b> /siːn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>kłaść</b>, <b>położyć</b> (2)</q>
+<a><b>lay</b> /leɪ/
+<b>laid</b> /leɪd/
+<b>laid</b> /leɪd/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>tonąć</b> </q>
+<a><b>sink</b> /sɪŋk/
+<b>sank</b> /sæŋk/
+<b>sunk</b> /sʌŋk/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>pośliznąć się</b></q>
+<a><b>slide</b> /slaɪd/
+<b>slid</b> /slɪd/
+<b>slid</b> /slɪd/</a>
+
+<q>
+Podaj trzy formy nieregularne czasownika: <b>wisieć</b></q>
+<a><b>hang</b> /hæŋ/
+<b>hung</b> /hʌŋ/
+<b>hung</b> /hʌŋ/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>rosnąć</b></q>
+<a><b>grow</b> /ɡrəʊ/
+<b>grew</b> /ɡruː/
+<b>grown</b> /ɡrəʊn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>szyć</b></q>
+<a><b>sew</b> /səʊ/
+<b>sewed</b> 
+<b>sewn</b>/<b>sewed</b> /səʊn/...</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>skakać</b></q>
+<a><b>spring</b> /sprɪŋ/
+<b>sprang</b> /spræŋ/
+<b>sprung</b> /sprʌŋ/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>dmuchać</b></q>
+<a><b>blow</b> /bləʊ/
+<b>blew</b> /bluː/
+<b>blown</b> /bləʊn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>oświetlać</b>, <b>zapalać</b></q>
+<a><b>light</b> /laɪt/
+<b>lit</b> /lɪt/
+<b>lit</b> /lɪt/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>śpiewać</b></q>
+<a><b>sing</b> /sɪŋ/
+<b>sang</b> /sæŋ/
+<b>sung</b> /sʌŋ/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>wybaczyć</b> </q>
+<a><b>forgive</b> /fəˈgɪv/
+<b>forgave</b> /fəˈgeɪv/
+<b>forgiven</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>gubić</b></q>
+<a><b>lose</b> /luːz/
+<b>lost</b> /lɒst/
+<b>lost</b> /lɒst/</a>
+
+<q>
+Podaj trzy formy nieregularne czasownika: <b>mówić</b> (2)</q>
+<a><b>say</b> /seɪ/
+<b>said</b> /sed/
+<b>said</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>rzucać</b></q>
+<a><b>throw</b> /θrəʊ/
+<b>threw</b> /θruː/
+<b>thrown</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>kroić</b></q>
+<a><b>cut</b> /kʌt/
+<b>cut</b>
+<b>cut</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>pokazywać</b></q>
+<a><b>show</b> /ʃəʊ/
+<b>showed</b>                
+<b>shown</b>/<b>showed</b> /ʃəʊn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>dawać</b></q>
+<a><b>give</b> /gɪv/
+<b>gave</b> /geɪv/
+<b>given</b> /ˈɡɪv.ən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>świecić</b>, <b>zabłysnąć</b> </q>
+<a><b>shine</b> /ʃaɪn/
+<b>shone</b> /ʃɒn/
+<b>shone</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>wygrać</b></q>
+<a><b>win</b> /wɪn/
+<b>won</b> /wɒn/
+<b>won</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>bić</b></q>
+<a><b>beat</b> /biːt/
+<b>beat</b> /biːt/
+<b>beaten</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>zapomnieć</b></q>
+<a><b>forget</b>  /fəˈget/
+<b>forgot</b> /fəˈgɒt/
+<b>forgotten</b> /fəˈgɒtən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>jechać</b></q>
+<a><b>drive</b> /draɪv/
+<b>drove</b> /drəʊv/
+<b>driven</b> /ˈdrɪv.ən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>zamykać</b></q>
+<a><b>shut</b> /ʃʌt/
+<b>shut</b>
+<b>shut</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>lecieć</b></q>
+<a><b>fly</b> /flaɪ/
+<b>flew</b> /fluː/
+<b>flown</b> /fləʊn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>stać</b></q>
+<a><b>stand</b> /stænd/
+<b>stood</b> /stʊd/
+<b>stood</b> /stʊd/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>zakładać</b> <b>się</b></q>
+<a><b>bet</b> /bet/
+<b>bet</b>
+<b>bet</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>ranić</b></q>
+<a><b>hurt</b> /hɜːt/
+<b>hurt</b>
+<b>hurt</b></a>
+
+<q>
+Podaj trzy formy nieregularne czasownika: <b>nosić</b>, <b>mieć na sobie</b></q>
+<a><b>wear</b> /weər/
+<b>wore</b> /wɔːr/
+<b>worn</b> /wɔːn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>tłuc</b>, <b>połamać</b> </q>
+<a><b>break</b> /breɪk/
+<b>broke</b> /brəʊk/
+<b>broken</b> /ˈbrəʊ.kən/</a>
+
+<q>
+Podaj trzy formy nieregularne czasownika: <b>zostawać</b></q>
+<a><b>become</b> /bɪˈkʌm/
+<b>became</b> /bɪˈkeɪm/
+<b>become</b> /bɪˈkʌm/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>pić</b></q>
+<a><b>drink</b> /drɪŋk/
+<b>drank</b> /dræŋk/
+<b>drunk</b> /drʌŋk/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>rozrywać</b></q>
+<a><b>burst</b> /bɜːst/
+<b>burst</b>
+<b>burst</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>przygotować</b>, <b>ustawić</b></q>
+<a><b>set</b> /set/
+<b>set</b>
+<b>set</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>kląć</b>, <b>przeklinać</b></q>
+<a><b>swear</b> /sweər/
+<b>swore</b> /swɔːr/
+<b>sworn</b> /swɔːn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>szukać</b>, <b>aportować</b></q>
+<a><b>seek</b> /siːk/
+<b>sought</b> /sɔːt/
+<b>sought</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>dzielić</b>, <b>rozdzielić</b></q>
+<a><b>split</b> /splɪt/
+<b>split</b> /splɪt/
+<b>split</b> /splɪt/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>przychodzić</b>, <b>przyjeżdżać</b> </q>
+<a><b>come</b> /kʌm/
+<b>came</b> /keɪm/
+<b>come</b> /kʌm/</a>
+
+<q>
+Podaj trzy formy nieregularne czasownika: <b>być</b></q>
+<a><b>be</b> /biː/
+<b>was</b>/<b>were</b> /wɒz/ /wɜr/
+<b>been</b> /biːn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>upaść</b>, <b>spadać</b></q>
+<a><b>fall</b> /fɔːl/
+<b>fell</b> /fel/
+<b>fallen</b> /ˈfɔː.lən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>kłaść</b>, <b>wsadzić</b></q>
+<a><b>put</b> /pʊt/
+<b>put</b>
+<b>put</b></a>
+
+<q>
+Podaj trzy formy nieregularne czasownika: <b>zaczynać</b></q>
+<a><b>begin</b> /bɪˈgɪn/
+<b>began</b> /bɪˈgæn/
+<b>begun</b> /bɪˈgʌn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>sprzedać</b></q>
+<a><b>sell</b> /sel/
+<b>sold</b> /səʊld/
+<b>sold</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>prowadzić</b> (2)</q>
+<a><b>lead</b> /liːd/
+<b>led</b> /led/
+<b>led</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>schować</b></q>
+<a><b>hide</b> /haɪd/
+<b>hid</b>       
+<b>hidden</b> /ˈhɪd.ən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>rwać</b>, <b>drzeć</b></q>
+<a><b>tear</b> /teər/
+<b>tore</b> /tɔːr/
+<b>torn</b> /tɔːn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>karmić</b></q>
+<a><b>feed</b> /fiːd/
+<b>fed</b> /fed/
+<b>fed</b> /fed/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>gryźć</b>, <b>kąsać</b></q>
+<a><b>bite</b> /baɪt/
+<b>bit</b> /bɪt/
+<b>bitten</b> /ˈbɪt.ən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>trzymać</b>, <b>zachowywać</b></q>
+<a><b>keep</b> /kiːp/
+<b>kept</b> /kept/
+<b>kept</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>klęczeć</b></q>
+<a><b>kneel</b> /niːl/
+<b>knelt</b>
+<b>knelt</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>znaleźć</b> </q>
+<a><b>find</b> /faɪnd/
+<b>found</b> /faʊnd/
+<b>found</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>rosnąć</b> </q>
+<a><b>rise</b> /raɪz/
+<b>rose</b> /rəʊz/
+<b>risen</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika:  <b>skradać się</b>, <b>czołgać się</b>, <b>pełzać</b>.</q>
+<a><b>creep</b> /kriːp/
+<b>crept</b> /krept/
+<b>crept</b> /krept/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>uciekać</b>, <b>zbiec</b></q>
+<a><b>flee</b> /fliː/
+<b>fled</b> /fled/
+<b>fled</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>rozsmarować</b>, <b>rozszerzać</b></q>
+<a><b>spread</b> /spred/
+<b>spread</b>
+<b>spread</b></a>
+
+<q>
+Podaj trzy formy nieregularne czasownika: <b>dzwonić</b></q>
+<a><b>ring</b> /rɪŋ/
+<b>rang</b> /ræŋ/
+<b>rung</b> /rʌŋ/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>wybierać</b></q>
+<a><b>choose</b> /tʃuːz/
+<b>chose</b> /tʃəʊz/
+<b>chosen</b> /ˈtʃəʊzən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>strzelać</b>, <b>wystrzelić</b></q>
+<a><b>shoot</b> /ʃuːt/
+<b>shot</b> /ʃɒt/
+<b>shot</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>rozdzielać</b>, <b>dotyczyć</b>, <b>traktować</b></q>
+<a><b>deal</b> /dɪəl/
+<b>dealt</b> /delt/
+<b>dealt</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>walczyć</b></q>
+<a><b>fight</b> /faɪt/
+<b>fought</b> /fɔːt/
+<b>fought</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>kraść</b></q>
+<a><b>steal</b> /stiːl/
+<b>stole</b> /stəʊl/
+<b>stolen</b> /ˈstəʊ.lən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>trząść</b>, <b>wstrząsnąć</b> </q>
+<a><b>shake</b> /ʃeɪk/
+<b>shook</b> /ʃʊk/
+<b>shaken</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>siadać</b>
+</q>
+<a><b>sit</b> /sɪt/
+<b>sat</b> /sæt/
+<b>sat</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>słyszeć</b></q>
+<a><b>hear</b> /hɪər/
+<b>heard</b> /hˈɜːd/
+<b>heard</b> /hˈɜːd/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>biec</b></q>
+<a><b>run</b> /rʌn/ 
+<b>ran</b> /ræn/
+<b>run</b> /rʌn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>wychodzić</b></q>
+<a><b>leave</b> /liːv/
+<b>left</b> /left/
+<b>left</b></a>
+
+<q>
+Podaj trzy formy nieregularne czasownika: <b>kłuć</b></q>
+<a><b>sting</b> /strɪŋ/
+<b>stung</b> /stʌŋ/
+<b>stung</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>kopać</b></q>
+<a><b>dig</b> /dɪɡ/
+<b>dug</b> /dʌɡ/
+<b>dug</b> /dʌɡ/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>rysować</b></q>
+<a><b>draw</b> /drɔː/
+<b>drew</b> /druː/
+<b>drawn</b> /drɔːn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>jeździć konno</b></q>
+<a><b>ride</b> /raɪd/
+<b>rode</b> /rəʊd/
+<b>ridden</b> /ˈrɪd.ən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>wtykać</b>, <b>przyklejać</b> </q>
+<a><b>stick</b> /stɪk/
+<b>stuck</b> /stʌk/
+<b>stuck</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>dostać</b></q>
+<a><b>get</b> /ɡet/
+<b>got</b> /ɡɒt/
+<b>got</b> (w USA <b>gotten</b>)</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>oznaczać</b>, <b>mieć</b> <b>na</b> <b>myśli</b></q>
+<a><b>mean</b> /miːn/
+<b>meant</b>
+<b>meant</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>zamiatać</b></q>
+<a><b>sweep</b> /swip/
+<b>swept</b> /swept/
+<b>swept</b></a>
+
+<q> 
+Podaj 3 formy nieregularne czasownika: <b>zakazywać</b></q>
+<a><b>forbid</b> /fəˈbɪd/
+<b>forbade</b> /fəˈbæd/
+<b>forbidden</b> /fəbˈɪdən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>uderzyć</b> (2)</q>
+<a><b>strike</b> /straɪk/
+<b>struck</b> /strʌk/
+<b>struck</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>pożyczać (komuś)</b></q>
+<a><b>lend</b> /lend/
+<b>lent</b> /lent/
+<b>lent</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>płakać</b></q>
+<a><b>weep</b> /wiːp/
+<b>wept</b> /wept/
+<b>wept</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>łapać</b></q>
+<a><b>catch</b> /kætʃ/
+<b>caught</b> /kɔːt/
+<b>caught</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>przynosić</b></q>
+<a><b>bring</b> /brɪŋ/
+<b>brought</b> /brɔːt/
+<b>brought</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>uderzać</b></q>
+<a><b>hit</b> /hɪt/
+<b>hit</b>
+<b>hit</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>pozwalać</b></q>
+<a><b>let</b> /let/
+<b>let</b>
+<b>let</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>kosztować</b></q>
+<a><b>cost</b> /kɒst/
+<b>cost</b>
+<b>cost</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>iść</b></q>
+<a><b>go</b> /ɡəʊ/
+<b>went</b> /went/
+<b>gone</b> /ɡɒn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>jeść</b></q>
+<a><b>eat</b> /iːt/
+<b>ate</b> /eɪt/
+<b>eaten</b> /iː.tən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>pływać</b></q>
+<a><b>swim</b> /swɪm/
+<b>swam</b> /swæm/
+<b>swum</b> /swʌm/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>mrozić</b></q>
+<a><b>freeze</b> /friːz/
+<b>froze</b> /frəʊz/
+<b>frozen</b> /ˈfrəʊ.zən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>myśleć</b></q>
+<a><b>think</b> /θɪŋk/
+<b>thought</b> /θɔːt/
+<b>thought</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>uczyć (kogoś)</b></q>
+<a><b>teach</b> /tiːtʃ/
+<b>taught</b> /tɔːt/
+<b>taught</b> /tɔːt/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>spać</b></q>
+<a><b>sleep</b> /sliːp/
+<b>slept</b> /slept/
+<b>slept</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>leżeć</b> (3)</q>
+<a><b>lie</b> /laɪ/
+<b>lay</b> /leɪ/
+<b>lain </b>/leɪn/</a>
+
+<q>
+Podaj 3 formy czasownika nieregularnego: <b>zaginać</b>, <b>zginać</b> <b>coś</b></q>
+<a><b>bend</b> /bend/
+<b>bent</b> /bent/
+<b>bent</b> /bent/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>czuć</b></q>
+<a><b>feel</b> /fiːl/
+<b>felt</b> /felt/
+<b>felt</b> /felt/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>robić</b></q>
+<a><b>make</b> /meɪk/
+<b>made</b> /meɪd/
+<b>made</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>opowiadać</b></q>
+<a><b>tell</b> /tel/
+<b>told</b> /təʊld/
+<b>told</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>pluć</b></q>
+<a><b>spit</b> /spɪt/
+<b>spat</b> /spæt/
+<b>spat</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>trzymać</b></q>
+<a><b>hold</b> /həʊld/
+<b>held</b> /held/
+<b>held</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>mieć</b></q>
+<a><b>have</b> <u>strong</u> /hæv/ <u>weak</u> /həv/ /əv/
+<b>had</b> <u>strong</u> /hæd/ <u>weak</u> /həd/ /əd/
+<b>had</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>budzić się</b></q>
+<a><b>wake</b> /weɪk/
+<b>woke</b> /wəʊk/
+<b>woken</b> /ˈwəʊkən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>spotkać</b></q>
+<a><b>meet</b> /miːt/
+<b>met</b> /met/
+<b>met</b></a>
+
+<q>
+Podaj trzy formy nieregularne czasownika: <b>płacić</b></q>
+<a><b>pay</b> /peɪ/
+<b>paid</b> /peɪd/
+<b>paid</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>wydawać pieniądze</b>, <b>spędzać czas</b></q>
+<a><b>spend</b> /spend/
+<b>spent</b> /spent/
+<b>spent</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>wiedzieć</b></q>
+<a><b>know</b> /nəʊ/
+<b>knew</b> /njuː/
+<b>known</b> /nəʊn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>wysyłać</b></q>
+<a><b>send</b> /send/
+<b>sent</b> /sent/
+<b>sent</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>mówić</b></q>
+<a><b>speak</b> /spiːk/
+<b>spoke</b> /spəʊk/
+<b>spoken</b> /ˈspəʊ.kən/</a>
+
+<q>
+Podaj trzy formy nieregularne czasownika: <b>brać</b></q>
+<a><b>take</b> /teɪk/
+<b>took</b> /tʊk/
+<b>taken</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>nadawać</b>, <b>emitować</b></q>
+<a><b>broadcast</b> /ˈbrɔːd.kɑːst/
+<b>broadcast</b>
+<b>broadcast</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>rozumieć</b></q>
+<a><b>understand</b> /ˌʌn.dəˈstænd/
+<b>understood</b> /ˌʌndəˈstʊd/
+<b>understood</b></a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>czytać</b></q>
+<a><b>read</b> /riːd/
+<b>read</b> /red/
+<b>read</b> /red/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>pisać</b></q>
+<a><b>write</b> /raɪt/
+<b>wrote</b> /rəʊt/
+<b>written</b> /ˈrɪt.ən/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>robić</b></q>
+<a><b>do</b> /du/
+<b>did</b> /dɪd/
+<b>done</b> /dʌn/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>budować</b></q>
+<a><b>build</b> /bɪld/
+<b>built</b> /bɪlt/
+<b>built</b> /bɪlt/</a>
+
+<q>
+Podaj 3 formy nieregularne czasownika: <b>kupić</b></q>
+<a><b>buy</b> /baɪ/
+<b>bought</b> /bɔːt/
+<b>bought</b> /bɔːt/</a>
+
+</category>
+
