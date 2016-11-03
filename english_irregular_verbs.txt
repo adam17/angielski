@@ -44,7 +44,7 @@ What is the past participle of <b>hide</b>? /haɪd/<snd>snds/hide__gb_1.mp3</snd
 
 <q>
 What is the past tense of <b>hang</b>? /hæŋ/<snd>snds/hang__gb_1.mp3</snd></q>
-<a>hung /hʌŋ/<snd>snds/hung__gb_1.mp3</snd></a>
+<a><b>hung</b> /hʌŋ/<snd>snds/hung__gb_1.mp3</snd></a>
 
 <q>
 What is the past participle of <b>wake</b>? /weɪk/<snd>snds/wake__gb_1.mp3</snd></q>
@@ -137,7 +137,7 @@ What is the past participle of <b>draw</b>? /drɔː/<snd>snds/draw.mp3</snd></q>
 
 <q>
 What is the past participle of <b>speed</b>? /spiːd/<snd>snds/speed__gb_1.mp3</snd></q>
-<a><b>speeded</b> or <b>sped</b> /sped/<snd>snds/sped__gb_1.mp3</snd></a>
+<a><b>speeded</b> /spˈiːdɪd/ or <b>sped</b> /sped/<snd>snds/sped__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>win</b>? /wɪn/<snd>snds/win__gb_1.mp3</snd></q>
@@ -169,7 +169,7 @@ What is the past participle of <b>let</b>? /let/<snd>snds/let__gb_1.mp3</snd></q
 
 <q>
 What is the past tense of <b>spoil</b>? /spɔɪl/<snd>snds/spoil__gb_1.mp3</snd></q>
-<a><b>spoiled</b> or <b>spoilt</b> /spɔɪlt/<snd>snds/spoilt__gb_1.mp3</snd></a>
+<a><b>spoiled</b> /spˈɔɪld/ or <b>spoilt</b> /spɔɪlt/<snd>snds/spoilt__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>cling</b>? /klɪŋ/<snd>snds/cling.mp3</snd></q>
@@ -197,7 +197,7 @@ What is the past participle of <b>strike</b>? /straɪk/<snd>snds/strike__gb_1.mp
 
 <q>
 What is the past tense of <b>leap</b>? /liːp/<snd>snds/leap__gb_1.mp3</snd></q>
-<a><b>leapt</b> /lept/ or <b>leaped</b><snd>snds/leapt__gb_1.mp3</snd></a>
+<a><b>leapt</b> /lept/ or <b>leaped</b> /lˈiːpt/<snd>snds/leapt__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>swim</b>? /swɪm/<snd>snds/swim__gb_1.mp3</snd></q>
@@ -238,7 +238,7 @@ What is the past participle of <b>see</b>? /siː/<snd>snds/see__gb_1.mp3</snd></
 
 <q>
 What is the past participle of <b>spill</b>? /spɪl/<snd>snds/spill__gb_1.mp3</snd></q>
-<a><b>spilled</b> or <b>spilt</b> /spɪlt/<snd>snds/spilt__gb_1.mp3</snd></a>
+<a><b>spilled</b> /spˈɪld/ or <b>spilt</b> /spɪlt/<snd>snds/spilt__gb_1.mp3</snd></a>
 
 <q>
 What is the past participle of <b>spring</b>? /sprɪŋ/<snd>snds/spring__gb_1.mp3</snd></q>
@@ -246,12 +246,11 @@ What is the past participle of <b>spring</b>? /sprɪŋ/<snd>snds/spring__gb_1.mp
 
 <q>
 What is the past participle of <b>be</b>? /biː/<snd>snds/ukazt__003.mp3</snd></q>
-<a><b>been</b>
-/biːn/<snd>snds/been__gb_1.mp3</snd></a>
+<a><b>been </b>/biːn/<snd>snds/been__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>spell</b>? /spel/<snd>snds/spell__gb_1.mp3</snd></q>
-<a><b>spelled</b> or <b>spelt</b> /spelt/<snd>snds/spelt__gb_1.mp3</snd></a>
+<a><b>spelled</b> /spˈɛld/ or <b>spelt</b> /spelt/<snd>snds/spelt__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>come</b>? /kʌm/<snd>snds/come.mp3</snd></q>
@@ -263,7 +262,7 @@ What is the past tense of <b>wear</b>? /weə(r)/<snd>snds/wear__gb_1.mp3</snd></
 
 <q>
 What is the past tense of <b>smell</b>? /smel/<snd>snds/smell__gb_1.mp3</snd></q>
-<a><b>smelled</b> or <b>smelt</b> /smelt/<snd>snds/smelt__gb_1.mp3</snd></a>
+<a><b>smelled</b> /smˈɛld/ or <b>smelt</b> /smelt/<snd>snds/smelt__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>meet</b>? /miːt/<snd>snds/meet__gb_1.mp3</snd></q>
@@ -271,7 +270,7 @@ What is the past tense of <b>meet</b>? /miːt/<snd>snds/meet__gb_1.mp3</snd></q>
 
 <q>
 What is the past tense of <b>show</b>? /ʃəʊ/<snd>snds/show__gb_1.mp3</snd></q>
-<a><b>showed</b>/ʃˈəʊd/</a>
+<a><b>showed </b>/ʃˈəʊd/</a>
 
 <q>
 What is the past participle of <b>hit</b>? /hɪt/<snd>snds/hit__gb_1.mp3</snd></q>
@@ -307,7 +306,7 @@ What is the past tense of <b>bleed</b>? /bliːd/<snd>snds/bleed.mp3</snd></q>
 
 <q>
 What is the past tense of <b>lean</b>? /liːn/<snd>snds/lean__gb_1.mp3</snd></q>
-<a><b>leaned</b> or <b>leant</b>/lent/<snd>snds/leant__gb_1.mp3</snd></a>
+<a><b>leaned</b> /lˈiːnd/ or <b>leant </b>/lent/<snd>snds/leant__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>swear</b>? /sweə(r)/<snd>snds/swear__gb_1.mp3</snd></q>
@@ -319,7 +318,7 @@ What is the past tense of <b>cut</b>? /kʌt/<snd>snds/cut.mp3</snd></q>
 
 <q>
 What is the past participle of <b>spell</b>? /spel/<snd>snds/spell__gb_1.mp3</snd></q>
-<a><b>spelled</b> or <b>spelt</b> /spelt/<snd>snds/spelt__gb_1.mp3</snd></a>
+<a><b>spelled</b> /spˈɛld/ or <b>spelt</b> /spelt/<snd>snds/spelt__gb_1.mp3</snd></a>
 
 <q>
 What is the past participle of <b>mean</b>? /miːn/<snd>snds/mean__gb_1.mp3</snd></q>
@@ -363,7 +362,7 @@ What is the past tense of <b>shut</b>? /ʃʌt/<snd>snds/shut__gb_1.mp3</snd></q>
 
 <q>
 What is the past participle of <b>lean</b>? /liːn/<snd>snds/lean__gb_1.mp3</snd></q>
-<a><b>leaned</b> or <b>leant</b>/lent/<snd>snds/leant__gb_1.mp3</snd></a>
+<a><b>leaned</b> /lˈiːnd/ or <b>leant </b>/lent/<snd>snds/leant__gb_1.mp3</snd></a>
 
 <q>
 What is the past participle of <b>have</b>? /həv/<snd>snds/have__gb_1.mp3</snd></q>
@@ -371,8 +370,7 @@ What is the past participle of <b>have</b>? /həv/<snd>snds/have__gb_1.mp3</snd>
 
 <q>
 What is the past participle of <b>arise</b>? /əˈraɪz/<snd>snds/ukargyb006.mp3</snd></q>
-<a><b>arisen</b>
-/əˈrɪzn/<snd>snds/arisen__gb_1.mp3</snd></a>
+<a><b>arisen </b>/əˈrɪzn/<snd>snds/arisen__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>find</b>? /faɪnd/<snd>snds/find.mp3</snd></q>
@@ -396,7 +394,7 @@ What is the past tense of <b>tear</b>? /teə(r)/<snd>snds/tear__gb_1.mp3</snd></
 
 <q>
 What is the past participle of <b>burn</b>? /bɜːn/<snd>snds/burn.mp3</snd></q>
-<a><b>burned</b> or <b>burnt</b> /bɜːnt/<snd>snds/burnt.mp3</snd></a>
+<a><b>burned</b> /bˈɜːnd/ or <b>burnt</b> /bɜːnt/<snd>snds/burnt.mp3</snd></a>
 
 <q>
 What is the past tense of <b>know</b>? /nəʊ/<snd>snds/know__gb_1.mp3</snd></q>
@@ -428,7 +426,7 @@ What is the past participle of <b>deal</b>? /diːl/<snd>snds/deal.mp3</snd></q>
 
 <q>
 What is the past participle of <b>leap</b>? /liːp/<snd>snds/leap__gb_1.mp3</snd></q>
-<a><b>leapt</b> /lept/ or <b>leaped</b><snd>snds/leapt__gb_1.mp3</snd></a>
+<a><b>leapt</b> /lept/ or <b>leaped</b> /lˈiːpt/<snd>snds/leapt__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>catch</b>? /kætʃ/<snd>snds/catch.mp3</snd></q>
@@ -444,7 +442,7 @@ What is the past tense of <b>throw</b>? /θrəʊ/<snd>snds/throw__gb_1.mp3</snd>
 
 <q>
 What is the past participle of <b>spit</b>? /spɪt/<snd>snds/spit__gb_1.mp3</snd></q>
-<a><b>spat</b> /spæt/ or <b>spit</b> (in America)<snd>snds/spat__gb_2.mp3</snd></a>
+<a><b>spat</b> /spæt/ or <b>spit</b> /spɪt/ (in America)<snd>snds/spat__gb_2.mp3</snd></a>
 
 <q>
 What is the past tense of <b>kneel</b>? /niːl/<snd>snds/kneel__gb_1.mp3</snd></q>
@@ -480,7 +478,7 @@ What is the past tense of <b>bet</b>? /bet/<snd>snds/bet.mp3</snd></q>
 
 <q>
 What is the past tense of <b>burn</b>? /bɜːn/<snd>snds/burn.mp3</snd></q>
-<a><b>burnt</b> /bɜːnt/ or <b>burned</b><snd>snds/burnt.mp3</snd></a>
+<a><b>burnt</b> /bɜːnt/ or <b>burned</b> /bˈɜːnd/<snd>snds/burnt.mp3</snd></a>
 
 <q>
 What is the past tense of <b>see</b>? /siː/<snd>snds/see__gb_1.mp3</snd></q>
@@ -569,12 +567,11 @@ What is the past tense of <b>lead</b>? /liːd/<snd>snds/lead__gb_1.mp3</snd></q>
 
 <q>
 What is the past tense of <b>speed</b>? /spiːd/<snd>snds/speed__gb_1.mp3</snd></q>
-<a><b>speeded</b> or <b>sped</b> /sped/<snd>snds/sped__gb_1.mp3</snd></a>
+<a><b>speeded</b> /spˈiːdɪd/ or <b>sped</b> /sped/<snd>snds/sped__gb_1.mp3</snd></a>
 
 <q>
 What is the past participle of <b>say</b>? /seɪ/<snd>snds/say__gb_1.mp3</snd></q>
-<a><b>said</b> 
-/sed/<snd>snds/said__gb_1.mp3</snd></a>
+<a><b>said</b> /sed/<snd>snds/said__gb_1.mp3</snd></a>
 
 <q>
 What is the past participle of <b>drink</b>? /drɪŋk/<snd>snds/drink.mp3</snd></q>
@@ -602,11 +599,11 @@ What is the past participle of <b>sit</b>? /sɪt/<snd>snds/sit__gb_1.mp3</snd></
 
 <q>
 What is the past tense of <b>dream</b>? /driːm/<snd>snds/dream.mp3</snd></q>
-<a><b>dreamed</b> or <b>dreamt</b></a>
+<a><b>dreamed</b> /dɹˈiːmd/ or <b>dreamt</b> /dɹˈɛmpt/</a>
 
 <q>
 What is the past participle of <b>spoil</b>? /spɔɪl/<snd>snds/spoil__gb_1.mp3</snd></q>
-<a><b>spoiled</b> or <b>spoilt</b> /spɔɪlt/<snd>snds/spoilt__gb_1.mp3</snd></a>
+<a><b>spoiled</b> /spˈɔɪld/ or <b>spoilt</b> /spɔɪlt/<snd>snds/spoilt__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>shine</b>? /ʃaɪn/<snd>snds/shine__gb_1.mp3</snd></q>
@@ -720,7 +717,7 @@ What is the past tense of <b>be</b>? /biː/<snd>snds/ukazt__003.mp3</snd></q>
 
 <q>
 What is the past tense of <b>learn</b>? /lɜːn/<snd>snds/learn__gb_1.mp3</snd></q>
-<a><b>learnt</b> /lɜːnt/ or <b>learned</b><snd>snds/learnt__gb_1.mp3</snd></a>
+<a><b>learnt</b> /lɜːnt/ or <b>learned</b> /lˈɜːnd/<snd>snds/learnt__gb_1.mp3</snd></a>
 
 <q>
 What is the past participle of <b>stick</b>? /stɪk/<snd>snds/stick__gb_1.mp3</snd></q>
@@ -748,7 +745,7 @@ What is the past participle of <b>bet</b>? /bet/<snd>snds/bet.mp3</snd></q>
 
 <q>
 What is the past tense of <b>spill</b>? /spɪl/<snd>snds/spill__gb_1.mp3</snd></q>
-<a><b>spilled</b> or <b>spilt</b> /spɪlt/<snd>snds/spilt__gb_1.mp3</snd></a>
+<a><b>spilled</b> /spˈɪld/ or <b>spilt</b> /spɪlt/<snd>snds/spilt__gb_1.mp3</snd></a>
 
 <q>
 What is the past participle of <b>wear</b>? /weə(r)/<snd>snds/wear__gb_1.mp3</snd></q>
@@ -764,7 +761,7 @@ What is the past tense of <b>grind</b>? /ɡraɪnd/<snd>snds/grind__gb_1.mp3</snd
 
 <q>
 What is the past tense of <b>spread</b>? /spred/<snd>snds/spread__gb_1.mp3</snd></q>
-<a>spread /spred/<snd>snds/spread__gb_1.mp3</snd></a>
+<a><b>spread</b> /spred/<snd>snds/spread__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>drink</b>? /drɪŋk/<snd>snds/drink.mp3</snd></q>
@@ -788,7 +785,7 @@ What is the past tense of <b>begin</b>? /bɪˈgɪn/<snd>snds/ukbeer_022.mp3</snd
 
 <q>
 What is the past participle of <b>smell</b>? /smel/<snd>snds/smell__gb_1.mp3</snd></q>
-<a><b>smelled</b> or <b>smelt</b> /smelt/<snd>snds/smelt__gb_1.mp3</snd></a>
+<a><b>smelled</b> /smˈɛld/ or <b>smelt</b> /smelt/<snd>snds/smelt__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>lend</b>? /lend/<snd>snds/lend__gb_1.mp3</snd></q>
@@ -913,7 +910,7 @@ What is the past tense of <b>hurt</b>? /hɜːt/<snd>snds/hurt__gb_1.mp3</snd></q
 
 <q>
 What is the past participle of <b>learn</b>? /lɜːn/<snd>snds/learn__gb_1.mp3</snd></q>
-<a><b>learnt</b> /lɜːnt/ or <b>learned</b><snd>snds/learnt__gb_1.mp3</snd></a>
+<a><b>learnt</b> /lɜːnt/ or <b>learned</b> /lˈɜːnd/<snd>snds/learnt__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>hit</b>? /hɪt/<snd>snds/hit__gb_1.mp3</snd></q>
@@ -945,7 +942,7 @@ What is the past participle of <b>grow</b>? /ɡrəʊ/<snd>snds/grow__gb_1.mp3</s
 
 <q>
 What is the past participle of <b>hang</b>? /hæŋ/<snd>snds/hang__gb_1.mp3</snd></q>
-<a>hung /hʌŋ/<snd>snds/hung__gb_1.mp3</snd></a>
+<a><b>hung</b> /hʌŋ/<snd>snds/hung__gb_1.mp3</snd></a>
 
 <q>
 What is the past participle of <b>feed</b>? /fiːd/<snd>snds/feed.mp3</snd></q>
@@ -970,7 +967,7 @@ What is the past tense of <b>steal</b>? /stiːl/<snd>snds/steal__gb_1.mp3</snd><
 
 <q>
 What is the past tense of <b>spit</b>? /spɪt/<snd>snds/spit__gb_1.mp3</snd></q>
-<a><b>spat</b> /spæt/ or <b>spit</b> (in America)<snd>snds/spat__gb_2.mp3</snd></a>
+<a><b>spat</b> /spæt/ or <b>spit</b> /spɪt/ (in America)<snd>snds/spat__gb_2.mp3</snd></a>
 
 <q>
 What is the past tense of <b>sit</b>? /sɪt/<snd>snds/sit__gb_1.mp3</snd></q>
@@ -990,7 +987,7 @@ What is the past tense of <b>write</b>? /raɪt/<snd>snds/write__gb_1.mp3</snd></
 
 <q>
 What is the past participle of <b>dream</b>? /driːm/<snd>snds/dream.mp3</snd></q>
-<a><b>dreamed</b> or <b>dreamt</b> /dɹˈɛmpt/</a>
+<a><b>dreamed</b> /dɹˈiːmd/ or <b>dreamt</b> /dɹˈɛmpt/</a>
 
 <q>
 What is the past participle of <b>speak</b>? /spiːk/<snd>snds/speak__gb_1.mp3</snd></q>
@@ -1014,7 +1011,7 @@ What is the past tense of <b>bend</b>? /bend/<snd>snds/ukbelly015.mp3</snd></q>
 
 <q>
 What is the past participle of <b>spread</b>? /spred/<snd>snds/spread__gb_1.mp3</snd></q>
-<a>spread /spred/<snd>snds/spread__gb_1.mp3</snd></a>
+<a><b>spread</b> /spred/<snd>snds/spread__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>think</b>? /θɪŋk/<snd>snds/think__gb_1.mp3</snd></q>
