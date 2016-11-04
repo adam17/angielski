@@ -2122,7 +2122,7 @@ in a ​lower ​position (than), under; less than a ​particular ​amount or 
 
 <q>
 (n) why you do something or why something exists</q>
-<a>purpose /ˈpɜːpəs/
+<a><b>purpose</b> /ˈpɜːpəs/
 
 <span style="color:#00f">The main purpose of the meeting is to discuss the future of the company. | I didn’t do it on purpose – it was an accident.</span><snd>snds/ukpurit009.mp3</snd></a>
 
@@ -2358,7 +2358,7 @@ handlebars /ˈhæn.dl̩.bɑːz/<snd>snds/ukhandb024.mp3</snd></a>
 
 <q>
 (n) the land that is next to the sea or ocean</q>
-<a>coast /kəʊst/
+<a><b>coast</b> /kəʊst/
 
 <span style="color:#00f">Rimini is a thriving resort on the east coast of Italy. | The accident happened three miles off the coast (= in the sea three miles from land). | We spent a week by/on the coast (= by the sea).</span><snd>snds/ukclutc023.mp3</snd></a>
 
@@ -3040,7 +3040,7 @@ Do you pluck your eyebrows (= remove some of the hairs to change their shape)? |
 <span style="color:#00f">All their toys are made by hand. | I delivered her invitation by hand (= not using the postal service). | Get your hands off (= stop touching) my bike! | He can fix anything - he's so good with his hands. | You have to hold my hand when we cross the road. | They walked by, holding hands. | Hold your fork in your left hand and your knife in your right hand.</span><snd>snds/ukhallw029.mp3</snd></a>
 
 <q>(n) the organ inside the head that controls thought, memory, feelings, and activity<img>imgs/brain.jpeg</img></q>
-<a>brain /breɪn/
+<a><b>brain</b> /breɪn/
 
 <span style="color:#00f">Doctors tried desperately to reduce the swelling in her brain. | The accident left him with permanent brain damage. | His wife died from a brain tumour.</span><snd>snds/ukboyfr024.mp3</snd></a>
 
@@ -3240,7 +3240,7 @@ She had a puzzled expression on her face.</span><snd>snds/ukeyeto017.mp3</snd></
 <span style="color:#00f">an ugly city</span><snd>snds/ukuglin002.mp3</snd></a>
 
 <q>(n) one of the parts of the body of a human or animal that is used for standing and walking<img>imgs/leg.jpg</img></q>
-<a>leg /leɡ/
+<a><b>leg</b> /leɡ/
 
 <span style="color:#00f">My legs are tired after so much walking. | He broke his leg in the accident. | There were cuts on her arms and legs. | She had bare legs and wore only a light summer dress.</span><snd>snds/ukledge021.mp3</snd></a>
 
@@ -3370,9 +3370,9 @@ He was shot in the chest at point blank range. | He folded his arms across his c
 <a>stand up</a>
 
 <q>(n)  the red liquid that is sent around the body by the heart, and carries oxygen and important substances to organs and tissue, and removes waste products<img>imgs\blood.jpeg</img></q>
-<a>blood /blʌd/
+<a><b>blood</b> /blʌd/
 
-<span style="color:#00f">He lost a lot of blood in the accident.</span><snd>snds\ukbliss026.mp3</snd></a>
+<span style="color:#00f">He lost a lot of blood in the accident.</span><snd>snds/ukbliss026.mp3</snd></a>
 
 <q>
 (n) one of the two organs inside your chest that are used for breathing<img>imgs\lung.jpg</img></q>
@@ -3440,7 +3440,7 @@ He was shot in the chest at point blank range. | He folded his arms across his c
 
 <q>
 (adj) not able to see</q>
-<a>blind /blaɪnd/
+<a><b>blind</b> /blaɪnd/
 
 <span style="color:#00f">She went blind after an accident. | This project provides guide dogs for the blind.</span><snd>snds/ukbleep018.mp3</snd></a>
 
@@ -3983,9 +3983,9 @@ We’re having a meeting on Thursday to discuss the problem. | He’s in a meeti
 
 <q>
 (n) when a vehicle hits something and causes injury or damage<img>imgs\accident.jpeg</img></q>
-<a>accident /ˈæk.sɪ.dənt/
+<a><b>accident</b> /ˈæk.sɪ.dənt/
 
-<span style="color:#00f">She was injured in a car/road accident (= when one car hit another).</span><snd>snds\ukacces002.mp3</snd></a>
+<span style="color:#00f">She was injured in a car/road accident (= when one car hit another).</span><snd>snds/ukacces002.mp3</snd></a>
 
 <q>
 (v) to get free rides in other people’s cars by waiting next to the road<img>imgs\hitchhike.jpg</img></q>
@@ -5330,9 +5330,9 @@ Government ​programs for the ​unemployed will ​place new emphasis on ​tr
 
 <q>
 (n) something you do to get money OR the place where you go to do your job</q>
-<a>work /wɜːk/
+<a><b>work</b> /wɜːk/
 
-<span style="color:#00f">Has she found any work yet? | He had an accident at work.</span><snd>snds\ukwordp005.mp3</snd></a>
+<span style="color:#00f">Has she found any work yet? | He had an accident at work.</span><snd>snds/ukwordp005.mp3</snd></a>
 
 <q>
 (v) to employ someone or pay them to do a particular job</q>
@@ -5582,7 +5582,7 @@ She was banned from driving for two ​years. | ban the use of chemicals</span><
 
 <q>
 (n) (an ​event that ​results in) ​great ​harm, ​damage, or ​death, or ​serious ​difficulty</q>
-<a>disaster /dɪˈzɑː.stər/
+<a><b>disaster</b> /dɪˈzɑː.stər/
 
 <span style="color:#00f">An ​inquiry was ​ordered into the ​recent ​rail disaster (= a ​serious ​train ​accident). | It would be a disaster for me if I ​lost my ​job. | This is one of the ​worst ​natural disasters ​ever to ​befall the ​area. | Heavy and ​prolonged ​rain can ​spell disaster for many ​plants. | Everything was going ​smoothly until ​suddenly disaster ​struck. | Inviting James and Ivan to ​dinner on the same ​evening was a ​recipe for disaster (= ​caused a very ​difficult ​situation) - they always ​argue with each other.</span><snd>snds/ukdisap010.mp3</snd></a>
 
@@ -5738,7 +5738,7 @@ Everest is the highest mountain in the world. | She’s travelled all over the w
 
 <q>
 (v) to ​damage something so ​badly that it cannot be used</q>
-<a>destroy /dɪˈstrɔɪ/
+<a><b>destroy</b> /dɪˈstrɔɪ/
 
 <span style="color:#00f">Most of the ​old ​part of the ​city was destroyed by ​bombs during the ​war. | The ​accident ​seemed to have ​completely/​totally destroyed his ​confidence.</span><snd>snds/ukdespo019.mp3</snd></a>
 
@@ -5883,7 +5883,7 @@ Do you ​feel/get nervous during ​exams? | I was too nervous to ​speak. | S
 
 <q>
 (v) to make someone worried, unhappy, or angry</q>
-<a>upset /ʌpˈset/
+<a><b>upset</b> /ʌpˈset/
 
 <span style="color:#00f">It still upsets him when he thinks about the accident. | Don't upset yourself by thinking about what might have been.</span><snd>snds/ukuplan021.mp3</snd></a>
 
@@ -7177,6 +7177,46 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <a><b>cabbage</b> /ˈkæb.ɪdʒ/
 
 <span style="color:#03f">a savoy cabbage | red/white cabbage</span><snd>snds/ukbysta012.mp3</snd></a>
+
+</category>
+
+<category name="health">
+
+<q>
+(n) a continuous pain that is unpleasant but not very strong</q>
+<a><b>ache</b> /eɪk/
+
+<span style="color:#03f">As you get older, you have all sorts of aches and pains. | I've got a dull (= slight) ache in my lower back. | earache/a headache/toothache/backache | I've had a stomach ache all morning.</span><snd>snds/ukaceta006.mp3</snd></a>
+
+<q>
+(n) a long, narrow piece of cloth that is tied around an injury or a part of someone's body that has been hurt<img>imgs/bandage.jpeg</img></q>
+<a><b>bandage</b> /ˈbæn.dɪdʒ/
+
+<span style="color:#03f">Ensure the wound is free from dirt before applying the bandage. | She removed the bandage to reveal a red swollen wound. | He wound a small bandage round her finger. | My ankle is rather weak, so I always put a bandage on it to support it when I play tennis. | He came out of the hospital swathed in bandages.</span><snd>snds/ukballs023.mp3</snd></a>
+
+<q>
+(n) an injury or mark where the skin has not been broken but is darker in colour, often as a result of being hit by something<img>imgs/bruise.jpeg</img></q>
+<a><b>bruise</b> /bruːz/
+
+<span style="color:#03f">His arms and back were covered in bruises. | She had a few cuts and bruises but nothing serious. | One or two of the peaches had bruises on them.</span><snd>snds/ukbroug013.mp3</snd></a>
+
+<q>
+(n) a formal arrangement to meet or visit someone at a particular time and place<img>imgs/appointment.jpeg</img></q>
+<a><b>appointment</b> /əˈpɔɪnt.mənt/
+
+<span style="color:#03f">I'd like to make an appointment with Dr Evans, please. | She had to cancel her dental appointment. | [ + to infinitive ] I've got an appointment to see Ms Edwards at two o'clock. | I've got a two o'clock appointment with Ms Edwards. | If he didn't have a secretary to remind him, he wouldn't keep (= remember to be present at) any of his appointments. | That's the second appointment he's missed.</span><snd>snds/ukappen028.mp3</snd></a>
+
+<q>
+(n) something bad that happens that is not expected or intended and that often damages something or injures someone<img>imgs/accident.jpeg</img></q>
+<a><b>accident</b> /ˈæk.sɪ.dənt/
+
+<span style="color:#03f">Josh had an accident and spilled water all over his work. | She was injured in a car/road accident (= when one car hit another).</span><snd>snds/ukacces002.mp3</snd></a>
+
+<q>
+(n) a serious disease that is caused when cells in the body grow in a way that is uncontrolled and not normal, killing normal cells and often causing death<img>imgs/cancer.jpeg</img></q>
+<a><b>cancer</b> /ˈkæn.sə(r)/
+
+<span style="color:#03f">He died of liver cancer. | cancer of the cervix/stomach | breast/bowel/lung cancer | cancer cells | a cancer patient | It was a secondary cancer.</span><snd>snds/ukcamsh013.mp3</snd></a>
 
 </category>
 
