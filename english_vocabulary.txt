@@ -1232,6 +1232,13 @@
 <span style="color:#03f">Helga stuck her posters up with Blu-Tack.</span><snd>snds/ukblunt012.mp3</snd></a>
 
 <q>
+(n) a show of anger, worry, or excitement that is unnecessary or greater than the situation deserves</q>
+<a><b>fuss</b> /fʌs/
+
+<span style="color:#03f">She made such a fuss when Richard spilled a drop of wine on her blouse!
+It's all a fuss about nothing. | I don't see what the fuss is about - he seems like a fairly ordinary-looking guy to me. | We tried to arrange a ceremony with as little fuss as possible.</span><snd>snds/ukfurti010.mp3</snd></a>
+
+<q>
 (v) to speak to people in other organizations, etc. in order to work with them or exchange information with them OR to be the link between two or more people, organizations, etc.</q>
 <a><b>liaise</b> /liˈeɪz/
 
