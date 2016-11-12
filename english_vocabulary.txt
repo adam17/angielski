@@ -3,10 +3,6 @@
 <category name="air_travel">
 
 <q>
-(n) the part of an airport where you wait before you get on a plane</q>
-<a><b>departures</b> /dɪˈpɑː.tʃərz/<snd>snds/departures.mp3</snd></a>
-
-<q>
 (n) a short stay in a place between parts of a journey</q>
 <a><b>stopover</b> /ˈstɒpˌəʊ.vər/
 
@@ -49,6 +45,10 @@
 <q>
 (n) a container made of plastic, leather, or cloth used for carrying things<img>imgs/bag.52345634.jpeg</img></q>
 <a><b>bag</b> /bæɡ/<snd>snds/ukbag__001.mp3</snd></a>
+
+<q>
+(n) the part of an airport where you wait before you get on a plane</q>
+<a><b>departures</b> /dɪˈpɑː.tʃərz/<snd>snds/departures.mp3</snd></a>
 
 <q>
 (n) the bags that you take with you in the cabin, rather than your checked bags [carry-on luggage]</q>
@@ -384,18 +384,6 @@
 <category name="the_animal_world">
 
 <q>
-(n) a bird with large eyes that is active at night<img>imgs\owl.jpeg</img></q>
-<a><b>owl</b> /aʊl/<snd>snds/ukoverw010.mp3</snd></a>
-
-<q>
-(v) to move along the ground, sliding from side to side</q>
-<a>slither /ˈslɪð.ər/<snd>snds/ukslimm022.mp3</snd></a>
-
-<q>
-(n) a black and white bird that lives in very cold places, that can swim but cannot fly.<img>imgs\penguin.jpeg</img></q>
-<a><b>penguin</b> /ˈpeŋɡwɪn/<snd>snds/ukpenet003.mp3</snd></a>
-
-<q>
 (n) an insect that has large wings and is attracted by lights at night<img>imgs\moth.jpeg</img></q>
 <a>moth /mɒθ/
 
@@ -455,6 +443,10 @@
 <a>hibernate /ˈhaɪ.bə.neɪt/
 
 <span style="color:#00f">The turtle hibernates in a shallow burrow for six months of the year.</span><snd>snds/ukhhok_004.mp3</snd></a>
+
+<q>
+(n) a black and white bird that lives in very cold places, that can swim but cannot fly.<img>imgs\penguin.jpeg</img></q>
+<a><b>penguin</b> /ˈpeŋɡwɪn/<snd>snds/ukpenet003.mp3</snd></a>
 
 <q>
 (n) a small animal with a long, thin body, no bones and no legs<img>imgs\worm.jpeg</img></q>
@@ -541,6 +533,10 @@
 <span style="color:#00f">We were trotting along the lane when a car suddenly appeared from nowhere and almost made me fall off my pony.</span><snd>snds/uktropi004.mp3</snd></a>
 
 <q>
+(v) to move along the ground, sliding from side to side</q>
+<a>slither /ˈslɪð.ər/<snd>snds/ukslimm022.mp3</snd></a>
+
+<q>
 (n) a painful mark on your body where an animal, a snake, or an insect has bitten you</q>
 <a>bite /baɪt/<snd>snds/ukbitch002.mp3</snd></a>
 
@@ -587,6 +583,10 @@
 <q>
 (n) a large animal from Asia or Africa with a horn on its nose<img>imgs\white_rhinoceros_1.jpg</img></q>
 <a>rhinoceros /raɪˈnɒs.ər.əs/ <snd>snds/ukrewou020.mp3</snd></a>
+
+<q>
+(n) a bird with large eyes that is active at night<img>imgs\owl.jpeg</img></q>
+<a><b>owl</b> /aʊl/<snd>snds/ukoverw010.mp3</snd></a>
 
 <q>
 (n) a large fish with white flesh<img>imgs\cod.jpeg</img></q>
@@ -984,12 +984,6 @@
 <category name="art_and_photography">
 
 <q>
-(v) to make a detailed plan or drawing that shows how something should be made</q>
-<a>design /dɪˈzaɪn/
-
-<span style="color:#00f">She's an expert on kitchen/software design.</span><span style="color:#00f"> | </span><span style="color:#00f">He's studying design in Paris.</span><snd>snds\ukdescr023.mp3</snd></a>
-
-<q>
 (n) a painting that shows a scene in the countryside<img>imgs/landscape.jpg</img></q>
 <a><b>landscape</b> /ˈlænd.skeɪp/
 
@@ -1018,6 +1012,12 @@
 <a><b>watercolour</b> /ˈwɔː.təˌkʌl.ər/
 
 <span style="color:#00f">I prefer painting with watercolours.</span><span style="color:#00f"> | </span><span style="color:#00f">He has a beautiful collection of watercolours.</span><snd>snds/ukwaspi028.mp3</snd></a>
+
+<q>
+(v) to make a detailed plan or drawing that shows how something should be made</q>
+<a>design /dɪˈzaɪn/
+
+<span style="color:#00f">She's an expert on kitchen/software design.</span><span style="color:#00f"> | </span><span style="color:#00f">He's studying design in Paris.</span><snd>snds\ukdescr023.mp3</snd></a>
 
 <q>
 (n) a public event where you can see art or interesting objects<img>imgs/exhibition.jpg</img></q>
@@ -1226,79 +1226,6 @@
 <category name="inne">
 
 <q>
-(idiom) to ​pay a ​great ​deal of ​attention to the ​details of something, ​especially when you are ​trying to ​complete a ​task</q>
-<a><b>dot the i's and cross the t's</b>
-
-<span style="color:#00f">The ​negotiations are ​nearly ​finished, but we still have to dot the i's and ​cross the t's.</span></a>
-
-<q>
-(adv) many times</q>
-<a><b>often</b> /ˈɒf.tən/
-
-<span style="color:#03f">I often see him in the garden. | How often do you wash your hair? | I don't often drink beer. | It's not often that you meet someone who you're instantly attracted to. | I don't see my parents as often as I'd like to. | Christmas is often mild in this country.</span><snd>snds/ukoffst003.mp3</snd></a>
-
-<q>
-(n) a study in which people are asked for their opinions about a subject or person</q>
-<a><b>poll</b> /pəʊl/
-
-<span style="color:#02f">We're carrying out/conducting a poll to find out what people think about abortion. | The latest opinion poll puts the Democrats in the lead.</span><snd>snds/ukpolar007.mp3</snd></a>
-
-<q>
-(n) the back part of something, especially a building or vehicle. (Latin: <b>retro</b> '<b>back</b>').</q>
-<a><b>rear </b>/rɪə(r)/
-
-<span style="color:#00f">The kitchen door at the rear of the house. | The car's rear window.</span><snd>snds/ukreapp002.mp3</snd></a>
-
-<q>
-(adj) large in ​amount, ​size, ​force, etc.</q>
-<a><b>hefty</b> /ˈhef.ti/
-
-<span style="color:#00f">a hefty ​bill/​fine | Her ​salary will go up by a hefty 13 ​percent. | a hefty ​book ​containing a lot of ​information</span><snd>snds/ukheft_002.mp3</snd></a>
-
-<q>
-(n) (the study and knowledge of) the practical, especially industrial, use of scientific discoveries</q>
-<a><b>technology</b> /tekˈnɒl.ə.dʒi/
-
-<span style="color:#02f">computer technology | Modern technology is amazing, isn't it? | What this country needs is a long-term policy for investment in science and technology.</span><snd>snds/uktechn001.mp3</snd></a>
-
-<q>
-(adj) of great value because of being rare, expensive, or important</q>
-<a><b>precious</b> /ˈpreʃ.əs/
-
-<span style="color:#03f">a precious gift | a precious moment/memory | Clean water is a precious | commodity in many parts of the world. | You're so precious to me.</span><snd>snds/ukpraye022.mp3</snd></a>
-
-<q>
-(n) the process of improving or correcting a situation</q>
-<a><b>remediation</b> /rɪˌmiː.diˈeɪ.ʃən/
-
-<span style="color:#03f">the remediation of reading problems | environmental remediation</span></a>
-
-<q>
-(v) to use something or someone, especially in an effective way</q>
-<a><b>deploy</b> /dɪˈplɔɪ/
-
-<span style="color:#03f">The company is reconsidering the way in which it deploys its resources/staff. | My job doesn't really allow me fully to deploy my skills/talents.</span><snd>snds/ukdepil009.mp3</snd></a>
-
-<q>
-(v) to try to do something</q>
-<a><b>endeavour</b> /enˈdev.ə(r)/
-
-<span style="color:#03f">Engineers are endeavouring to locate the source of the problem.</span><snd>snds/ukencum010.mp3</snd></a>
-
-<q>
-(phrase) to behave in a way that is intended to attract attention or admiration, and that other people often find annoying</q>
-<a><b>show off</b> /ʃˈəʊ ˈɒf/
-
-<span style="color:#03f">She only bought that sports car to show off and prove she could afford one. | He's always showing off to his classmates.</span></a>
-
-<q>
-(n) a show of anger, worry, or excitement that is unnecessary or greater than the situation deserves</q>
-<a><b>fuss</b> /fʌs/
-
-<span style="color:#03f">She made such a fuss when Richard spilled a drop of wine on her blouse!
-It's all a fuss about nothing. | I don't see what the fuss is about - he seems like a fairly ordinary-looking guy to me. | We tried to arrange a ceremony with as little fuss as possible.</span><snd>snds/ukfurti010.mp3</snd></a>
-
-<q>
 (n) a ​record or ​count of a ​number of things<img>imgs\tallytable2.GIF</img></q>
 <a><b>tally</b> /ˈtæl.i/
 
@@ -1351,6 +1278,24 @@ Not meant to be disclosed by a person or organization.</q>
 <a><b>interest</b> /ˈɪn.trəst/
 
 <span style="color:#00f">I've always had an interest in ​astronomy. | He never ​seems to show any interest in his ​children. | Sport has never really interested me.</span><snd>snds/ukinter015.mp3</snd></a>
+
+<q>
+(adj) large in ​amount, ​size, ​force, etc.</q>
+<a><b>hefty</b> /ˈhef.ti/
+
+<span style="color:#00f">a hefty ​bill/​fine | Her ​salary will go up by a hefty 13 ​percent. | a hefty ​book ​containing a lot of ​information</span><snd>snds/ukheft_002.mp3</snd></a>
+
+<q>
+(phrase) to behave in a way that is intended to attract attention or admiration, and that other people often find annoying</q>
+<a><b>show off</b> /ʃˈəʊ ˈɒf/
+
+<span style="color:#03f">She only bought that sports car to show off and prove she could afford one. | He's always showing off to his classmates.</span></a>
+
+<q>
+(v) to try to do something</q>
+<a><b>endeavour</b> /enˈdev.ə(r)/
+
+<span style="color:#03f">Engineers are endeavouring to locate the source of the problem.</span><snd>snds/ukencum010.mp3</snd></a>
 
 <q>
 (v) to ​move away from the ​main ​subject you are writing or ​talking about and to write or ​talk about something ​else</q>
@@ -1571,6 +1516,19 @@ He drives so fast along those narrow country lanes. | I live at the end of Churc
 <span style="color:#03f">Could I ask you about your marital status?</span><snd>snds/uka33738.mp3</snd></a>
 
 <q>
+(v) to use something or someone, especially in an effective way</q>
+<a><b>deploy</b> /dɪˈplɔɪ/
+
+<span style="color:#03f">The company is reconsidering the way in which it deploys its resources/staff. | My job doesn't really allow me fully to deploy my skills/talents.</span><snd>snds/ukdepil009.mp3</snd></a>
+
+<q>
+(n) a show of anger, worry, or excitement that is unnecessary or greater than the situation deserves</q>
+<a><b>fuss</b> /fʌs/
+
+<span style="color:#03f">She made such a fuss when Richard spilled a drop of wine on her blouse!
+It's all a fuss about nothing. | I don't see what the fuss is about - he seems like a fairly ordinary-looking guy to me. | We tried to arrange a ceremony with as little fuss as possible.</span><snd>snds/ukfurti010.mp3</snd></a>
+
+<q>
 (n) honest or lasting support, or loyalty, especially to a sexual partner</q>
 <a><b>fidelity</b> /fɪˈdel.ə.ti/
 
@@ -1611,6 +1569,12 @@ He drives so fast along those narrow country lanes. | I live at the end of Churc
 <span style="color:#03f">Healthcare should be a right, not a privilege. | Senior management enjoy certain privileges, such as company cars and health insurance. | I had the privilege of interviewing Picasso in the 1960s. | It was a real privilege to meet her.</span><snd>snds/ukpriso013.mp3</snd></a>
 
 <q>
+(n) the process of improving or correcting a situation</q>
+<a><b>remediation</b> /rɪˌmiː.diˈeɪ.ʃən/
+
+<span style="color:#03f">the remediation of reading problems | environmental remediation</span></a>
+
+<q>
 (n) a system for connecting computers into networks (= groups of computers that are used together)<img>E:\fr-media\Ethernet.jpg</img></q>
 <a><b>Ethernet</b> /ˈiː.θə.net/ <snd>snds/ukbp0354.mp3</snd></a>
 
@@ -1631,6 +1595,12 @@ He drives so fast along those narrow country lanes. | I live at the end of Churc
 <span style="color:#03f">an irrevocable decision</span><snd>snds/ukirres008.mp3</snd></a>
 
 <q>
+(n) (the study and knowledge of) the practical, especially industrial, use of scientific discoveries</q>
+<a><b>technology</b> /tekˈnɒl.ə.dʒi/
+
+<span style="color:#02f">computer technology | Modern technology is amazing, isn't it? | What this country needs is a long-term policy for investment in science and technology.</span><snd>snds/uktechn001.mp3</snd></a>
+
+<q>
 (n) something that you ​buy OR the ​act of ​buying something</q>
 <a>purchase /ˈpɜː.tʃəs/
 
@@ -1641,6 +1611,12 @@ He drives so fast along those narrow country lanes. | I live at the end of Churc
 <a><b>applause</b> /əˈplɔːz/
 
 <span style="color:#03f">His speech met with (= received) loud applause. | So let's have a round of applause, please, for (= please applaud) a very talented young lady who is going to sing for us.</span><snd>snds/ukappen013.mp3</snd></a>
+
+<q>
+(adj) of great value because of being rare, expensive, or important</q>
+<a><b>precious</b> /ˈpreʃ.əs/
+
+<span style="color:#03f">a precious gift | a precious moment/memory | Clean water is a precious | commodity in many parts of the world. | You're so precious to me.</span><snd>snds/ukpraye022.mp3</snd></a>
 
 <q>
 (n) the act of agreeing that something is true, especially unwillingly</q>
@@ -1717,6 +1693,12 @@ He drives so fast along those narrow country lanes. | I live at the end of Churc
 <span style="color:#00f">conformance to international standards</span><snd>snds/cald4uk0317.mp3</snd></a>
 
 <q>
+(n) the back part of something, especially a building or vehicle. (Latin: <b>retro</b> '<b>back</b>').</q>
+<a><b>rear </b>/rɪə(r)/
+
+<span style="color:#00f">The kitchen door at the rear of the house. | The car's rear window.</span><snd>snds/ukreapp002.mp3</snd></a>
+
+<q>
 (n) a problem that you have to deal with before you can make progress<img>imgs/hurdleeee.png</img></q>
 <a><b>hurdle</b> /ˈhɜː.dəl/
 
@@ -1750,6 +1732,18 @@ He is the author of two books on French history. | The author has tried to deal 
 <a><b>major</b> /ˈmeɪ.dʒər/
 
 <span style="color:#03f">All of her major plays have been translated into English. | Sugar is a major cause of tooth decay. | There are two problems with this situation, one major, one minor. | Citrus fruits are a major source of vitamin C. | There has been a major change in attitudes recently. | The United States is a major influence in the United Nations.</span><snd>snds/ukmains010.mp3</snd></a>
+
+<q>
+(idiom) to ​pay a ​great ​deal of ​attention to the ​details of something, ​especially when you are ​trying to ​complete a ​task</q>
+<a><b>dot the i's and cross the t's</b>
+
+<span style="color:#00f">The ​negotiations are ​nearly ​finished, but we still have to dot the i's and ​cross the t's.</span></a>
+
+<q>
+(n) a study in which people are asked for their opinions about a subject or person</q>
+<a><b>poll</b> /pəʊl/
+
+<span style="color:#02f">We're carrying out/conducting a poll to find out what people think about abortion. | The latest opinion poll puts the Democrats in the lead.</span><snd>snds/ukpolar007.mp3</snd></a>
 
 <q>
 (<b>v</b>) to invalidate; To contradict, to provide proof that something is not.</q>
@@ -1988,6 +1982,12 @@ Swimming was compulsory at my ​school. | The ​law made ​wearing ​seat �
 <a><b>throughout</b> /θruːˈaʊt/
 <span style="color:#02f">
 People throughout the country are out of work. | He yawned throughout the performance. | The school has been repainted throughout.</span><snd>snds/ukthroa011.mp3</snd></a>
+
+<q>
+(adv) many times</q>
+<a><b>often</b> /ˈɒf.tən/
+
+<span style="color:#03f">I often see him in the garden. | How often do you wash your hair? | I don't often drink beer. | It's not often that you meet someone who you're instantly attracted to. | I don't see my parents as often as I'd like to. | Christmas is often mild in this country.</span><snd>snds/ukoffst003.mp3</snd></a>
 
 <q>
 (n) a system for connecting electronic equipment such as computers and electronic organizers to the internet without using wires<img>imgs/wifi-medium-signal-symbol_318-50381.png</img></q>
@@ -2365,16 +2365,6 @@ handlebars /ˈhæn.dl̩.bɑːz/<snd>snds/ukhandb024.mp3</snd></a>
 <category name="boats,_water,_and_the_coast">
 
 <q>
-(v) to get onto a boat (or train or aircraft) in order to travel somewhere</q>
-<a>board /bɔːd/
-
-<span style="color:#03f">We boarded the plane for Oslo | At London airport she boarded a plane to Australia. | Will passengers waiting to board please go to the ticket counter?</span><snd>snds/ukblunt021.mp3</snd></a>
-
-<q>
-(n) a long, narrow board made of wood or plastic, used for riding on waves as they come in towards the beach<img>imgs\surfboard.jpg</img></q>
-<a><b>surfboard</b> /ˈsɜːf.bɔːd/<snd>snds/uksuppo026.mp3</snd></a>
-
-<q>
 (n) a piece of equipment, usually a ring filled with air or light material that floats, designed to help you float if you fall into water [<b>life preserver</b>]<img>imgs/lifebelt.jpg</img></q>
 <a>lifebelt /ˈlaɪf.belt/<snd>snds/uka33591.mp3</snd></a>
 
@@ -2429,6 +2419,10 @@ handlebars /ˈhæn.dl̩.bɑːz/<snd>snds/ukhandb024.mp3</snd></a>
 <a>harbour /ˈhɑː.bər/
 
 <span style="color:#00f">Our hotel room overlooked a pretty little fishing harbour.</span><snd>snds/ukhapha017.mp3</snd></a>
+
+<q>
+(n) a long, narrow board made of wood or plastic, used for riding on waves as they come in towards the beach<img>imgs\surfboard.jpg</img></q>
+<a><b>surfboard</b> /ˈsɜːf.bɔːd/<snd>snds/uksuppo026.mp3</snd></a>
 
 <q>(n) a person who catches fish as a job or for sport<img>imgs/fisherman.jpg</img></q>
 <a>fisherman /ˈfɪʃ.ə.mən/<snd>snds\ukfirew016.mp3</snd></a>
@@ -2487,6 +2481,12 @@ a luxury yacht | a yacht club</span><snd>snds\ukxray_007.mp3</snd></a>
 <a>shore /ʃɔːr/
 
 <span style="color:#00f">You can walk for miles along the shore. | The boat was about a mile from/off (the) shore when the engine suddenly died.</span><snd>snds/ukshodd029.mp3</snd></a>
+
+<q>
+(v) to get onto a boat (or train or aircraft) in order to travel somewhere</q>
+<a>board /bɔːd/
+
+<span style="color:#03f">We boarded the plane for Oslo | At London airport she boarded a plane to Australia. | Will passengers waiting to board please go to the ticket counter?</span><snd>snds/ukblunt021.mp3</snd></a>
 
 <q>
 (n) a town by the sea or by a river that has a harbour, or the harbour itself<img>imgs/port.jpg</img></q>
@@ -2770,18 +2770,18 @@ We used to go boating on that lake. | Lake Windermere</span><snd>snds/uklaidb010
 <category name="body">
 
 <q>
-(n) the part around the middle of your body where you wear a belt<img>imgs\waist.jpeg</img></q>
-<a><b>waist</b> /weɪst/
-
-<span style="color:#00f">She had a 26 inch waist.</span><snd>snds/ukvulva029.mp3</snd></a>
-
-<q>
 (n) the rounded back part of the foot<img>imgs\heel.jpeg</img></q>
 <a>heel /hiːl/<snd>snds\ukheads009.mp3</snd></a>
 
 <q>
 (n) a small line on your face that you get when you grow old<img>imgs\wrinkles.jpeg</img></q>
 <a>wrinkle /ˈrɪŋkl/<snd>snds/ukwreat020.mp3</snd></a>
+
+<q>
+(n) the part around the middle of your body where you wear a belt<img>imgs\waist.jpeg</img></q>
+<a><b>waist</b> /weɪst/
+
+<span style="color:#00f">She had a 26 inch waist.</span><snd>snds/ukvulva029.mp3</snd></a>
 
 <q>
 (n) a movement you make with your hand, arm, or head to express what you are thinking or feeling<img>imgs\gesture.jpeg</img></q>
@@ -3502,28 +3502,6 @@ He was shot in the chest at point blank range. | He folded his arms across his c
 <category name="business">
 
 <q>
-(v) to have to pay money back to someone who gave you money in the past</q>
-<a><b>owe</b> /əʊ/
-<span style="color:#00f">
-You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknutra027.mp3</snd></a>
-
-<q>
-(n) a person who owns shares in a company and therefore gets part of the company's profits and the right to vote on how the company is controlled</q>
-<a><b>shareholder</b> /ˈʃeəˌhəʊl.dər/
-
-<span style="color:#00f">Shareholders will be voting on the proposed merger of the companies next week.</span><snd>snds/ukshame029.mp3</snd></a>
-
-<q>
-(n) a large company or group of companies</q>
-<a>corporation /ˌkɔːpərˈeɪʃən/<snd>snds/ukcorne028.mp3</snd></a>
-
-<q>
-(n) someone who buys or uses goods or services</q>
-<a>consumer /kənˈsjuːmər/
-
-<span style="color:#00f">These price cuts are good news for consumers.</span><snd>snds/ukconst018.mp3</snd></a>
-
-<q>
 (v) Reach a point in a business venture when the profits are equal to the costs</q>
 <a><b>break even</b> /bɹˈeɪk ˈiːvən/
 
@@ -3534,6 +3512,12 @@ You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknu
 <a><b>blue-sky thinking</b> /blˈuːskˈaɪ θˈɪŋkɪŋ/
 
 <span style="color:#00f">The origin of the management cliché may be obscure, but it suggests the emptiness of the skies - in blue-sky thinking there should be no preconceptions. </span></a>
+
+<q>
+(v) to have to pay money back to someone who gave you money in the past</q>
+<a><b>owe</b> /əʊ/
+<span style="color:#00f">
+You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknutra027.mp3</snd></a>
 
 <q>
 (n) the business activity of finding out about what people want, need, and buy</q>
@@ -3554,6 +3538,12 @@ You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknu
 <span style="color:#00f">The computer was a commercial success (= made a profit).</span><snd>snds/ukcomma024.mp3</snd></a>
 
 <q>
+(n) someone who buys or uses goods or services</q>
+<a>consumer /kənˈsjuːmər/
+
+<span style="color:#00f">These price cuts are good news for consumers.</span><snd>snds/ukconst018.mp3</snd></a>
+
+<q>
 (v) to get better or to make something better</q>
 <a>improve /ɪmˈpruːv/
 
@@ -3572,6 +3562,10 @@ You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknu
 <q>
 (idiom) to think in a new and creative way</q>
 <a>think outside the box</a>
+
+<q>
+(n) a large company or group of companies</q>
+<a>corporation /ˌkɔːpərˈeɪʃən/<snd>snds/ukcorne028.mp3</snd></a>
 
 <q>
 (n) a product that is made by a particular company</q>
@@ -3666,6 +3660,12 @@ a business deal | I’ll make a deal with you – you wash the car, and I’ll l
 <a>manage /ˈmænɪdʒ/
 
 <span style="color:#00f">He used to manage the bookshop on King Street.</span><snd>snds/ukmammo006.mp3</snd></a>
+
+<q>
+(n) a person who owns shares in a company and therefore gets part of the company's profits and the right to vote on how the company is controlled</q>
+<a><b>shareholder</b> /ˈʃeəˌhəʊl.dər/
+
+<span style="color:#00f">Shareholders will be voting on the proposed merger of the companies next week.</span><snd>snds/ukshame029.mp3</snd></a>
 
 <q>
 (n) the quantity of a product that is sold</q>
@@ -3897,10 +3897,6 @@ We’re having a meeting on Thursday to discuss the problem. | He’s in a meeti
 <category name="cars_and_road_travel">
 
 <q>
-(n) a container with wheels that can be pulled by a car or a truck<img>imgs\trailer.jpg</img></q>
-<a>trailer /ˈtreɪlə(r)/<snd>snds/uktract026.mp3</snd></a>
-
-<q>
 (n) a strap that you fasten across your body when travelling in a vehicle<img>imgs\seat belt.jpg</img></q>
 <a><b>seat belt</b> /sˈiːt bˈɛlt/
 
@@ -3927,6 +3923,10 @@ We’re having a meeting on Thursday to discuss the problem. | He’s in a meeti
 <a>skid /skɪd/
 
 <span style="color:#00f">The car skidded on ice and hit a tree.</span><snd>snds/uksketc009.mp3</snd></a>
+
+<q>
+(n) a container with wheels that can be pulled by a car or a truck<img>imgs\trailer.jpg</img></q>
+<a>trailer /ˈtreɪlə(r)/<snd>snds/uktract026.mp3</snd></a>
 
 <q>
 (n) a trip from one place to another</q>
@@ -4332,12 +4332,6 @@ informal <b>speedo</b></q>
 <category name="celebrations and ceremonies">
 
 <q>
-(n) the ​parties, ​meals, and other ​social ​activities with which ​people ​celebrate a ​special ​occasion<img>imgs/festivities345135123.jpeg</img></q>
-<a>festivities /feˈstɪv·ɪ·t̬iz/
-
-<span style="color:#03f">a time of great rejoicing and festivity | the traditional Christmas and New Year festivities</span><snd>snds/festivities.mp3</snd></a>
-
-<q>
 (v) to touch someone with water, to show that they have become a member of the Christian church<img>imgs\baptize.jpeg</img></q>
 <a>baptize /bæpˈtaɪz/
 
@@ -4404,6 +4398,12 @@ informal <b>speedo</b></q>
 <a><b>celebrate</b> /ˈseləbreɪt/
 
 <span style="color:#00f">We went out to celebrate Richard’s birthday.</span><snd>snds/ukceleb001.mp3</snd></a>
+
+<q>
+(n) the ​parties, ​meals, and other ​social ​activities with which ​people ​celebrate a ​special ​occasion<img>imgs/festivities345135123.jpeg</img></q>
+<a>festivities /feˈstɪv·ɪ·t̬iz/
+
+<span style="color:#03f">a time of great rejoicing and festivity | the traditional Christmas and New Year festivities</span><snd>snds/festivities.mp3</snd></a>
 
 <q>
 (n) 1st January<img>imgs\New Years Day.jpg</img></q>
@@ -4656,18 +4656,6 @@ informal <b>speedo</b></q>
 <category name="clothes">
 
 <q>
-(n) a piece of cloth that you wear around your neck or head to keep warm or for decoration<img>imgs\scarf.jpeg</img></q>
-<a><b>scarf</b> /skɑːf/
-
-<span style="color:#03f">a knitted/woollen/silk scarf</span><snd>snds/ukscamp026.mp3</snd></a>
-
-<q>
-(n) the business of making and selling clothes; the most popular style of clothes or behaviour at a particular time</q>
-<a><b>fashion</b> /ˈfæʃən/
-
-<span style="color:#00f">Long hair is in fashion now. | Fur coats have gone out of fashion. | fashion magazines</span><snd>snds/ukfarth012.mp3</snd></a>
-
-<q>
 (v) to move something you wear onto your body</q>
 <a><b>put something on</b> /pˌʊt sˈʌmθɪŋ ˈɒn/
 
@@ -4700,6 +4688,12 @@ informal <b>speedo</b></q>
 <q>
 (n) a ​comfortable ​piece of ​clothing like a ​loose ​dress ​worn by a woman or a ​girl in ​bed<img>imgs\nightdress.jpeg</img></q>
 <a>nightdress /ˈnaɪt.dres/<snd>snds/ukniche023.mp3</snd></a>
+
+<q>
+(n) the business of making and selling clothes; the most popular style of clothes or behaviour at a particular time</q>
+<a><b>fashion</b> /ˈfæʃən/
+
+<span style="color:#00f">Long hair is in fashion now. | Fur coats have gone out of fashion. | fashion magazines</span><snd>snds/ukfarth012.mp3</snd></a>
 
 <q>
 (n) a piece of clothing that you wear next to your skin, on the lower part of your body<img>imgs\underpants.jpeg</img></q>
@@ -5049,27 +5043,15 @@ informal <b>speedo</b></q>
 
 <span style="color:#00f">Your zip’s undone.</span><snd>snds/ukzealo028.mp3</snd></a>
 
+<q>
+(n) a piece of cloth that you wear around your neck or head to keep warm or for decoration<img>imgs\scarf.jpeg</img></q>
+<a><b>scarf</b> /skɑːf/
+
+<span style="color:#03f">a knitted/woollen/silk scarf</span><snd>snds/ukscamp026.mp3</snd></a>
+
 </category>
 
 <category name="employment">
-
-<q>
-(n) ​time away from ​work because of ​illness</q>
-<a><b>sick leave</b> /sˈɪk lˈiːv/
-
-<span style="color:#00f">​Mark is not in the ​office today. He ​broke his ​leg ​yesterday, so he's on/he's taken ​sick ​leave.</span><snd>snds/uka34811.mp3</snd></a>
-
-<q>
-(n) a type of work that needs special training or education</q>
-<a>profession /prəˈfeʃən/
-
-<span style="color:#00f">He’s a teacher by profession (= he trained to be a teacher).</span><snd>snds/ukprod_022.mp3</snd></a>
-
-<q>
-(n) the people who work for an organization</q>
-<a><b>staff</b> /stɑːf/
-
-<span style="color:#00f">The company has a staff of over 500 employees.</span><snd>snds/ukstabl009.mp3</snd></a>
 
 <q>
 (v) to officially tell your employer that you are leaving your job</q>
@@ -5094,6 +5076,12 @@ informal <b>speedo</b></q>
 <a>promote /prəˈməʊt/
 
 <span style="color:#00f">She’s just been promoted to manager.</span><snd>snds/ukpromi012.mp3</snd></a>
+
+<q>
+(n) a type of work that needs special training or education</q>
+<a>profession /prəˈfeʃən/
+
+<span style="color:#00f">He’s a teacher by profession (= he trained to be a teacher).</span><snd>snds/ukprod_022.mp3</snd></a>
 
 <q>(n) unfair treatment because of a person’s sex, race, age, etc.</q>
 <a>discrimination /dɪsˌkrɪmɪˈneɪʃən/<snd>snds/ukdisco030.mp3</snd></a>
@@ -5169,6 +5157,12 @@ informal <b>speedo</b></q>
 <a>working week /wˈɜːkɪŋ wˈiːk/
 
 <span style="color:#00f">a 37-hour ​working ​week | The ​medical ​team ​extended the ​working ​week to ​include Saturdays.</span></a>
+
+<q>
+(n) the people who work for an organization</q>
+<a><b>staff</b> /stɑːf/
+
+<span style="color:#00f">The company has a staff of over 500 employees.</span><snd>snds/ukstabl009.mp3</snd></a>
 
 <q>(n) a ​legal ​document that ​states and ​explains a ​formal ​agreement between two different ​people or ​groups, or the ​agreement itself</q>
 <a>contract /ˈkɒn.trækt/
@@ -5400,6 +5394,12 @@ informal <b>speedo</b></q>
 
 <span style="color:#00f">She is on ​annual ​leave | She took ​annual ​leave to ​attend the day's commemorations. | We ​offer a good ​starting ​salary and 25 days' ​annual ​leave.</span><snd>snds/cbeduk00305.mp3</snd></a>
 
+<q>
+(n) ​time away from ​work because of ​illness</q>
+<a><b>sick leave</b> /sˈɪk lˈiːv/
+
+<span style="color:#00f">​Mark is not in the ​office today. He ​broke his ​leg ​yesterday, so he's on/he's taken ​sick ​leave.</span><snd>snds/uka34811.mp3</snd></a>
+
 <q>(n) extra time that you work after your usual working hours</q>
 <a>overtime /ˈəʊvətaɪm/
 
@@ -5513,18 +5513,6 @@ Government ​programs for the ​unemployed will ​place new emphasis on ​tr
 <category name="environment">
 
 <q>
-(adj) causing little or no ​damage to the ​environment and ​therefore ​able to ​continue for a ​long ​time<img>imgs/sustainable3215.jpeg</img></q>
-<a>sustainable /səˈsteɪ.nə.bəl/
-
-<span style="color:#00f">A ​large ​international ​meeting was ​held with the ​aim of ​promoting sustainable ​development in all ​countries.</span><snd>snds/uksuspi005.mp3</snd></a>
-
-<q>
-(v) to ​keep something as it is, ​especially in ​order to ​prevent it from ​decaying or being ​damaged or ​destroyed</q>
-<a><b>preserve</b> /prɪˈzɜːv/
-<span style="color:#00f">
-to preserve the ​environment | We ​want to preserve the ​character of the ​town while ​improving the ​facilities. | The ​agreement preserved ​our ​right to ​limit ​trade in ​endangered ​species. | Putting ​varnish on ​wood is a way of preserving it. | I need to get out of the ​house from ​time to ​time just to preserve (= ​prevent me from ​losing) my ​sanity.</span><snd>snds/ukprepo030.mp3</snd></a>
-
-<q>
 (v) to say officially that something must <u>not</u> be done, shown, or used.</q>
 <a><b>ban</b> /bæn/
 <span style="color:#00f">
@@ -5569,6 +5557,12 @@ She was banned from driving for two ​years. | ban the use of chemicals</span><
 <q>
 (n) electricity that is produced by water power</q>
 <a><b>hydro-electric power</b> /hˈaɪdɹəʊɪlˈɛktɹɪk pˈaʊə/</a>
+
+<q>
+(v) to ​keep something as it is, ​especially in ​order to ​prevent it from ​decaying or being ​damaged or ​destroyed</q>
+<a><b>preserve</b> /prɪˈzɜːv/
+<span style="color:#00f">
+to preserve the ​environment | We ​want to preserve the ​character of the ​town while ​improving the ​facilities. | The ​agreement preserved ​our ​right to ​limit ​trade in ​endangered ​species. | Putting ​varnish on ​wood is a way of preserving it. | I need to get out of the ​house from ​time to ​time just to preserve (= ​prevent me from ​losing) my ​sanity.</span><snd>snds/ukprepo030.mp3</snd></a>
 
 <q>
 (n) (an ​event that ​results in) ​great ​harm, ​damage, or ​death, or ​serious ​difficulty</q>
@@ -5711,6 +5705,12 @@ Everest is the highest mountain in the world. | She’s travelled all over the w
 (n) the ​poisonous ​gas ​formed by the ​burning of ​carbon, ​especially in the ​form of ​car ​fuel</q>
 <a><b>carbon monoxide</b> /ˌkɑː.bən.mə ˈnɒk.saɪd/<snd>snds/ukcld00161.mp3</snd></a>
 
+<q>
+(adj) causing little or no ​damage to the ​environment and ​therefore ​able to ​continue for a ​long ​time<img>imgs/sustainable3215.jpeg</img></q>
+<a>sustainable /səˈsteɪ.nə.bəl/
+
+<span style="color:#00f">A ​large ​international ​meeting was ​held with the ​aim of ​promoting sustainable ​development in all ​countries.</span><snd>snds/uksuspi005.mp3</snd></a>
+
 <q>[english_vocabulary] 
 (n) ​energy that is ​produced using the sun, wind, etc., or from ​crops, rather than using ​fuels such as ​oil or coal<img>imgs/renewable.energy34254.jpeg</img></q>
 <a><b>renewable energy</b> /ɹɪnjˈuːəbəl ˈɛnədʒi/
@@ -5834,36 +5834,6 @@ the ​renewable ​energy ​industry | ​renewable ​energy ​projects/​s
 <category name="feelings and personal qualities">
 
 <q>
-(adj) wanting to know or learn about something</q>
-<a>curious /ˈkjʊəriəs/
-
-<span style="color:#00f">I was curious about his life in India.</span><snd>snds/ukcurio002.mp3</snd></a>
-
-<q>
-(adj) kind and always thinking about how you can help other people</q>
-<a><b>thoughtful</b> /ˈθɔːt.fəl/
-
-<span style="color:#00f">Thank you for calling when I was ill - it was very thoughtful of you. | She's a very thoughtful person.</span><snd>snds/ukthirt027.mp3</snd></a>
-
-<q>
-(n) a ​feeling of ​anger towards another ​person that makes someone ​want to ​annoy, ​upset, or ​hurt them, ​especially in a ​small way</q>
-<a><b>spite</b> /spaɪt/
-
-<span style="color:#00f">He's the ​sort of man who would ​let down the ​tyres on ​your ​car just out of/from spite. | He is jealous and full of spite.</span><snd>snds/ukspino018.mp3</snd></a>
-
-<q>
-(adj) very angry</q>
-<a>furious /ˈfjʊəriəs/
-
-<span style="color:#00f">My boss was furious with me.</span><snd>snds/ukfunk_007.mp3</snd></a>
-
-<q>
-(adj) ​worried and ​anxious</q>
-<a><b>nervous</b> /ˈnɜː.vəs/
-<span style="color:#00f">
-Do you ​feel/get nervous during ​exams? | I was too nervous to ​speak. | She's always been nervous around ​dogs. | I was very nervous about ​driving again after the ​accident.</span><snd>snds/ukneptu008.mp3</snd></a>
-
-<q>
 (adj) feeling bad because you have done something wrong</q>
 <a>guilty /ˈɡɪlti/
 
@@ -5916,6 +5886,18 @@ Do you ​feel/get nervous during ​exams? | I was too nervous to ​speak. | S
 <a><b>down in the dumps</b> /dˌaʊn ɪnðə dˈʌmps/
 
 <span style="color:#00f">She's a bit down in the dumps because she failed one of her exams.</span></a>
+
+<q>
+(n) a ​feeling of ​anger towards another ​person that makes someone ​want to ​annoy, ​upset, or ​hurt them, ​especially in a ​small way</q>
+<a><b>spite</b> /spaɪt/
+
+<span style="color:#00f">He's the ​sort of man who would ​let down the ​tyres on ​your ​car just out of/from spite. | He is jealous and full of spite.</span><snd>snds/ukspino018.mp3</snd></a>
+
+<q>
+(adj) very angry</q>
+<a>furious /ˈfjʊəriəs/
+
+<span style="color:#00f">My boss was furious with me.</span><snd>snds/ukfunk_007.mp3</snd></a>
 
 <q>
 (adj) certain about your ability to do things well</q>
@@ -5988,6 +5970,12 @@ Do you ​feel/get nervous during ​exams? | I was too nervous to ​speak. | S
 <span style="color:#00f">His colleagues became suspicious (= thought that there was something wrong) when he did not appear at work, since he was always punctual. | They are deeply/highly (= very) suspicious of one another/of each other's motives.</span><snd>snds/uksurro030.mp3</snd></a>
 
 <q>
+(adj) ​worried and ​anxious</q>
+<a><b>nervous</b> /ˈnɜː.vəs/
+<span style="color:#00f">
+Do you ​feel/get nervous during ​exams? | I was too nervous to ​speak. | She's always been nervous around ​dogs. | I was very nervous about ​driving again after the ​accident.</span><snd>snds/ukneptu008.mp3</snd></a>
+
+<q>
 (adj) you get angry with people who make mistakes or you hate waiting for things</q>
 <a>impatient /ɪmˈpeɪʃənt/
 
@@ -6036,6 +6024,12 @@ Do you ​feel/get nervous during ​exams? | I was too nervous to ​speak. | S
 <span style="color:#00f">Don’t be frightened of the dog – he won’t bite.</span><snd>snds/ukfrica020.mp3</snd></a>
 
 <q>
+(adj) kind and always thinking about how you can help other people</q>
+<a><b>thoughtful</b> /ˈθɔːt.fəl/
+
+<span style="color:#00f">Thank you for calling when I was ill - it was very thoughtful of you. | She's a very thoughtful person.</span><snd>snds/ukthirt027.mp3</snd></a>
+
+<q>
 (idiom) to be very pleased</q>
 <a><b>be over the moon</b> /biː ˌəʊvə ðə mˈuːn/
 
@@ -6058,6 +6052,12 @@ Do you ​feel/get nervous during ​exams? | I was too nervous to ​speak. | S
 <a>worried /ˈwʌr.id/
 
 <span style="color:#00f">She was sitting behind her desk with a worried expression/look on her face. | They don't seem particularly worried about the situation.</span><snd>snds/ukworks014.mp3</snd></a>
+
+<q>
+(adj) wanting to know or learn about something</q>
+<a>curious /ˈkjʊəriəs/
+
+<span style="color:#00f">I was curious about his life in India.</span><snd>snds/ukcurio002.mp3</snd></a>
 
 <q>
 (adj) to upset someone; to cause someone pain or to injure someone</q>
@@ -6241,36 +6241,6 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <category name="food_and_drink">
 
 <q>
-(n) a food that is made from grain and eaten with milk, especially in the morning<img>imgs/cereal.65.jpeg</img></q>
-<a>cereal /ˈsɪəriəl/
-
-<span style="color:#03f">breakfast cereals</span><snd>snds/ukcensu029.mp3</snd></a>
-
-<q>
-(n) the feeling that you want to drink something</q>
-<a>thirst /θɜːst/<snd>snds/ukthick027.mp3</snd></a>
-
-<q>
-(n) meat from the back or sides of a pig, often eaten fried in thin slices<img>imgs/bacon.345145.jpeg</img></q>
-<a>bacon /ˈbeɪ.kən/
-
-<span style="color:#03f">a bacon sandwich | a slice/rasher of bacon | bacon and eggs</span><snd>snds/ukbacks011.mp3</snd></a>
-
-<q>
-(n) a small plate that you put under a cup<img>imgs/saucer.561451.jpeg</img></q>
-<a>saucer /ˈsɔːsər/<snd>snds/uksauce002.mp3</snd></a>
-
-<q>
-(adj) having a sharp, sometimes unpleasant, taste or smell, like a lemon, and not sweet</q>
-<a><b>sour</b> /saʊər/
-
-<span style="color:#03f">These plums are a bit sour.</span><snd>snds/uksound010.mp3</snd></a>
-
-<q>
-(n) a food made of flour, fat, and water that you cook and use for covering or containing other food<img>imgs/pastry.45236.jpeg</img></q>
-<a><b>pastry</b> /ˈpeɪstri/<snd>snds/ukpassi025.mp3</snd></a>
-
-<q>
 (n) a small tool with three or four points and a handle, used to eat with<img>imgs/fork.4326.jpeg</img></q>
 <a><b>fork</b> /fɔːk/
 
@@ -6303,6 +6273,16 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <a><b>straw</b> /strɔː/
 
 <span style="color:#03f">Can I have a straw, please?</span><snd>snds/ukstrat009.mp3</snd></a>
+
+<q>
+(n) a food that is made from grain and eaten with milk, especially in the morning<img>imgs/cereal.65.jpeg</img></q>
+<a>cereal /ˈsɪəriəl/
+
+<span style="color:#03f">breakfast cereals</span><snd>snds/ukcensu029.mp3</snd></a>
+
+<q>
+(n) a food made of flour, fat, and water that you cook and use for covering or containing other food<img>imgs/pastry.45236.jpeg</img></q>
+<a><b>pastry</b> /ˈpeɪstri/<snd>snds/ukpassi025.mp3</snd></a>
 
 <q>
 (n) a thick, white, cold sauce that is made from eggs and oil<img>imgs/mayonnaise.3512346.jpeg</img></q>
@@ -6397,6 +6377,12 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <a><b>Is everything all right?</b></a>
 
 <q>
+(adj) having a sharp, sometimes unpleasant, taste or smell, like a lemon, and not sweet</q>
+<a><b>sour</b> /saʊər/
+
+<span style="color:#03f">These plums are a bit sour.</span><snd>snds/uksound010.mp3</snd></a>
+
+<q>
 (n) a container with a handle used for pouring out liquids<img>imgs/jug.545615.jpeg</img></q>
 <a><b>jug</b> /dʒʌɡ/
 
@@ -6411,6 +6397,10 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <q>
 (n) a sauce made from the huices that come from meat when it cooks<img>imgs/gravy.34512.jpg</img></q>
 <a><b>gravy</b> /ˈɡreɪ.vi/<snd>snds/ukgravi002.mp3</snd></a>
+
+<q>
+(n) a small plate that you put under a cup<img>imgs/saucer.561451.jpeg</img></q>
+<a>saucer /ˈsɔːsər/<snd>snds/uksauce002.mp3</snd></a>
 
 <q>
 (n) a thick liquid made from plants or animals that is used in cooking<img>imgs/oil.523456.jpeg</img></q>
@@ -6497,6 +6487,12 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <span style="color:#03f">liver/salmon/vegetarian pâté</span><snd>snds/ukpatch005.mp3</snd></a>
 
 <q>
+(n) meat from the back or sides of a pig, often eaten fried in thin slices<img>imgs/bacon.345145.jpeg</img></q>
+<a>bacon /ˈbeɪ.kən/
+
+<span style="color:#03f">a bacon sandwich | a slice/rasher of bacon | bacon and eggs</span><snd>snds/ukbacks011.mp3</snd></a>
+
+<q>
 (adj) grown without using chemicals</q>
 <a><b>organic</b> /ɔːˈɡæn.ɪk/
 
@@ -6529,6 +6525,10 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <a><b>stale</b> /steɪl/
 
 <span style="color:#03f">The bread/biscuits/cake had gone stale.</span><snd>snds/ukstair009.mp3</snd></a>
+
+<q>
+(n) the feeling that you want to drink something</q>
+<a>thirst /θɜːst/<snd>snds/ukthick027.mp3</snd></a>
 
 <q>
 (adj) having a lot of bubbles. Also called <b>carbonated</b>.<img>imgs/fizzy.847561.jpeg</img></q>
@@ -6747,22 +6747,6 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <category name="friends_and_family">
 
 <q>
-(n) the brother of someone's mother or father, or the husband of someone's aunt or uncle<img>imgs/uncle.Ben.4526.jpeg</img></q>
-<a><b>uncle</b> /ˈʌŋ.kəl/
-
-<span style="color:#03f">I have lots of uncles and aunts. | We invited my Uncle Steve over. | Did you bring me a present, Uncle Jack?</span><snd>snds/ukunchr005.mp3</snd></a>
-
-<q>
-(idiom) when two people have known each other for a long time</q>
-<a><b>go back a long way</b></a>
-
-<q>
-(n) the man who someone is engaged to be married to</q>
-<a><b>fiancé</b> /fiˈɒn.seɪ/
-
-<span style="color:#03f">Have you met Christina's fiancé?</span><snd>snds/ukfette017.mp3</snd></a>
-
-<q>
 (adj) If you say this, you mean that they are an adult or that they behave in a responsible way</q>
 <a><b>grown up</b> /ˌɡrəʊn ˈʌp/
 
@@ -6829,6 +6813,12 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <q>
 (v) when merriage of a man and woman is legally ended</q>
 <a><b>get divorced</b> /ɡɛt dɪvˈɔːst/</a>
+
+<q>
+(n) the man who someone is engaged to be married to</q>
+<a><b>fiancé</b> /fiˈɒn.seɪ/
+
+<span style="color:#03f">Have you met Christina's fiancé?</span><snd>snds/ukfette017.mp3</snd></a>
 
 <q>
 (n) a young person between 13 and 19 years old</q>
@@ -6929,6 +6919,10 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <span style="color:#03f">I was amazed when my doctor told me I was going to have triplets.</span><snd>snds/uktrima017.mp3</snd></a>
 
 <q>
+(idiom) when two people have known each other for a long time</q>
+<a><b>go back a long way</b></a>
+
+<q>
 (n) a child whose parents are dead</q>
 <a><b>orphan</b> /ˈɔː.fən/
 
@@ -6981,6 +6975,12 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <a><b>widower</b> /ˈwɪd.əʊ.ə(r)/<snd>snds/ukwi___013.mp3</snd></a>
 
 <q>
+(n) the brother of someone's mother or father, or the husband of someone's aunt or uncle<img>imgs/uncle.Ben.4526.jpeg</img></q>
+<a><b>uncle</b> /ˈʌŋ.kəl/
+
+<span style="color:#03f">I have lots of uncles and aunts. | We invited my Uncle Steve over. | Did you bring me a present, Uncle Jack?</span><snd>snds/ukunchr005.mp3</snd></a>
+
+<q>
 (n) the period in a person's life when he or she is old<img>imgs/old.age.45236.jpeg</img></q>
 <a><b>old age</b> /ˌəʊld ˈeɪdʒ/
 
@@ -6989,36 +6989,6 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 </category>
 
 <category name="fruit,_nuts,_and_vegetables">
-
-<q>
-(n) a sweet fruit, usually with a green skin and a lot of juice, that has a round base and is slightly pointed towards the stem<img>imgs/pear.45626.jpeg</img></q>
-<a><b>pear</b> /peər/<snd>snds/ukpaink014.mp3</snd></a>
-
-<q>
-(n) the small, round, dark red root of a plant, eaten cooked as a vegetable, especially cold in salads<img>imgs/beet.4563457.jpeg</img></q>
-<a><b>beetroot</b> /ˈbiːt.ruːt/<snd>snds/ukbeer_006.mp3</snd></a>
-
-<q>
-(n) a long, thin, pale green vegetable with dark green skin, usually eaten uncooked in salads<img>imgs/cucumber.65734.jpeg</img></q>
-<a><b>cucumber</b> /ˈkjuː.kʌm.bə(r)/<snd>snds/ukcsa__018.mp3</snd></a>
-
-<q>
-(n) a small bitter green or black fruit that is eaten or used to produce oil, or a Mediterranean tree on which this fruit grows<img>imgs/olive.jpeg</img></q>
-<a><b>olive</b> /ˈɒl.ɪv/
-
-<span style="color:#03f">olive groves</span><snd>snds/ukolden009.mp3</snd></a>
-
-<q>
-(n) a rounded, white root that is eaten cooked as a vegetable, or the plant that produces it<img>imgs/turnip.jpeg</img></q>
-<a><b>turnip</b> /ˈtɜː.nɪp/<snd>snds/ukturbo030.mp3</snd></a>
-
-<q>
-(n) a long, thin vegetable with a dark green skin. It is a type of small marrow.<img>imgs/courgette.56275.jpeg</img></q>
-<a><b>courgette</b> /kɔːˈʒet/<snd>snds/ukcount030.mp3</snd></a>
-
-<q>
-(n) a type of herb with curly or flat leaves, used to add flavour to food and also to make it look attractive<img>imgs/parsley.jpeg</img></q>
-<a><b>parsley</b> /ˈpɑː.sli/<snd>snds/ukparsi005.mp3</snd></a>
 
 <q>
 (n) a type of plant whose leaves are used in cooking to give flavour to particular dishes or in making medicine<img>imgs/herbs.6346745.jpeg</img></q>
@@ -7087,6 +7057,10 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <a><b>hazelnut</b> /ˈheɪ.zəl.nʌt/<snd>snds/ukhave_025.mp3</snd></a>
 
 <q>
+(n) a type of herb with curly or flat leaves, used to add flavour to food and also to make it look attractive<img>imgs/parsley.jpeg</img></q>
+<a><b>parsley</b> /ˈpɑː.sli/<snd>snds/ukparsi005.mp3</snd></a>
+
+<q>
 (adj) a person who does not eat meat for health or religious reasons or because they want to avoid being cruel to animals</q>
 <a><b>vegetarian</b> /ˌvedʒ.ɪˈteə.ri.ən/
 
@@ -7102,6 +7076,10 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 
 <span style="color:#03f">Apricots are the one fruit I don't like. | Oranges, apples, pears, and bananas are all types of fruit. | Would you like some fruit for dessert? | The cherry tree in our garden is in fruit (= it has fruit growing on it). | I like exotic fruit, like mangoes and papayas. | How many pieces of fresh fruit do you eat in a day?
 fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds/ukfruga004.mp3</snd></a>
+
+<q>
+(n) a long, thin vegetable with a dark green skin. It is a type of small marrow.<img>imgs/courgette.56275.jpeg</img></q>
+<a><b>courgette</b> /kɔːˈʒet/<snd>snds/ukcount030.mp3</snd></a>
 
 <q>
 (n) a vegetable with a strong smell and flavour, made up of several layers surrounding each other tightly in a round shape, usually brown or red on the outside and white inside<img>imgs/onion.jpeg</img></q>
@@ -7168,6 +7146,10 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <span style="color:#03f">She survived in the forest by eating berries and trapping small animals and birds. | Gin is made from juniper berries, isn't it? | You must never eat the berries from that bush - they are poisonous. | Rachel took a nice juicy berry from the basket and popped it into her mouth. | The birds have devastated my strawberry plants - there's not a single berry left.</span><snd>snds/ukbenev024.mp3</snd></a>
 
 <q>
+(n) a rounded, white root that is eaten cooked as a vegetable, or the plant that produces it<img>imgs/turnip.jpeg</img></q>
+<a><b>turnip</b> /ˈtɜː.nɪp/<snd>snds/ukturbo030.mp3</snd></a>
+
+<q>
 (n) an oval-shaped nut that grows underground in pairs inside a thin brown shell<img>imgs/peanut.4627.jpeg</img></q>
 <a><b>peanut</b> /ˈpiː.nʌt/<snd>snds/ukpayro028.mp3</snd></a>
 
@@ -7201,101 +7183,54 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <span style="color:#03f">frozen/dried peas | pea soup</span><snd>snds/ukozone002.mp3</snd></a>
 
 <q>
+(n) a small bitter green or black fruit that is eaten or used to produce oil, or a Mediterranean tree on which this fruit grows<img>imgs/olive.jpeg</img></q>
+<a><b>olive</b> /ˈɒl.ɪv/
+
+<span style="color:#03f">olive groves</span><snd>snds/ukolden009.mp3</snd></a>
+
+<q>
 (n) a small, round fruit with a thin, smooth, red, purple, or yellow skin, sweet, soft flesh, and a single large, hard seed<img>imgs/plum.5637846.jpeg</img></q>
 <a><b>plum</b> /plʌm/
 
 <span style="color:#03f">plum jam | a plum tree</span><snd>snds/ukplodd020.mp3</snd></a>
+
+<q>
+(n) a long, thin, pale green vegetable with dark green skin, usually eaten uncooked in salads<img>imgs/cucumber.65734.jpeg</img></q>
+<a><b>cucumber</b> /ˈkjuː.kʌm.bə(r)/<snd>snds/ukcsa__018.mp3</snd></a>
+
+<q>
+(n) the small, round, dark red root of a plant, eaten cooked as a vegetable, especially cold in salads<img>imgs/beet.4563457.jpeg</img></q>
+<a><b>beetroot</b> /ˈbiːt.ruːt/<snd>snds/ukbeer_006.mp3</snd></a>
+
+<q>
+(n) a sweet fruit, usually with a green skin and a lot of juice, that has a round base and is slightly pointed towards the stem<img>imgs/pear.45626.jpeg</img></q>
+<a><b>pear</b> /peər/<snd>snds/ukpaink014.mp3</snd></a>
 
 </category>
 
 <category name="health">
 
 <q>
-(n) a formal arrangement to meet or visit someone at a particular time and place<img>imgs/appointment.jpeg</img></q>
-<a><b>appointment</b> /əˈpɔɪnt.mənt/
+(v) to lose blood<img>imgs/bleed.jpeg</img></q>
+<a><b>bleed</b> /bliːd/
 
-<span style="color:#03f">I'd like to make an appointment with Dr Evans, please. | She had to cancel her dental appointment. | [ + to infinitive ] I've got an appointment to see Ms Edwards at two o'clock. | I've got a two o'clock appointment with Ms Edwards. | If he didn't have a secretary to remind him, he wouldn't keep (= remember to be present at) any of his appointments. | That's the second appointment he's missed.</span><snd>snds/ukappen028.mp3</snd></a>
-
-<q>
-(n) a stick with a piece that fits under the arm, that you lean on for support if you have difficulty in walking because of a foot or leg injury<img>imgs/crutch.jpeg</img></q>
-<a><b>crutch</b> /krʌtʃ/
-
-<span style="color:#03f">Martin broke his leg and has been on crutches for the past six weeks.</span><snd>snds/ukcrumb017.mp3</snd></a>
+<span style="color:#03f">Your arm is bleeding. | He was bleeding heavily. | She was found unconscious and bleeding. | What's the matter with your hand? It's bleeding. | My nose was bleeding and I plugged it with cotton wool. | He was bleeding profusely. | By now his leg had stopped bleeding.</span><snd>snds/ukblank027.mp3</snd></a>
 
 <q>
-(n) an infectious disease that produces small, red spots all over the body<img>imgs/measles.jpeg</img></q>
-<a><b>measles</b> /ˈmiː.zəlz/
-
-<span style="color:#03f">The number of deaths from measles fell by 30 per cent. | One of the children got the measles.</span><snd>snds/ukmeant004.mp3</snd></a>
+(v) to become sick with a cold<img>imgs/catch.a.cold.jpeg</img></q>
+<a><b>catch a cold</b></a>
 
 <q>
-(n) a thick substance, usually containing medicine, that is put on the skin where it is sore or where there is an injury, in order to cure it<img>imgs/ointment.jpeg</img></q>
-<a><b>ointment</b> /ˈɔɪnt.mənt/
+(v) to make someone with an illness healthy again</q>
+<a><b>cure</b> /kjʊə(r)/
 
-<span style="color:#03f">eye ointment</span><snd>snds/ukoffst020.mp3</snd></a>
-
-<q>
-(n) the regular beating of the heart, especially when it is felt at the wrist or side of the neck<img>imgs/pulse.jpeg</img></q>
-<a><b>pulse</b> /pʌls/
-
-<span style="color:#03f">The child's pulse was strong/weak. | Exercise increases your pulse rate.</span><snd>snds/ukpueri025.mp3</snd></a>
+<span style="color:#03f">At one time doctors couldn't cure TB/cure people of TB. | He made wild claims about being able to cure cancer. | Drugs have been developed to cure some duodenal ulcers. | Some people try hypnotism to cure themselves of addictions.</span><snd>snds/ukcunt_025.mp3</snd></a>
 
 <q>
-(n) a device for supporting a broken or damaged arm in which the arm is held in front of the body in a piece of cloth that is tied around the neck<img>imgs/sling.jpeg</img></q>
-<a><b>sling</b> /slɪŋ/
+(v) to feel weak, as if you are about to become unconscious</q>
+<a><b>faint</b> /feɪnt/
 
-<span style="color:#03f">The cylinder was lifted from the seabed in a sling. | I had my arm in a sling for six weeks.</span><snd>snds/ukslimm005.mp3</snd></a>
-
-<q>
-(n) a condition in which your throat is red and feels painful, especially when you swallow<img>imgs/sore.throat.jpeg</img></q>
-<a><b>sore throat</b> /ˌsɔː ˈθrəʊt/
-
-<span style="color:#03f">She has a sore throat and a fever.</span></a>
-
-<q>
-(n) a small, sharp, broken piece of wood, glass, plastic, or similar material<img>imgs/splinter.jpeg</img></q>
-<a><b>splinter</b> /ˈsplɪn.tər/
-
-<span style="color:#03f">The girl had a splinter (of wood) in her toe.</span><snd>snds/uksplee010.mp3</snd></a>
-
-<q>
-(n) an amount held in a particular spoon<img>imgs/spoonful.jpeg</img></q>
-<a><b>spoonful</b> /ˈspuːn.fʊl/
-
-<span style="color:#03f">a spoonful of medicine</span><snd>snds/ukspong013.mp3</snd></a>
-
-<q>
-(n) a pain in the stomach<img>imgs/stomachache.jpeg</img></q>
-<a>stomachache /ˈstʌm·ək ˌeɪk/<snd>snds/stomachache.mp3</snd></a>
-
-<q>
-(n) pleasantly brown skin caused by being in hot sun<img>imgs/suntan.jpeg</img></q>
-<a><b>suntan</b> /ˈsʌn.tæn/
-
-<span style="color:#03f">She's on the beach all day, trying to get a really deep suntan.</span><snd>snds/uksunbu029.mp3</snd></a>
-
-<q>
-(n) a small, solid piece of medicine that you swallow<img>imgs/tablet.jpeg</img></q>
-<a><b>tablet</b> /ˈtæb.lət/
-
-<span style="color:#03f">a sleeping tablet | a vitamin tablet | He'd taken a sleeping tablet the night before and still felt dopey. | Take one tablet three times a day. | The medicine is available in tablet form.</span>
-<snd>snds/epd33089.mp3</snd></a>
-
-<q>
-(n) a device used for measuring temperature, especially of the air or in a person's body<img>imgs/thermometer.jpeg</img></q>
-<a><b>thermometer</b> /θəˈmɒm.ɪ.tə(r)/<snd>snds/ukthera013.mp3</snd></a>
-
-<q>
-(n) a damaged area of the body, such as a cut or hole in the skin or flesh made by a weapon<img>imgs/wound.jpeg</img></q>
-<a><b>wound</b> /wuːnd/
-
-<span style="color:#03f">a gunshot wound | a chest/leg wound | a flesh wound (= one that is not deep) | He died from multiple stab wounds to the neck and upper body.</span><snd>snds/ukworth011.mp3</snd></a>
-
-<q>
-(n) a type of radiation that can go through many solid substances, allowing hidden objects such as bones and organs in the body to be photographed<img>imgs/X-ray.jpeg</img></q>
-<a><b>X-ray</b> /ˈeks.reɪ/
-
-<span style="color:#03f">The X-ray showed a slight irregularity in one lung. | She had an X-ray to see if any of her ribs were broken. | The tumour showed up on the X-ray. | I had to have an X-ray on my arm.</span><snd>snds/ukxray_001.mp3</snd></a>
+<span style="color:#03f">She felt faint with hunger.</span><snd>snds/ukfagge009.mp3</snd></a>
 
 <q>
 (n) the place where a dentist carries out their job<img>imgs/dentists.jpeg</img></q>
@@ -7328,6 +7263,34 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <q>
 (n) abbreviation for emergency room<img>imgs/ER.jpeg</img></q>
 <a><b>ER</b> /ˌiːˈɑːr/<snd>snds/ukequip011.mp3</snd></a>
+
+<q>
+(n) a thick substance, usually containing medicine, that is put on the skin where it is sore or where there is an injury, in order to cure it<img>imgs/ointment.jpeg</img></q>
+<a><b>ointment</b> /ˈɔɪnt.mənt/
+
+<span style="color:#03f">eye ointment</span><snd>snds/ukoffst020.mp3</snd></a>
+
+<q>
+(n) a device for supporting a broken or damaged arm in which the arm is held in front of the body in a piece of cloth that is tied around the neck<img>imgs/sling.jpeg</img></q>
+<a><b>sling</b> /slɪŋ/
+
+<span style="color:#03f">The cylinder was lifted from the seabed in a sling. | I had my arm in a sling for six weeks.</span><snd>snds/ukslimm005.mp3</snd></a>
+
+<q>
+(n) a small, sharp, broken piece of wood, glass, plastic, or similar material<img>imgs/splinter.jpeg</img></q>
+<a><b>splinter</b> /ˈsplɪn.tər/
+
+<span style="color:#03f">The girl had a splinter (of wood) in her toe.</span><snd>snds/uksplee010.mp3</snd></a>
+
+<q>
+(n) a pain in the stomach<img>imgs/stomachache.jpeg</img></q>
+<a>stomachache /ˈstʌm·ək ˌeɪk/<snd>snds/stomachache.mp3</snd></a>
+
+<q>
+(n) pleasantly brown skin caused by being in hot sun<img>imgs/suntan.jpeg</img></q>
+<a><b>suntan</b> /ˈsʌn.tæn/
+
+<span style="color:#03f">She's on the beach all day, trying to get a really deep suntan.</span><snd>snds/uksunbu029.mp3</snd></a>
 
 <q>
 (n) a collection of bandages and medicines for giving first aid when someone has an injury<img>imgs/first.aid.kit.jpeg</img></q>
@@ -7390,6 +7353,18 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <a><b>sunburn</b> /ˈsʌn.bɜːn/<snd>snds/uksunbu001.mp3</snd></a>
 
 <q>
+(n) a stick with a piece that fits under the arm, that you lean on for support if you have difficulty in walking because of a foot or leg injury<img>imgs/crutch.jpeg</img></q>
+<a><b>crutch</b> /krʌtʃ/
+
+<span style="color:#03f">Martin broke his leg and has been on crutches for the past six weeks.</span><snd>snds/ukcrumb017.mp3</snd></a>
+
+<q>
+(n) an infectious disease that produces small, red spots all over the body<img>imgs/measles.jpeg</img></q>
+<a><b>measles</b> /ˈmiː.zəlz/
+
+<span style="color:#03f">The number of deaths from measles fell by 30 per cent. | One of the children got the measles.</span><snd>snds/ukmeant004.mp3</snd></a>
+
+<q>
 (n) a common infectious illness that causes fever and headache<img>imgs/flu.jpeg</img></q>
 <a><b>flu</b> /fluː/
 
@@ -7402,6 +7377,12 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <span style="color:#03f">a box of waterproof plasters | Put a plaster on it so that it doesn't get infected.</span><snd>snds/ukplain023.mp3</snd></a>
 
 <q>
+(n) an amount held in a particular spoon<img>imgs/spoonful.jpeg</img></q>
+<a><b>spoonful</b> /ˈspuːn.fʊl/
+
+<span style="color:#03f">a spoonful of medicine</span><snd>snds/ukspong013.mp3</snd></a>
+
+<q>
 (n) a continuous pain that is unpleasant but not very strong</q>
 <a><b>ache</b> /eɪk/
 
@@ -7410,6 +7391,41 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <q>
 (n) a pain in the inside part of your ear<img>imgs/earache.jpeg</img></q>
 <a><b>earache</b> /ˈɪə.reɪk/<snd>snds/ukdynam019.mp3</snd></a>
+
+<q>
+(n) the regular beating of the heart, especially when it is felt at the wrist or side of the neck<img>imgs/pulse.jpeg</img></q>
+<a><b>pulse</b> /pʌls/
+
+<span style="color:#03f">The child's pulse was strong/weak. | Exercise increases your pulse rate.</span><snd>snds/ukpueri025.mp3</snd></a>
+
+<q>
+(n) a condition in which your throat is red and feels painful, especially when you swallow<img>imgs/sore.throat.jpeg</img></q>
+<a><b>sore throat</b> /ˌsɔː ˈθrəʊt/
+
+<span style="color:#03f">She has a sore throat and a fever.</span></a>
+
+<q>
+(n) a small, solid piece of medicine that you swallow<img>imgs/tablet.jpeg</img></q>
+<a><b>tablet</b> /ˈtæb.lət/
+
+<span style="color:#03f">a sleeping tablet | a vitamin tablet | He'd taken a sleeping tablet the night before and still felt dopey. | Take one tablet three times a day. | The medicine is available in tablet form.</span>
+<snd>snds/epd33089.mp3</snd></a>
+
+<q>
+(n) a device used for measuring temperature, especially of the air or in a person's body<img>imgs/thermometer.jpeg</img></q>
+<a><b>thermometer</b> /θəˈmɒm.ɪ.tə(r)/<snd>snds/ukthera013.mp3</snd></a>
+
+<q>
+(n) a damaged area of the body, such as a cut or hole in the skin or flesh made by a weapon<img>imgs/wound.jpeg</img></q>
+<a><b>wound</b> /wuːnd/
+
+<span style="color:#03f">a gunshot wound | a chest/leg wound | a flesh wound (= one that is not deep) | He died from multiple stab wounds to the neck and upper body.</span><snd>snds/ukworth011.mp3</snd></a>
+
+<q>
+(n) a type of radiation that can go through many solid substances, allowing hidden objects such as bones and organs in the body to be photographed<img>imgs/X-ray.jpeg</img></q>
+<a><b>X-ray</b> /ˈeks.reɪ/
+
+<span style="color:#03f">The X-ray showed a slight irregularity in one lung. | She had an X-ray to see if any of her ribs were broken. | The tumour showed up on the X-ray. | I had to have an X-ray on my arm.</span><snd>snds/ukxray_001.mp3</snd></a>
 
 <q>
 (n) a long, narrow piece of cloth that is tied around an injury or a part of someone's body that has been hurt<img>imgs/bandage.jpeg</img></q>
@@ -7434,6 +7450,12 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <a><b>cancer</b> /ˈkæn.sə(r)/
 
 <span style="color:#03f">He died of liver cancer. | cancer of the cervix/stomach | breast/bowel/lung cancer | cancer cells | a cancer patient | It was a secondary cancer.</span><snd>snds/ukcamsh013.mp3</snd></a>
+
+<q>
+(n) a formal arrangement to meet or visit someone at a particular time and place<img>imgs/appointment.jpeg</img></q>
+<a><b>appointment</b> /əˈpɔɪnt.mənt/
+
+<span style="color:#03f">I'd like to make an appointment with Dr Evans, please. | She had to cancel her dental appointment. | [ + to infinitive ] I've got an appointment to see Ms Edwards at two o'clock. | I've got a two o'clock appointment with Ms Edwards. | If he didn't have a secretary to remind him, he wouldn't keep (= remember to be present at) any of his appointments. | That's the second appointment he's missed.</span><snd>snds/ukappen028.mp3</snd></a>
 
 <q>
 (n) a thin rubber covering that a man can wear on his penis during sex to stop a woman becoming pregnant or to protect him or his partner against infectious diseases<img>imgs/condom.png</img></q>
