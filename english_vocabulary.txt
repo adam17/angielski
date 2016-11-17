@@ -3,24 +3,6 @@
 <category name="air_travel">
 
 <q>
-(n) an official document that you have to show when you enter or leave a country<img>imgs/passport.264515647.jpeg</img></q>
-<a><b>passport</b> /ˈpɑːs.pɔːt/<snd>snds/ukpassi009.mp3</snd></a>
-
-<q>
-(n) tax that you pay when bringing certain goods into a country from another country</q>
-<a><b>customs duty</b> /kˈʌstəmz djˈuːti/<snd>snds/cbeduk02364.mp3</snd></a>
-
-<q>
-(v) to look carefully in a place for something</q>
-<a><b>search</b> /sɜːtʃ/
-
-<span style="color:#02f">I've searched high and low (= everywhere), but I can't find my birth certificate. | He searched (in/through) his pockets for some change. | I searched the internet for the best deal.</span><snd>snds/uksear_002.mp3</snd></a>
-
-<q>
-(n) a person whose job it is to look after passengers on a plane and to give them food and drink</q>
-<a><b>flight attendant</b> /flˈaɪt ɐtˈɛndənt/<snd>snds/ukcld00497.mp3</snd></a>
-
-<q>
 (n) the long narrow passage between the rows of seats on a plane<img>imgs/aisle.568982568.jpeg</img></q>
 <a><b>aisle</b> /aɪl/<snd>snds/ukairwo004.mp3</snd></a>
 
@@ -39,6 +21,12 @@
 <q>
 (n) the part of an airport where you wait before you get on a plane</q>
 <a><b>departures</b> /dɪˈpɑː.tʃərz/<snd>snds/departures.mp3</snd></a>
+
+<q>
+(v) to look carefully in a place for something</q>
+<a><b>search</b> /sɜːtʃ/
+
+<span style="color:#02f">I've searched high and low (= everywhere), but I can't find my birth certificate. | He searched (in/through) his pockets for some change. | I searched the internet for the best deal.</span><snd>snds/uksear_002.mp3</snd></a>
 
 <q>
 (n) the bags that you take with you in the cabin, rather than your checked bags [carry-on luggage]</q>
@@ -73,6 +61,10 @@
 <a><b>check something in</b> /tʃˈɛk sˈʌmθɪŋ ˈɪn/</a>
 
 <q>
+(n) a person whose job it is to look after passengers on a plane and to give them food and drink</q>
+<a><b>flight attendant</b> /flˈaɪt ɐtˈɛndənt/<snd>snds/ukcld00497.mp3</snd></a>
+
+<q>
 (n) a company that carries people or goods in planes</q>
 <a><b>airline</b> /ˈeə.laɪn/<snd>snds/ukairfi010.mp3</snd></a>
 
@@ -87,6 +79,10 @@
 <q>
 (n) a part of an aircraft that turns around very fast and makes the aircraft move</q>
 <a><b>propeller</b> /prəˈpel.ə/<snd>snds/ukproof014.mp3</snd></a>
+
+<q>
+(n) tax that you pay when bringing certain goods into a country from another country</q>
+<a><b>customs duty</b> /kˈʌstəmz djˈuːti/<snd>snds/cbeduk02364.mp3</snd></a>
 
 <q>
 (n) the best and most expensive seats on a plane</q>
@@ -177,6 +173,10 @@
 <q>
 (v) to travel somewhere in an aircraft; when a pilot does it, they make it move through the air</q>
 <a><b>fly</b> /flaɪ/<snd>snds/ukflush010.mp3</snd></a>
+
+<q>
+(n) an official document that you have to show when you enter or leave a country<img>imgs/passport.264515647.jpeg</img></q>
+<a><b>passport</b> /ˈpɑːs.pɔːt/<snd>snds/ukpassi009.mp3</snd></a>
 
 <q>
 (n) the act of bringing a plane back down on to the ground</q>
@@ -384,10 +384,6 @@
 <category name="the_animal_world">
 
 <q>
-(v) when a dog or another animal does it, it makes a low sound in its throat, usually because it is <u>a</u>ngry<img>imgs/growl.3423.jpeg</img></q>
-<a><b>growl</b> /ɡraʊl/<snd>snds/ukgroun016.mp3</snd></a>
-
-<q>
 (n) a very large animal with short legs and thick skin, that lives in and near rivers<img>imgs\hippopotamus.jpeg</img></q>
 <a>hippopotamus /ˌhɪp.əˈpɒt.ə.məs/
 
@@ -433,6 +429,10 @@
 <q>
 (n) a small water animal that looks like a black fish, and that develops into a frog or a toad<img>imgs\tadpole.jpeg</img></q>
 <a><b>tadpole</b> /ˈtæd.pəʊl/<snd>snds/uktacti008.mp3</snd></a>
+
+<q>
+(v) when a dog or another animal does it, it makes a low sound in its throat, usually because it is <u>a</u>ngry<img>imgs/growl.3423.jpeg</img></q>
+<a><b>growl</b> /ɡraʊl/<snd>snds/ukgroun016.mp3</snd></a>
 
 <q>
 (v) when a dog does it, it makes its typical short, loud sound
@@ -1226,74 +1226,10 @@
 <category name="inne">
 
 <q>
-(n) the feeling of being certain that something exists or is true</q>
-<a>belief /bɪˈliːf/
+(v) to come close together in a group, or to hold your arms and legs close to your body, especially because of cold or fear</q>
+<a><b>huddle</b> /ˈhʌd.əl/
 
-<span style="color:#00f">His belief in God gave him hope during difficult times. | Recent scandals have shaken many people's belief in (= caused people to have doubts about) politicians.</span><snd>snds/ukbelda008.mp3</snd></a>
-
-<q>
-(n) a ​list of ​planned ​activities or things to be done ​showing the ​times or ​dates when they are ​intended to ​happen or be done OR UK timetable</q>
-<a><b>schedule</b> /ˈʃed.juːl/
-
-<span style="color:#00f">The ​class schedule is ​available on the ​website. | a ​bus schedule | a schedule of ​talks at the ​convention | a ​production schedule | a ​hectic/​tight (= very ​busy) schedule | Everything went ​according to schedule (= as had been ​planned).</span><snd>snds/uksched001.mp3</snd></a>
-
-<q>
-(adj) shaped like a circle OR an argument is one that keeps returning to the same points and is not effective</q>
-<a><b>circular</b> /ˈsɜː.kjə.lə(r)/
-
-<span style="color:#03f">a circular flowerbed/tablecloth</span><snd>snds/ukcinna009.mp3</snd></a>
-
-<q>
-(v) to recognize how good someone or something is and to value him, her, or it OR used when you are thanking someone or showing that you are grateful</q>
-<a><b>appreciate</b> /əˈpriː.ʃi.eɪt/
-
-<span style="color:#03f">There's no point buying him expensive wines - he doesn't appreciate them. | We appreciate the need for immediate action. | We really appreciate all the help you gave us last weekend. | I appreciate your making the effort to come. | I don't think you quite appreciate the delicacy of the situation. | I don't want everyone to know, so if you could keep it to yourself I'd appreciate it. | I appreciate your honesty.</span><snd>snds/ukappra007.mp3</snd></a>
-
-<q>
-(v) to change the words of a text, especially a law or a legal document</q>
-<a><b>amend</b> /əˈmend/
-
-<span style="color:#03f">MPs were urged to amend the law to prevent another oil tanker disaster. | In line 20, "men" should be amended (= changed) to "people". | Until the constitution is amended, the power to appoint ministers will remain with the president.</span><snd>snds/ukambit018.mp3</snd></a>
-
-<q>
-(v) to keep or continue to have something</q>
-<a><b>retain</b> /rɪˈteɪn/
-
-<span style="color:#00f">She has lost her battle to retain control of the company. | He managed to retain his dignity throughout the performance. | I have a good memory and am able to retain (= remember) facts easily.</span><snd>snds/ukrestr020.mp3</snd></a>
-
-<q>
-(n) a small, very intelligent African ape with black or brown fur<img>imgs/chimpanzee.t53673.jpeg</img></q>
-<a><b>chimpanzee</b> /ˌtʃɪm.pænˈziː/<snd>snds/ukchimn004.mp3</snd></a>
-
-<q>
-(n & v) the ​feeling of ​wanting to give ​your ​attention to something or of ​wanting to be ​involved with and to ​discover more about something</q>
-<a><b>interest</b> /ˈɪn.trəst/
-
-<span style="color:#00f">I've always had an interest in ​astronomy. | He never ​seems to show any interest in his ​children. | Sport has never really interested me.</span><snd>snds/ukinter015.mp3</snd></a>
-
-<q>
-(adj) unpleasant and causing difficulties or harm</q>
-<a><b>bad</b> /bæd/
-
-<span style="color:#00f">Our holiday was spoiled by bad weather. | We've just had some very bad news. | I had a very bad night (= did not sleep well) last night.</span><snd>snds/ukbacks017.mp3</snd></a>
-
-<q>
-(adj) certain; without any doubt</q>
-<a><b>sure</b> /ʃɔː(r)/
-
-<span style="color:#03f">"What's wrong with him?" "I'm not really sure." | I'm sure (that) I left my keys on the table. | I feel absolutely sure (that) you've made the right decision. | It now seems sure (that) the election will result in another victory for the government. | Shaun isn't sure whether/if he'll be able to come to the party or not. | Is there anything you're not sure of/about? | We arrive early to be sure of getting a good seat. | There is only one sure way (= one way that can be trusted) of finding out the truth.</span><snd>snds/ukshodd029.mp3</snd></a>
-
-<q>
-(phrase) to behave in a way that is intended to attract attention or admiration, and that other people often find annoying</q>
-<a><b>show off</b> /ʃˈəʊ ˈɒf/
-
-<span style="color:#03f">She only bought that sports car to show off and prove she could afford one. | He's always showing off to his classmates.</span></a>
-
-<q>
-(n) <u>a</u> long, thin mark on the surface of something OR a group of people or things <u>a</u>rranged in a row<img>imgs/line.of.people.jpeg</img></q>
-<a><b>line</b> /laɪn/
-
-<span style="color:#01f">a straight line | Sign your name on the dotted line. | a line of trees | The prisoners formed a line against the wall. | He comes from a long line of doctors (= a lot of his relatives were doctors before him).</span><img>imgs/lane.and.line.png</img><snd>snds/uklinct003.mp3</snd></a>
+<span style="color:#03f">Everyone huddled round the fire to keep warm. | It was so cold that we huddled together for warmth. | Sophie was so frightened by the noise of the fireworks that she huddled (up) in a corner of the room.</span><snd>snds/ukhowit028.mp3</snd></a>
 
 <q>
 (n) a country in central Europe<img>imgs/germany.png</img></q>
@@ -1371,6 +1307,16 @@ It's all a fuss about nothing. | I don't see what the fuss is about - he seems l
 <a><b>syringe</b> /sɪˈrɪndʒ/<snd>snds/uksynta012.mp3</snd></a>
 
 <q>
+(n) a small, very intelligent African ape with black or brown fur<img>imgs/chimpanzee.t53673.jpeg</img></q>
+<a><b>chimpanzee</b> /ˌtʃɪm.pænˈziː/<snd>snds/ukchimn004.mp3</snd></a>
+
+<q>
+(adj) not certain or decided OR not completely good, honest, or suitable</q>
+<a><b>iffy</b> /ˈɪf.i/
+
+<span style="color:#03f">Simon's still kind of iffy about going to Columbia. | The milk smells a bit iffy. | I was hoping to go to the park but the weather's looking a bit iffy.</span><snd>snds/ukidioc018.mp3</snd></a>
+
+<q>
 (n) honest or lasting support, or loyalty, especially to a sexual partner</q>
 <a><b>fidelity</b> /fɪˈdel.ə.ti/
 
@@ -1405,6 +1351,18 @@ It's all a fuss about nothing. | I don't see what the fuss is about - he seems l
 <span style="color:#03f">Helga stuck her posters up with Blu-Tack.</span><snd>snds/ukblunt012.mp3</snd></a>
 
 <q>
+(adj) unpleasant and causing difficulties or harm</q>
+<a><b>bad</b> /bæd/
+
+<span style="color:#00f">Our holiday was spoiled by bad weather. | We've just had some very bad news. | I had a very bad night (= did not sleep well) last night.</span><snd>snds/ukbacks017.mp3</snd></a>
+
+<q>
+(phrase) to behave in a way that is intended to attract attention or admiration, and that other people often find annoying</q>
+<a><b>show off</b> /ʃˈəʊ ˈɒf/
+
+<span style="color:#03f">She only bought that sports car to show off and prove she could afford one. | He's always showing off to his classmates.</span></a>
+
+<q>
 (n) behaviour that annoys or upsets someone [nękanie]</q>
 <a><b>harassment</b> /ˈhær.əs.mənt/
 
@@ -1433,6 +1391,18 @@ It's all a fuss about nothing. | I don't see what the fuss is about - he seems l
 <a><b>endeavour</b> /enˈdev.ə(r)/
 
 <span style="color:#03f">Engineers are endeavouring to locate the source of the problem.</span><snd>snds/ukencum010.mp3</snd></a>
+
+<q>
+(n) <u>a</u> long, thin mark on the surface of something OR a group of people or things <u>a</u>rranged in a row<img>imgs/line.of.people.jpeg</img></q>
+<a><b>line</b> /laɪn/
+
+<span style="color:#01f">a straight line | Sign your name on the dotted line. | a line of trees | The prisoners formed a line against the wall. | He comes from a long line of doctors (= a lot of his relatives were doctors before him).</span><img>imgs/lane.and.line.png</img><snd>snds/uklinct003.mp3</snd></a>
+
+<q>
+(adj) certain; without any doubt</q>
+<a><b>sure</b> /ʃɔː(r)/
+
+<span style="color:#03f">"What's wrong with him?" "I'm not really sure." | I'm sure (that) I left my keys on the table. | I feel absolutely sure (that) you've made the right decision. | It now seems sure (that) the election will result in another victory for the government. | Shaun isn't sure whether/if he'll be able to come to the party or not. | Is there anything you're not sure of/about? | We arrive early to be sure of getting a good seat. | There is only one sure way (= one way that can be trusted) of finding out the truth.</span><snd>snds/ukshodd029.mp3</snd></a>
 
 <q>
 (n) a system for connecting computers into networks (= groups of computers that are used together)<img>E:\fr-media\Ethernet.jpg</img></q>
@@ -1483,6 +1453,12 @@ Not meant to be disclosed by a person or organization.</q>
 <q>
 (n) a young child, especially one who is learning or has recently learned to walk<img>imgs/toddler.845545.jpeg</img></q>
 <a><b>toddler</b> /ˈtɒd.lə(r)/<snd>snds/uktobyj005.mp3</snd></a>
+
+<q>
+(n & v) the ​feeling of ​wanting to give ​your ​attention to something or of ​wanting to be ​involved with and to ​discover more about something</q>
+<a><b>interest</b> /ˈɪn.trəst/
+
+<span style="color:#00f">I've always had an interest in ​astronomy. | He never ​seems to show any interest in his ​children. | Sport has never really interested me.</span><snd>snds/ukinter015.mp3</snd></a>
 
 <q>
 (n) something that you ​buy OR the ​act of ​buying something</q>
@@ -1598,6 +1574,12 @@ Not meant to be disclosed by a person or organization.</q>
 <span style="color:#00f">After you grind the coffee, use a funnel to pour it into the jar.</span><snd>snds/ukfunk_003.mp3</snd></a>
 
 <q>
+(v) to keep or continue to have something</q>
+<a><b>retain</b> /rɪˈteɪn/
+
+<span style="color:#00f">She has lost her battle to retain control of the company. | He managed to retain his dignity throughout the performance. | I have a good memory and am able to retain (= remember) facts easily.</span><snd>snds/ukrestr020.mp3</snd></a>
+
+<q>
 (n) a book in which you record your thoughts or feelings or what has happened each day</q>
 <a><b>diary</b> /ˈdaɪə.ri/
 
@@ -1664,6 +1646,12 @@ He drives so fast along those narrow country lanes. | I live at the end of Churc
 
 <span style="color:#03f">All the candidates have given/made pledges not to raise taxes if they are elected. | Thousands of people made pledges (= promised to give money) to the charity campaign. | I give you this ring as a pledge of my everlasting love for you.</span><snd>snds/ukplebb008.mp3</snd></a>
 
+<q>
+(v) to recognize how good someone or something is and to value him, her, or it OR used when you are thanking someone or showing that you are grateful</q>
+<a><b>appreciate</b> /əˈpriː.ʃi.eɪt/
+
+<span style="color:#03f">There's no point buying him expensive wines - he doesn't appreciate them. | We appreciate the need for immediate action. | We really appreciate all the help you gave us last weekend. | I appreciate your making the effort to come. | I don't think you quite appreciate the delicacy of the situation. | I don't want everyone to know, so if you could keep it to yourself I'd appreciate it. | I appreciate your honesty.</span><snd>snds/ukappra007.mp3</snd></a>
+
 <q>(n) a ​list of the ​food that you can ​eat in a ​restaurant</q>
 <a>menu /ˈmen.juː/
 
@@ -1686,6 +1674,12 @@ We really ought to leave immediately. | The purpose of the meeting wasn't immedi
 <a><b>wrench</b> /rentʃ/
 
 <span style="color:#03f">an adjustable wrench</span><snd>snds/ukwreat009.mp3</snd></a>
+
+<q>
+(v) to change the words of a text, especially a law or a legal document</q>
+<a><b>amend</b> /əˈmend/
+
+<span style="color:#03f">MPs were urged to amend the law to prevent another oil tanker disaster. | In line 20, "men" should be amended (= changed) to "people". | Until the constitution is amended, the power to appoint ministers will remain with the president.</span><snd>snds/ukambit018.mp3</snd></a>
 
 <q>
 (n) help given, especially by the state or an organization, to people who need it, especially because they do not have enough money</q>
@@ -1773,6 +1767,12 @@ We really ought to leave immediately. | The purpose of the meeting wasn't immedi
 <a>constraint /kənˈstreɪnt/
 
 <span style="color:#00f">The constraints of politeness wouldn't allow her to say what she really thought about his cooking. | Financial constraints on the company are preventing them from employing new staff.</span><snd>snds/ukconsp027.mp3</snd></a>
+
+<q>
+(n) the feeling of being certain that something exists or is true</q>
+<a>belief /bɪˈliːf/
+
+<span style="color:#00f">His belief in God gave him hope during difficult times. | Recent scandals have shaken many people's belief in (= caused people to have doubts about) politicians.</span><snd>snds/ukbelda008.mp3</snd></a>
 
 <q>
 (n) an act of breaking a law, promise, agreement, or relationship</q>
@@ -1871,6 +1871,12 @@ Swimming was compulsory at my ​school. | The ​law made ​wearing ​seat �
 <a><b>prospective</b> /prəˈspek.tɪv/
 
 <span style="color:#03f">Given the fact that a prospective student is bombarded by prospectuses, selecting a suitable course is not easy. | Her father always wants to meet her prospective boyfriends.</span><snd>snds/ukprose004.mp3</snd></a>
+
+<q>
+(adj) shaped like a circle OR an argument is one that keeps returning to the same points and is not effective</q>
+<a><b>circular</b> /ˈsɜː.kjə.lə(r)/
+
+<span style="color:#03f">a circular flowerbed/tablecloth</span><snd>snds/ukcinna009.mp3</snd></a>
 
 <q>
 (v) to cause food, drink, pills, etc. to move from your mouth into your stomach by using the muscles of your throat</q>
@@ -2055,6 +2061,12 @@ People throughout the country are out of work. | He yawned throughout the perfor
 <span style="color:#00f">I have a low/high boredom threshold (= I do/don't feel bored easily). | His secretary earns £268 a month, well below the threshold for paying tax.</span><snd>snds/ukthoug015.mp3</snd></a>
 
 <q>
+(n) a ​list of ​planned ​activities or things to be done ​showing the ​times or ​dates when they are ​intended to ​happen or be done OR UK timetable</q>
+<a><b>schedule</b> /ˈʃed.juːl/
+
+<span style="color:#00f">The ​class schedule is ​available on the ​website. | a ​bus schedule | a schedule of ​talks at the ​convention | a ​production schedule | a ​hectic/​tight (= very ​busy) schedule | Everything went ​according to schedule (= as had been ​planned).</span><snd>snds/uksched001.mp3</snd></a>
+
+<q>
 (n) a large, rectangular piece of furniture, often with four legs, used for sleeping on<img>imgs\bed.jpeg</img></q>
 <a><b>bed</b> /bed/
 
@@ -2161,10 +2173,6 @@ in a ​lower ​position (than), under; less than a ​particular ​amount or 
 <category name="bikes">
 
 <q>
-(n) a seat on a bicycle or a motorcycle<img>imgs/saddle.jpg</img></q>
-<a><b>saddle</b> /ˈsæd.l̩/<snd>snds/uksacri013.mp3</snd></a>
-
-<q>
 (adj) bright and reflecting light</q>
 <a>shiny /ˈʃaɪ.ni/<snd>snds/ukshine013.mp3</snd></a>
 
@@ -2175,6 +2183,10 @@ in a ​lower ​position (than), under; less than a ​particular ​amount or 
 <q>
 (n) the tools and materials you need to repair a flat tyre<img>imgs/puncturerepairkit.jpeg</img></q>
 <a><b>puncture repair kit</b> /pˈʌŋktʃə ɹɪpˈeə kˈɪt/</a>
+
+<q>
+(n) a seat on a bicycle or a motorcycle<img>imgs/saddle.jpg</img></q>
+<a><b>saddle</b> /ˈsæd.l̩/<snd>snds/uksacri013.mp3</snd></a>
 
 <q>
 (n) the system of wheels with teeth that are driven by a chain on a bicycle, making it easier or more difficult to pedal<img>imgs/gears.jpg</img></q>
@@ -2365,10 +2377,6 @@ handlebars /ˈhæn.dl̩.bɑːz/<snd>snds/ukhandb024.mp3</snd></a>
 <category name="boats,_water,_and_the_coast">
 
 <q>
-(n) a small room on a boat<img>imgs/cabin.boat.jpeg</img></q>
-<a>cabin /ˈkæb.ɪn/<snd>snds/ukbysta016.mp3</snd></a>
-
-<q>
 (v) to control the direction of a vehicle<img>imgs/steer.jpg</img></q>
 <a>steer /stɪər/
 
@@ -2421,6 +2429,10 @@ a luxury yacht | a yacht club</span><snd>snds\ukxray_007.mp3</snd></a>
 <a>quay /kiː/
 
 <span style="color:#03f">A quay is a structure on the shore of a harbor or on the bank of a river or canal where ships may dock to load and unload cargo or passengers.</span><snd>snds/ukkero_008.mp3</snd></a>
+
+<q>
+(n) a small room on a boat<img>imgs/cabin.boat.jpeg</img></q>
+<a>cabin /ˈkæb.ɪn/<snd>snds/ukbysta016.mp3</snd></a>
 
 <q>
 (n) a small smooth round stone, especially one found on a beach or in a river<img>imgs\pebble.jpg</img></q>
@@ -2770,10 +2782,6 @@ We used to go boating on that lake. | Lake Windermere</span><snd>snds/uklaidb010
 <category name="body">
 
 <q>
-(v) to move your head from side to side to mean 'no'<img>imgs\shakeyourhead.jpeg</img></q>
-<a>shake your head /ʃˈeɪk jɔː hˈɛd/</a>
-
-<q>
 (n) the back part of your mouth and the passages inside your neck<img>imgs\throat.jpeg</img></q>
 <a>throat /θrəʊt/
 
@@ -2784,6 +2792,10 @@ We used to go boating on that lake. | Lake Windermere</span><snd>snds/uklaidb010
 <a><b>pretty</b> /ˈprɪti/
 
 <span style="color:#00f">Your daughter is very pretty.</span><snd>snds/ukprete012.mp3</snd></a>
+
+<q>
+(v) to move your head from side to side to mean 'no'<img>imgs\shakeyourhead.jpeg</img></q>
+<a>shake your head /ʃˈeɪk jɔː hˈɛd/</a>
 
 <q>(v) to put your hand on something</q>
 <a>touch /tʌtʃ/
@@ -3502,26 +3514,6 @@ He was shot in the chest at point blank range. | He folded his arms across his c
 <category name="business">
 
 <q>
-(n) an amount of money that you owe someone; the situation of owing money to someone</q>
-<a><b>debt</b> /det/
-
-<span style="color:#00f">She’s working in a bar to try to pay off her debts. | We don’t want to get into debt. | He’s in debt.</span><snd>snds/ukdeath023.mp3</snd></a>
-
-<q>
-(idiom) to think in a new and creative way</q>
-<a>think outside the box</a>
-
-<q>
-(n) a large company or group of companies</q>
-<a>corporation /ˌkɔːpərˈeɪʃən/<snd>snds/ukcorne028.mp3</snd></a>
-
-<q>
-(v) to have to pay money back to someone who gave you money in the past</q>
-<a><b>owe</b> /əʊ/
-<span style="color:#00f">
-You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknutra027.mp3</snd></a>
-
-<q>
 (n) a product that is made by a particular company</q>
 <a>brand /brænd/
 
@@ -3532,6 +3524,10 @@ You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknu
 <a><b>blue-sky thinking</b> /blˈuːskˈaɪ θˈɪŋkɪŋ/
 
 <span style="color:#00f">The origin of the management cliché may be obscure, but it suggests the emptiness of the skies - in blue-sky thinking there should be no preconceptions. </span></a>
+
+<q>
+(idiom) to think in a new and creative way</q>
+<a>think outside the box</a>
 
 <q>
 (n) the business of trying to persuade people to buy products or services</q>
@@ -3561,6 +3557,16 @@ You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknu
 <a>commercial /kəˈmɜːʃəl/
 
 <span style="color:#00f">The computer was a commercial success (= made a profit).</span><snd>snds/ukcomma024.mp3</snd></a>
+
+<q>
+(n) a large company or group of companies</q>
+<a>corporation /ˌkɔːpərˈeɪʃən/<snd>snds/ukcorne028.mp3</snd></a>
+
+<q>
+(v) to have to pay money back to someone who gave you money in the past</q>
+<a><b>owe</b> /əʊ/
+<span style="color:#00f">
+You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknutra027.mp3</snd></a>
 
 <q>
 (n) someone who has an important job in a business</q>
@@ -3601,6 +3607,12 @@ You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknu
 <a><b>turnover</b> /ˈtɜːnˌəʊ.vər/
 <span style="color:#00f">
 Large supermarkets have high turnovers (= their goods sell very quickly). | The business has an annual turnover of £50,000.</span><snd>snds/ukturnk003.mp3</snd></a>
+
+<q>
+(n) an amount of money that you owe someone; the situation of owing money to someone</q>
+<a><b>debt</b> /det/
+
+<span style="color:#00f">She’s working in a bar to try to pay off her debts. | We don’t want to get into debt. | He’s in debt.</span><snd>snds/ukdeath023.mp3</snd></a>
 
 <q>(v) to get something by giving money for it</q>
 <a>buy /baɪ/
@@ -3897,18 +3909,6 @@ We’re having a meeting on Thursday to discuss the problem. | He’s in a meeti
 <category name="cars_and_road_travel">
 
 <q>
-(n) a trip from one place to another</q>
-<a><b>journey</b> /ˈdʒɜːni/
-
-<span style="color:#00f">a train journey | a three-week journey through China</span><snd>snds/ukjolli021.mp3</snd></a>
-
-<q>
-(v) when a car hits something by accident</q>
-<a>crash /kræʃ/
-
-<span style="color:#00f">The van skidded and crashed into a tree.</span><snd>snds/ukcraps002.mp3</snd></a>
-
-<q>
 (n) the mirror on the front window<img>imgs\rear-view mirror.jpg</img></q>
 <a>rear-view mirror<snd>snds/uka34457.mp3</snd></a>
 
@@ -3932,6 +3932,12 @@ We’re having a meeting on Thursday to discuss the problem. | He’s in a meeti
 <a>skid /skɪd/
 
 <span style="color:#00f">The car skidded on ice and hit a tree.</span><snd>snds/uksketc009.mp3</snd></a>
+
+<q>
+(v) when a car hits something by accident</q>
+<a>crash /kræʃ/
+
+<span style="color:#00f">The van skidded and crashed into a tree.</span><snd>snds/ukcraps002.mp3</snd></a>
 
 <q>(n) a piece of equipment used to make a loud sound as a warning<img>imgs\horn.car.jpg</img></q>
 <a>horn /hɔːn/
@@ -3974,6 +3980,12 @@ We’re having a meeting on Thursday to discuss the problem. | He’s in a meeti
 
 <q>(n) a flat metal object at the side of a road that gives information to drivers<img>imgs\road sign.jpeg</img></q>
 <a>road sign<snd>snds\road_sign_British_English_pronunciation.mp3</snd></a>
+
+<q>
+(n) a trip from one place to another</q>
+<a><b>journey</b> /ˈdʒɜːni/
+
+<span style="color:#00f">a train journey | a three-week journey through China</span><snd>snds/ukjolli021.mp3</snd></a>
 
 <q>
 (n) a large road vehicle for carrying things from place to place<img>imgs\lorry_0.jpg</img></q>
@@ -4332,18 +4344,6 @@ informal <b>speedo</b></q>
 <category name="celebrations and ceremonies">
 
 <q>
-(n) an agreement to get married to someone<img>imgs\engagement.jpeg</img></q>
-<a><b>engagement</b> /ɪnˈɡeɪdʒmənt/
-
-<span style="color:#00f">an engagement ring</span><snd>snds/ukendwa025.mp3</snd></a>
-
-<q>
-(n) an important event</q>
-<a>occasion /əˈkeɪʒən/
-
-<span style="color:#00f">a special occasion | She bought a new dress for the occasion.</span><snd>snds/ukobsti022.mp3</snd></a>
-
-<q>
 (n) an event before or after a funeral when friends and family remember the person who died</q>
 <a>wake /weɪk/<snd>snds/ukwaist008.mp3</snd></a>
 
@@ -4364,6 +4364,12 @@ informal <b>speedo</b></q>
 <a>christening /ˈkrɪsənɪŋ/<snd>snds/ukchora020.mp3</snd></a>
 
 <q>
+(n) an important event</q>
+<a>occasion /əˈkeɪʒən/
+
+<span style="color:#00f">a special occasion | She bought a new dress for the occasion.</span><snd>snds/ukobsti022.mp3</snd></a>
+
+<q>
 (n) in the Christian religion, the 40 days before Easter</q>
 <a>Lent /lent/<snd>snds/ukcld02024.mp3</snd></a>
 
@@ -4376,6 +4382,12 @@ informal <b>speedo</b></q>
 <a>graduation /ˌɡrædʒuˈeɪʃən/
 
 <span style="color:#00f">We all went to the graduation ceremony.</span><snd>snds/ukgraci014.mp3</snd></a>
+
+<q>
+(n) an agreement to get married to someone<img>imgs\engagement.jpeg</img></q>
+<a><b>engagement</b> /ɪnˈɡeɪdʒmənt/
+
+<span style="color:#00f">an engagement ring</span><snd>snds/ukendwa025.mp3</snd></a>
 
 <q>
 (v) to have a party or a meal because it is a special day or something good has happened</q>
@@ -4656,24 +4668,16 @@ informal <b>speedo</b></q>
 <category name="clothes">
 
 <q>
-(n) a ​long, ​loose ​piece of ​clothing with ​wide ​sleeves, of the ​type ​worn in ​Western ​Asia<img>imgs\kaftan.jpeg</img></q>
-<a>kaftan /ˈkæf.tæn/<snd>snds/ukcad__020.mp3</snd></a>
+(adj) having a small distance from one end to the other</q>
+<a>short /ʃɔːt/
 
-<q>
-(n) a shirt that women wear<img>imgs\blouse.jpeg</img></q>
-<a>blouse /blaʊz/<snd>snds/ukblood026.mp3</snd></a>
+<span style="color:#00f">a short skirt</span><snd>snds/ukshorn002.mp3</snd></a>
 
 <q>
 (n) the business of making and selling clothes; the most popular style of clothes or behaviour at a particular time</q>
 <a><b>fashion</b> /ˈfæʃən/
 
 <span style="color:#00f">Long hair is in fashion now. | Fur coats have gone out of fashion. | fashion magazines</span><snd>snds/ukfarth012.mp3</snd></a>
-
-<q>
-(adj) having a small distance from one end to the other</q>
-<a>short /ʃɔːt/
-
-<span style="color:#00f">a short skirt</span><snd>snds/ukshorn002.mp3</snd></a>
 
 <q>
 (v) to remove something, especially clothes</q>
@@ -4753,6 +4757,10 @@ informal <b>speedo</b></q>
 
 <span style="color:#00f">a tight skirt</span><snd>snds/uktickl025.mp3</snd></a>
 
+<q>
+(n) a shirt that women wear<img>imgs\blouse.jpeg</img></q>
+<a>blouse /blaʊz/<snd>snds/ukblood026.mp3</snd></a>
+
 <q>(n) a piece of clothing with two parts that women wear for swimming<img>imgs\bikini.jpeg</img></q>
 <a>bikini /bɪˈkiːni/<snd>snds/ukbiff_023.mp3</snd></a>
 
@@ -4793,6 +4801,10 @@ informal <b>speedo</b></q>
 <a>sock /sɒk/
 
 <span style="color:#00f">a pair of black socks</span><snd>snds/uksober023.mp3</snd></a>
+
+<q>
+(n) a ​long, ​loose ​piece of ​clothing with ​wide ​sleeves, of the ​type ​worn in ​Western ​Asia<img>imgs\kaftan.jpeg</img></q>
+<a>kaftan /ˈkæf.tæn/<snd>snds/ukcad__020.mp3</snd></a>
 
 <q>
 (n) a ​head ​covering for a man, ​worn ​especially by Sikhs, Muslims, and Hindus, made from a ​long ​piece of ​cloth that is ​wrapped around the ​top of the ​head many ​times<img>imgs\turban.jpeg</img></q>
@@ -5053,31 +5065,6 @@ informal <b>speedo</b></q>
 
 <category name="employment">
 
-<q>(n) the ​department of an ​organization that ​deals with ​finding new ​employees, ​keeping ​records about all the organization's ​employees, and ​helping them with any ​problems [abbreviation <b>HR</b>]</q>
-<a>human resources<snd>snds/ukcld00696.mp3</snd></a>
-
-<q>
-(n) ​money that is ​earned from doing ​work or ​received from ​investments</q>
-<a><b>income</b> /ˈɪn.kʌm/
-
-<span style="color:#00f">Average incomes have ​risen by 4.5 ​percent over the past ​year. | More ​help is ​needed for ​people on ​low incomes. | I haven't had much income from my ​stocks and ​shares this ​year.</span><snd>snds/ukincle014.mp3</snd></a>
-
-<q>
-(n) an illness, injury, or condition that makes it difficult for someone to do the things that other people do<img>imgs/disability.3426534.png</img></q>
-<a>disability /ˌdɪsəˈbɪləti/
-
-<span style="color:#00f">a physical disability</span><snd>snds/ukdirnd005.mp3</snd></a>
-
-<q>
-(n) the money that you get, usually every month, for working</q>
-<a>salary /ˈsæləri/<snd>snds\uksalaa010.mp3</snd></a>
-
-<q>
-(n) a ​company that helps ​organizations ​find ​temporary ​workers and that helps ​workers ​find ​temporary ​jobs</q>
-<a><b>temping agency</b> /tˈɛmpɪŋ ˈeɪdʒənsi/
-
-<span style="color:#00f">Deregulation now ​allows temping ​agencies to ​provide ​temporary ​blue-collar ​workers for ​manufacturers needing ​extra ​workers.</span><snd>snds/cbeduk09593.mp3</snd></a>
-
 <q>(v) to tell someone that they must leave their job</q>
 <a>fire /faɪə/
 
@@ -5106,6 +5093,12 @@ informal <b>speedo</b></q>
 <a>profession /prəˈfeʃən/
 
 <span style="color:#00f">He’s a teacher by profession (= he trained to be a teacher).</span><snd>snds/ukprod_022.mp3</snd></a>
+
+<q>
+(n) a ​company that helps ​organizations ​find ​temporary ​workers and that helps ​workers ​find ​temporary ​jobs</q>
+<a><b>temping agency</b> /tˈɛmpɪŋ ˈeɪdʒənsi/
+
+<span style="color:#00f">Deregulation now ​allows temping ​agencies to ​provide ​temporary ​blue-collar ​workers for ​manufacturers needing ​extra ​workers.</span><snd>snds/cbeduk09593.mp3</snd></a>
 
 <q>
 (n) a form that you use to officially ask for something, for example a job</q>
@@ -5158,6 +5151,12 @@ informal <b>speedo</b></q>
 <span style="color:#00f">Do I have to ​work out my notice? | My ​boss gave me a month's notice. | They gave me my notice ​yesterday. | give in/hand in your notice</span><snd>snds/uknosh_027.mp3</snd></a>
 
 <q>
+(n) an illness, injury, or condition that makes it difficult for someone to do the things that other people do<img>imgs/disability.3426534.png</img></q>
+<a>disability /ˌdɪsəˈbɪləti/
+
+<span style="color:#00f">a physical disability</span><snd>snds/ukdirnd005.mp3</snd></a>
+
+<q>
 (n) the ​process of ​finding ​people to ​work for a ​company or ​become a new ​member of an ​organization</q>
 <a>recruitment /rɪˈkruːt.mənt/
 
@@ -5170,6 +5169,10 @@ informal <b>speedo</b></q>
 <a>pay /peɪ/
 
 <span style="color:#00f">She gets paid twice a month. | We paid them $600 for the work.</span><snd>snds/ukpauci017.mp3</snd></a>
+
+<q>
+(n) the money that you get, usually every month, for working</q>
+<a>salary /ˈsæləri/<snd>snds\uksalaa010.mp3</snd></a>
 
 <q>
 (n) money or other advantages which come from your job, the government, or an insurance company such as a retirement plan</q>
@@ -5250,6 +5253,12 @@ informal <b>speedo</b></q>
 <a>pay /peɪ/
 
 <span style="color:#00f">She gets paid twice a month. | We paid them $600 for the work.</span><snd>snds/ukpauci017.mp3</snd></a>
+
+<q>
+(n) ​money that is ​earned from doing ​work or ​received from ​investments</q>
+<a><b>income</b> /ˈɪn.kʌm/
+
+<span style="color:#00f">Average incomes have ​risen by 4.5 ​percent over the past ​year. | More ​help is ​needed for ​people on ​low incomes. | I haven't had much income from my ​stocks and ​shares this ​year.</span><snd>snds/ukincle014.mp3</snd></a>
 
 <q>
 (n) someone that you work with</q>
@@ -5507,6 +5516,9 @@ informal <b>speedo</b></q>
 <a>the unemployed
 <span style="color:#00f">
 Government ​programs for the ​unemployed will ​place new emphasis on ​training, ​education, and ​relocation ​assistance. | According to Labor Department ​statistics, nearly a half million ​people ​joined the ​ranks of the ​unemployed in November.</span><snd>snds/cbeduk09991.mp3</snd></a>
+
+<q>(n) the ​department of an ​organization that ​deals with ​finding new ​employees, ​keeping ​records about all the organization's ​employees, and ​helping them with any ​problems [abbreviation <b>HR</b>]</q>
+<a>human resources<snd>snds/ukcld00696.mp3</snd></a>
 
 </category>
 
@@ -5834,54 +5846,6 @@ the ​renewable ​energy ​industry | ​renewable ​energy ​projects/​s
 <category name="feelings and personal qualities">
 
 <q>
-(adj) you get angry with people who make mistakes or you hate waiting for things</q>
-<a>impatient /ɪmˈpeɪʃənt/
-
-<span style="color:#00f">I get very impatient with the children when they won’t do their homework.</span><snd>snds/ukimpar012.mp3</snd></a>
-
-<q>
-(n) a feeling of great enthusiasm and eagerness</q>
-<a><b>excitement</b> /ɪkˈsaɪt.mənt/
-
-<span style="color:#00f">Robin's ​heart was ​pounding with excitement. | If you ​want excitement, you should ​try ​parachuting. | the excitements of the ​previous ​day</span><snd>snds/ukexces014.mp3</snd></a>
-
-<q>
-(n) a ​feeling of ​pleasure and ​satisfaction that you get because you or ​people ​connected with you have done or got something good</q>
-<a><b>pride</b> /praɪd/
-
-<span style="color:#00f">She ​felt a ​great ​sense of pride as she ​watched him ​accept the ​award. | He ​felt such pride ​walking his little ​daughter down the ​street.</span><snd>snds/ukprice009.mp3</snd></a>
-
-<q>
-(adj) behaving in a pleasant, kind way towards someone</q>
-<a><b>friendly</b> /ˈfrendli/
-
-<span style="color:#00f">a friendly face/smile</span><snd>snds/ukfrica010.mp3</snd></a>
-
-<q>
-(adj) happy about something or satisfied with something</q>
-<a><b>pleased</b> /pliːzd/
-
-<span style="color:#00f">I am very pleased with your work.</span><snd>snds/ukplayg023.mp3</snd></a>
-
-<q>
-(n) a ​feeling of ​anger towards another ​person that makes someone ​want to ​annoy, ​upset, or ​hurt them, ​especially in a ​small way</q>
-<a><b>spite</b> /spaɪt/
-
-<span style="color:#00f">He's the ​sort of man who would ​let down the ​tyres on ​your ​car just out of/from spite. | He is jealous and full of spite.</span><snd>snds/ukspino018.mp3</snd></a>
-
-<q>
-(adj) feeling very happy and interested, or showing this</q>
-<a><b>excited</b> /ɪkˈsaɪtɪd/
-
-<span style="color:#00f">happy, excited faces | The children are getting really excited about the party.</span><snd>snds/ukexces012.mp3</snd></a>
-
-<q>
-(idiom) unhappy</q>
-<a><b>down in the dumps</b> /dˌaʊn ɪnðə dˈʌmps/
-
-<span style="color:#00f">She's a bit down in the dumps because she failed one of her exams.</span></a>
-
-<q>
 (adj) behaving with respect towards other people</q>
 <a><b>polite</b> /pəˈlaɪt/
 
@@ -5966,6 +5930,18 @@ the ​renewable ​energy ​industry | ​renewable ​energy ​projects/​s
 <span style="color:#00f">I felt ashamed of my behaviour. | You lied to her? You should be ashamed of yourself!</span><snd>snds/ukasbes021.mp3</snd></a>
 
 <q>
+(adj) feeling very happy and interested, or showing this</q>
+<a><b>excited</b> /ɪkˈsaɪtɪd/
+
+<span style="color:#00f">happy, excited faces | The children are getting really excited about the party.</span><snd>snds/ukexces012.mp3</snd></a>
+
+<q>
+(idiom) unhappy</q>
+<a><b>down in the dumps</b> /dˌaʊn ɪnðə dˈʌmps/
+
+<span style="color:#00f">She's a bit down in the dumps because she failed one of her exams.</span></a>
+
+<q>
 (adj) annoyed because you cannot achieve or do what you want</q>
 <a>frustrated /frʌsˈtreɪtɪd/
 
@@ -5976,6 +5952,18 @@ the ​renewable ​energy ​industry | ​renewable ​energy ​projects/​s
 <a>regret /rɪˈɡret/
 
 <span style="color:#00f">I ​left ​school at 16, but I've had a ​great ​life and I have no regrets. | The ​manager ​expressed ​deep regret at/for the ​number of ​staff ​reductions. | We ​think, much to ​our regret (= and we are very ​sorry about this), that we will not be ​able to ​visit you next ​year.</span><snd>snds/ukregen025.mp3</snd></a>
+
+<q>
+(adj) behaving in a pleasant, kind way towards someone</q>
+<a><b>friendly</b> /ˈfrendli/
+
+<span style="color:#00f">a friendly face/smile</span><snd>snds/ukfrica010.mp3</snd></a>
+
+<q>
+(adj) happy about something or satisfied with something</q>
+<a><b>pleased</b> /pliːzd/
+
+<span style="color:#00f">I am very pleased with your work.</span><snd>snds/ukplayg023.mp3</snd></a>
 
 <q>
 (adj) wanting something that someone else has</q>
@@ -6012,6 +6000,18 @@ Do you ​feel/get nervous during ​exams? | I was too nervous to ​speak. | S
 <a>suffer /ˈsʌf.ər/
 
 <span style="color:#00f">I think he suffered a lot when his wife left him. | She's been suffering from (= been ill with) cancer for two years. | Do you suffer from (= do you have) any allergies? | Like a lot of his films, it suffers from being too long.</span><snd>snds/uksucro012.mp3</snd></a>
+
+<q>
+(n) a feeling of great enthusiasm and eagerness</q>
+<a><b>excitement</b> /ɪkˈsaɪt.mənt/
+
+<span style="color:#00f">Robin's ​heart was ​pounding with excitement. | If you ​want excitement, you should ​try ​parachuting. | the excitements of the ​previous ​day</span><snd>snds/ukexces014.mp3</snd></a>
+
+<q>
+(n) a ​feeling of ​anger towards another ​person that makes someone ​want to ​annoy, ​upset, or ​hurt them, ​especially in a ​small way</q>
+<a><b>spite</b> /spaɪt/
+
+<span style="color:#00f">He's the ​sort of man who would ​let down the ​tyres on ​your ​car just out of/from spite. | He is jealous and full of spite.</span><snd>snds/ukspino018.mp3</snd></a>
 
 <q>
 (adj) unhappy because you are thinking about problems or unpleasant things that might happen</q>
@@ -6064,6 +6064,12 @@ Do you ​feel/get nervous during ​exams? | I was too nervous to ​speak. | S
 <a>insecure /ˌɪn.sɪˈkjʊər/
 
 <span style="color:#00f">I ​wonder what it was about her ​upbringing that made her so insecure. | He still ​feels insecure about his ​ability to do the ​job.</span><snd>snds/ukinsec001.mp3</snd></a>
+
+<q>
+(n) a ​feeling of ​pleasure and ​satisfaction that you get because you or ​people ​connected with you have done or got something good</q>
+<a><b>pride</b> /praɪd/
+
+<span style="color:#00f">She ​felt a ​great ​sense of pride as she ​watched him ​accept the ​award. | He ​felt such pride ​walking his little ​daughter down the ​street.</span><snd>snds/ukprice009.mp3</snd></a>
 
 <q>
 (adj) showing that you love someone</q>
@@ -6219,6 +6225,12 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <a>dishonest /dɪˈsɒnɪst/<snd>snds/ukdisgu012.mp3</snd></a>
 
 <q>
+(adj) you get angry with people who make mistakes or you hate waiting for things</q>
+<a>impatient /ɪmˈpeɪʃənt/
+
+<span style="color:#00f">I get very impatient with the children when they won’t do their homework.</span><snd>snds/ukimpar012.mp3</snd></a>
+
+<q>
 (n) a ​feeling of ​happiness that something ​unpleasant has not ​happened or has ​ended</q>
 <a>relief /rɪˈliːf/
 
@@ -6239,50 +6251,6 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 </category>
 
 <category name="food_and_drink">
-
-<q>
-(n) the food you eat in the morning after you wake up<img>imgs/breakfast.7941123.jpeg</img></q>
-<a><b>breakfast</b> /ˈbrekfəst/
-
-<span style="color:#03f">What did you have for breakfast? | have breakfast</span><snd>snds/ukbraw_029.mp3</snd></a>
-
-<q>
-(n) bread that has been made in one large piece<img>imgs/loaf.56234.jpeg</img></q>
-<a><b>loaf</b> /ləʊf/
-
-<span style="color:#03f">a loaf of bread</span><snd>snds/ukload_004.mp3</snd></a>
-
-<q>
-(n) an alcoholic drink made from apples; the juice of crushed apples, used as a drink or to make vinegar</q>
-<a><b>cider</b> /ˈsaɪdər/<snd>snds/ukchurc015.mp3</snd></a>
-
-<q>
-(n) a part of a meal</q>
-<a><b>course</b> /kɔːs/
-
-<span style="color:#03f">a three-course dinner</span><snd>snds/ukclutc018.mp3</snd></a>
-
-<q>
-(n) a food made of flour, fat, and water that you cook and use for covering or containing other food<img>imgs/pastry.45236.jpeg</img></q>
-<a><b>pastry</b> /ˈpeɪstri/<snd>snds/ukpassi025.mp3</snd></a>
-
-<q>
-(n) a thin plastic or paper tube that you use for drinking through<img>imgs/straw.12548.jpeg</img></q>
-<a><b>straw</b> /strɔː/
-
-<span style="color:#03f">Can I have a straw, please?</span><snd>snds/ukstrat009.mp3</snd></a>
-
-<q>
-(adj) extremely unpleasant or unacceptable</q>
-<a><b>disgusting</b> /dɪsˈɡʌs.tɪŋ/
-
-<span style="color:#03f">It's disgusting that there are no schools or hospitals for these people. | Passengers were kept for three hours in a disgusting waiting room.</span><snd>snds/ukdisgu005.mp3</snd></a>
-
-<q>
-(n) a food that is made from grain and eaten with milk, especially in the morning<img>imgs/cereal.65.jpeg</img></q>
-<a>cereal /ˈsɪəriəl/
-
-<span style="color:#03f">breakfast cereals</span><snd>snds/ukcensu029.mp3</snd></a>
 
 <q>
 (n) a powder made from grain that is used to make bread and cakes<img>imgs/flour.452316.jpeg</img></q>
@@ -6313,6 +6281,12 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <q>
 (n) a soft food that you put on bread and use in cooking<img>imgs/margarine.537.jpeg</img></q>
 <a>margarine /ˌmɑːdʒəˈriːn/<snd>snds/ukmanuf025.mp3</snd></a>
+
+<q>
+(adj) extremely unpleasant or unacceptable</q>
+<a><b>disgusting</b> /dɪsˈɡʌs.tɪŋ/
+
+<span style="color:#03f">It's disgusting that there are no schools or hospitals for these people. | Passengers were kept for three hours in a disgusting waiting room.</span><snd>snds/ukdisgu005.mp3</snd></a>
 
 <q>
 (n) a flat, round piece of bread covered with tomato, cheese, etc. and cooked in an oven<img>imgs/pizza.63753.jpeg</img></q>
@@ -6349,6 +6323,12 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <a>Can I take your order?</a>
 
 <q>
+(n) a food that is made from grain and eaten with milk, especially in the morning<img>imgs/cereal.65.jpeg</img></q>
+<a>cereal /ˈsɪəriəl/
+
+<span style="color:#03f">breakfast cereals</span><snd>snds/ukcensu029.mp3</snd></a>
+
+<q>
 (n) a container with a handle used for pouring out liquids<img>imgs/jug.545615.jpeg</img></q>
 <a><b>jug</b> /dʒʌɡ/
 
@@ -6363,6 +6343,12 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <q>
 (n) a sauce made from the huices that come from meat when it cooks<img>imgs/gravy.34512.jpg</img></q>
 <a><b>gravy</b> /ˈɡreɪ.vi/<snd>snds/ukgravi002.mp3</snd></a>
+
+<q>
+(n) a thin plastic or paper tube that you use for drinking through<img>imgs/straw.12548.jpeg</img></q>
+<a><b>straw</b> /strɔː/
+
+<span style="color:#03f">Can I have a straw, please?</span><snd>snds/ukstrat009.mp3</snd></a>
 
 <q>
 (n) a small plate that you put under a cup<img>imgs/saucer.561451.jpeg</img></q>
@@ -6397,6 +6383,10 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <a><b>fork</b> /fɔːk/
 
 <span style="color:#03f">a knife and fork</span><snd>snds/ukforgi012.mp3</snd></a>
+
+<q>
+(n) a food made of flour, fat, and water that you cook and use for covering or containing other food<img>imgs/pastry.45236.jpeg</img></q>
+<a><b>pastry</b> /ˈpeɪstri/<snd>snds/ukpassi025.mp3</snd></a>
 
 <q>
 (adj) Food that is put in a tin in order to preserve it [US <b>canned</b>]<img>imgs/tinned.food.841.jpeg</img></q>
@@ -6461,6 +6451,12 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <a><b>custard</b> /ˈkʌs.təd/
 
 <span style="color:#03f">apple pie and custard</span><snd>snds/ukcurta020.mp3</snd></a>
+
+<q>
+(n) a part of a meal</q>
+<a><b>course</b> /kɔːs/
+
+<span style="color:#03f">a three-course dinner</span><snd>snds/ukclutc018.mp3</snd></a>
 
 <q>
 (n) a type of food made with meat, vegetables, or fruit that is covered in pastry and baked<img>imgs/pie.623465.jpeg</img></q>
@@ -6566,6 +6562,12 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <a><b>Enjoy you meal!</b></a>
 
 <q>
+(n) bread that has been made in one large piece<img>imgs/loaf.56234.jpeg</img></q>
+<a><b>loaf</b> /ləʊf/
+
+<span style="color:#03f">a loaf of bread</span><snd>snds/ukload_004.mp3</snd></a>
+
+<q>
 (n) a sweet, sticky food that is made by bees<img>imgs/honey.45236.jpeg</img></q>
 <a>honey /ˈhʌni/<snd>snds/ukhomon015.mp3</snd></a>
 
@@ -6590,6 +6592,10 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <q>
 (n) the water that comes out of the taps in a building that are connected to the main supply of the local water system<img>imgs/tap.water.452436.jpeg</img></q>
 <a>tap water /ˈtæp ˌwɔː.tər/<snd>snds/ukcld01441.mp3</snd></a>
+
+<q>
+(n) an alcoholic drink made from apples; the juice of crushed apples, used as a drink or to make vinegar</q>
+<a><b>cider</b> /ˈsaɪdər/<snd>snds/ukchurc015.mp3</snd></a>
 
 <q>
 (n) part of a meal OR food that is prepared in a particular way</q>
@@ -6687,6 +6693,12 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <span style="color:#03f">a coffee mug</span><snd>snds/ukmucky017.mp3</snd></a>
 
 <q>
+(n) the food you eat in the morning after you wake up<img>imgs/breakfast.7941123.jpeg</img></q>
+<a><b>breakfast</b> /ˈbrekfəst/
+
+<span style="color:#03f">What did you have for breakfast? | have breakfast</span><snd>snds/ukbraw_029.mp3</snd></a>
+
+<q>
 (n) one of a pair of narrow sticks that are used for eating East Asian food<img>imgs/chopsticks.562675.jpeg</img></q>
 <a><b>chopstick</b> /ˈtʃɒp.stɪk/<snd>snds/ukchock028.mp3</snd></a>
 
@@ -6747,30 +6759,14 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <category name="friends_and_family">
 
 <q>
-(n) either of two children born to the same mother on the same occasion</q>
-<a><b>twin</b> /twɪn/
-
-<span style="color:#03f">My sister has twin sons. | a twin sister</span><snd>snds/uktuxed030.mp3</snd></a>
-
-<q>
-(v) when merriage of a man and woman is legally ended</q>
-<a><b>get divorced</b> /ɡɛt dɪvˈɔːst/</a>
-
-<q>
-(n) the man who someone is engaged to be married to</q>
-<a><b>fiancé</b> /fiˈɒn.seɪ/
-
-<span style="color:#03f">Have you met Christina's fiancé?</span><snd>snds/ukfette017.mp3</snd></a>
-
-<q>
-(n) the woman who someone is engaged to be married to</q>
-<a><b>fiancée</b> /fiˈɒn.seɪ/<snd>snds/ukfette01711.mp3</snd></a>
-
-<q>
 (v) to argue with someone and stop being friendly with them</q>
 <a><b>fall out</b> /fˈɔːl ˈaʊt/
 
 <span style="color:#03f">He left home after falling out with his parents. | She'd fallen out with her boyfriend over his ex-girlfriend. | I fell out with my girlfriend last week, but we've made up now.</span></a>
+
+<q>
+(n) the woman who someone is engaged to be married to</q>
+<a><b>fiancée</b> /fiˈɒn.seɪ/<snd>snds/ukfette01711.mp3</snd></a>
 
 <q>
 (n) a young person between 13 and 19 years old</q>
@@ -6813,6 +6809,12 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <span style="color:#03f">Would you consider fostering (a child)?</span><snd>snds/ukfortn020.mp3</snd></a>
 
 <q>
+(n) the man who someone is engaged to be married to</q>
+<a><b>fiancé</b> /fiˈɒn.seɪ/
+
+<span style="color:#03f">Have you met Christina's fiancé?</span><snd>snds/ukfette017.mp3</snd></a>
+
+<q>
 (n) a daughter of your brother or sister, or a daughter of your husband's or wife's brother or sister</q>
 <a><b>niece</b> /niːs/
 
@@ -6851,6 +6853,10 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <a><b>adult</b> /ˈæd.ʌlt/ /əˈdʌlt/
 
 <span style="color:#03f">An adult under English law is someone over 18 years old. | Adults pay an admission charge but children get in free.</span><snd>snds/ukadmon026.mp3</snd></a>
+
+<q>
+(v) when merriage of a man and woman is legally ended</q>
+<a><b>get divorced</b> /ɡɛt dɪvˈɔːst/</a>
 
 <q>
 (n) a woman's surname before she married</q>
@@ -6986,25 +6992,15 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 (n) the woman who is married to your son or daughter</q>
 <a><b>daughter-in-law</b> /ˈdɔː.tər.ɪn.lɔː/<snd>snds/ukdatag008.mp3</snd></a>
 
+<q>
+(n) either of two children born to the same mother on the same occasion</q>
+<a><b>twin</b> /twɪn/
+
+<span style="color:#03f">My sister has twin sons. | a twin sister</span><snd>snds/uktuxed030.mp3</snd></a>
+
 </category>
 
 <category name="fruit,_nuts,_and_vegetables">
-
-<q>
-(n) a nut with a slightly bitter taste and a series of folds in it and a hard shell, or (the expensive, light brown wood from) the tree that produces these nuts<img>imgs/walnut.46237.jpeg</img></q>
-<a><b>walnut</b> /ˈwɔːl.nʌt/<snd>snds/ukwalla011.mp3</snd></a>
-
-<q>
-(n) a nut with a hard, brown shell<img>imgs/hazelnut.45623754.jpeg</img></q>
-<a><b>hazelnut</b> /ˈheɪ.zəl.nʌt/<snd>snds/ukhave_025.mp3</snd></a>
-
-<q>
-(n) a type of herb with curly or flat leaves, used to add flavour to food and also to make it look attractive<img>imgs/parsley.jpeg</img></q>
-<a><b>parsley</b> /ˈpɑː.sli/<snd>snds/ukparsi005.mp3</snd></a>
-
-<q>
-(n) a small nut from a tropical American tree that can be eaten<img>imgs/cashew.3473.jpeg</img></q>
-<a><b>cashew (nut)</b> /ˈkæʃ.uː/ /kəˈʃuː/<snd>snds/ukcartr013.mp3</snd></a>
 
 <q>
 (adj) a person who does not eat meat for health or religious reasons or because they want to avoid being cruel to animals</q>
@@ -7017,6 +7013,14 @@ I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
 <a><b>date</b> /deɪt/
 
 </a>
+
+<q>
+(n) a small nut from a tropical American tree that can be eaten<img>imgs/cashew.3473.jpeg</img></q>
+<a><b>cashew (nut)</b> /ˈkæʃ.uː/ /kəˈʃuː/<snd>snds/ukcartr013.mp3</snd></a>
+
+<q>
+(n) a type of herb with curly or flat leaves, used to add flavour to food and also to make it look attractive<img>imgs/parsley.jpeg</img></q>
+<a><b>parsley</b> /ˈpɑː.sli/<snd>snds/ukparsi005.mp3</snd></a>
 
 <q>
 (n) a long, white vegetable with green leaves on top that tastes and smells like an onion<img>imgs/leek.56347.jpeg</img></q>
@@ -7183,6 +7187,10 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <span style="color:#03f">frozen/dried peas | pea soup</span><snd>snds/ukozone002.mp3</snd></a>
 
 <q>
+(n) a nut with a hard, brown shell<img>imgs/hazelnut.45623754.jpeg</img></q>
+<a><b>hazelnut</b> /ˈheɪ.zəl.nʌt/<snd>snds/ukhave_025.mp3</snd></a>
+
+<q>
 (n) a small bitter green or black fruit that is eaten or used to produce oil, or a Mediterranean tree on which this fruit grows<img>imgs/olive.jpeg</img></q>
 <a><b>olive</b> /ˈɒl.ɪv/
 
@@ -7203,62 +7211,16 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <a><b>beetroot</b> /ˈbiːt.ruːt/<snd>snds/ukbeer_006.mp3</snd></a>
 
 <q>
+(n) a nut with a slightly bitter taste and a series of folds in it and a hard shell, or (the expensive, light brown wood from) the tree that produces these nuts<img>imgs/walnut.46237.jpeg</img></q>
+<a><b>walnut</b> /ˈwɔːl.nʌt/<snd>snds/ukwalla011.mp3</snd></a>
+
+<q>
 (n) a sweet fruit, usually with a green skin and a lot of juice, that has a round base and is slightly pointed towards the stem<img>imgs/pear.45626.jpeg</img></q>
 <a><b>pear</b> /peər/<snd>snds/ukpaink014.mp3</snd></a>
 
 </category>
 
 <category name="health">
-
-<q>
-(v) to suddenly take in your breath and then blow it down your nose noisily, for example, because you have a cold<img>imgs/sneeze.jpeg</img></q>
-<a><b>sneeze</b> /sniːz/
-
-<span style="color:#03f">Cats make him sneeze - I think he's allergic to them. | My nose is tickling, I think I'm going to sneeze. | I keep sneezing - I hope I'm not getting a cold. | This pepper is making me sneeze. | He sneezed loudly into his hankie. | She handed me a tissue just as I sneezed.</span><snd>snds/uksneak005.mp3</snd></a>
-
-<q>
-(v) to injure a part of your body by suddenly turning it too suddenly<img>imgs/twist.jpeg</img></q>
-<a><b>twist</b> /twɪst/
-
-<span style="color:#03f">She slipped on the ice and twisted her knee.</span><snd>snds/uktwine010.mp3</snd></a>
-
-<q>
-(n) a continuous pain that is unpleasant but not very strong</q>
-<a><b>ache</b> /eɪk/
-
-<span style="color:#03f">As you get older, you have all sorts of aches and pains. | I've got a dull (= slight) ache in my lower back. | earache/a headache/toothache/backache | I've had a stomach ache all morning.</span><snd>snds/ukaceta006.mp3</snd></a>
-
-<q>
-(n) a device for supporting a broken or damaged arm in which the arm is held in front of the body in a piece of cloth that is tied around the neck<img>imgs/sling.jpeg</img></q>
-<a><b>sling</b> /slɪŋ/
-
-<span style="color:#03f">The cylinder was lifted from the seabed in a sling. | I had my arm in a sling for six weeks.</span><snd>snds/ukslimm005.mp3</snd></a>
-
-<q>
-(v) to make someone with an illness healthy again</q>
-<a><b>cure</b> /kjʊə(r)/
-
-<span style="color:#03f">At one time doctors couldn't cure TB/cure people of TB. | He made wild claims about being able to cure cancer. | Drugs have been developed to cure some duodenal ulcers. | Some people try hypnotism to cure themselves of addictions.</span><snd>snds/ukcunt_025.mp3</snd></a>
-
-<q>
-(v) to feel weak, as if you are about to become unconscious</q>
-<a><b>faint</b> /feɪnt/
-
-<span style="color:#03f">She felt faint with hunger.</span><snd>snds/ukfagge009.mp3</snd></a>
-
-<q>
-(v) to take care of someone who is sick<img>imgs/look.after.jpeg</img></q>
-<a><b>look after someone</b></a>
-
-<q>
-(v) to use a thermometer to measure the temperature of someone's body</q>
-<a><b>take someone's temperature</b><img>imgs/take.someones.temperature.jpeg</img></a>
-
-<q>
-(v) to empty the contents of the stomach through the mouth<img>imgs/vomit.jpeg</img></q>
-<a><b>vomit</b> /ˈvɒm.ɪt/
-
-<span style="color:#03f">He came home drunk and vomited all over the kitchen floor. | She was vomiting (up) blood.</span><snd>snds/ukvoila026.mp3</snd></a>
 
 <q>
 (n) a pain in the inside part of your ear<img>imgs/earache.jpeg</img></q>
@@ -7326,6 +7288,26 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <span style="color:#03f">The number of deaths from measles fell by 30 per cent. | One of the children got the measles.</span><snd>snds/ukmeant004.mp3</snd></a>
 
 <q>
+(v) to feel weak, as if you are about to become unconscious</q>
+<a><b>faint</b> /feɪnt/
+
+<span style="color:#03f">She felt faint with hunger.</span><snd>snds/ukfagge009.mp3</snd></a>
+
+<q>
+(v) to take care of someone who is sick<img>imgs/look.after.jpeg</img></q>
+<a><b>look after someone</b></a>
+
+<q>
+(v) to use a thermometer to measure the temperature of someone's body</q>
+<a><b>take someone's temperature</b><img>imgs/take.someones.temperature.jpeg</img></a>
+
+<q>
+(v) to empty the contents of the stomach through the mouth<img>imgs/vomit.jpeg</img></q>
+<a><b>vomit</b> /ˈvɒm.ɪt/
+
+<span style="color:#03f">He came home drunk and vomited all over the kitchen floor. | She was vomiting (up) blood.</span><snd>snds/ukvoila026.mp3</snd></a>
+
+<q>
 (v) to lose blood<img>imgs/bleed.jpeg</img></q>
 <a><b>bleed</b> /bliːd/
 
@@ -7344,6 +7326,12 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <q>
 (v) to become thinner<img>imgs/lose.weight.jpeg</img></q>
 <a><b>lose weight</b></a>
+
+<q>
+(n) a device for supporting a broken or damaged arm in which the arm is held in front of the body in a piece of cloth that is tied around the neck<img>imgs/sling.jpeg</img></q>
+<a><b>sling</b> /slɪŋ/
+
+<span style="color:#03f">The cylinder was lifted from the seabed in a sling. | I had my arm in a sling for six weeks.</span><snd>snds/ukslimm005.mp3</snd></a>
 
 <q>
 (n) a long, narrow piece of cloth that is tied around an injury or a part of someone's body that has been hurt<img>imgs/bandage.jpeg</img></q>
@@ -7404,6 +7392,18 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <a><b>put on weight</b></a>
 
 <q>
+(v) to suddenly take in your breath and then blow it down your nose noisily, for example, because you have a cold<img>imgs/sneeze.jpeg</img></q>
+<a><b>sneeze</b> /sniːz/
+
+<span style="color:#03f">Cats make him sneeze - I think he's allergic to them. | My nose is tickling, I think I'm going to sneeze. | I keep sneezing - I hope I'm not getting a cold. | This pepper is making me sneeze. | He sneezed loudly into his hankie. | She handed me a tissue just as I sneezed.</span><snd>snds/uksneak005.mp3</snd></a>
+
+<q>
+(v) to injure a part of your body by suddenly turning it too suddenly<img>imgs/twist.jpeg</img></q>
+<a><b>twist</b> /twɪst/
+
+<span style="color:#03f">She slipped on the ice and twisted her knee.</span><snd>snds/uktwine010.mp3</snd></a>
+
+<q>
 (n) a common infection, especially in the nose and throat, that often causes a cough, a slight fever, and sometimes some pain in the muscles<img>imgs/cold.jpeg</img></q>
 <a><b>cold</b> /kəʊld/
 
@@ -7414,6 +7414,12 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <a><b>drug</b> /drʌɡ/
 
 <span style="color:#03f">anti-cancer/fertility/pain-killing drugs | a prescription drug | drug therapy | He takes several drugs for his condition.</span><snd>snds/ukdrubb004.mp3</snd></a>
+
+<q>
+(v) to make someone with an illness healthy again</q>
+<a><b>cure</b> /kjʊə(r)/
+
+<span style="color:#03f">At one time doctors couldn't cure TB/cure people of TB. | He made wild claims about being able to cure cancer. | Drugs have been developed to cure some duodenal ulcers. | Some people try hypnotism to cure themselves of addictions.</span><snd>snds/ukcunt_025.mp3</snd></a>
 
 <q>
 (n) a serious disease that is caused when cells in the body grow in a way that is uncontrolled and not normal, killing normal cells and often causing death<img>imgs/cancer.jpeg</img></q>
@@ -7516,6 +7522,12 @@ fruit trees | He runs a fruit and vegetable stall in the market.</span><snd>snds
 <a><b>plaster</b> /ˈplɑː.stə(r)/
 
 <span style="color:#03f">a box of waterproof plasters | Put a plaster on it so that it doesn't get infected.</span><snd>snds/ukplain023.mp3</snd></a>
+
+<q>
+(n) a continuous pain that is unpleasant but not very strong</q>
+<a><b>ache</b> /eɪk/
+
+<span style="color:#03f">As you get older, you have all sorts of aches and pains. | I've got a dull (= slight) ache in my lower back. | earache/a headache/toothache/backache | I've had a stomach ache all morning.</span><snd>snds/ukaceta006.mp3</snd></a>
 
 </category>
 
