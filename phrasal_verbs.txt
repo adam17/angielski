@@ -1,364 +1,64 @@
 <category name="phrasal verbs">
 
 <q>
-(phrase) to become equal, or to make something equal</q>
-<a><b>even (sth) out</b>
+(phrase) to damage, harm, or upset someone or something, or to do something very badly</q>
+<a><b>fuck (sth) up</b>
 
-<span style="color:#03f">The league is divided into two skill levels in order to even out the competition. | Her brother also won a scholarship, which evened things out nicely. | A last-minute goal by Spain evened out the score to 2-2. | There are far more flowers in that vase than in this one - we'd better even them out a bit. | It's not fair if Carl has a lot more jobs to do than you, so let's even things out a bit. | Instead of having six interviews one day and just one the next day, can't we even them out?</span></a>
-
-<q>
-(phrase) to finish talking on the telephone</q>
-<a><b>hang up</b>
-
-<span style="color:#03f">When I said who I was, she just hung up. | Don't hang up on me!</span></a>
+<span style="color:#03f">Her parents' divorce really fucked her up. | I fucked up the interview. | The exam was a disaster - I really fucked up.</span></a>
 
 <q>
-(phrase) to wait until something unpleasant has ended</q>
-<a><b>wait sth out</b>
-<span style="color:#03f">
-I'd rather wait out the storm than drive home immediately.</span></a>
+(phrase) to do someone else's work for them because they cannot or will not do it themselves</q>
+<a><b>fill in</b>
+
+<span style="color:#03f">She will fill in for him while he's at the conference. | I'm not her regular secretary - I'm just filling in.</span></a>
 
 <q>
-(phrase) to begin sleeping, especially not intentionally</q>
-<a><b>nod off</b>
+(phrase) to give written information, esp. by completing a form</q>
+<a><b>fill in/out something</b>
 
-<span style="color:#03f">After our busy day, we both sat and nodded off in front of the TV.</span></a>
-
-<q>
-(phrase) to supply someone for a short time with something that is lacking</q>
-<a><b>tide someone over</b> /tˈaɪd sˈʌmwɒn ˈəʊvə/
-
-<span style="color:#00f">Can you lend me some money to tide me over till next month? | I gave her a hundred pounds to tide her over till she gets paid.</span></a>
+<span style="color:#03f">Please fill in the application and sign it. | I got the membership form and filled it out.</span></a>
 
 <q>
-(phrase) to make someone less upset or excited</q>
-<a><b>calm someone down</b> /kˈɑːm sˈʌmwɒn dˈaʊn/
+(phrase) to remove or subtract something</q>
+<a><b>take away something</b>
 
-<span style="color:#00f">I'll try to calm his down.</span><snd>snds/calm.some1.down.wav</snd></a>
-
-<q>
-(phrase) to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly</q>
-<a><b>put up with</b> sth/sb /pˌʊt ˈʌp wɪð/
-
-<span style="color:#01f">I can put up with the house being messy, but I hate it if it's not clean. | He's so moody - I don't know why she puts up with him. | They have a lot to put up with (= they have a lot of difficulties).</span></a>
+<span style="color:#03f">Take these chairs away – we don’t need them. | Twelve take away four equals eight.</span></a>
 
 <q>
-(phrase) to look for someone or something, especially for a long time until you find him, her, or it</q>
-<a><b>seek sb/sth out</b> /sˈiːk ˈaʊt/<b>
-</b>
-<span style="color:#02f">While he was at the library, Steve decided to seek out some information on the history of the area.</span></a>
+(phrase) to provide something that someone needs</q>
+<a><b>fix up someone</b>
+
+<span style="color:#03f">Before he left town Pat saw to it that I was fixed up with a job.</span></a>
 
 <q>
-(phrase) to stop someone or something developing or doing as well as they should</q>
-<a><b>hold sb/sth back</b> /hˈəʊld bˈak/
+(phrase) to repair, decorate, or change something so that it is ready for use</q>
+<a><b>fix up something</b>
 
-<span style="color:#03f">She felt that having children would hold her back.</span></a>
-
-<q>
-(phrase) to hide or store something, especially money, in order to use it in the future</q>
-<a><b>squirrel sth away</b> /skwˈɪɹəl sˈʌmθɪŋ ɐwˈeɪ/
-
-<span style="color:#00f">As soon as I get paid, I squirrel some money away so I won't be tempted to spend it. | She had a fortune squirrelled away.</span></a>
+<span style="color:#03f">He recently finished fixing up the 1920s-era bungalow he bought in 1992.</span></a>
 
 <q>
-(phrase) to ​love someone and ​feel ​romantic towards them OR to ​protect someone or something and ​provide the things they need, ​especially someone who is ​young, ​old, or ​ill</q>
-<a><b>care for someone</b>
+(phrase) to visit a person or place for a short time, usually when you are going somewhere else OR to stay at home, especially in the evening</q>
+<a><b>stop in</b>
 
-<span style="color:#00f">The ​children are being ​cared for by a ​relative. | She can't go out to ​work because she has to ​stay at ​home to ​care for her ​elderly ​mother. | It's good to ​know that the ​dogs will be well ​cared for while we're away. | You ​know I ​care for you, Meggy ;-)</span></a>
-
-<q>
-(phrasal) to achieve the thing that was expected</q>
-<a><b>live up to something</b> /lˈɪv ˌʌp tə sˈʌmθɪŋ/
-
-<span style="color:#00f">Sales have not lived up to expectations this year.</span></a>
+<span style="color:#03f">I stopped in at work on the way home to check my mail. | I've had my tea and I'm stopping in now.</span></a>
 
 <q>
-(phrasal) to meet someone unexpectedly</q>
-<a><b>run into someone</b>
+(phrase) to go into a place for a short time when you are going somewhere else</q>
+<a><b>stop by</b>
 
-<span style="color:#00f">He ran into William in the supermarket.</span></a>
-
-<q>
-(phrasal) to hit someone or something with a vehicle</q>
-<a><b>run into someone</b> or <b>something </b>/ɹˈʌn ˌɪntʊ/
-
-<span style="color:#00f">The driver was going too fast and had run into a tree.</span></a>
+<span style="color:#03f">He stopped by the office to drop off a copy of the contract. | Why don't you stop by on your way to the meeting?</span></a>
 
 <q>
-(phrasal) to go away from a place when you should stay there</q>
-<a><b>run off</b> /ɹˈʌn ˈɒf/
+(phrase) to give up a job or position</q>
+<a><b>step down</b>
 
-<span style="color:#00f">Our dog is always running off.</span></a>
-
-<q>
-(phrase) to criticize something or someone strongly</q>
-<a><b>hit out</b>
-
-<span style="color:#03f">The Medical Association yesterday hit out at government cuts in healthcare services.</span></a>
+<span style="color:#03f">She stepped down as captain of the team.</span></a>
 
 <q>
-(phrase) to go to see something of interest</q>
-<a><b>take in something</b>
+(phrase) to accept that an amount of money has been lost or that a debt will not be paid</q>
+<a><b>write sth off</b>
 
-<span style="color:#00f">to take in a movie | We drove around the island and took in all the sights.</span></a>
-
-<q>
-(phrase) to improve your knowledge of something already learned but partly forgotten</q>
-<a><b>brush up (on) sth</b>
-
-<span style="color:#00f">I thought I'd brush up (on) my French before going to Paris.</span></a>
-
-<q>
-(phrase) to give some money when several people are giving money to pay for something together</q>
-<a><b>chip (sth) in</b> /tʃˈɪp ˈɪn/
-
-<span style="color:#00f">They all chipped in £100 and bought their mother a trip to Greece. | We all chipped in and bought James a really smart coffee machine.</span></a>
-
-<q>
-(phrase) to spend less, do less, or use less of something</q>
-<a><b>cut back</b>
-
-<span style="color:#00f">The government has announced plans to cut back on defence spending by 10 percent next year. | I’m trying to cut back on my expenses.</span></a>
-
-<q>
-(phrase) to wait or spend time somewhere, usually for no particular reason</q>
-<a><b>hang around (somewhere)</b> /hˈaŋ ɐɹˈaʊnd/
-
-<span style="color:#00f">I spent most of my youth hanging around the bars of Dublin. | I thought I'd hang around for a while and see if she comes.</span></a>
-
-<q>
-(phrase) to stay in a place and do nothing while you wait for someone to arrive or something to happen</q>
-<a><b>wait around/about</b>
-
-<span style="color:#00f">We spent the whole day waiting around for something exciting to happen, but nothing did.</span></a>
-
-<q>
-(phrase) to remove problems or find solutions</q>
-<a><b>iron sth out</b>
-
-<span style="color:#03f">We're still trying to iron out some problems with the computer system. | We hope they can iron out their differences and get on with working together.</span></a>
-
-<q>
-(phrase) to spend time in a relaxed way because you have nothing to do or you are waiting for something else to happen</q>
-<a><b>while something away</b> /wˌaɪl sˈʌmθɪŋ ɐwˈeɪ/
-
-<span style="color:#00f">We whiled away the afternoon playing cards in front of the fire. | That's the spot where Sara and I used to while away the hours between lectures.</span></a>
-
-<q>
-(phrase) to decide that a planned event, especially a sports event, will not happen, or to end an activity because it is no longer useful or possible</q>
-<a><b>call sth off</b>
-
-<span style="color:#03f">Tomorrow's match has been called off because of the icy weather. | The police have called off the search for the missing child until dawn tomorrow.</span></a>
-
-<q>
-(phrase) to complete something</q>
-<a><b>finish up something</b>
-
-<span style="color:#03f">She started the job, had lunch, and then came back to finish it up. | They were finishing up breakfast.</span></a>
-
-<q>
-(phrase) to make someone extremely tired, weak, or unhappy [informal]</q>
-<a><b>finish sb off</b>
-
-<span style="color:#03f">That game of tennis really finished me off.</span></a>
-
-<q>
-(phrase) to destroy or completely defeat someone or something</q>
-<a><b>finish someone/something off</b>
-
-<span style="color:#03f">Lack of water finished off the agricultural communities in the valley. | He says he refuses to let the disease finish him off.</span></a>
-
-<q>
-(phrase) to begin by doing something, or to make something begin by doing something</q>
-<a><b>start (sth) off</b>
-
-<span style="color:#03f">She started off the meeting with the monthly sales report. | I'd like to start off by thanking you all for coming today. | I'm going to start off by introducing two new members of staff. | He started off by summarizing Martin's sales report. | He started off as a children's entertainer. | I started off my career in a small company in Birmingham. | I started off the day well enough but I'm beginning to droop.</span></a>
-
-<q>
-(phrase) to begin doing something</q>
-<a><b>start (something) off</b>
-
-<span style="color:#03f">I knew almost nothing when I started off in this business. | He started the meeting off by welcoming the new members.</span></a>
-
-<q>
-(phrase) to help someone to start an activity, especially a piece of work OR to make someone start to laugh, cry, or talk about something that they talk about often</q>
-<a><b>start sb off</b>
-
-<span style="color:#03f">I'll start her off on some fairly basic stuff and see how she gets on. | I could see Emma trying not to laugh and of course that started me off.</span></a>
-
-<q>
-(phrase) to start to deal with something, or to start to use something</q>
-<a><b>start on sth</b>
-
-<span style="color:#03f">I'm just about to start on the cleaning. | When did your baby start on solid food? | I'm about to start on the cooking. | Have you started on the packing yet? | I thought we'd have lunch before starting on the cleaning. | I haven't even started on the painting. | We'd eaten our main course and were about to start on the dessert.</span></a>
-
-<q>
-(phrase) to start complaining angrily to someone about something they have done</q>
-<a><b>start on at sb</b>
-
-<span style="color:#03f">She started on at him about the way he's always looking at other women.</span></a>
-
-<q>
-(phrase) to be able to understand or deal with something that is happening or changing very fast</q>
-<a><b>keep up</b>
-
-<span style="color:#03f">I read the papers to keep up with what's happening in the outside world.</span></a>
-
-<q>
-(phrase) to remain strong or successful</q>
-<a><b>hold up</b>
-
-<span style="color:#03f">Will his alibi hold up (= continue to seem true) in court? | I hope the repairs hold up until we can get to a garage.</span></a>
-
-<q>
-(phrase) to fix a large piece of equipment or system into a room or building, ready to be used</q>
-<a><b>put sth in</b>
-
-<span style="color:#03f">I've just had central heating/a new kitchen put in.</span></a>
-
-<q>
-(phrase) to formally offer a particular thing to be considered</q>
-<a><b>put sth in</b>
-
-<span style="color:#03f">I've put in an application to the college. | They've put in a bid for the company/a bid to buy the company.</span></a>
-
-<q>
-(phrase) to connect a person using a phone to the person they want to speak to</q>
-<a><b>put sb through</b>
-
-<span style="color:#03f">Could you put me through to customer services, please?</span></a>
-
-<q>
-(phrase) to make someone experience something unpleasant or difficult</q>
-<a><b>put sb through sth</b>
-
-<span style="color:#03f">I'm sorry to put you through this ordeal.</span></a>
-
-<q>
-(phrase) to leave a place, usually in order to start a journey OR to leave work with permission, usually at the end of the day</q>
-<a><b>get off</b>
-
-<span style="color:#03f">If we can get off by seven o'clock, the roads will be clearer. | How early can you get off this afternoon?</span></a>
-
-<q>
-(phrase) to leave a train, bus, or aircraft</q>
-<a><b>get off (sth)</b>
-
-<span style="color:#03f">Get off at Camden Town. | I tripped as I got off the bus. | Make sure you take your belongings when you get off. | Give me a call when you get off the bus. | I stumbled as I was getting off the bus. | I got off at the wrong stop and had to wait for another bus. | Her fans will be waiting for her when she gets off the plane.</span></a>
-
-<q>
-(phrase) to quit using the phone.</q>
-<a><b>get off the phone</b>
-
-<span style="color:#03f">This saying goes back to the days when a household had a single telephone line. It makes no sense today. If she is on her phone, who cares. Use another line.</span></a>
-
-<q>
-(phrase) to stop liking someone or something (informal)</q>
-<a><b>go off someone</b> or <b>something</b> /ɡˌəʊ ˈɒf/
-
-<span style="color:#00f">I started to go off the idea.</span></a>
-
-<q>
-(phrase) to keep something available for a particular use or purpose</q>
-<a><b>set</b> something <b>aside</b> /sˈɛt sˈʌmθɪŋ ɐsˈaɪd/
-
-<span style="color:#00f">Try to set aside time each day to relax.</span></a>
-
-<q>
-(phrasal) to leave a place because you are unhappy or afraid there</q>
-<a><b>run away</b> /ɹˈʌn ɐwˈeɪ/
-
-<span style="color:#00f">The girl turned and ran away.</span></a>
-
-<q>
-(phrase) If a vehicle does it, it moves to the side of the road and stops<img>imgs/pull.over.jpeg</img></q>
-<a><b>pull over</b>
-
-<span style="color:#03f">Just pull over here, and I'll get out and walk the rest of the way.</span></a>
-
-<q>
-(phrase) to suddenly start laughing, crying, or making another noise</q>
-<a><b>burst out</b> /bˈɜːst ˈaʊt/
-
-<span style="color:#00f">The class burst out laughing.</span><snd>snds/burst.out.2314.wav</snd></a>
-
-<q>
-(phrase) to separate into pieces or separate parts</q>
-<a><b>break up</b> /bɹˈeɪk ˈʌp/
-
-<span style="color:#00f">When the Soviet Union broke up, people went to London, France, Israel, and Spain and started buying real estate.</span></a>
-
-<q>
-(v) to ​stop doing ​your ​work or a ​similar ​activity for a ​period of ​time</q>
-<a><b>sign off</b> /sˈaɪn ˈɒf/
-
-<span style="color:#00f">As it's ​Friday, I ​think I'll ​sign off early today.</span></a>
-
-<q>
-(phrasal) to have a particular amount of money to buy things</q>
-<a><b>live off something</b> /lˈɪv ˈɒf sˈʌmθɪŋ/
-
-<span style="color:#00f">She had to live off $46 a week.</span></a>
-
-<q>
-(phrase) to gradually relax after doing something that has made you tired or worried</q>
-<a><b>wind down</b> /waɪnd dˈaʊn/
-
-<span style="color:#00f">When he goes on holiday, it takes him the first couple of days just to wind down.</span></a>
-
-<q>
-(phrase) to get into a building by force</q>
-<a><b>break in</b>
-
-<span style="color:#00f">The robbers broke in and stole $8.000.</span></a>
-
-<q>
-(phrase) If a person, especially a child, behave badly OR If a machine or part of the body do this, it does not perform as well as it should.</q>
-<a><b>act up</b> /ˈakt ˈʌp/
-
-<span style="color:#00f">The engine thruster has been acting up for eight months.</span></a>
-
-<q>
-(phrase) to get rid of someone or something</q>
-<a><b>cast someone</b> or <b>something aside</b> /kˈast • ɐsˈaɪd/
-
-<span style="color:#00f">In America we seem to cast aside our old people.</span></a>
-
-<q>
-(phrase) to cost someone a large amount of money</q>
-<a><b>set sb back (sth)</b>
-
-<span style="color:#00f">Buying that suit must have set you back. | It's a handy gadget and will only set you back about $15. | It’s a nice car, but it’ll set you back thirty thousand pounds. | How much did that set you back?</span></a>
-
-<q>
-(phrase) to save something, often money, secretly</q>
-<a><b>salt sth away</b> /sˈɒlt ɐwˈeɪ/
-
-<span style="color:#00f">He salted away a fortune over the years and no one ever knew! | He’d salted away several thousand pounds over the years and no one knew.</span></a>
-
-<q>
-(phrase) to leave or no longer be involved in something</q>
-<a><b>pull out (someone/something)</b>
-
-<span style="color:#03f">They’ll be pulling the rest of the troops out by next spring. | She’s considering a run for governor but is stalling to see who else may jump in or pull out.</span></a>
-
-<q>
-(phrase) to begin your life, or the part of your life when you work, in a particular way</q>
-<a><b>start out</b>
-
-<span style="color:#03f">My dad started out as a salesperson in a shop. | He started out as a teacher and only began writing in his thirties. | What started out as a part-time job soon became a full-time occupation. | She started out as a waitress and was spotted by a model scout. | She started out life as Norma Jean Mortenson.</span></a>
-
-<q>
-(phrase) If you ____ in a particular place or situation, that is the place or situation that you are in finally</q>
-<a><b>finish up</b>
-
-<span style="color:#03f">You'll finish up dead if you carry on drinking like that. | She married a Spaniard and finished up in Barcelona.</span></a>
-
-<q>
-(phrase) to say something that adds to or interrupts what is already being said</q>
-<a><b>put (sth) in</b>
-
-<span style="color:#03f">"But she's too inexperienced for the job," put in Jane.</span></a>
+<span style="color:#03f">The World Bank is being urged to write off debts from developing countries.</span></a>
 
 <q>
 (n) a room to sleep in for the night and a morning meal, or a private house or small hotel offering this</q>
@@ -440,6 +140,72 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 </span></a>
 
 <q>
+(phrase) to ​love someone and ​feel ​romantic towards them OR to ​protect someone or something and ​provide the things they need, ​especially someone who is ​young, ​old, or ​ill</q>
+<a><b>care for someone</b>
+
+<span style="color:#00f">The ​children are being ​cared for by a ​relative. | She can't go out to ​work because she has to ​stay at ​home to ​care for her ​elderly ​mother. | It's good to ​know that the ​dogs will be well ​cared for while we're away. | You ​know I ​care for you, Meggy ;-)</span></a>
+
+<q>
+(phrase) to stay in a place and do nothing while you wait for someone to arrive or something to happen</q>
+<a><b>wait around/about</b>
+
+<span style="color:#00f">We spent the whole day waiting around for something exciting to happen, but nothing did.</span></a>
+
+<q>
+(phrase) to complete something</q>
+<a><b>finish up something</b>
+
+<span style="color:#03f">She started the job, had lunch, and then came back to finish it up. | They were finishing up breakfast.</span></a>
+
+<q>
+(phrase) to make someone extremely tired, weak, or unhappy [informal]</q>
+<a><b>finish sb off</b>
+
+<span style="color:#03f">That game of tennis really finished me off.</span></a>
+
+<q>
+(phrase) to begin doing something</q>
+<a><b>start (something) off</b>
+
+<span style="color:#03f">I knew almost nothing when I started off in this business. | He started the meeting off by welcoming the new members.</span></a>
+
+<q>
+(phrase) to start to deal with something, or to start to use something</q>
+<a><b>start on sth</b>
+
+<span style="color:#03f">I'm just about to start on the cleaning. | When did your baby start on solid food? | I'm about to start on the cooking. | Have you started on the packing yet? | I thought we'd have lunch before starting on the cleaning. | I haven't even started on the painting. | We'd eaten our main course and were about to start on the dessert.</span></a>
+
+<q>
+(phrase) to remain strong or successful</q>
+<a><b>hold up</b>
+
+<span style="color:#03f">Will his alibi hold up (= continue to seem true) in court? | I hope the repairs hold up until we can get to a garage.</span></a>
+
+<q>
+(phrase) to fix a large piece of equipment or system into a room or building, ready to be used</q>
+<a><b>put sth in</b>
+
+<span style="color:#03f">I've just had central heating/a new kitchen put in.</span></a>
+
+<q>
+(phrase) to formally offer a particular thing to be considered</q>
+<a><b>put sth in</b>
+
+<span style="color:#03f">I've put in an application to the college. | They've put in a bid for the company/a bid to buy the company.</span></a>
+
+<q>
+(phrase) to make someone experience something unpleasant or difficult</q>
+<a><b>put sb through sth</b>
+
+<span style="color:#03f">I'm sorry to put you through this ordeal.</span></a>
+
+<q>
+(phrase) to begin sleeping, especially not intentionally</q>
+<a><b>nod off</b>
+
+<span style="color:#03f">After our busy day, we both sat and nodded off in front of the TV.</span></a>
+
+<q>
 (phrase) to remove something, especially clothes</q>
 <a><b>take sth off</b>
 
@@ -507,10 +273,142 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 <span style="color:#03f">A third heart attack finally finished off the old man. | He could spar well enough but he couldn't seem to finish off his opponents.</span></a>
 
 <q>
+(phrasal) to have a particular amount of money to buy things</q>
+<a><b>live off something</b> /lˈɪv ˈɒf sˈʌmθɪŋ/
+
+<span style="color:#00f">She had to live off $46 a week.</span></a>
+
+<q>
+(phrasal) to go away from a place when you should stay there</q>
+<a><b>run off</b> /ɹˈʌn ˈɒf/
+
+<span style="color:#00f">Our dog is always running off.</span></a>
+
+<q>
+(phrase) to wait or spend time somewhere, usually for no particular reason</q>
+<a><b>hang around (somewhere)</b> /hˈaŋ ɐɹˈaʊnd/
+
+<span style="color:#00f">I spent most of my youth hanging around the bars of Dublin. | I thought I'd hang around for a while and see if she comes.</span></a>
+
+<q>
+(phrase) to spend time in a relaxed way because you have nothing to do or you are waiting for something else to happen</q>
+<a><b>while something away</b> /wˌaɪl sˈʌmθɪŋ ɐwˈeɪ/
+
+<span style="color:#00f">We whiled away the afternoon playing cards in front of the fire. | That's the spot where Sara and I used to while away the hours between lectures.</span></a>
+
+<q>
+(phrase) to criticize something or someone strongly</q>
+<a><b>hit out</b>
+
+<span style="color:#03f">The Medical Association yesterday hit out at government cuts in healthcare services.</span></a>
+
+<q>
+(phrase) to decide that a planned event, especially a sports event, will not happen, or to end an activity because it is no longer useful or possible</q>
+<a><b>call sth off</b>
+
+<span style="color:#03f">Tomorrow's match has been called off because of the icy weather. | The police have called off the search for the missing child until dawn tomorrow.</span></a>
+
+<q>
+(phrase) to remove problems or find solutions</q>
+<a><b>iron sth out</b>
+
+<span style="color:#03f">We're still trying to iron out some problems with the computer system. | We hope they can iron out their differences and get on with working together.</span></a>
+
+<q>
+(phrase) to help someone to start an activity, especially a piece of work OR to make someone start to laugh, cry, or talk about something that they talk about often</q>
+<a><b>start sb off</b>
+
+<span style="color:#03f">I'll start her off on some fairly basic stuff and see how she gets on. | I could see Emma trying not to laugh and of course that started me off.</span></a>
+
+<q>
+(phrase) to start complaining angrily to someone about something they have done</q>
+<a><b>start on at sb</b>
+
+<span style="color:#03f">She started on at him about the way he's always looking at other women.</span></a>
+
+<q>
+(phrase) to be able to understand or deal with something that is happening or changing very fast</q>
+<a><b>keep up</b>
+
+<span style="color:#03f">I read the papers to keep up with what's happening in the outside world.</span></a>
+
+<q>
+(phrase) to leave a place, usually in order to start a journey OR to leave work with permission, usually at the end of the day</q>
+<a><b>get off</b>
+
+<span style="color:#03f">If we can get off by seven o'clock, the roads will be clearer. | How early can you get off this afternoon?</span></a>
+
+<q>
+(phrase) to leave a train, bus, or aircraft</q>
+<a><b>get off (sth)</b>
+
+<span style="color:#03f">Get off at Camden Town. | I tripped as I got off the bus. | Make sure you take your belongings when you get off. | Give me a call when you get off the bus. | I stumbled as I was getting off the bus. | I got off at the wrong stop and had to wait for another bus. | Her fans will be waiting for her when she gets off the plane.</span></a>
+
+<q>
 (phrase) to meet someone you know by chance</q>
 <a><b>bump into someone</b> /bˈʌmp ˌɪntʊ sˈʌmwɒn/
 
 <span style="color:#00f">I bumped into Lisa in the supermarket yesterday.</span></a>
+
+<q>
+(phrase) If a person, especially a child, behave badly OR If a machine or part of the body do this, it does not perform as well as it should.</q>
+<a><b>act up</b> /ˈakt ˈʌp/
+
+<span style="color:#00f">The engine thruster has been acting up for eight months.</span></a>
+
+<q>
+(phrasal) to meet someone unexpectedly</q>
+<a><b>run into someone</b>
+
+<span style="color:#00f">He ran into William in the supermarket.</span></a>
+
+<q>
+(phrase) to go to see something of interest</q>
+<a><b>take in something</b>
+
+<span style="color:#00f">to take in a movie | We drove around the island and took in all the sights.</span></a>
+
+<q>
+(phrase) to save something, often money, secretly</q>
+<a><b>salt sth away</b> /sˈɒlt ɐwˈeɪ/
+
+<span style="color:#00f">He salted away a fortune over the years and no one ever knew! | He’d salted away several thousand pounds over the years and no one knew.</span></a>
+
+<q>
+(phrase) to destroy or completely defeat someone or something</q>
+<a><b>finish someone/something off</b>
+
+<span style="color:#03f">Lack of water finished off the agricultural communities in the valley. | He says he refuses to let the disease finish him off.</span></a>
+
+<q>
+(phrase) to connect a person using a phone to the person they want to speak to</q>
+<a><b>put sb through</b>
+
+<span style="color:#03f">Could you put me through to customer services, please?</span></a>
+
+<q>
+(phrase) to quit using the phone.</q>
+<a><b>get off the phone</b>
+
+<span style="color:#03f">This saying goes back to the days when a household had a single telephone line. It makes no sense today. If she is on her phone, who cares. Use another line.</span></a>
+
+<q>
+(phrase) to become equal, or to make something equal</q>
+<a><b>even (sth) out</b>
+
+<span style="color:#03f">The league is divided into two skill levels in order to even out the competition. | Her brother also won a scholarship, which evened things out nicely. | A last-minute goal by Spain evened out the score to 2-2. | There are far more flowers in that vase than in this one - we'd better even them out a bit. | It's not fair if Carl has a lot more jobs to do than you, so let's even things out a bit. | Instead of having six interviews one day and just one the next day, can't we even them out?</span></a>
+
+<q>
+(phrase) to finish talking on the telephone</q>
+<a><b>hang up</b>
+
+<span style="color:#03f">When I said who I was, she just hung up. | Don't hang up on me!</span></a>
+
+<q>
+(phrase) to wait until something unpleasant has ended</q>
+<a><b>wait sth out</b>
+<span style="color:#03f">
+I'd rather wait out the storm than drive home immediately.</span></a>
 
 <q>
 (phrase) to form a total</q>
@@ -560,6 +458,54 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 <a><b>fork out sth</b>
 <span style="color:#00f">
 I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out for a new one. | I’m not forking out fifty dollars for a ticket!</span></a>
+
+<q>
+(phrase) to get into a building by force</q>
+<a><b>break in</b>
+
+<span style="color:#00f">The robbers broke in and stole $8.000.</span></a>
+
+<q>
+(phrase) to separate into pieces or separate parts</q>
+<a><b>break up</b> /bɹˈeɪk ˈʌp/
+
+<span style="color:#00f">When the Soviet Union broke up, people went to London, France, Israel, and Spain and started buying real estate.</span></a>
+
+<q>
+(phrase) to get rid of someone or something</q>
+<a><b>cast someone</b> or <b>something aside</b> /kˈast • ɐsˈaɪd/
+
+<span style="color:#00f">In America we seem to cast aside our old people.</span></a>
+
+<q>
+(phrase) to cost someone a large amount of money</q>
+<a><b>set sb back (sth)</b>
+
+<span style="color:#00f">Buying that suit must have set you back. | It's a handy gadget and will only set you back about $15. | It’s a nice car, but it’ll set you back thirty thousand pounds. | How much did that set you back?</span></a>
+
+<q>
+(phrase) to leave or no longer be involved in something</q>
+<a><b>pull out (someone/something)</b>
+
+<span style="color:#03f">They’ll be pulling the rest of the troops out by next spring. | She’s considering a run for governor but is stalling to see who else may jump in or pull out.</span></a>
+
+<q>
+(phrase) to begin your life, or the part of your life when you work, in a particular way</q>
+<a><b>start out</b>
+
+<span style="color:#03f">My dad started out as a salesperson in a shop. | He started out as a teacher and only began writing in his thirties. | What started out as a part-time job soon became a full-time occupation. | She started out as a waitress and was spotted by a model scout. | She started out life as Norma Jean Mortenson.</span></a>
+
+<q>
+(phrase) If you ____ in a particular place or situation, that is the place or situation that you are in finally</q>
+<a><b>finish up</b>
+
+<span style="color:#03f">You'll finish up dead if you carry on drinking like that. | She married a Spaniard and finished up in Barcelona.</span></a>
+
+<q>
+(phrase) to begin by doing something, or to make something begin by doing something</q>
+<a><b>start (sth) off</b>
+
+<span style="color:#03f">She started off the meeting with the monthly sales report. | I'd like to start off by thanking you all for coming today. | I'm going to start off by introducing two new members of staff. | He started off by summarizing Martin's sales report. | He started off as a children's entertainer. | I started off my career in a small company in Birmingham. | I started off the day well enough but I'm beginning to droop.</span></a>
 
 <q>
 (phrase) to cancel an event that has been planned</q>
@@ -641,6 +587,18 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <span style="color:#00f">Let me know when you're coming to Cambridge and I'll show you around. | A guide showed us around the exhibition.</span></a>
 
 <q>
+(phrasal) to achieve the thing that was expected</q>
+<a><b>live up to something</b> /lˈɪv ˌʌp tə sˈʌmθɪŋ/
+
+<span style="color:#00f">Sales have not lived up to expectations this year.</span></a>
+
+<q>
+(phrase) to improve your knowledge of something already learned but partly forgotten</q>
+<a><b>brush up (on) sth</b>
+
+<span style="color:#00f">I thought I'd brush up (on) my French before going to Paris.</span></a>
+
+<q>
 (phrase) to visit someone informally</q>
 <a><b>drop by</b>/<b>in</b> /dɹˈɒp bˈaɪ/ˈɪn/
 
@@ -708,6 +666,24 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <span style="color:#00f">This month's ​pay ​cheque will ​cancel out his ​debt, but it won't give him any ​extra ​money. | One error shouldn't cancel out the good work they've done.</span></a>
 
 <q>
+(v) to ​stop doing ​your ​work or a ​similar ​activity for a ​period of ​time</q>
+<a><b>sign off</b> /sˈaɪn ˈɒf/
+
+<span style="color:#00f">As it's ​Friday, I ​think I'll ​sign off early today.</span></a>
+
+<q>
+(phrase) to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly</q>
+<a><b>put up with</b> sth/sb /pˌʊt ˈʌp wɪð/
+
+<span style="color:#01f">I can put up with the house being messy, but I hate it if it's not clean. | He's so moody - I don't know why she puts up with him. | They have a lot to put up with (= they have a lot of difficulties).</span></a>
+
+<q>
+(phrase) to give some money when several people are giving money to pay for something together</q>
+<a><b>chip (sth) in</b> /tʃˈɪp ˈɪn/
+
+<span style="color:#00f">They all chipped in £100 and bought their mother a trip to Greece. | We all chipped in and bought James a really smart coffee machine.</span></a>
+
+<q>
 (phrasal) to have no more of something left</q>
 <a><b>run out of something</b>
 
@@ -730,6 +706,24 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <a><b>chambermaid</b> /ˈtʃeɪm.bə.meɪd/<snd>snds/ukceylo028.mp3</snd></a>
 
 <q>
+(phrasal) to hit someone or something with a vehicle</q>
+<a><b>run into someone</b> or <b>something </b>/ɹˈʌn ˌɪntʊ/
+
+<span style="color:#00f">The driver was going too fast and had run into a tree.</span></a>
+
+<q>
+(phrase) to spend less, do less, or use less of something</q>
+<a><b>cut back</b>
+
+<span style="color:#00f">The government has announced plans to cut back on defence spending by 10 percent next year. | I’m trying to cut back on my expenses.</span></a>
+
+<q>
+(phrase) to say something that adds to or interrupts what is already being said</q>
+<a><b>put (sth) in</b>
+
+<span style="color:#03f">"But she's too inexperienced for the job," put in Jane.</span></a>
+
+<q>
 (phrase) to find the total of various numbers or amounts</q>
 <a><b>add something up</b> /ˈad sˈʌmθɪŋ ˈʌp/
 
@@ -749,6 +743,12 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <span style="color:#02f">Can you help me to do up my dress? | Do your shoes/laces up before you trip over. | These trousers must have shrunk - I can't do them up. | These trousers won't do up. | This watch strap is very fiddly - can you do it up for me?</span></a>
 
 <q>
+(phrase) to gradually relax after doing something that has made you tired or worried</q>
+<a><b>wind down</b> /waɪnd dˈaʊn/
+
+<span style="color:#00f">When he goes on holiday, it takes him the first couple of days just to wind down.</span></a>
+
+<q>
 (n) a phone call to wake you up at a particular time<img>imgs/alarm.call.jpeg</img></q>
 <a><b>alarm call</b> /əˈlɑːm ˌkɔːl/
 
@@ -761,6 +761,18 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <span style="color:#00f">I love to lie on the beach and soak up the sun. | Just stroll around the bazaar and soak up the atmosphere.</span></a>
 
 <q>
+(phrase) to look for someone or something, especially for a long time until you find him, her, or it</q>
+<a><b>seek sb/sth out</b> /sˈiːk ˈaʊt/<b>
+</b>
+<span style="color:#02f">While he was at the library, Steve decided to seek out some information on the history of the area.</span></a>
+
+<q>
+(phrase) to hide or store something, especially money, in order to use it in the future</q>
+<a><b>squirrel sth away</b> /skwˈɪɹəl sˈʌmθɪŋ ɐwˈeɪ/
+
+<span style="color:#00f">As soon as I get paid, I squirrel some money away so I won't be tempted to spend it. | She had a fortune squirrelled away.</span></a>
+
+<q>
 (phrase) to officially state that you have received something, by signing a form or book</q>
 <a><b>sign for something</b> /sˈaɪn fɔː sˈʌmθɪŋ/
 
@@ -771,6 +783,18 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <a><b>polish something up</b> /pˈɒlɪʃ sˈʌmθɪŋ ˈʌp/
 
 <span style="color:#00f">I really must polish up my Japanese before we visit Japan next year.</span></a>
+
+<q>
+(phrasal) to leave a place because you are unhappy or afraid there</q>
+<a><b>run away</b> /ɹˈʌn ɐwˈeɪ/
+
+<span style="color:#00f">The girl turned and ran away.</span></a>
+
+<q>
+(phrase) to stop someone or something developing or doing as well as they should</q>
+<a><b>hold sb/sth back</b> /hˈəʊld bˈak/
+
+<span style="color:#03f">She felt that having children would hold her back.</span></a>
 
 <q>
 (phrase) to explode</q>
@@ -789,6 +813,12 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <a><b>lose out</b> /lˈuːz ˈaʊt/
 
 <span style="color:#00f">The new ​tax ​means that the ​vast ​majority of ​working ​people will ​lose out.</span></a>
+
+<q>
+(phrase) to suddenly start laughing, crying, or making another noise</q>
+<a><b>burst out</b> /bˈɜːst ˈaʊt/
+
+<span style="color:#00f">The class burst out laughing.</span><snd>snds/burst.out.2314.wav</snd></a>
 
 <q>
 (phrase) to request that someone come to you</q>
@@ -814,6 +844,12 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 
 <span style="color:#00f">She came into a bit of money when her grandfather died.</span>
 </a>
+
+<q>
+(phrase) to make someone less upset or excited</q>
+<a><b>calm someone down</b> /kˈɑːm sˈʌmwɒn dˈaʊn/
+
+<span style="color:#00f">I'll try to calm his down.</span><snd>snds/calm.some1.down.wav</snd></a>
 
 <q>
 (phrase) to grow or increase very quickly</q>
@@ -917,6 +953,12 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <span style="color:#00f">He puts away a little every month.</span></a>
 
 <q>
+(phrase) to supply someone for a short time with something that is lacking</q>
+<a><b>tide someone over</b> /tˈaɪd sˈʌmwɒn ˈəʊvə/
+
+<span style="color:#00f">Can you lend me some money to tide me over till next month? | I gave her a hundred pounds to tide her over till she gets paid.</span></a>
+
+<q>
 (phrase) to telephone someone in return for a call they made to you</q>
 <a><b>call someone back</b>
 
@@ -977,6 +1019,18 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <span style="color:#00f">A police car ran him over.</span></a>
 
 <q>
+(phrase) to keep something available for a particular use or purpose</q>
+<a><b>set</b> something <b>aside</b> /sˈɛt sˈʌmθɪŋ ɐsˈaɪd/
+
+<span style="color:#00f">Try to set aside time each day to relax.</span></a>
+
+<q>
+(phrase) If a vehicle does it, it moves to the side of the road and stops<img>imgs/pull.over.jpeg</img></q>
+<a><b>pull over</b>
+
+<span style="color:#03f">Just pull over here, and I'll get out and walk the rest of the way.</span></a>
+
+<q>
 (phrase) to end a relationship</q>
 <a><b>break up</b> or <b>break up with someone</b> /bɹˈeɪk ˌʌp wɪð sˈʌmwɒn/
 
@@ -999,6 +1053,12 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <a><b>stay on</b>
 
 <span style="color:#00f">Gill decided to stay on at university to do further research. | We asked him to stay on as youth leader for another year.</span></a>
+
+<q>
+(phrase) to stop liking someone or something (informal)</q>
+<a><b>go off someone</b> or <b>something</b> /ɡˌəʊ ˈɒf/
+
+<span style="color:#00f">I started to go off the idea.</span></a>
 
 <q>
 (phrase) to explain your actions to someone</q>
