@@ -1,30 +1,12 @@
 <category name="e-mail punctuation">
 
 <q>
-(n) the ​symbols ( ) that are put around a word, phrase, or ​sentence in a ​piece of writing to show that what is inside them should be ​considered as ​separate from the ​main ​part</q>
-<a><b>parentheses</b> /pəˈren.θə.siːz/
-
-<span style="color:#00f">The ​students' first ​names are ​shown in parentheses, like this: Baker (Tina).</span><snd>snds/cald4uk1168.mp3</snd></a>
-
-<q>
 (n) the ​symbol : used in writing, ​especially to ​introduce a ​list of things or a ​sentence or phrase taken from ​somewhere ​else</q>
 <a>colon /ˈkəʊ.lɒn/<snd>snds/ukcolle020.mp3</snd></a>
 
 <q>
-(n) either of two ​symbols put around a word, phrase, or ​sentence in a ​piece of writing to show that what is between them should be ​considered as ​separate from the ​main ​part<img>imgs/bracket.235234.png</img></q>
-<a>bracket /ˈbræk.ɪt/
-
-<span style="color:#00f">Biographical ​information is ​included in brackets. | You should ​include the ​date of ​publication in round brackets after the ​title.</span><snd>snds/ukboyfr015.mp3</snd></a>
-
-<q>
-(n) three ​dots in a ​printed ​text that show where one or more words have been ​intentionally ​left out</q>
-<a>ellipsis /iˈlɪp.sɪs/<snd>snds/ukelimi014.mp3</snd></a>
-
-<q>
-(n) the ​symbol ’ used in writing to show when a ​letter or a ​number has been ​left out, as in I'm (= I am) or '85 (= 1985), or that is used before or after s to show ​possession, as in Helen's ​house or ​babies' ​hands</q>
-<a>apostrophe /əˈpɒs.trə.fi/
-
-<span style="color:#00f">"It's" with an apostrophe ​means "it is" or "it has".</span><snd>snds/ukapolo009.mp3</snd></a>
+(n) the ​symbol – used to ​separate ​parts of a ​sentence</q>
+<a><b>dash</b> /dæʃ/</a>
 
 <q>
 (n) the ​symbol -, used to ​join two words together, or to show that a word has been ​divided into two ​parts at the end of one ​line and the ​beginning of the next</q>
@@ -33,14 +15,16 @@
 <span style="color:#00f">There are hyphens in "​well-to-do".</span><snd>snds/ukhyper008.mp3</snd></a>
 
 <q>
-(n) the ​symbol – used to ​separate ​parts of a ​sentence</q>
-<a>dash /dæʃ/</a>
+(n) the ​symbol ’ used in writing to show when a ​letter or a ​number has been ​left out, as in I'm (= I am) or '85 (= 1985), or that is used before or after s to show ​possession, as in Helen's ​house or ​babies' ​hands</q>
+<a>apostrophe /əˈpɒs.trə.fi/
+
+<span style="color:#00f">"It's" with an apostrophe ​means "it is" or "it has".</span><snd>snds/ukapolo009.mp3</snd></a>
 
 <q>
-(n) the ​symbol , used in writing to ​separate ​parts of a ​sentence ​showing a ​slight ​pause, or to ​separate the ​single things in a ​list</q>
-<a>comma /ˈkɒm.ə/
+(n) either of two ​symbols put around a word, phrase, or ​sentence in a ​piece of writing to show that what is between them should be ​considered as ​separate from the ​main ​part<img>imgs/bracket.235234.png</img></q>
+<a><b>bracket</b> /ˈbræk.ɪt/
 
-<span style="color:#00f">Put a comma after the ​clause. | We usually put a comma after thousands in ​numbers. | Should I put a comma before the 'and'?</span><snd>snds/ukcombi028.mp3</snd></a>
+<span style="color:#00f">Biographical ​information is ​included in brackets. | You should ​include the ​date of ​publication in round brackets after the ​title.</span><snd>snds/ukboyfr015.mp3</snd></a>
 
 <q>
 (n) Also known as inverted commas – simply separate the words someone in a sentence actually says from the rest of the sentence. These words are called direct speech.</q>
@@ -49,16 +33,28 @@
 <span style="color:#00f">"I’ll be back home soon," Jim shouted to his mum.</span></a>
 
 <q>
+(n) the ​symbols ( ) that are put around a word, phrase, or ​sentence in a ​piece of writing to show that what is inside them should be ​considered as ​separate from the ​main ​part</q>
+<a><b>parentheses</b> /pəˈren.θə.siːz/
+
+<span style="color:#00f">The ​students' first ​names are ​shown in parentheses, like this: Baker (Tina).</span><snd>snds/cald4uk1168.mp3</snd></a>
+
+<q>
+(n) three ​dots in a ​printed ​text that show where one or more words have been ​intentionally ​left out</q>
+<a>ellipsis /iˈlɪp.sɪs/<snd>snds/ukelimi014.mp3</snd></a>
+
+<q>
+(n) the ​symbol , used in writing to ​separate ​parts of a ​sentence ​showing a ​slight ​pause, or to ​separate the ​single things in a ​list</q>
+<a><b>comma</b> /ˈkɒm.ə/
+
+<span style="color:#00f">Put a comma after the ​clause. | We usually put a comma after thousands in ​numbers. | Should I put a comma before the 'and'?</span><snd>snds/ukcombi028.mp3</snd></a>
+
+<q>
 (n) the ​symbol / used in writing to ​separate ​letters, ​numbers, or words
 
 also <b>oblique</b> (<b>stroke</b>)</q>
-<a>slash /slæʃ/
+<a><b>slash</b> /slæʃ/
 
 <span style="color:#00f">You often write a slash between ​alternatives, for ​example, "and/or".</span><snd>snds/uksland017.mp3</snd></a>
-
-<q>
-(n) the ​symbol ; used in writing between two ​parts of a ​sentence, usually when each of the two ​parts could ​form ​grammatical ​sentences on ​their own. A semicolon can also ​separate the things in a ​list.</q>
-<a>semicolon /ˌsem.iˈkəʊ.lɒn/<snd>snds/ukselfs019.mp3</snd></a>
 
 <q>
 (n) the ​symbol . used in writing at the end of a ​sentence or at the end of the ​short ​form of a word</q>
@@ -87,6 +83,10 @@ the @ ​symbol that ​joins the ​name of a ​person or a ​department in a
 <a>at @ /ət/
 
 <span style="color:#00f">"What's ​your ​email ​address?" "It's ​dictionary at cambridge ​dot ​org."</span></a>
+
+<q>
+(n) the ​symbol ; used in writing between two ​parts of a ​sentence, usually when each of the two ​parts could ​form ​grammatical ​sentences on ​their own. A semicolon can also ​separate the things in a ​list.</q>
+<a>semicolon /ˌsem.iˈkəʊ.lɒn/<snd>snds/ukselfs019.mp3</snd></a>
 
 </category>
 
