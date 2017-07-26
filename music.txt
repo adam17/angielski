@@ -1,0 +1,108 @@
+<category name="english_vocabulary">
+
+<category name="music">
+
+<q>
+(adj) a musical instrument which does not use electricity</q>
+<a><b>acoustic</b> /əˈkuːstɪk/
+
+<span style="color:#03f">an acoustic guitar</span><snd>snds/acoustic.mp3</snd></a>
+
+<q>
+(adv) singing or playing the correct musical notes</q>
+<a><b>in tune</b>
+
+<span style="color:#03f">sing in tune</span></a>
+
+<q>
+(adv) not singing or playing the correct musical notes</q>
+<a><b>out of tune</b>
+
+<span style="color:#03f">sing out of tune</span></a>
+
+<q>
+(n) the part of a song that is repeated several times</q>
+<a><b>chorus</b> /ˈkɔːrəs/
+
+<span style="color:#03f">strong guitar-driven songs with big, big choruses</span><snd>snds/chorus.mp3</snd></a>
+
+<q>
+(n) two or more musical notes that are played at the same time<img>imgs/chord.png</img></q>
+<a><b>chord</b> /kɔːd/<snd>snds/chord.mp3</snd></a>
+
+<q>
+(n) several songs or pieces of music on a CD, a record, etc</q>
+<a><b>album</b> /ˈælbəm/
+
+<span style="color:#03f">Have you heard their new album?</span><snd>snds/album.mp3</snd></a>
+
+<q>
+(n) a pleasant sound in music, made by playing or singing a group of different notes together</q>
+<a><b>harmony</b> /ˈhɑːməni/<snd>snds/harmony.mp3</snd></a>
+
+<q>
+(n) a type of entertainment in which people sing songs with recorded music that is played by a machine</q>
+<a><b>karaoke</b> /ˌkæriˈəʊki/
+
+<span style="color:#03f">a karaoke night</span><snd>snds\karaoke.mp3</snd></a>
+
+<q>
+(v) to stand in front of a group of musicians and control their performance<img>imgs/conduct.jpeg</img></q>
+<a><b>conduct</b> /ˈkɒndʌkt/<snd>snds/conduct.mp3</snd></a>
+
+<q>
+(v) to play a piece of music in front of an audience OR to entertain people by acting, singing, dancing, etc</q>
+<a><b>perform</b> /pəˈfɔːm/
+
+<span style="color:#03f">She has performed all over the world. | The orchestra will perform music by Mozart.</span><snd>snds/perform.mp3</snd></a>
+
+<q>
+(adj) relating to the recording or playing of sound</q>
+<a><b>audio</b> /ˈɔːdiəʊ/
+
+<span style="color:#03f">audio equipment</span><snd>snds/audio.mp3</snd></a>
+
+<q>
+(n) a pattern of sounds that is made by playing instruments or singing, or a recording of this</q>
+<a><b>music</b> /ˈmjuːzɪk/
+
+<span style="color:#03f">pop/dance music | classical music | He likes listening to music. | Could you put on some music? | a music festival | a music lesson/teacher</span><snd>snds/music.mp3</snd></a>
+
+<q>
+(n) a round, hollow, musical instrument that you hit with your hands or with sticks<img>imgs/drum.jpeg</img></q>
+<a><b>drum</b> /drʌm/
+
+<span style="color:#03f">Anna plays the drums.</span><snd>snds/drum.mp3</snd></a>
+
+<q>
+(n) the words of a song</q>
+<a><b>lyrics</b> /ˈlɪrɪks/<snd>snds/lyrics.mp3</snd></a>
+
+<q>
+(n) a regular, repeating pattern of sound</q>
+<a><b>rhythm</b> /ˈrɪð(ə)m/
+
+<span style="color:#03f">You need a sense of rhythm to be a good dancer.</span><snd>snds/rhythm.mp3</snd></a>
+
+<q>
+(v) to make musical sounds with your voice</q>
+<a><b>sing</b> /sɪŋ/
+
+<span style="color:#03f">They all sang 'Happy Birthday' to him. | She sings in the church choir.</span><snd>snds/sing.mp3</snd></a>
+
+<q>
+(v) to make slight changes to a musical instrument so that it plays the right notes</q>
+<a><b>tune</b> /tjuːn/<snd>snds/tune.mp3</snd></a>
+
+<q>
+(v) to write a piece of music</q>
+<a><b>compose</b> /kəmˈpəʊz/<snd>snds\compose.mp3</snd></a>
+
+<q>
+(n) a piece of electrical equipment for recording or broadcasting sounds, or for making sounds louder<img>imgs/microphone.jpeg</img></q>
+<a>microphone /ˈmaɪkrəfəʊn/<snd>snds/microphone.mp3</snd></a>
+
+</category>
+
+</category>
+
