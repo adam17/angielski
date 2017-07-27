@@ -3,10 +3,8 @@
 <category name="music">
 
 <q>
-(adj) a musical instrument which does not use electricity</q>
-<a><b>acoustic</b> /əˈkuːstɪk/
-
-<span style="color:#03f">an acoustic guitar</span><snd>snds/acoustic.mp3</snd></a>
+(adv) not singing or playing the correct musical notes</q>
+<a><b>out of tune</b></a>
 
 <q>
 (adv) singing or playing the correct musical notes</q>
@@ -15,16 +13,10 @@
 <span style="color:#03f">sing in tune</span></a>
 
 <q>
-(adv) not singing or playing the correct musical notes</q>
-<a><b>out of tune</b>
+(adv) a musical instrument which does not use electricity</q>
+<a><b>acoustic</b> /əˈkuːstɪk/
 
-<span style="color:#03f">sing out of tune</span></a>
-
-<q>
-(n) the part of a song that is repeated several times</q>
-<a><b>chorus</b> /ˈkɔːrəs/
-
-<span style="color:#03f">strong guitar-driven songs with big, big choruses</span><snd>snds/chorus.mp3</snd></a>
+<span style="color:#03f">an acoustic guitar</span><snd>snds/acoustic.mp3</snd></a>
 
 <q>
 (n) two or more musical notes that are played at the same time<img>imgs/chord.png</img></q>
@@ -55,6 +47,12 @@
 <a><b>perform</b> /pəˈfɔːm/
 
 <span style="color:#03f">She has performed all over the world. | The orchestra will perform music by Mozart.</span><snd>snds/perform.mp3</snd></a>
+
+<q>
+(n) the part of a song that is repeated several times<img>imgs/chorus.jpeg</img></q>
+<a><b>chorus</b> /ˈkɔːrəs/
+
+<span style="color:#03f">strong guitar-driven songs with big, big choruses</span><snd>snds/chorus.mp3</snd></a>
 
 <q>
 (adj) relating to the recording or playing of sound</q>
