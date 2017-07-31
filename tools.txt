@@ -1,0 +1,13 @@
+<category name="english_vocabulary">
+
+<category name="tools">
+
+<q>
+(n) a continuous raised line, such as the one that goes around the outside of a screw or bolt or the inside of a hole<img>imgs/thread.jpeg</img></q>
+<a><b>thread</b> /θred/
+[screw thread]<snd>snds/thread.mp3</snd></a>
+
+</category>
+
+</category>
+
