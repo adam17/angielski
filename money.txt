@@ -1,0 +1,38 @@
+<category name="english_vocabulary">
+
+<category name="money">
+
+<q>
+(n) the amount of money you have in a bank account, or the amount of something that you have left after you have spent or used up the rest</q>
+<a><b>balance</b> /ˈbæl.(ə)ns/
+
+<span style="color:#03f">Once we know how much money we'll need, let's spend the balance (= the amount left). | The company's success is reflected in its healthy bank balance.</span><snd>snds/balance.mp3</snd></a>
+
+<q>
+(n) the member of a family who earns the money that the family needs</q>
+<a><b>breadwinner</b> /ˈbredˌwɪn.ə(r)/
+
+<span style="color:#03f">Men are often expected to be the breadwinner in a family. | I've always paid the bills and been the breadwinner.</span><snd>snds/breadwinner.mp3</snd></a>
+
+<q>
+(n) the amount of money you have available to spend</q>
+<a><b>budget</b> /ˈbʌdʒ.ɪt/
+
+<span style="color:#03f">an annual budget of £40 million | a low-budget film | The school budget is going to be cut again this year. | People on limited budgets should avoid travelling during the holiday season if they can.</span><snd>snds/budget.mp3</snd></a>
+
+<q>
+(n) the amount of money that you have to pay for something, especially for an activity or service</q>
+<a><b>charge</b> /tʃɑːdʒ/
+
+<span style="color:#03f">Is there a charge for children or do they go free? | There's an admission charge of £5. | They fixed my watch free of charge.</span><snd>snds/charge.mp3</snd></a>
+
+<q>
+(n) a regular payment that you make, for example each month, in order to pay for something</q>
+<a><b>instal(l)ment</b> /ɪnˈstɔːlmənt/
+
+<span style="color:#03f">You can pay for your computer in six monthly instalments.</span><snd>snds/instalment.mp3</snd></a>
+
+</category>
+
+</category>
+
