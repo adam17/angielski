@@ -3,6 +3,40 @@
 <category name="money">
 
 <q>
+(n) a printed form, used instead of money, to make payments from your bank account<img>imgs/cheque.jpeg</img></q>
+<a><b>cheque</b> /tʃek/
+[check]
+<span style="color:#03f">I wrote him a cheque for £50. | I don't have any cash on me, so could I pay with a/by cheque? | Who should I make out this cheque to? (= Whose name should I write on it?) | Please make your cheques payable to The Brighter Toyshop Ltd (= write this name on them).</span><snd>snds/cheque.mp3</snd></a>
+
+<q>
+(n) a small, round piece of metal, usually silver or copper coloured, that is used as money<img>imgs/coin.jpeg</img></q>
+<a><b>coin</b> /kɔɪn/
+
+<span style="color:#03f">a 10p/ten pence coin | a pound coin | gold coins | I asked for £10 in 20p coins.</span><snd>snds/coin.mp3</snd></a>
+
+<q>
+(n) the money that is used in a particular country at a particular time</q>
+<a><b>currency</b> /ˈkʌr.(ə)n.si/
+
+<span style="color:#03f">foreign currency | Take some foreign currency to cover incidentals like the taxi fare to your hotel. | Five people were indicted for making and selling counterfeit currency. | The Central Bank intervened in the currency markets today to try to stabilize the exchange rate.</span><snd>snds/currency.mp3</snd></a>
+
+<q>
+(n) a bank account that you can take money from at any time and that usually earns little or no interest</q>
+<a><b>current account</b> /ˈkʌr.(ə)nt əˌkaʊnt/<snd>snds/current_account.mp3</snd></a>
+
+<q>
+(n) something, especially money, that is owed to someone else, or the state of owing something</q>
+<a><b>debt</b> /det/
+
+<span style="color:#03f">He managed to pay off his debts in two years. | The company ran up huge debts. | They are in debt to (= owe money to) the bank. | He got into debt (= borrowed money) after he lost his job. | The company is deep in debt (= owes a lot of money).</span><snd>snds/debt.mp3</snd></a>
+
+<q>
+(n) the amount of money that you have to pay for something, especially for an activity or service</q>
+<a><b>charge</b> /tʃɑːdʒ/
+
+<span style="color:#03f">Is there a charge for children or do they go free? | There's an admission charge of £5. | They fixed my watch free of charge.</span><snd>snds/charge.mp3</snd></a>
+
+<q>
 (n) the amount of money you have in a bank account, or the amount of something that you have left after you have spent or used up the rest</q>
 <a><b>balance</b> /ˈbæl.(ə)ns/
 
@@ -19,12 +53,6 @@
 <a><b>budget</b> /ˈbʌdʒ.ɪt/
 
 <span style="color:#03f">an annual budget of £40 million | a low-budget film | The school budget is going to be cut again this year. | People on limited budgets should avoid travelling during the holiday season if they can.</span><snd>snds/budget.mp3</snd></a>
-
-<q>
-(n) the amount of money that you have to pay for something, especially for an activity or service</q>
-<a><b>charge</b> /tʃɑːdʒ/
-
-<span style="color:#03f">Is there a charge for children or do they go free? | There's an admission charge of £5. | They fixed my watch free of charge.</span><snd>snds/charge.mp3</snd></a>
 
 <q>
 (n) a regular payment that you make, for example each month, in order to pay for something</q>
