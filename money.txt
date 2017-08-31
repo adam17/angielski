@@ -3,46 +3,44 @@
 <category name="money">
 
 <q>
-(n) a payment, especially into a bank account OR an amount of money that you pay as the first part of the total payment for something</q>
-<a><b>deposit</b> /dɪˈpɒz.ɪt/
+(n) money that is charged by a bank or other financial organization for borrowing money OR money that you earn from keeping your money in an account in a bank or other financial organization</q>
+<a><b>interest</b> /ˈɪn.trəst/
 
-<span style="color:#03f">To open an account, you need to make a minimum deposit of $500. | The shop assistant says if I leave £10 as a deposit, they'll keep the dress for me. | We paid/put a deposit of £5,000 on the house, and paid the balance four weeks later. | They asked us to put down a deposit.</span><snd>snds/deposit.mp3</snd></a>
-
-<q>
-(n) an arrangement for making payments, usually to an organization, in which your bank moves money from your account into the organization's account at regular times</q>
-<a><b>direct debit</b> /ˌdaɪ.rekt ˈdeb.ɪt/
-
-<span style="color:#03f">I pay my electricity bill by direct debit.</span><snd>snds/direct_debit.mp3</snd></a>
+<span style="color:#03f">Interest charges on an overdraft are usually quite high. | You should put the money in a savings account where it will earn interest.</span><snd>snds/interest.mp3</snd></a>
 
 <q>
-(n) money that someone borrows</q>
-<a><b>loan</b> /ləʊn/
+(n) coins or notes (= special pieces of paper) that are used to buy things, or an amount of these that a person has<img>imgs/money.jpeg</img></q>
+<a><b>money</b> /ˈmʌn.i/
 
-<span style="color:#03f">a bank loan | a student loan</span><snd>snds/loan.mp3</snd></a>
-
-<q>
-(n) an agreement that allows you to borrow money from a bank or similar organization, especially in order to buy a house, or the amount of money itself</q>
-<a><b>mortgage</b> /ˈmɔː.ɡɪdʒ/
-
-<span style="color:#03f">They took out a £40o,000 mortgage (= they borrowed £40o,000) to buy the house. | a monthly mortgage payment</span><snd>snds/mortgage.mp3</snd></a>
+<span style="color:#03f">"How much money do you have on you?" "€100 in notes and a few coins." | We invested the money in a high-interest bank account. | I wanted to buy it but it cost too much money (= was too expensive). | We spent so much money redecorating the house that we didn't have any left over for a holiday. | You'll have to change some money (= buy some foreign money) at the bank. | How much money do you earn? | He enjoyed acting but he wasn't making (= earning) much money.</span><snd>snds/money.mp3</snd></a>
 
 <q>
-(n) the state of being very poor</q>
-<a><b>poverty</b> /ˈpɒvəti/
+(n) an amount of money paid regularly by the government or a private company to a person who does not work any more because they are too old or have become ill</q>
+<a><b>pension</b> /ˈpen.ʃ(ə)n/
 
-<span style="color:#03f">They live in poverty.</span><snd>snds/poverty.mp3</snd></a>
-
-<q>
-(n) the amount of money you have in a bank account, or the amount of something that you have left after you have spent or used up the rest</q>
-<a><b>balance</b> /ˈbæl.(ə)ns/
-
-<span style="color:#03f">Once we know how much money we'll need, let's spend the balance (= the amount left). | The company's success is reflected in its healthy bank balance.</span><snd>snds/balance.mp3</snd></a>
+<span style="color:#03f">He won't be able to draw (= receive) his pension until he's 65. | The Chancellor announced a miserly 75p a week rise in the state pension. | He retired on a generous pension from the company. | It's a bloody disgrace that some war widows don't get a decent pension. | The perks of the job include a company pension scheme and a generous travel allowance.</span><snd>snds/pension.mp3</snd></a>
 
 <q>
-(n) a regular payment that you make, for example each month, in order to pay for something</q>
-<a><b>instal(l)ment</b> /ɪnˈstɔːlmənt/
+(n) personal identification number: a secret number that a person uses together with a special card to get money from their bank account out of a machine, or when paying by credit card</q>
+<a><b>PIN</b> /pɪn/<snd>snds/PIN.mp3</snd></a>
 
-<span style="color:#03f">You can pay for your computer in six monthly instalments.</span><snd>snds/instalment.mp3</snd></a>
+<q>
+(n) an amount of money that parents regularly give to their child to spend as they choose</q>
+<a><b>pocket money</b> /ˈpɒk.ɪt ˌmʌn.i/
+
+<snd>snds/pocket_money.mp3</snd></a>
+
+<q>
+(n) money that is earned in trade or business after paying the costs of producing and selling goods and services</q>
+<a><b>profit</b> /ˈprɒf.ɪt/
+
+<span style="color:#03f">She makes a big profit from selling waste material to textile companies. | A year ago the Tokyo company had a pretax profit of 35 million yen. | Company profits are down from last year's figures. | You don't expect to make much profit within the first couple of years of setting up a company. | He sold his house at a huge profit.</span><snd>snds/profit.mp3</snd></a>
+
+<q>
+(n) the money that is used in a particular country at a particular time</q>
+<a><b>currency</b> /ˈkʌr.(ə)n.si/
+
+<span style="color:#03f">foreign currency | Take some foreign currency to cover incidentals like the taxi fare to your hotel. | Five people were indicted for making and selling counterfeit currency. | The Central Bank intervened in the currency markets today to try to stabilize the exchange rate.</span><snd>snds/currency.mp3</snd></a>
 
 <q>
 (n) the amount of money you have available to spend</q>
@@ -57,20 +55,62 @@
 <span style="color:#03f">Men are often expected to be the breadwinner in a family. | I've always paid the bills and been the breadwinner.</span><snd>snds/breadwinner.mp3</snd></a>
 
 <q>
-(n) the money that is used in a particular country at a particular time</q>
-<a><b>currency</b> /ˈkʌr.(ə)n.si/
+(n) the amount of money you have in a bank account, or the amount of something that you have left after you have spent or used up the rest</q>
+<a><b>balance</b> /ˈbæl.(ə)ns/
 
-<span style="color:#03f">foreign currency | Take some foreign currency to cover incidentals like the taxi fare to your hotel. | Five people were indicted for making and selling counterfeit currency. | The Central Bank intervened in the currency markets today to try to stabilize the exchange rate.</span><snd>snds/currency.mp3</snd></a>
+<span style="color:#03f">Once we know how much money we'll need, let's spend the balance (= the amount left). | The company's success is reflected in its healthy bank balance.</span><snd>snds/balance.mp3</snd></a>
 
 <q>
-(n) a bank account that you can take money from at any time and that usually earns little or no interest</q>
-<a><b>current account</b> /ˈkʌr.(ə)nt əˌkaʊnt/<snd>snds/current_account.mp3</snd></a>
+(n) a regular payment that you make, for example each month, in order to pay for something</q>
+<a><b>instal(l)ment</b> /ɪnˈstɔːlmənt/
+
+<span style="color:#03f">You can pay for your computer in six monthly instalments.</span><snd>snds/instalment.mp3</snd></a>
+
+<q>
+(n) an arrangement for making payments, usually to an organization, in which your bank moves money from your account into the organization's account at regular times</q>
+<a><b>direct debit</b> /ˌdaɪ.rekt ˈdeb.ɪt/
+
+<span style="color:#03f">I pay my electricity bill by direct debit.</span><snd>snds/direct_debit.mp3</snd></a>
+
+<q>
+(n) a payment, especially into a bank account OR an amount of money that you pay as the first part of the total payment for something</q>
+<a><b>deposit</b> /dɪˈpɒz.ɪt/
+
+<span style="color:#03f">To open an account, you need to make a minimum deposit of $500. | The shop assistant says if I leave £10 as a deposit, they'll keep the dress for me. | We paid/put a deposit of £5,000 on the house, and paid the balance four weeks later. | They asked us to put down a deposit.</span><snd>snds/deposit.mp3</snd></a>
+
+<q>
+(n) the state of being very poor</q>
+<a><b>poverty</b> /ˈpɒvəti/
+
+<span style="color:#03f">They live in poverty.</span><snd>snds/poverty.mp3</snd></a>
+
+<q>
+(n) an agreement that allows you to borrow money from a bank or similar organization, especially in order to buy a house, or the amount of money itself</q>
+<a><b>mortgage</b> /ˈmɔː.ɡɪdʒ/
+
+<span style="color:#03f">They took out a £40o,000 mortgage (= they borrowed £40o,000) to buy the house. | a monthly mortgage payment</span><snd>snds/mortgage.mp3</snd></a>
 
 <q>
 (n) something, especially money, that is owed to someone else, or the state of owing something</q>
 <a><b>debt</b> /det/
 
 <span style="color:#03f">He managed to pay off his debts in two years. | The company ran up huge debts. | They are in debt to (= owe money to) the bank. | He got into debt (= borrowed money) after he lost his job. | The company is deep in debt (= owes a lot of money).</span><snd>snds/debt.mp3</snd></a>
+
+<q>
+(n) a bank account that you can take money from at any time and that usually earns little or no interest</q>
+<a><b>current account</b> /ˈkʌr.(ə)nt əˌkaʊnt/<snd>snds/current_account.mp3</snd></a>
+
+<q>
+(n) the amount of money that you have to pay for something, especially for an activity or service</q>
+<a><b>charge</b> /tʃɑːdʒ/
+
+<span style="color:#03f">Is there a charge for children or do they go free? | There's an admission charge of £5. | They fixed my watch free of charge.</span><snd>snds/charge.mp3</snd></a>
+
+<q>
+(n) money that someone borrows</q>
+<a><b>loan</b> /ləʊn/
+
+<span style="color:#03f">a bank loan | a student loan</span><snd>snds/loan.mp3</snd></a>
 
 <q>
 (n) a printed form, used instead of money, to make payments from your bank account<img>imgs/cheque.jpeg</img></q>
@@ -83,12 +123,6 @@
 <a><b>coin</b> /kɔɪn/
 
 <span style="color:#03f">a 10p/ten pence coin | a pound coin | gold coins | I asked for £10 in 20p coins.</span><snd>snds/coin.mp3</snd></a>
-
-<q>
-(n) the amount of money that you have to pay for something, especially for an activity or service</q>
-<a><b>charge</b> /tʃɑːdʒ/
-
-<span style="color:#03f">Is there a charge for children or do they go free? | There's an admission charge of £5. | They fixed my watch free of charge.</span><snd>snds/charge.mp3</snd></a>
 
 </category>
 
