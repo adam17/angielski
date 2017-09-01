@@ -3,22 +3,56 @@
 <category name="money">
 
 <q>
+(n) a business that lends you money if you want to buy a house, or pays you interest on money you invest there</q>
+<a><b>savings and loan association</b> /ˈseɪ.vɪŋz ən ˈləʊn əˌsəʊ.si.eɪ.ʃ(ə)n/<snd>snds/savings_and_loan.mp3</snd></a>
+
+<q>
+(n) one of the equal parts that the ownership of a company is divided into, and that can be bought by members of the public</q>
+<a><b>share</b> /ʃeə(r)/
+
+<span style="color:#03f">The value of my shares has risen/fallen by eight percent. | We have some shares in Apple. | He invests in stocks and shares. | share prices</span><snd>snds/share.mp3</snd></a>
+
+<q>
+(v) to give money or goods to help a person or organization</q>
+<a><b>donate</b> /dəʊˈneɪt/
+
+<span style="color:#03f">An anonymous businesswoman donated one million dollars to the charity. | Please donate generously.</span><snd>snds/donate.mp3</snd></a>
+
+<q>
+(v) to put money into a bank account</q>
+<a><b>pay sth in</b>
+
+<span style="color:#03f">If you go to the bank, will you pay these cheques in for me?</span></a>
+
+<q>
+(phrase) to give someone the money that you owe them, especially when you do not want to</q>
+<a><b>pay up</b>
+
+<span style="color:#03f">Eventually they paid up, but only after receiving several reminders.</span></a>
+
+<q>
 (n) money that is charged by a bank or other financial organization for borrowing money OR money that you earn from keeping your money in an account in a bank or other financial organization</q>
 <a><b>interest</b> /ˈɪn.trəst/
 
 <span style="color:#03f">Interest charges on an overdraft are usually quite high. | You should put the money in a savings account where it will earn interest.</span><snd>snds/interest.mp3</snd></a>
 
 <q>
-(n) coins or notes (= special pieces of paper) that are used to buy things, or an amount of these that a person has<img>imgs/money.jpeg</img></q>
-<a><b>money</b> /ˈmʌn.i/
-
-<span style="color:#03f">"How much money do you have on you?" "€100 in notes and a few coins." | We invested the money in a high-interest bank account. | I wanted to buy it but it cost too much money (= was too expensive). | We spent so much money redecorating the house that we didn't have any left over for a holiday. | You'll have to change some money (= buy some foreign money) at the bank. | How much money do you earn? | He enjoyed acting but he wasn't making (= earning) much money.</span><snd>snds/money.mp3</snd></a>
-
-<q>
 (n) an amount of money paid regularly by the government or a private company to a person who does not work any more because they are too old or have become ill</q>
 <a><b>pension</b> /ˈpen.ʃ(ə)n/
 
 <span style="color:#03f">He won't be able to draw (= receive) his pension until he's 65. | The Chancellor announced a miserly 75p a week rise in the state pension. | He retired on a generous pension from the company. | It's a bloody disgrace that some war widows don't get a decent pension. | The perks of the job include a company pension scheme and a generous travel allowance.</span><snd>snds/pension.mp3</snd></a>
+
+<q>
+(n) money that is earned in trade or business after paying the costs of producing and selling goods and services</q>
+<a><b>profit</b> /ˈprɒf.ɪt/
+
+<span style="color:#03f">She makes a big profit from selling waste material to textile companies. | A year ago the Tokyo company had a pretax profit of 35 million yen. | Company profits are down from last year's figures. | You don't expect to make much profit within the first couple of years of setting up a company. | He sold his house at a huge profit.</span><snd>snds/profit.mp3</snd></a>
+
+<q>
+(n) coins or notes (= special pieces of paper) that are used to buy things, or an amount of these that a person has<img>imgs/money.jpeg</img></q>
+<a><b>money</b> /ˈmʌn.i/
+
+<span style="color:#03f">"How much money do you have on you?" "€100 in notes and a few coins." | We invested the money in a high-interest bank account. | I wanted to buy it but it cost too much money (= was too expensive). | We spent so much money redecorating the house that we didn't have any left over for a holiday. | You'll have to change some money (= buy some foreign money) at the bank. | How much money do you earn? | He enjoyed acting but he wasn't making (= earning) much money.</span><snd>snds/money.mp3</snd></a>
 
 <q>
 (n) personal identification number: a secret number that a person uses together with a special card to get money from their bank account out of a machine, or when paying by credit card</q>
@@ -29,24 +63,6 @@
 <a><b>pocket money</b> /ˈpɒk.ɪt ˌmʌn.i/
 
 <snd>snds/pocket_money.mp3</snd></a>
-
-<q>
-(n) money that is earned in trade or business after paying the costs of producing and selling goods and services</q>
-<a><b>profit</b> /ˈprɒf.ɪt/
-
-<span style="color:#03f">She makes a big profit from selling waste material to textile companies. | A year ago the Tokyo company had a pretax profit of 35 million yen. | Company profits are down from last year's figures. | You don't expect to make much profit within the first couple of years of setting up a company. | He sold his house at a huge profit.</span><snd>snds/profit.mp3</snd></a>
-
-<q>
-(n) the money that is used in a particular country at a particular time</q>
-<a><b>currency</b> /ˈkʌr.(ə)n.si/
-
-<span style="color:#03f">foreign currency | Take some foreign currency to cover incidentals like the taxi fare to your hotel. | Five people were indicted for making and selling counterfeit currency. | The Central Bank intervened in the currency markets today to try to stabilize the exchange rate.</span><snd>snds/currency.mp3</snd></a>
-
-<q>
-(n) the amount of money you have available to spend</q>
-<a><b>budget</b> /ˈbʌdʒ.ɪt/
-
-<span style="color:#03f">an annual budget of £40 million | a low-budget film | The school budget is going to be cut again this year. | People on limited budgets should avoid travelling during the holiday season if they can.</span><snd>snds/budget.mp3</snd></a>
 
 <q>
 (n) the member of a family who earns the money that the family needs</q>
@@ -71,6 +87,12 @@
 <a><b>direct debit</b> /ˌdaɪ.rekt ˈdeb.ɪt/
 
 <span style="color:#03f">I pay my electricity bill by direct debit.</span><snd>snds/direct_debit.mp3</snd></a>
+
+<q>
+(n) the amount of money you have available to spend</q>
+<a><b>budget</b> /ˈbʌdʒ.ɪt/
+
+<span style="color:#03f">an annual budget of £40 million | a low-budget film | The school budget is going to be cut again this year. | People on limited budgets should avoid travelling during the holiday season if they can.</span><snd>snds/budget.mp3</snd></a>
 
 <q>
 (n) a payment, especially into a bank account OR an amount of money that you pay as the first part of the total payment for something</q>
@@ -123,6 +145,12 @@
 <a><b>coin</b> /kɔɪn/
 
 <span style="color:#03f">a 10p/ten pence coin | a pound coin | gold coins | I asked for £10 in 20p coins.</span><snd>snds/coin.mp3</snd></a>
+
+<q>
+(n) the money that is used in a particular country at a particular time</q>
+<a><b>currency</b> /ˈkʌr.(ə)n.si/
+
+<span style="color:#03f">foreign currency | Take some foreign currency to cover incidentals like the taxi fare to your hotel. | Five people were indicted for making and selling counterfeit currency. | The Central Bank intervened in the currency markets today to try to stabilize the exchange rate.</span><snd>snds/currency.mp3</snd></a>
 
 </category>
 
