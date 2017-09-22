@@ -3,6 +3,12 @@
 <category name="money">
 
 <q>
+(n) the amount of money that you have to pay for something, especially for an activity or service</q>
+<a><b>charge</b> /tʃɑːdʒ/
+
+<span style="color:#03f">Is there a charge for children or do they go free? | There's an admission charge of £5. | They fixed my watch free of charge.</span><snd>snds/charge.mp3</snd></a>
+
+<q>
 (idiom) [informal] to be extremely rich</q>
 <a><b>be rolling in it</b>
 
@@ -39,16 +45,16 @@
 <span style="color:#03f">I've had to tighten my belt since I stopped working full-time.</span></a>
 
 <q>
-(n) the amount of money that you have to pay for something, especially for an activity or service</q>
-<a><b>charge</b> /tʃɑːdʒ/
+(adj) showing a careful use of money, especially by avoiding waste</q>
+<a><b>thrifty</b> /ˈθrɪf.ti/
 
-<span style="color:#03f">Is there a charge for children or do they go free? | There's an admission charge of £5. | They fixed my watch free of charge.</span><snd>snds/charge.mp3</snd></a>
+<span style="color:#03f">They have plenty of money now, but they still tend to be thrifty.</span><snd>snds/thrifty.mp3</snd></a>
 
 <q>
-(phrase) to give someone the money that you owe them, especially when you do not want to</q>
-<a><b>pay up</b>
+(adj) worth a lot of money</q>
+<a><b>valuable</b> /ˈvæl.jə.b(ə)l/
 
-<span style="color:#03f">Eventually they paid up, but only after receiving several reminders.</span></a>
+<span style="color:#03f">These antiques are extremely valuable. | This is losing valuable business for the company.</span><snd>snds/valuable.mp3</snd></a>
 
 <q>
 (v) to give money or goods to help a person or organization</q>
@@ -121,6 +127,12 @@
 <a><b>balance</b> /ˈbæl.(ə)ns/
 
 <span style="color:#03f">Once we know how much money we'll need, let's spend the balance (= the amount left). | The company's success is reflected in its healthy bank balance.</span><snd>snds/balance.mp3</snd></a>
+
+<q>
+(phrase) to give someone the money that you owe them, especially when you do not want to</q>
+<a><b>pay up</b>
+
+<span style="color:#03f">Eventually they paid up, but only after receiving several reminders.</span></a>
 
 <q>
 (n) the state of being very poor</q>
