@@ -1,0 +1,504 @@
+<category name="english_vocabulary">
+
+<category name="feelings and personal qualities">
+
+<q>
+(n) a ​feeling of ​sadness about something ​sad or ​wrong or about a ​mistake that you have made, and a ​wish that it could have been different and ​better</q>
+<a><b>regret</b> /rɪˈɡret/
+
+<span style="color:#00f">I ​left ​school at 16, but I've had a ​great ​life and I have no regrets. | The ​manager ​expressed ​deep regret at/for the ​number of ​staff ​reductions. | We ​think, much to ​our regret (= and we are very ​sorry about this), that we will not be ​able to ​visit you next ​year.</span><snd>snds/ukregen025.mp3</snd></a>
+
+<q>
+(adj) feeling bad because you have done something wrong</q>
+<a><b>guilty</b> /ˈɡɪlti/
+
+<span style="color:#00f">I feel so guilty about missing her party.</span><snd>snds/ukguate029.mp3</snd></a>
+
+<q>
+(adj) very strange and unusual, unexpected, or not natural</q>
+<a><b>weird</b> /wɪəd/
+
+<span style="color:#03f">He was sitting alone by a window with a weird contraption on the table in front of him. | Her boyfriend's a bit weird but she's nice. | That's weird - I thought I left my keys on the table but they're not there. | There is nothing to rival the weird and wonderful things that come out on the Rio streets at carnival time.</span><snd>snds/weird.mp3</snd></a>
+
+<q>
+(n) an uncertain situation that you cannot control and in which there is no progress or improvement</q>
+<a><b>limbo</b> /ˈlɪm.bəʊ/
+
+<span style="color:#03f">Until we have official permission to go ahead with the plans we're <b>in</b> limbo.</span><snd>snds/limbo.mp3</snd></a>
+
+<q>
+(v) to cause emotional pain to someone</q>
+<a><b>hurt</b> /hɜːt/
+<span style="color:#00f">
+Tell me where it hurts. | She criticized my writing quite severely and that hurt. | He was badly hurt by the end of his marriage.</span><snd>snds/ukhurly008_0.mp3</snd></a>
+
+<q>
+(n) a ​feeling of ​pleasure and ​satisfaction that you get because you or ​people ​connected with you have done or got something good</q>
+<a><b>pride</b> /praɪd/
+
+<span style="color:#00f">She ​felt a ​great ​sense of pride as she ​watched him ​accept the ​award. | He ​felt such pride ​walking his little ​daughter down the ​street.</span><snd>snds/ukprice009.mp3</snd></a>
+
+<q>
+(adj) happy</q>
+<a><b>cheerful</b> /ˈtʃɪəfəl/
+
+<span style="color:#00f">She seemed fairly cheerful.</span><snd>snds/ukcheat023.mp3</snd></a>
+
+<q>
+(n) someone who believes that God does not exist<img>imgs/atheist.jpeg</img></q>
+<a><b>atheist</b> /ˈeɪ.θi.ɪst/<snd>snds/atheist.mp3</snd></a>
+
+<q>
+(adj) happy about something</q>
+<a><b>glad</b> /ɡlæd/
+
+<span style="color:#00f">I’m very glad that you like your present.</span><snd>snds/ukglaci002.mp3</snd></a>
+
+<q>
+(idiom) to become extremely angry</q>
+<a><b>hit the roof</b>
+(also <b>hit the ceiling</b>)
+
+<span style="color:#00f">Dad will hit the roof when he finds out I dented the car.</span></a>
+
+<q>
+(adj) feeling angry and disappointed about someone or something, or because you have done something wrong</q>
+<a><b>ashamed</b> /əˈʃeɪmd/
+
+<span style="color:#00f">I felt ashamed of my behaviour. | You lied to her? You should be ashamed of yourself!</span><snd>snds/ukasbes021.mp3</snd></a>
+
+<q>
+(adj) you get angry with people who make mistakes or you hate waiting for things</q>
+<a><b>impatient</b> /ɪmˈpeɪʃənt/
+
+<span style="color:#00f">I get very impatient with the children when they won’t do their homework.</span><snd>snds/ukimpar012.mp3</snd></a>
+
+<q>
+(adj) having the feeling you get when something happens that you did not expect</q>
+<a><b>surprised</b> /səˈpraɪzd/
+
+<span style="color:#00f">We were very surprised at the ​result. | It's not like you to ​behave like this, Alice - I'm surprised at you (= I ​feel ​disappointed with you)! | I'm not surprised (that) he didn't ​keep his ​promise. | I'm surprised to ​see you here.</span><snd>snds/uksurge018.mp3</snd></a>
+
+<q>
+(adj) a little angry about something</q>
+<a><b>annoyed</b> /əˈnɔɪd/
+<span style="color:#00f">
+I was annoyed with Jack for being late.</span><snd>snds/ukannou004.mp3</snd></a>
+
+<q>
+(n) the quality of not being proud because you are aware of your bad qualities</q>
+<a><b>humility</b> /hjuːˈmɪl.ə.ti/
+
+<span style="color:#03f">He doesn't have the humility to admit when he's wrong. | They might be very rich, but it wouldn't hurt them to show a little humility.</span><snd>snds/humility.mp3</snd></a>
+
+<q>
+(adj) ​worried and ​anxious</q>
+<a><b>nervous</b> /ˈnɜː.vəs/
+<span style="color:#00f">
+Do you ​feel/get nervous during ​exams? | I was too nervous to ​speak. | She's always been nervous around ​dogs. | I was very nervous about ​driving again after the ​accident.</span><snd>snds/ukneptu008.mp3</snd></a>
+
+<q>
+(adj) feeling very happy and interested, or showing this</q>
+<a><b>excited</b> /ɪkˈsaɪtɪd/
+
+<span style="color:#00f">happy, excited faces | The children are getting really excited about the party.</span><snd>snds/ukexces012.mp3</snd></a>
+
+<q>
+(adj) relaxed and not worried or frightened</q>
+<a><b>calm</b> /kɑːm/
+
+<span style="color:#00f">a calm voice</span><snd>snds/ukcalip014.mp3</snd></a>
+
+<q>
+(idiom) unhappy</q>
+<a><b>down in the dumps</b> /dˌaʊn ɪnðə dˈʌmps/
+
+<span style="color:#00f">She's a bit down in the dumps because she failed one of her exams.</span></a>
+
+<q>
+(adj) making you smile or laugh</q>
+<a><b>funny</b> /ˈfʌni/
+
+<span style="color:#00f">a funny story</span><snd>snds/ukfunk_006.mp3</snd></a>
+
+<q>
+(adj) annoyed because you cannot achieve or do what you want</q>
+<a><b>frustrated</b> /frʌsˈtreɪtɪd/
+
+<span style="color:#00f">Are you feeling frustrated with your job?</span><snd>snds/ukfruga020.mp3</snd></a>
+
+<q>
+(adj) badly behaved, and not doing what someone tells you to do </q>
+<a><b>naughty</b> /ˈnɔː.ti/
+
+<span style="color:#00f">Now that's naughty - don't ​throw ​food on the ​floor! | Our ​boss ​treats us all like naughty ​children.</span><snd>snds/uknativ021.mp3</snd></a>
+
+<q>
+(adj) showing how much you like or enjoy something</q>
+<a><b>enthusiastic</b> /ɪnˌθjuːziˈæstɪk/
+
+<span style="color:#00f">The teacher was very enthusiastic about my project.</span><snd>snds/ukensla028.mp3</snd></a>
+
+<q>
+(adj) sad because you are not with other people</q>
+<a><b>lonely</b> /ˈləʊnli/
+
+<span style="color:#00f">She gets lonely now that the kids have all left home.</span><snd>snds/uklonel001.mp3</snd></a>
+
+<q>
+(adj) wanting to say ‘thank you’ to someone who has done something good for you</q>
+<a><b>grateful</b> /ˈɡreɪtfəl/
+
+<span style="color:#00f">I’m really grateful to you for all your help.</span><snd>snds/ukgrate001.mp3</snd></a>
+
+<q>
+(adj) feeling ashamed or shy</q>
+<a><b>embarrassed</b> /ɪmˈbærəst/
+
+<span style="color:#00f">I was too embarrassed to admit that I was scared.</span><snd>snds/ukcld00405.mp3</snd></a>
+
+<q>
+(adj) to upset someone; to cause someone pain or to injure someone</q>
+<a><b>hurt</b> /hɜːt/
+
+<span style="color:#00f">Simon hurt his knee playing football. | I hope I didn’t hurt him with my remarks.</span><snd>snds/ukhurly008.mp3</snd></a>
+
+<q>
+(adj) unhappy because you are thinking about problems or unpleasant things that might happen</q>
+<a><b>worried</b> /ˈwʌr.id/
+
+<span style="color:#00f">She was sitting behind her desk with a worried expression/look on her face. | They don't seem particularly worried about the situation.</span><snd>snds/ukworks014.mp3</snd></a>
+
+<q>
+(n) a feeling of great enthusiasm and eagerness</q>
+<a><b>excitement</b> /ɪkˈsaɪt.mənt/
+
+<span style="color:#00f">Robin's ​heart was ​pounding with excitement. | If you ​want excitement, you should ​try ​parachuting. | the excitements of the ​previous ​day</span><snd>snds/ukexces014.mp3</snd></a>
+
+<q>
+(adj) slightly embarrassed, or making you feel slightly embarrassed OR not feeling comfortable and pleasant, or not making you feel comfortable and pleasant</q>
+<a><b>uncomfortable</b> /ʌnˈkʌmf.tə.bl̩/
+
+<span style="color:#00f">I've eaten so much, I actually feel uncomfortable. | These shoes are really uncomfortable.</span><snd>snds/ukunchr011.mp3</snd></a>
+
+<q>
+(n) a ​feeling of ​worry or ​unhappiness that you have because you have done something ​wrong, such as ​causing ​harm to another ​person</q>
+<a><b>guilt</b> /ɡɪlt/
+
+<span style="color:#00f">He ​suffered such ​feelings of guilt over ​leaving his ​children. | She ​remembered with a ​pang of guilt that she hadn't called her ​mother.</span><snd>snds/ukgigan012.mp3</snd></a>
+
+<q>
+(adj) wanting something that someone else has</q>
+<a><b>envious</b> /ˈenviəs/
+
+<span style="color:#00f">She was envious of his success.</span><snd>snds/ukentre016.mp3</snd></a>
+
+<q>
+(v) to avoid something OR to ignore someone and not speak to that person because you cannot accept their behaviour, beliefs, etc.</q>
+<a><b>shun</b> /ʃʌn/
+
+<span style="color:#03f">She has shunned publicity since she retired from acting. | After the trial he was shunned by friends and family alike. | He is being shunned by others.</span><snd>snds/shun.mp3</snd></a>
+
+<q>
+(v) to pretend to have a particular feeling, problem, etc.<img>imgs/feign.jpeg</img></q>
+<a><b>feign</b> /feɪn/
+
+<span style="color:#03f">You know how everyone feigns surprise when you tell them how old you are. | The prosecution claimed that the defendant had feigned the injury. | She responded to his remarks with feigned amusement.</span><snd>snds/feign.mp3</snd></a>
+
+<q>
+(adj) showing that you love someone very much</q>
+<a><b>doting somebody</b> /ˈdəʊ.tɪŋ/
+
+<span style="color:#03f">We saw photographs of the <u>doting father</u> with the baby on his knee.</span><snd>snds/doting.mp3</snd></a>
+
+<q>
+(adj) showing strong disapproval and not showing respect</q>
+<a><b>derogatory</b> /dɪˈrɒɡ.ə.tri/
+
+<span style="color:#03f">He made some derogatory comment/remark about her appearance.</span><snd>snds/derogatory.mp3</snd></a>
+
+<q>
+(adj) feeling doubt or no trust in someone or something</q>
+<a><b>suspicious</b> /səˈspɪʃ.əs/
+
+<span style="color:#00f">His colleagues became suspicious (= thought that there was something wrong) when he did not appear at work, since he was always punctual. | They are deeply/highly (= very) suspicious of one another/of each other's motives.</span><snd>snds/uksurro030.mp3</snd></a>
+
+<q>
+(v) to get pleasure from an experience</q>
+<a><b>enjoy yourself</b>
+
+<span style="color:#00f">I'm ready to go home now but I don't want to drag you away if you're enjoying yourself. | The beer festival was a huge open-air event with music, stalls and everyone enjoying themselves.</span></a>
+
+<q>
+(adj) not wanting or needing anyone else to help you; not controlled or ruled by anyone else; not influenced or controlled in any way by other people, events, or things</q>
+<a><b>independent</b> /ˌɪndɪˈpendənt/
+
+<span style="color:#00f">She’s a very independent four-year-old. | Grandma’s very independent and does all her own cooking.</span><snd>snds/ukindel009.mp3</snd></a>
+
+<q>
+(adj) not ​polite; ​offensive or ​embarrassing</q>
+<a><b>rude</b> /ruːd/
+
+<span style="color:#00f">He's a very rude man. | It's rude not to say "Thank you" when you are given something. | He's got no ​manners - he's rude to everyone.</span><snd>snds/ukrucks007.mp3</snd></a>
+
+<q>
+(v) to cause worry to someone OR
+(n) a worried or nervous feeling about something, or something that makes you feel worried</q>
+<a><b>concern</b> /kənˈsɜːn/
+
+<span style="color:#03f">The state of my father's health concerns us greatly. | It concerns me that he hasn't been in contact. | We're now going to turn to an issue that concerns us all - racism. | His attitude concerns me. | The poor state of the fire escapes concerned me greatly. | Concern for the safety of the two missing teenagers is growing. | There's a lot of public concern about/over dangerous toxins recently found in food.</span><snd>snds/concern.mp3</snd></a>
+
+<q>
+(adj) pleased and in a good mood, especially because something good has happened<img>imgs/happy.jpeg</img></q>
+<a><b>happy</b> /ˈhæpi/
+
+<span style="color:#00f">She looked really happy.</span><snd>snds/ukhapha010.mp3</snd></a>
+
+<q>
+(adj) wanting to know or learn about something</q>
+<a><b>curious</b> /ˈkjʊəriəs/
+
+<span style="color:#00f">I was curious about his life in India.</span><snd>snds/ukcurio002.mp3</snd></a>
+
+<q>
+(adj) Behaving well</q>
+<a><b>well behaved</b> /ˌwel bɪˈheɪvd/
+
+<span style="color:#00f">a well-behaved child</span><snd>snds/ukwelde011.mp3</snd></a>
+
+<q>
+(adj) not ​pleased with something; ​feeling that something is not as good as it should be</q>
+<a><b>dissatisfied</b> /ˌdɪsˈsæt.ɪs.faɪd/
+
+<span style="color:#00f">If you're dissatisfied with the ​service, why don't you ​complain to the ​hotel ​manager?</span><snd>snds/ukdisre015.mp3</snd></a>
+
+<q>
+(v) to experience physical or mental pain or show the effects of something bad</q>
+<a><b>suffer</b> /ˈsʌf.ər/
+
+<span style="color:#00f">I think he suffered a lot when his wife left him. | She's been suffering from (= been ill with) cancer for two years. | Do you suffer from (= do you have) any allergies? | Like a lot of his films, it suffers from being too long.</span><snd>snds/uksucro012.mp3</snd></a>
+
+<q>
+(adj) not confident</q>
+<a><b>insecure</b> /ˌɪn.sɪˈkjʊər/
+
+<span style="color:#00f">I ​wonder what it was about her ​upbringing that made her so insecure. | He still ​feels insecure about his ​ability to do the ​job.</span><snd>snds/ukinsec001.mp3</snd></a>
+
+<q>
+(adj) behaving with respect towards other people</q>
+<a><b>polite</b> /pəˈlaɪt/
+
+<span style="color:#00f">I'm ​afraid I wasn't very polite to her. | She ​sent me a polite ​letter ​thanking me for my ​invitation.</span><snd>snds/ukpolar021.mp3</snd></a>
+
+<q>
+(adj) upset and angry because someone you love seems to like another person</q>
+<a><b>jealous</b> /ˈdʒeləs/
+
+<span style="color:#00f">a jealous husband</span><snd>snds/ukjaund021.mp3</snd></a>
+
+<q>
+(adj) very unhappy</q>
+<a><b>miserable</b> /ˈmɪz.(ə)r.ə.b(ə)l/<snd>snds/ukmisch018.mp3</snd></a>
+
+<q>
+(n) an ​unpleasant ​emotion or ​thought that you have when you are ​frightened or ​worried by something ​dangerous, ​painful, or ​bad that is ​happening or might ​happen</q>
+<a><b>fear</b> /fɪə(r)/
+
+<span style="color:#00f">Trembling with fear, she ​handed over the ​money to the ​gunman. | Even when the ​waves ​grew ​big, the ​boy ​showed no (​signs of) fear. | I have a fear of ​heights. | The ​low ​profit ​figures ​simply ​confirmed my ​worst fears.</span><snd>snds/ukfault019.mp3</snd></a>
+
+<q>
+(adj) able to do something well</q>
+<a><b>competent</b> /ˈkɒm.pɪ.tənt/
+
+<span style="color:#00f">a competent ​secretary/​rider/​cook | I wouldn't say he was ​brilliant but he is competent at his ​job.</span><snd>snds/ukcompa026.mp3</snd></a>
+
+<q>
+(n) a man, often old or unusual in some way</q>
+<a><b>geezer</b> /ˈɡiː.zə(r)/
+
+<span style="color:#03f">a funny old geezer | She got talking to some geezer in the pub.</span><snd>snds/geezer.mp3</snd></a>
+
+<q>
+(adj) certain about your ability to do things well</q>
+<a><b>confident</b> /ˈkɒnfɪdənt/
+
+<span style="color:#00f">I am confident that we can win this.</span><snd>snds/ukcondu025.mp3</snd></a>
+
+<q>
+(adj) able to reply in a clever or funny way without thinking for a long time</q>
+<a><b>quick-witted</b> /ˌkwɪkˈwɪt.ɪd/<snd>snds/quick-witted.mp3</snd></a>
+
+<q>
+(n) a person who behaves in a silly way without thinking</q>
+<a><b>fool</b> /fuːl/
+
+<span style="color:#03f">You fool, you missed your chance! | He's a fool if he thinks she still loves him. | He said he would pay me back and like a fool, I believed him. | I felt like a fool when I dropped my phone in the toilet. | He's a fool to think she still loves him.</span><snd>snds/fool.mp3</snd></a>
+
+<q>
+(v) to make someone worried, unhappy, or angry</q>
+<a><b>upset</b> /ʌpˈset/
+
+<span style="color:#00f">It still upsets him when he thinks about the accident. | Don't upset yourself by thinking about what might have been.</span><snd>snds/ukuplan021.mp3</snd></a>
+
+<q>
+(adj) unkind or cruel</q>
+<a><b>mean</b> /miːn/
+
+<span style="color:#00f">Don't be mean to your brother!</span><snd>snds/ukmccar016.mp3</snd></a>
+
+<q>
+(adj) showing that you love someone</q>
+<a><b>loving</b> /ˈlʌvɪŋ/
+
+<span style="color:#00f">a loving father</span><snd>snds/ukloudn022.mp3</snd></a>
+
+<q>
+(adj) able to learn and understand things easily</q>
+<a><b>intelligent</b> /ɪnˈtelɪdʒənt/
+
+<span style="color:#00f">She is a highly intelligent young woman.</span><snd>snds/ukinsur025.mp3</snd></a>
+
+<q>
+(adj) not honest and likely to lie</q>
+<a><b>dishonest</b> /dɪˈsɒnɪst/<snd>snds/ukdisgu012.mp3</snd></a>
+
+<q>
+(n) (<b>liking</b>) [informal] a strong but temporary feeling of liking someone</q>
+<a><b>crush</b> (on smb) /krʌʃ/
+
+<span style="color:#03f">She has a crush on one of her teachers at school.</span><snd>snds/crush.mp3</snd></a>
+
+<q>
+(idiom) to be very pleased</q>
+<a><b>be over the moon</b> /biː ˌəʊvə ðə mˈuːn/
+
+<span style="color:#00f">She was over the moon about/with her new bike.</span></a>
+
+<q>
+(adj) not considering how your actions or words may upset someone</q>
+<a><b>thoughtless</b> /ˈθɔːt.ləs/
+
+<span style="color:#00f">It was thoughtless not to call and say you'd be late. | She's not intentionally unkind - she's just a little thoughtless sometimes.</span><snd>snds/ukthirt030.mp3</snd></a>
+
+<q>
+(adj) sincere and truthful; not likely to lie, cheat, or steal</q>
+<a><b>honest</b> /ˈɒnɪst/
+
+<span style="color:#00f">What is your honest opinion? | I’m just an honest man, trying to live my life.</span><snd>snds/ukhomon012.mp3</snd></a>
+
+<q>
+(adj) very angry</q>
+<a><b>furious</b> /ˈfjʊəriəs/
+
+<span style="color:#00f">My boss was furious with me.</span><snd>snds/ukfunk_007.mp3</snd></a>
+
+<q>
+(adj) tired and unhappy because something is not interesting or because you are doing nothing</q>
+<a><b>bored</b> /bɔːd/
+
+<span style="color:#00f">I’m bored with doing homework.</span><snd>snds/ukblunt021.mp3</snd></a>
+
+<q>
+(adj) wanting to be successful or powerful</q>
+<a><b>ambitious</b> /æmˈbɪʃəs/<snd>snds/ukamalg030.mp3</snd></a>
+
+<q>
+(adj) very sad, often for a long time</q>
+<a><b>depressed</b> /dɪˈprest/
+
+<span style="color:#00f">She’s been very depressed since her marriage broke up.</span><snd>snds/ukdepre008.mp3</snd></a>
+
+<q>
+(adv) by hand<img>imgs/manually.jpeg</img></q>
+<a><b>manually</b> /ˈmæn.ju.ə.li/
+
+<span style="color:#03f">Few of the machines are operated manually.</span><snd>snds/manually.mp3</snd></a>
+
+<q>
+(adj) friendly and helpful</q>
+<a><b>kind</b> /kaɪnd/
+
+<span style="color:#00f">Your mother was very kind to us. | It was very kind of you to come and see me.</span><snd>snds/ukkicko027.mp3</snd></a>
+
+<q>
+(adj) too interested in what other people are doing and wanting to discover too much about them</q>
+<a><b>nosy</b> /ˈnəʊ.zi/
+
+<span style="color:#03f">She was complaining about her nosy parents.</span><snd>snds/nosy.mp3</snd></a>
+
+<q>
+(adj) kind and always thinking about how you can help other people</q>
+<a><b>thoughtful</b> /ˈθɔːt.fəl/
+
+<span style="color:#00f">Thank you for calling when I was ill - it was very thoughtful of you. | She's a very thoughtful person.</span><snd>snds/ukthirt027.mp3</snd></a>
+
+<q>
+(n) a ​strong ​feeling that makes you ​want to ​hurt someone or be ​unpleasant because of something ​unfair or ​unkind that has ​happened</q>
+<a><b>anger</b> /ˈæŋ.ɡə(r)/
+
+<span style="color:#00f">I ​think he ​feels a lot of anger towards his ​father, who ​treated him very ​badly as a ​child. | There is a ​danger that anger at the new ​law may ​turn into anti-government ​feeling. | The ​people ​showed no ​surprise or anger at ​their ​treatment. | He ​found it hard to ​contain (= ​control) his anger.</span><snd>snds/ukangel006.mp3</snd></a>
+
+<q>
+(n) a ​feeling of ​anger towards another ​person that makes someone ​want to ​annoy, ​upset, or ​hurt them, ​especially in a ​small way</q>
+<a><b>spite</b> /spaɪt/
+
+<span style="color:#00f">He's the ​sort of man who would ​let down the ​tyres on ​your ​car just out of/from spite. | He is jealous and full of spite.</span><snd>snds/ukspino018.mp3</snd></a>
+
+<q>
+(v) to laugh at someone or say unkind things about them, either because you are joking or because you want to upset that person</q>
+<a><b>tease</b> /tiːz/
+
+<span style="color:#03f">I used to hate being teased about my red hair when I was at school. | I was just teasing, I didn't mean to upset you.</span><snd>snds/tease.mp3</snd></a>
+
+<q>
+(adj) happy about something or satisfied with something</q>
+<a><b>pleased</b> /pliːzd/
+
+<span style="color:#00f">I am very pleased with your work.</span><snd>snds/ukplayg023.mp3</snd></a>
+
+<q>
+(adj) afraid or nervous</q>
+<a><b>frightened</b> /ˈfraɪtənd/
+
+<span style="color:#00f">Don’t be frightened of the dog – he won’t bite.</span><snd>snds/ukfrica020.mp3</snd></a>
+
+<q>
+(adj) behaving in a pleasant, kind way towards someone</q>
+<a><b>friendly</b> /ˈfrendli/
+
+<span style="color:#00f">a friendly face/smile</span><snd>snds/ukfrica010.mp3</snd></a>
+
+<q>
+(idiom) to annoy someone a lot</q>
+<a><b>get on someone's nerves</b>
+
+<span style="color:#00f">Stop whining. You’re getting on my nerves.</span></a>
+
+<q>
+(n) ​emotions, ​especially those ​influenced by other ​people</q>
+<a><b>feeling</b> /ˈfiː.lɪŋ/
+
+<span style="color:#00f">Some ​people say that ​dogs have feelings. | I ​wanted to ​spare his feelings (= not to ​upset him), so I didn't ​tell him what she'd said about him.</span></a>
+
+<q>
+(adj) worried and very nervous</q>
+<a><b>anxious</b> /ˈæŋkʃəs/
+
+<span style="color:#00f">She’s very anxious about her exams.</span><snd>snds/ukantis012.mp3</snd></a>
+
+<q>
+(n) a ​feeling of ​happiness that something ​unpleasant has not ​happened or has ​ended</q>
+<a><b>relief</b> /rɪˈliːf/
+
+<span style="color:#00f">It was such a relief to ​hear that Marta was ​found ​safe and well. | After the ​exam, I ​felt an ​incredible ​sense of relief. | "James can't come ​tonight." "Well, that's a relief!" | to ​seek/​find/​provide relief from the ​heat/​cold/​pain/​noise</span><snd>snds/ukrelen013.mp3</snd></a>
+
+<q>
+(adj) useful; willing to help</q>
+<a><b>helpful</b> /ˈhelpfəl/
+
+<span style="color:#00f">helpful advice | The staff here are very helpful.</span><snd>snds/ukhellu008.mp3</snd></a>
+
+</category>
+
+</category>
+
