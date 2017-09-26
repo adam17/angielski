@@ -1,0 +1,61 @@
+<category name="english_vocabulary">
+
+<category name="time">
+
+<q>
+(adj) the most recent</q>
+<a><b>last</b> /lɑːst/
+
+<span style="color:#03f">last July | He didn't come home last night.</span><snd>snds/last.mp3</snd></a>
+
+<q>
+(adv) now or without waiting</q>
+<a><b>immediately</b> /ɪˈmiː.di.ət.li/
+
+<span style="color:#03f">We really ought to leave immediately. | The purpose of the meeting wasn't immediately obvious.</span><snd>snds/immediately.mp3</snd></a>
+
+<q>
+(n) the period in the day when light from the sun begins to appear in the sky<img>imgs/dawn.jpeg</img></q>
+<a><b>dawn</b> /dɔːn/
+
+<span style="color:#03f">We woke at dawn. | We left as dawn was breaking (= starting). | We left at the break of dawn.</span><snd>snds/dawn.mp3</snd></a>
+
+<q>
+(n) the time in the evening when you last see the sun in the sky<img>imgs/sunset.jpeg</img></q>
+<a><b>sunset</b> /ˈsʌn.set/
+
+<span style="color:#03f">The fishermen set out at sunset for a night's fishing. | We sat on the beach watching a spectacular sunset.</span><snd>snds/sunset.mp3</snd></a>
+
+<q>
+(n) a period of two weeks</q>
+<a><b>fortnight</b> /ˈfɔːt.naɪt/
+
+<span style="color:#03f">a fortnight's holiday | once a fortnight | a fortnight ago | How much would it cost to hire a car for a fortnight? | She felt rejuvenated by her fortnight in the Bahamas.
+</span><snd>snds/fortnight.mp3</snd></a>
+
+<q>
+(n) the season of the year between summer and winter, lasting from September to November north of the equator and from March to May south of the equator, when fruits and crops become ready to eat and are picked, and leaves fall<img>imgs/autumn.jpeg</img></q>
+<a><b>autumn</b> /ˈɔː.təm/
+
+<span style="color:#03f">We like to travel in (the) autumn when there are fewer tourists. | Last autumn we went to Germany. | It's been a very mild autumn. | autumn colours/leaves | an autumn day/evening</span><snd>snds/autumn.mp3</snd></a>
+
+<q>
+(n) the time before night when it is not yet dark<img>imgs/dusk.jpeg</img></q>
+<a><b>dusk</b> /dʌsk/
+
+<span style="color:#03f">As dusk fell, bats began to fly between the trees.</span><snd>snds/dusk.mp3</snd></a>
+
+<q>
+(n) a year that happens every four years and has an extra day on 29 February</q>
+<a><b>leap year</b> /ˈliːp ˌjɪə(r)/<snd>snds/leap_year.mp3</snd></a>
+
+<q>
+(n) a clock that you can set to wake you up at a particular time with a loud noise<img>imgs/alarmclock.jpeg</img></q>
+<a><b>alarm clock</b> /əˈlɑːm ˌklɒk/
+
+<span style="color:#03f">My alarm clock went off at 7.30. | I've set the alarm for 7.30.</span><snd>snds/alarmclock.mp3</snd></a>
+
+</category>
+
+</category>
+
