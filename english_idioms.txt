@@ -1,22 +1,40 @@
 <category name="english_idioms">
 
 <q>
-(idiom) said to mean "Happy birthday"<img>imgs/happy.birthday.jpeg</img></q>
-<a><b>many happy returns (of the day)</b>
+(idiom) to annoy someone very much</q>
+<a><b>drive someone to distraction</b>
 
-<span style="color:#03f">Today's your birthday, isn't it? Well, many happy returns of the day. Here's a present for you ;-)</span></a>
+<span style="color:#03f">Nothing I said or did would get them to tidy up their bedrooms. It drove me to distraction.</span></a>
 
 <q>
-to get into a group in order to talk secretly</q>
-<a><b>go into a huddle</b>
+(idiom) to make someone become suddenly and completely in love with you</q>
+<a><b>sweep sb off their feet</b>
 
-<span style="color:#03f">The judges went into a huddle to decide the winner.</span></a>
+<span style="color:#03f">The first time he met her, he was completely swept off his feet.</span></a>
+
+<q>
+(idiom) [informal] to be in love with someone</q>
+<a><b>carry a torch for sb</b>
+
+<span style="color:#03f">Terry has been carrying a torch for Liz for years, but she seems not to notice.</span></a>
 
 <q>
 (idiom) first</q>
 <a><b>to start with</b>
 
 <span style="color:#03f">We'll need a half cup of sugar to start with, and then we'll need another cup later.</span></a>
+
+<q>
+to get into a group in order to talk secretly</q>
+<a><b>go into a huddle</b> /ɡˌəʊ ˌɪntʊ ɐ hˈʌdəl/
+
+<span style="color:#03f">The judges went into a huddle to decide the winner.</span></a>
+
+<q>
+(idiom) said to mean "Happy birthday"<img>imgs/happy.birthday.jpeg</img></q>
+<a><b>many happy returns (of the day)</b>
+
+<span style="color:#03f">Today's your birthday, isn't it? Well, many happy returns of the day. Here's a present for you ;-)</span></a>
 
 </category>
 
