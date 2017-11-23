@@ -11,7 +11,7 @@ espeak --ipa.
 
 ## English Vocabulary
 - [x] air travel
-- [x] the aniumal world
+- [x] the animal world
 - [x] art and photography
 - [ ] inne
 - [x] bikes
