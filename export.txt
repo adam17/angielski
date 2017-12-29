@@ -4738,6 +4738,12 @@ vertical lines/stripes | She looked over the cliff and found she was standing at
 <category name="boats,_water,_and_the_coast">
 
 <q>
+(n) a flat floating structure for travelling across water, often made of pieces of wood tied roughly together and moved along with a paddle (= pole with a flat end)<img>imgs/raft.jpeg</img></q>
+<a><b>raft</b> /rɑːft/
+
+<span style="color:#03f">We lashed together anything that would float to make a raft.</span><snd>snds/raft.mp3</snd></a>
+
+<q>
 (n) a small boat with a powerful engine that travels very fast<img>imgs\speedboat.jpg</img></q>
 <a><b>speedboat</b> /ˈspiːd.bəʊt/<snd>snds/ukspect015.mp3</snd></a>
 
