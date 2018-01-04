@@ -702,8 +702,12 @@ Podaj 3 formy nieregularne czasownika: <b>iść</b></q>
 <category name="english irregular verbs">
 
 <q>
-What is the past participle of <b>wind</b>? /waɪnd/<snd>snds/wind__gb_2.mp3</snd></q>
-<a><b>wound</b> /waʊnd/<snd>snds/wound__gb_1.mp3</snd></a>
+What is the past tens of <b>wring</b>? /rɪŋ/<snd>snds/wring.mp3</snd></q>
+<a><b>wrung</b> /rʌŋ/<snd>snds/wrung.mp3</snd></a>
+
+<q>
+What is the past participle of <b>wring</b>? /rɪŋ/<snd>snds/wring.mp3</snd></q>
+<a><b>wrung</b> /rʌŋ/<snd>snds/wrung.mp3</snd></a>
 
 <q>
 What is the past participle of <b>sit</b>? /sɪt/<snd>snds/sit__gb_1.mp3</snd></q>
@@ -1126,6 +1130,10 @@ What is the past tense of <b>become</b>? /bɪˈkʌm/<snd>snds/ukbeau_022.mp3</sn
 <q>
 What is the past tense of <b>throw</b>? /θrəʊ/<snd>snds/throw__gb_1.mp3</snd></q>
 <a><b>threw</b> /θruː/<snd>snds/threw__gb_1.mp3</snd></a>
+
+<q>
+What is the past participle of <b>wind</b>? /waɪnd/<snd>snds/wind__gb_2.mp3</snd></q>
+<a><b>wound</b> /waʊnd/<snd>snds/wound__gb_1.mp3</snd></a>
 
 <q>
 What is the past tense of <b>hold</b>? /həʊld/<snd>snds/hold__gb_1.mp3</snd></q>
@@ -1745,18 +1753,6 @@ What is the past participle of <b>cost</b>? /kɒst/<snd>snds/cost.mp3</snd></q>
 <category name="air_travel">
 
 <q>
-(n) a small table that is attached to the back of the seat in front of you on a plane<img>imgs/tray.table.45625656.jpeg</img></q>
-<a><b>tray table</b> /tɹˈeɪ tˈeɪbəl/</a>
-
-<q>
-(adj) feeling sick during a flight because of the movement of the plane</q>
-<a><b>airsick</b> /ˈeə.sɪk/<snd>snds/ukairfi020.mp3</snd></a>
-
-<q>
-(n) paying money to borrow a car, for example when you are going on holiday</q>
-<a><b>car hire</b></a>
-
-<q>
 (adj) used to describe a flight that goes from one place to another without stopping</q>
 <a><b>direct</b> /daɪˈrekt/<snd>snds/ukdipht016.mp3</snd></a>
 
@@ -1783,6 +1779,14 @@ What is the past participle of <b>cost</b>? /kɒst/<snd>snds/cost.mp3</snd></q>
 <q>
 (n) a place where you leave a plane if there is an emergency, such as a crash or a fire<img>imgs/emergency.exit.63567.jpeg</img></q>
 <a><b>emergency exit</b> /ɪˈmɜːdʒənsɪ ˈɛksɪt/</a>
+
+<q>
+(n) a small table that is attached to the back of the seat in front of you on a plane<img>imgs/tray.table.45625656.jpeg</img></q>
+<a><b>tray table</b> /tɹˈeɪ tˈeɪbəl/</a>
+
+<q>
+(n) paying money to borrow a car, for example when you are going on holiday</q>
+<a><b>car hire</b></a>
 
 <q>
 (n) the cheapest seats on a plane</q>
@@ -1819,6 +1823,10 @@ What is the past participle of <b>cost</b>? /kɒst/<snd>snds/cost.mp3</snd></q>
 <q>
 (n) something that you can sit on<img>imgs/seat.45262567.jpeg</img></q>
 <a><b>seat</b> /siːt/<snd>snds/uksear_021.mp3</snd></a>
+
+<q>
+(adj) feeling sick during a flight because of the movement of the plane</q>
+<a><b>airsick</b> /ˈeə.sɪk/<snd>snds/ukairfi020.mp3</snd></a>
 
 <q>
 (n) a short stay in a place between parts of a journey</q>
@@ -2124,12 +2132,6 @@ What is the past participle of <b>cost</b>? /kɒst/<snd>snds/cost.mp3</snd></q>
 </category>
 
 <category name="the_animal_world">
-
-<q>
-(v) (especially of a tail or finger) to move from side to side or up and down, especially quickly and repeatedly, or to cause this to happen</q>
-<a><b>wag</b> /wæɡ/
-
-<span style="color:#00f">The little dog's tail wagged in delight.</span><snd>snds/ukvulva020.mp3</snd></a>
 
 <q>
 (v) a cat makes a low sound with its throat because it is happy</q>
@@ -2477,6 +2479,12 @@ What is the past participle of <b>cost</b>? /kɒst/<snd>snds/cost.mp3</snd></q>
 <q>
 (n) an animal with feathers and wings<img>imgs\bird.jpeg</img></q>
 <a><b>bird</b> /bɜːd/<snd>snds/ukbipla004.mp3</snd></a>
+
+<q>
+(v) (especially of a tail or finger) to move from side to side or up and down, especially quickly and repeatedly, or to cause this to happen</q>
+<a><b>wag</b> /wæɡ/
+
+<span style="color:#00f">The little dog's tail wagged in delight.</span><snd>snds/ukvulva020.mp3</snd></a>
 
 <q>
 (n) a large white bird with a very long neck, that lives on rivers and lakes<img>imgs\swan.jpeg</img></q>
@@ -3044,79 +3052,6 @@ What is the past participle of <b>cost</b>? /kɒst/<snd>snds/cost.mp3</snd></q>
 <category name="inne">
 
 <q>
-(adj) too blocked or crowded and causing difficulties OR cannot breathe through your nose because it is blocked, usually during an infection OR body parts have become too full of blood or other liquid.<img>imgs/congested.jpeg</img></q>
-<a><b>congested</b> /kənˈdʒes.tɪd/<snd>snds/ukconfu008.mp3</snd></a>
-
-<q>
-(n) something, especially computer hardware or software, that has been put together from whatever is available, especially when it does not work very well</q>
-<a><b>kludge</b> /klʌdʒ/
-
-<span style="color:#03f">Some view the GeoPort Telecom Adapter as brilliant; others as a bizarre hardware kludge.</span><snd>snds/kludge.mp3</snd></a>
-
-<q>
-(adj) (especially of environmental conditions) existing in the surrounding area [otaczający]</q>
-<a><b>ambient</b> /ˈæm.bi.ənt/
-
-<span style="color:#00f">ambient conditions/lighting/noise/temperature</span><snd>snds/ukamalg024.mp3</snd></a>
-
-<q>
-(n) the money that the government gives to people who are unemployed</q>
-<a><b>dole</b> /dəʊl/
-
-<span style="color:#00f">After the mines closed, my uncle spent the next ten years on the dole.</span><span style="color:#00f"> | </span><span style="color:#00f">Even though he was a graduate, he took a cleaning job rather than stay on the dole.</span><snd>snds/ukb03154.mp3</snd></a>
-
-<q>
-(v) to change the words of a text, especially a law or a legal document</q>
-<a><b>amend</b> /əˈmend/
-
-<span style="color:#03f">MPs were urged to amend the law to prevent another oil tanker disaster. | In line 20, "men" should be amended (= changed) to "people". | Until the constitution is amended, the power to appoint ministers will remain with the president.</span><snd>snds/ukambit018.mp3</snd></a>
-
-<q>
-(v) to take back property because the money owed for the property has not been paid</q>
-<a><b>foreclose</b> (on sth) /fɔːˈkləʊz/
-
-<span style="color:#00f">"the bank was threatening to foreclose on his mortgage"</span><snd>snds/foreclose.mp3</snd></a>
-
-<q>
-(adj) Formally assigned by a government to one of several levels of sensitivity, usually (in English) top secret, secret, confidential, and, in some countries, restricted; thereby making disclosure to unauthorized persons illegal
-OR
-Not meant to be disclosed by a person or organization.</q>
-<a><b>classified</b> /ˈklæs.ɪ.faɪd/
-
-<span style="color:#03f">These documents contain classified material. | Some time ago I was processing a notebook which had BIOS password. I ask Russel about the password and he replied: "it's classified".</span><snd>snds/ukclap_029.mp3</snd></a>
-
-<q>
-(v) to put something down heavily and without taking care</q>
-<a><b>plunk</b> /plʌŋk/
-also <b>plonk</b>
-
-<span style="color:#03f">Just plunk the shopping bags (down) on the table, and come and have a cup of tea. | Come in and plunk yourselves (down) (= sit down) anywhere you like. | I immediately plunked down the money for it.</span><snd>snds/plunk.mp3</snd></a>
-
-<q>
-(phrase) to behave in a way that is intended to attract attention or admiration, and that other people often find annoying</q>
-<a><b>show off</b> /ʃˈəʊ ˈɒf/
-
-<span style="color:#03f">She only bought that sports car to show off and prove she could afford one. | He's always showing off to his classmates.</span></a>
-
-<q>
-(n) help given, especially by the state or an organization, to people who need it, especially because they do not have enough money</q>
-<a><b>welfare</b> /ˈwel.feə(r)/
-
-<span style="color:#03f">Your taxes pay for welfare benefits such as unemployment and sickness pay.</span><snd>snds/ukwelde003.mp3</snd></a>
-
-<q>
-(n) In some sports, it is a period or distance of running that you do in order to be going fast enough to perform a particular action</q>
-<a><b>run-up</b> /ˈrʌn.ʌp/
-
-<span style="color:#03f">The longer and faster your run-up is, the higher you can jump.</span><snd>snds/ukruns_004.mp3</snd></a>
-
-<q>
-(n) the condition of being dealt with before other things or of being considered more important than other things<img>imgs/precedence.jpeg</img></q>
-<a><b>precedence</b> /ˈpres.ɪ.d(ə)ns/
-
-<span style="color:#03f">Precedence must be given to the injured in the evacuation plans. | Business people often think that fluency and communication take precedence over grammar when speaking.</span><snd>snds/precedence.mp3</snd></a>
-
-<q>
 (preposition) going through or stopping at a place on the way to another place OR using a particular machine, system, or person to send or receive something</q>
 <a><b>via</b> /ˈvaɪə/
 
@@ -3181,6 +3116,18 @@ also <b>plonk</b>
 <a><b>legit</b> /ləˈdʒɪt/
 
 <span style="color:#03f">I'm not getting involved in this fundraising scheme if it isn't legit. | is this car legit? | he used to be a bad boy, but now he's totally legit</span><snd>snds/legit.mp3</snd></a>
+
+<q>
+(n) something, especially computer hardware or software, that has been put together from whatever is available, especially when it does not work very well</q>
+<a><b>kludge</b> /klʌdʒ/
+
+<span style="color:#03f">Some view the GeoPort Telecom Adapter as brilliant; others as a bizarre hardware kludge.</span><snd>snds/kludge.mp3</snd></a>
+
+<q>
+(adj) (especially of environmental conditions) existing in the surrounding area [otaczający]</q>
+<a><b>ambient</b> /ˈæm.bi.ənt/
+
+<span style="color:#00f">ambient conditions/lighting/noise/temperature</span><snd>snds/ukamalg024.mp3</snd></a>
 
 <q>
 (n) the large system of connected computers around the world that allows people to share information and communicate with each other</q>
@@ -3253,6 +3200,19 @@ also <b>plonk</b>
 <span style="color:#03f">relentless criticism/pressure | relentless heat</span><snd>snds/relentless.mp3</snd></a>
 
 <q>
+(n) the money that the government gives to people who are unemployed</q>
+<a><b>dole</b> /dəʊl/
+
+<span style="color:#00f">After the mines closed, my uncle spent the next ten years on the dole.</span><span style="color:#00f"> | </span><span style="color:#00f">Even though he was a graduate, he took a cleaning job rather than stay on the dole.</span><snd>snds/ukb03154.mp3</snd></a>
+
+<q>
+(v) to put something down heavily and without taking care</q>
+<a><b>plunk</b> /plʌŋk/
+also <b>plonk</b>
+
+<span style="color:#03f">Just plunk the shopping bags (down) on the table, and come and have a cup of tea. | Come in and plunk yourselves (down) (= sit down) anywhere you like. | I immediately plunked down the money for it.</span><snd>snds/plunk.mp3</snd></a>
+
+<q>
 (v) to move behind someone or something and go where he, she, or it goes</q>
 <a><b>follow</b> /ˈfɒl.əʊ/
 
@@ -3287,6 +3247,12 @@ also <b>plonk</b>
 <a><b>fleeting</b> /ˈfliː.tɪŋ/
 
 <span style="color:#03f">a fleeting glimpse | This is just a fleeting visit.</span><snd>snds/fleeting.mp3</snd></a>
+
+<q>
+(phrase) to behave in a way that is intended to attract attention or admiration, and that other people often find annoying</q>
+<a><b>show off</b> /ʃˈəʊ ˈɒf/
+
+<span style="color:#03f">She only bought that sports car to show off and prove she could afford one. | He's always showing off to his classmates.</span></a>
 
 <q>
 (phrase) to decide or arrange to delay an event or activity until a later time or date</q>
@@ -3335,6 +3301,18 @@ also <b>plonk</b>
 <a><b>leave</b> /liːv/
 
 <span style="color:#03f">I leave work at five o’clock. | They left for Paris last night. | She left school at 16.</span><snd>snds/leave.mp3</snd></a>
+
+<q>
+(n) help given, especially by the state or an organization, to people who need it, especially because they do not have enough money</q>
+<a><b>welfare</b> /ˈwel.feə(r)/
+
+<span style="color:#03f">Your taxes pay for welfare benefits such as unemployment and sickness pay.</span><snd>snds/ukwelde003.mp3</snd></a>
+
+<q>
+(n) the condition of being dealt with before other things or of being considered more important than other things<img>imgs/precedence.jpeg</img></q>
+<a><b>precedence</b> /ˈpres.ɪ.d(ə)ns/
+
+<span style="color:#03f">Precedence must be given to the injured in the evacuation plans. | Business people often think that fluency and communication take precedence over grammar when speaking.</span><snd>snds/precedence.mp3</snd></a>
 
 <q>
 (v) to have your home somewhere OR to be alive</q>
@@ -3393,6 +3371,12 @@ also <b>plonk</b>
 <a><b>helter-skelter</b> /ˌhel.təˈskel.tə^r/
 
 <span style="color:#03f">People were screaming and running helter-skelter down the steps to escape the flames.</span><snd>snds/helter-skelter.mp3</snd></a>
+
+<q>
+(n) In some sports, it is a period or distance of running that you do in order to be going fast enough to perform a particular action</q>
+<a><b>run-up</b> /ˈrʌn.ʌp/
+
+<span style="color:#03f">The longer and faster your run-up is, the higher you can jump.</span><snd>snds/ukruns_004.mp3</snd></a>
 
 <q>
 (n) a ​piece of ​paper that ​proves that ​money, ​goods, or ​information have been ​received<img>imgs/receipt.jpeg</img></q>
@@ -3455,6 +3439,14 @@ Draw a horizontal line across the bottom of the page. | Keep the patient horizon
 <span style="color:#02f">A modem (modulator-demodulator) is a network hardware device that modulates one or more carrier wave signals to encode digital information for transmission and demodulates signals to decode the transmitted information.</span><snd>snds/ukmocki012.mp3</snd></a>
 
 <q>
+(adj) Formally assigned by a government to one of several levels of sensitivity, usually (in English) top secret, secret, confidential, and, in some countries, restricted; thereby making disclosure to unauthorized persons illegal
+OR
+Not meant to be disclosed by a person or organization.</q>
+<a><b>classified</b> /ˈklæs.ɪ.faɪd/
+
+<span style="color:#03f">These documents contain classified material. | Some time ago I was processing a notebook which had BIOS password. I ask Russel for the password and he replied: "it's classified".</span><snd>snds/ukclap_029.mp3</snd></a>
+
+<q>
 (n) a narrow road in the countryside or in a town</q>
 <a><b>lane</b> /leɪn/
 <span style="color:#01f">
@@ -3465,6 +3457,12 @@ He drives so fast along those narrow country lanes. | I live at the end of Churc
 <a><b>retention</b> /rɪˈten.ʃən/
 
 <span style="color:#03f">Two influential senators have argued for the retention of the unpopular tax. | The retention of old technology has slowed the company's growth. | water/heat retention</span><snd>snds/ukretar004.mp3</snd></a>
+
+<q>
+(v) to take back property because the money owed for the property has not been paid</q>
+<a><b>foreclose</b> (on sth) /fɔːˈkləʊz/
+
+<span style="color:#00f">"the bank was threatening to foreclose on his mortgage"</span><snd>snds/foreclose.mp3</snd></a>
 
 <q>
 (v) to exist only in a particular area or group of people</q>
@@ -4101,6 +4099,10 @@ He is the author of two books on French history. | The author has tried to deal 
 <span style="color:#00f">a garden path | a concrete path | a well-trodden path | They followed the path until they came to a gate.</span><snd>snds/ukpatch019.mp3</snd></a>
 
 <q>
+(adj) too blocked or crowded and causing difficulties OR cannot breathe through your nose because it is blocked, usually during an infection OR body parts have become too full of blood or other liquid.<img>imgs/congested.jpeg</img></q>
+<a><b>congested</b> /kənˈdʒes.tɪd/<snd>snds/ukconfu008.mp3</snd></a>
+
+<q>
 (v) to move a switch that operates an electrical system, or to cause such a system to start or stop working by moving a switch</q>
 <a><b>trip</b> /trɪp/
 
@@ -4361,6 +4363,12 @@ It's all a fuss about nothing. | I don't see what the fuss is about - he seems l
 <span style="color:#00f">The kitchen door at the rear of the house. | The car's rear window.</span><snd>snds/ukreapp002.mp3</snd></a>
 
 <q>
+(v) to change the words of a text, especially a law or a legal document</q>
+<a><b>amend</b> /əˈmend/
+
+<span style="color:#03f">MPs were urged to amend the law to prevent another oil tanker disaster. | In line 20, "men" should be amended (= changed) to "people". | Until the constitution is amended, the power to appoint ministers will remain with the president.</span><snd>snds/ukambit018.mp3</snd></a>
+
+<q>
 (n) one of the tooth-like parts around the edge of a wheel in a machine that fits between those of a similar wheel, causing both wheels to move<img>imgs/cog.2141235.png</img></q>
 <a><b>cog</b> /kɒɡ/<snd>snds/ukcoedu015.mp3</snd></a>
 
@@ -4528,14 +4536,6 @@ vertical lines/stripes | She looked over the cliff and found she was standing at
 <span style="color:#00f">It would be better for the environment if more people used bikes rather than cars. | My youngest child is learning to ride a bike.</span><snd>snds/ukbiff_020.mp3</snd></a>
 
 <q>
-(n) a small piece of special plastic on the front or back of a bicycle that become bright when light shines on it<img>imgs/reflector.jpg</img></q>
-<a><b>reflector</b> /rɪˈflek.tər/<snd>snds/ukrefit012.mp3</snd></a>
-
-<q>
-(n) the horizontal bar between the handlebars and the saddle of a bicycle</q>
-<a><b>crossbar</b> /ˈkrɒs.bɑːr/<snd>snds/ukcrocu020.mp3</snd></a>
-
-<q>
 (n) a type of bicycle with a strong frame and thick tyres<img>imgs/mountain bike .jpg</img></q>
 <a>mountain bike /ˈmaʊn.tɪn ˌbaɪk/
 
@@ -4550,6 +4550,10 @@ vertical lines/stripes | She looked over the cliff and found she was standing at
 <a><b>gears</b> /ɡɪə^rz/
 
 <span style="color:#03f">a racing bike with ten-speed gears</span><snd>snds/gears.525234.mp3</snd></a>
+
+<q>
+(n) a small piece of special plastic on the front or back of a bicycle that become bright when light shines on it<img>imgs/reflector.jpg</img></q>
+<a><b>reflector</b> /rɪˈflek.tər/<snd>snds/ukrefit012.mp3</snd></a>
 
 <q>
 (v) to ride a bicycle [<b>bike</b>]</q>
@@ -4640,6 +4644,10 @@ vertical lines/stripes | She looked over the cliff and found she was standing at
 <q>
 (n) a bar that connects the outer ring of a wheel to the center<img>imgs/spoke.jpg</img></q>
 <a><b>spoke</b> /spəʊk/<snd>snds/uksplee025.mp3</snd></a>
+
+<q>
+(n) the horizontal bar between the handlebars and the saddle of a bicycle</q>
+<a><b>crossbar</b> /ˈkrɒs.bɑːr/<snd>snds/ukcrocu020.mp3</snd></a>
 
 <q>
 (n) the part of a bicycle pump that controls the flow of air<img>imgs/valve.jpg</img></q>
@@ -4738,18 +4746,6 @@ vertical lines/stripes | She looked over the cliff and found she was standing at
 <category name="boats,_water,_and_the_coast">
 
 <q>
-(n) the sport or activity of using boats with sails<img>imgs/sailing.jpg</img></q>
-<a><b>sailing</b> /ˈseɪ.lɪŋ/
-
-<span style="color:#00f">the sailing club | She loves to go sailing.</span><snd>snds/uksafek023.mp3</snd></a>
-
-<q>
-(n) a town by the sea or by a river that has a harbour, or the harbour itself<img>imgs/port.jpg</img></q>
-<a><b>port</b> /pɔːt/
-<span style="color:#00f">
-a naval/fishing/container port | We had a good view of all the ships coming into/leaving port.</span><snd>snds/ukpopsi029.mp3</snd></a>
-
-<q>
 (n) a short pole with a wide, flat part at one end or both ends, used for moving a small boat or canoe through the water<img>imgs\paddle.jpeg</img></q>
 <a><b>paddle</b> /ˈpæd.l̩/<snd>snds/ukpaddl001.mp3</snd></a>
 
@@ -4762,6 +4758,12 @@ a naval/fishing/container port | We had a good view of all the ships coming into
 <a><b>voyage</b> /ˈvɔɪ.ɪdʒ/
 
 <span style="color:#00f">He was a young sailor on his first sea voyage. | The first year of a loving relationship is a voyage (= period) of discovery.</span><snd>snds/ukvorte013.mp3</snd></a>
+
+<q>
+(n) a town by the sea or by a river that has a harbour, or the harbour itself<img>imgs/port.jpg</img></q>
+<a><b>port</b> /pɔːt/
+<span style="color:#00f">
+a naval/fishing/container port | We had a good view of all the ships coming into/leaving port.</span><snd>snds/ukpopsi029.mp3</snd></a>
 
 <q>
 (n) a small boat with a powerful engine that travels very fast<img>imgs\speedboat.jpg</img></q>
@@ -4796,6 +4798,12 @@ a naval/fishing/container port | We had a good view of all the ships coming into
 <a><b>cruise</b> /kruːz/
 
 <span style="color:#03f">They're going on a cruise round the Med. | They've just set off on a round-the-world cruise.</span><snd>snds/ukcrowe026.mp3</snd></a>
+
+<q>
+(n) the sport or activity of using boats with sails<img>imgs/sailing.jpg</img></q>
+<a><b>sailing</b> /ˈseɪ.lɪŋ/
+
+<span style="color:#00f">the sailing club | She loves to go sailing.</span><snd>snds/uksafek023.mp3</snd></a>
 
 <q>
 (adj) vomiting or having the feeling you will vomit because of the movement of the ship you are travelling in</q>
@@ -5176,30 +5184,6 @@ We used to go boating on that lake. | Lake Windermere</span><snd>snds/uklaidb010
 <category name="body">
 
 <q>
-(n) a thick liquid produced inside the nose and other parts of the body<img>imgs/mucus.jpeg</img></q>
-<a><b>mucus</b> /ˈmjuː.kəs/
-
-<span style="color:#03f">This drug reduces mucus production in the gut.</span><snd>snds/mucus.mp3</snd></a>
-
-<q>
-(v) to be in a horizontal or flat position on a surface</q>
-<a><b>lie</b> /laɪ/
-
-<span style="color:#00f">to lie in bed | to lie on a beach | to lie on your side | The pen lay on the desk. | She had lain where she fell until morning.</span><snd>snds/uklicen013.mp3</snd></a>
-
-<q>
-(adj) weighing too much</q>
-<a><b>fat</b> /fæt/
-
-<span style="color:#00f">She eats all the time but never gets fat.</span><snd>snds/ukfarth024.mp3</snd></a>
-
-<q>
-(n) a permanent mark left on the body from a cut or other injury<img>imgs\scar.jpg</img></q>
-<a><b>scar</b> /skɑː(r)/
-
-<span style="color:#03f">a prominent/a noticeable/an ugly scar | That burn will leave a bad scar. | scar tissue | His early years in the refugee camp left a deep psychological scar.</span><snd>snds/ukscamp016.mp3</snd></a>
-
-<q>
 (n) any of the long, thin, separate parts of the hand, especially those that are not thumbs<img>imgs\finger.jpeg</img></q>
 <a><b>finger</b> /ˈfɪŋ.ɡər/
 
@@ -5228,6 +5212,12 @@ I come from a big family. | He's a big man. | She has blonde hair and big blue e
 <a><b>kneel</b> /niːl/
 
 <span style="color:#00f">She knelt down beside the child.</span><snd>snds/ukkneel001.mp3</snd></a>
+
+<q>
+(n) a thick liquid produced inside the nose and other parts of the body<img>imgs/mucus.jpeg</img></q>
+<a><b>mucus</b> /ˈmjuː.kəs/
+
+<span style="color:#03f">This drug reduces mucus production in the gut.</span><snd>snds/mucus.mp3</snd></a>
 
 <q>
 (n) the look on someone's face showing what they feel or think<img>imgs/expression.jpeg</img></q>
@@ -5284,6 +5274,12 @@ Do you pluck your eyebrows (= remove some of the hairs to change their shape)? |
 <span style="color:#00f">He's still a few pounds overweight.</span><snd>snds/ukovers225.mp3</snd></a>
 
 <q>
+(n) a permanent mark left on the body from a cut or other injury<img>imgs\scar.jpg</img></q>
+<a><b>scar</b> /skɑː(r)/
+
+<span style="color:#03f">a prominent/a noticeable/an ugly scar | That burn will leave a bad scar. | scar tissue | His early years in the refugee camp left a deep psychological scar.</span><snd>snds/ukscamp016.mp3</snd></a>
+
+<q>
 (v) to make your body or part of your body straighter and longer</q>
 <a><b>stretch</b> /stretʃ/
 
@@ -5334,6 +5330,12 @@ Do you pluck your eyebrows (= remove some of the hairs to change their shape)? |
 <a><b>handsome</b> /ˈhændsəm/
 
 <span style="color:#00f">tall, dark and handsome</span><snd>snds/ukhando006.mp3</snd></a>
+
+<q>
+(adj) weighing too much</q>
+<a><b>fat</b> /fæt/
+
+<span style="color:#00f">She eats all the time but never gets fat.</span><snd>snds/ukfarth024.mp3</snd></a>
 
 <q>
 (n) a small, dark mark on the skin<img>imgs\mole.skin.jpg</img></q>
@@ -5530,6 +5532,12 @@ He's got a weak/bad heart (= his heart is not healthy). | Isabel's heart was bea
 <a><b>head</b> /hed/
 
 <span style="color:#00f">Put this hat on to keep your head warm. | He banged his head on the car as he was getting in. | She nodded/shook her head (= showed her agreement/disagreement).</span><snd>snds/ukhead_001.mp3</snd></a>
+
+<q>
+(v) to be in a horizontal or flat position on a surface</q>
+<a><b>lie</b> /laɪ/
+
+<span style="color:#00f">to lie in bed | to lie on a beach | to lie on your side | The pen lay on the desk. | She had lain where she fell until morning.</span><snd>snds/uklicen013.mp3</snd></a>
 
 <q>
 (n) the part of your face through which you breathe and smell<img>imgs/nose.jpeg</img></q>
@@ -5972,60 +5980,6 @@ He was shot in the chest at point blank range. | He folded his arms across his c
 <category name="business">
 
 <q>
-(n) the person with the most important job in a company
-
-abbreviation <b>CEO</b></q>
-<a><b>chief executive officer</b><snd>snds/uka32130.mp3</snd></a>
-
-<q>
-(adj) to grow very well, or to become very healthy or successful</q>
-<a><b>thriving</b> /ˈθrʌɪvɪŋ/
-
-<span style="color:#00f">a thriving economy</span><snd>snds/thriving__gb_1.mp3</snd></a>
-
-<q>
-(v) to pay someone to work for you</q>
-<a><b>employ</b> /ɪmˈplɔɪ/
-
-<span style="color:#00f">The company employs 2500 workers.</span><snd>snds/ukemolu027.mp3</snd></a>
-
-<q>
-(n) someone who buys or uses goods or services</q>
-<a><b>consumer</b> /kənˈsjuːmər/
-
-<span style="color:#00f">These price cuts are good news for consumers.</span><snd>snds/ukconst018.mp3</snd></a>
-
-<q>
-(n) the business of trying to persuade people to buy products or services</q>
-<a><b>advertising</b> /ˈædvətaɪzɪŋ/
-
-<span style="color:#00f">an advertising agency | She works in advertising.</span><snd>snds/ukadver002.mp3</snd></a>
-
-<q>
-(v) to tell people about a product or service, on television, on the Internet, in newspapers, etc., so that people will buy it</q>
-<a><b>advertise</b> /ˈædvətaɪz/
-
-<span style="color:#00f">Companies are not allowed to advertise cigarettes on television.</span><snd>snds/ukadult029.mp3</snd></a>
-
-<q>
-(n) the business activity of finding out about what people want, need, and buy</q>
-<a><b>market research</b> /mˈɑːkɪt ɹɪsˈɜːtʃ/
-
-<span style="color:#00f">Market ​research ​shows that ​demand for ​small ​cars will ​continue to ​grow.</span><snd>snds/ukcld00861.mp3</snd></a>
-
-<q>
-(n) a book in which things are regularly recorded, especially business activities and money received or paid<img>imgs/General_ledger.gif</img></q>
-<a><b>ledger</b> /ˈledʒ.ə(r)/
-
-<span style="color:#03f">the total balance of the purchases ledger</span><snd>snds/ledger.mp3</snd></a>
-
-<q>
-(v) to have to pay money back to someone who gave you money in the past</q>
-<a><b>owe</b> /əʊ/
-<span style="color:#00f">
-You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknutra027.mp3</snd></a>
-
-<q>
 (v) to try to sell things using advertising</q>
 <a><b>market</b> /ˈmɑːkɪt/
 
@@ -6044,8 +5998,26 @@ You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknu
 <span style="color:#00f">The origin of the management cliché may be obscure, but it suggests the emptiness of the skies - in blue-sky thinking there should be no preconceptions. </span></a>
 
 <q>
+(v) to tell people about a product or service, on television, on the Internet, in newspapers, etc., so that people will buy it</q>
+<a><b>advertise</b> /ˈædvətaɪz/
+
+<span style="color:#00f">Companies are not allowed to advertise cigarettes on television.</span><snd>snds/ukadult029.mp3</snd></a>
+
+<q>
+(n) the business of trying to persuade people to buy products or services</q>
+<a><b>advertising</b> /ˈædvətaɪzɪŋ/
+
+<span style="color:#00f">an advertising agency | She works in advertising.</span><snd>snds/ukadver002.mp3</snd></a>
+
+<q>
 (idiom) to think in a new and creative way</q>
 <a><b>think outside the box</b></a>
+
+<q>
+(v) to have to pay money back to someone who gave you money in the past</q>
+<a><b>owe</b> /əʊ/
+<span style="color:#00f">
+You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknutra027.mp3</snd></a>
 
 <q>
 (n) a large company or group of companies</q>
@@ -6058,6 +6030,12 @@ You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknu
 <span style="color:#00f">Shareholders will be voting on the proposed merger of the companies next week.</span><snd>snds/ukshame029.mp3</snd></a>
 
 <q>
+(n) someone who buys or uses goods or services</q>
+<a><b>consumer</b> /kənˈsjuːmər/
+
+<span style="color:#00f">These price cuts are good news for consumers.</span><snd>snds/ukconst018.mp3</snd></a>
+
+<q>
 (adj) connected to and shared by a system of computers, especially the Internet</q>
 <a><b>online</b> /ˌɒnˈlaɪn/
 
@@ -6068,6 +6046,12 @@ You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknu
 <a><b>counterfeit</b> /ˈkaʊn.tə.fɪt/
 
 <span style="color:#03f">counterfeit jewellery/passports/coins</span><snd>snds/counterfeit.mp3</snd></a>
+
+<q>
+(n) a book in which things are regularly recorded, especially business activities and money received or paid<img>imgs/General_ledger.gif</img></q>
+<a><b>ledger</b> /ˈledʒ.ə(r)/
+
+<span style="color:#03f">the total balance of the purchases ledger</span><snd>snds/ledger.mp3</snd></a>
 
 <q>
 (v) to try to make or change an agreement by talking about it</q>
@@ -6134,6 +6118,12 @@ You still owe me money. | He owes about $5,000 to the bank.</span><snd>snds/uknu
 <a><b>commerce</b> /ˈkɒmɜːs/<snd>snds/ukcomma023.mp3</snd></a>
 
 <q>
+(v) to pay someone to work for you</q>
+<a><b>employ</b> /ɪmˈplɔɪ/
+
+<span style="color:#00f">The company employs 2500 workers.</span><snd>snds/ukemolu027.mp3</snd></a>
+
+<q>
 (n) someone who pays someone else for services or advice</q>
 <a><b>client</b> /klaɪənt/
 
@@ -6190,6 +6180,12 @@ an economic boom | The 1990's saw a boom in computer sales.</span><snd>snds/ukbo
 <a><b>stocks and shares</b></a>
 
 <q>
+(adj) to grow very well, or to become very healthy or successful</q>
+<a><b>thriving</b> /ˈθrʌɪvɪŋ/
+
+<span style="color:#00f">a thriving economy</span><snd>snds/thriving__gb_1.mp3</snd></a>
+
+<q>
 (n) the activity of selling goods to the public, usually in shops</q>
 <a><b>retail</b> /ˈriː.teɪl/
 
@@ -6206,6 +6202,12 @@ an economic boom | The 1990's saw a boom in computer sales.</span><snd>snds/ukbo
 <a><b>better off</b> /ˈbet.ər ˌɒf/
 
 <span style="color:#03f">Obviously we're better off now that we're both working. | When his parents died, he found himself $100,000 better off (= he had $100,000 more than before). | He'd be better off working for a bigger company.</span></a>
+
+<q>
+(n) the person with the most important job in a company
+
+abbreviation <b>CEO</b></q>
+<a><b>chief executive officer</b><snd>snds/uka32130.mp3</snd></a>
 
 <q>
 (n) someone who has an important job in a business</q>
@@ -6338,6 +6340,12 @@ abbreviation <b>AGM</b></q>
 <span style="color:#00f">We need to cut our advertising costs. |</span> <span style="color:#02f">The estimated costs of the building project are well over £1 million.</span><span style="color:#00f"> </span><snd>snds/ukcossa004.mp3</snd></a>
 
 <q>
+(n) the business activity of finding out about what people want, need, and buy</q>
+<a><b>market research</b> /mˈɑːkɪt ɹɪsˈɜːtʃ/
+
+<span style="color:#00f">Market ​research ​shows that ​demand for ​small ​cars will ​continue to ​grow.</span><snd>snds/ukcld00861.mp3</snd></a>
+
+<q>
 (adj) not having enough money to pay what you owe to others</q>
 <a><b>bankrupt</b> /ˈbæŋkrʌpt/
 
@@ -6392,12 +6400,6 @@ Large supermarkets have high turnovers (= their goods sell very quickly). | The 
 </category>
 
 <category name="cars_and_road_travel">
-
-<q>
-(v) to start to move or drive faster</q>
-<a><b>accelerate</b> /əkˈseləreɪt/
-
-<span style="color:#00f">I accelerated to pass the bus.</span><snd>snds/ukac___011.mp3</snd></a>
 
 <q>
 (v) to get out of a vehicle, especially a train or bus</q>
@@ -6458,6 +6460,12 @@ Large supermarkets have high turnovers (= their goods sell very quickly). | The 
 <a><b>break down</b>
 
 <span style="color:#00f">My car broke down on the way to work.</span></a>
+
+<q>
+(v) to start to move or drive faster</q>
+<a><b>accelerate</b> /əkˈseləreɪt/
+
+<span style="color:#00f">I accelerated to pass the bus.</span><snd>snds/ukac___011.mp3</snd></a>
 
 <q>
 (n) an occasion when a vehicle stops working</q>
@@ -6880,24 +6888,6 @@ Be careful when you cross the road. | The journey takes about three hours by roa
 <category name="celebrations and ceremonies">
 
 <q>
-(n) a line of people or cars that moves forward slowly as part of a ceremony or public event</q>
-<a><b>procession</b> /prəˈseʃən/
-
-<span style="color:#00f">a funeral procession</span><snd>snds/ukprobi016.mp3</snd></a>
-
-<q>
-(n) a date when you celebrate the day you got married</q>
-<a><b>wedding anniversary
-</b>
-<span style="color:#00f">Our 10th wedding anniversary.</span></a>
-
-<q>
-(v) to begin a legal relationship with someone as their husband or wife</q>
-<a><b>marry</b> /ˈmæri/
-
-<span style="color:#00f">Will you marry me? | He never married.</span><snd>snds/ukmarmo011.mp3</snd></a>
-
-<q>
 (v) to put your arms around someone<img>imgs/embrace.jpeg</img></q>
 <a><b>embrace</b> /ɪmˈbreɪs/
 
@@ -6916,6 +6906,12 @@ Be careful when you cross the road. | The journey takes about three hours by roa
 <a><b>famous</b> /ˈfeɪ.məs/
 
 <span style="color:#03f">a famous actress/building | Marie Curie is famous for her contribution to science. | a city famous for its nightlife | Scotland is famous for its spectacular countryside. | I'm going to be a famous pop star when I'm older. | Who's the most famous person you've ever interviewed on TV?</span><snd>snds/famous.mp3</snd></a>
+
+<q>
+(v) to begin a legal relationship with someone as their husband or wife</q>
+<a><b>marry</b> /ˈmæri/
+
+<span style="color:#00f">Will you marry me? | He never married.</span><snd>snds/ukmarmo011.mp3</snd></a>
 
 <q>
 (n) 1st January<img>imgs\New Years Day.jpg</img></q>
@@ -6964,6 +6960,12 @@ Be careful when you cross the road. | The journey takes about three hours by roa
 <a><b>graduation</b> /ˌɡrædʒuˈeɪʃən/
 
 <span style="color:#00f">We all went to the graduation ceremony.</span><snd>snds/ukgraci014.mp3</snd></a>
+
+<q>
+(n) a date when you celebrate the day you got married</q>
+<a><b>wedding anniversary
+</b>
+<span style="color:#00f">Our 10th wedding anniversary.</span></a>
 
 <q>
 (n) a day when most people in a particular country do not have to go to work or school</q>
@@ -7161,6 +7163,12 @@ Be careful when you cross the road. | The journey takes about three hours by roa
 <span style="color:#00f">After the death of her husband she lost interest in life. | We need to reduce the number of deaths from heart attacks.</span><snd>snds/ukdeath001.mp3</snd></a>
 
 <q>
+(n) a line of people or cars that moves forward slowly as part of a ceremony or public event</q>
+<a><b>procession</b> /prəˈseʃən/
+
+<span style="color:#00f">a funeral procession</span><snd>snds/ukprobi016.mp3</snd></a>
+
+<q>
 (n) an event before or after a funeral when friends and family remember the person who died</q>
 <a><b>wake</b> /weɪk/<snd>snds/ukwaist008.mp3</snd></a>
 
@@ -7233,18 +7241,10 @@ Be careful when you cross the road. | The journey takes about three hours by roa
 <category name="clothes">
 
 <q>
-(adj) modern and ​influenced by the most ​recent ​fashions or ​ideas</q>
-<a><b>trendy</b> /ˈtren.di/
+(v) to twist a cloth or piece of clothing with your hands to remove water from it<img>imgs/wring.jpeg</img></q>
+<a><b>wring / wring out</b> /rɪŋ/
 
-<span style="color:#00f">trendy ​clothes | a trendy ​nightclub | He writes for some trendy ​magazine for the under-30s.</span><snd>snds/uktremu010.mp3</snd></a>
-
-<q>
-(n) underwear that covers the bottom, worn by women and girls<img>imgs\knickers.jpeg</img></q>
-<a><b>knickers</b> /ˈnɪkəz/<snd>snds/ukkneel009.mp3</snd></a>
-
-<q>
-(n) a piece of clothing that girls and women wear to go swimming<img>imgs\swimsuit.jpg</img></q>
-<a><b>swimsuit</b> /ˈswɪmsuːt/<snd>snds/uksweet020.mp3</snd></a>
+<span style="color:#03f">He wrung out his socks and hung them up to dry.</span><snd>snds/wring.mp3</snd></a>
 
 <q>
 (adj) worn at home or on vacation, and not at work; comfortable and not formal</q>
@@ -7297,6 +7297,10 @@ Be careful when you cross the road. | The journey takes about three hours by roa
 <q>
 (n) a piece of clothing that you wear next to your skin, on the lower part of your body<img>imgs\underpants.jpeg</img></q>
 <a><b>underpants</b> /ˈʌndəpænts/<snd>snds/ukunder023.mp3</snd></a>
+
+<q>
+(n) underwear that covers the bottom, worn by women and girls<img>imgs\knickers.jpeg</img></q>
+<a><b>knickers</b> /ˈnɪkəz/<snd>snds/ukkneel009.mp3</snd></a>
 
 <q>
 (n) the part of a jacket, shirt, etc. that covers your arm</q>
@@ -7463,6 +7467,10 @@ Be careful when you cross the road. | The journey takes about three hours by roa
 <span style="color:#00f">a checked shirt</span><snd>snds/ukcheat005.mp3</snd></a>
 
 <q>
+(n) a piece of clothing that girls and women wear to go swimming<img>imgs\swimsuit.jpg</img></q>
+<a><b>swimsuit</b> /ˈswɪmsuːt/<snd>snds/uksweet020.mp3</snd></a>
+
+<q>
 (n) a ​head ​covering for a man, ​worn ​especially by Sikhs, Muslims, and Hindus, made from a ​long ​piece of ​cloth that is ​wrapped around the ​top of the ​head many ​times<img>imgs\turban.jpeg</img></q>
 <a><b>turban</b> /ˈtɜː.bən/<snd>snds/uktumul026.mp3</snd></a>
 
@@ -7515,6 +7523,12 @@ Be careful when you cross the road. | The journey takes about three hours by roa
 <a><b>fit</b> /fɪt/
 
 <span style="color:#00f">This shirt doesn’t fit me any more.</span><snd>snds/ukfistf003.mp3</snd></a>
+
+<q>
+(adj) modern and ​influenced by the most ​recent ​fashions or ​ideas</q>
+<a><b>trendy</b> /ˈtren.di/
+
+<span style="color:#00f">trendy ​clothes | a trendy ​nightclub | He writes for some trendy ​magazine for the under-30s.</span><snd>snds/uktremu010.mp3</snd></a>
 
 <q>
 (n) a piece of women’s clothing made of very thin material that covers the legs and bottom<img>imgs\tights.jpeg</img></q>
@@ -7653,16 +7667,6 @@ Be careful when you cross the road. | The journey takes about three hours by roa
 <category name="employment">
 
 <q>
-(idiom) to manage to enter an organization that you hope to succeed in</q>
-<a><b>get a foot in the door</b><snd>snds/getfootdoor.mp3</snd></a>
-
-<q>
-(n) money or other advantages which come from your job, the government, or an insurance company such as a retirement plan</q>
-<a><b>benefits</b> /ˈbenɪfɪts/
-
-<span style="color:#00f">a salaried position with benefits</span><snd>snds/ukbelly028.mp3</snd></a>
-
-<q>
 (v) to get rid of people from an organization because you do not agree with them</q>
 <a><b>purge</b> /pɜːdʒ/
 
@@ -7697,6 +7701,12 @@ Be careful when you cross the road. | The journey takes about three hours by roa
 <a><b>equality</b> /ɪˈkwɒl.ɪ.ti/
 
 <span style="color:#00f">equality between the ​sexes | ​racial equality | the ​government ​department ​responsible for equalities</span><snd>snds/ukepito011.mp3</snd></a>
+
+<q>
+(n) money or other advantages which come from your job, the government, or an insurance company such as a retirement plan</q>
+<a><b>benefits</b> /ˈbenɪfɪts/
+
+<span style="color:#00f">a salaried position with benefits</span><snd>snds/ukbelly028.mp3</snd></a>
 
 <q>
 (v) to officially tell your employer that you are leaving your job</q>
@@ -7999,6 +8009,10 @@ Be careful when you cross the road. | The journey takes about three hours by roa
 <span style="color:#00f">a physical disability</span><snd>snds/ukdirnd005.mp3</snd></a>
 
 <q>
+(idiom) to manage to enter an organization that you hope to succeed in</q>
+<a><b>get a foot in the door</b><snd>snds/getfootdoor.mp3</snd></a>
+
+<q>
 (n) the ​days or ​hours that a ​person ​spends ​working during one ​week</q>
 <a><b>working week</b> /wˈɜːkɪŋ wˈiːk/
 
@@ -8175,20 +8189,6 @@ Government ​programs for the ​unemployed will ​place new emphasis on ​tr
 <category name="environment">
 
 <q>
-(n) energy that is produced when the central part of an atom is split<img>imgs\nuclear power.jpeg</img></q>
-<a><b>nuclear power</b> /njˈuːkliə pˈaʊə/</a>
-
-<q>
-(n) animals, birds, and plants in the place where they live<img>imgs/wildlife.456236.jpeg</img></q>
-<a><b>wildlife</b> /ˈwaɪldlaɪf/<snd>snds/ukwi___030.mp3</snd></a>
-
-<q>
-(n) ​strong, ​unpleasant, and sometimes ​dangerous ​gas or ​smoke</q>
-<a><b>fumes</b> /fjuːmz/
-
-<span style="color:#00f">​exhaust fumes | Petrol fumes always make me ​feel ​ill. | ​cigar fumes</span><snd>snds/ukfumes001.mp3</snd></a>
-
-<q>
 (n) the ​process of getting ​rid of ​large ​amounts of ​rubbish by ​burying it, or a ​place where ​rubbish is ​buried</q>
 <a><b>landfill</b> /ˈlænd.fɪl/
 
@@ -8199,6 +8199,10 @@ Government ​programs for the ​unemployed will ​place new emphasis on ​tr
 <a><b>wind power</b> /wˈɪnd pˈaʊə/
 
 <span style="color:#00f">China could ​meet a significant ​portion of its electricity ​needs through wind ​power.</span><snd>snds/cbeduk10320.mp3</snd></a>
+
+<q>
+(n) animals, birds, and plants in the place where they live<img>imgs/wildlife.456236.jpeg</img></q>
+<a><b>wildlife</b> /ˈwaɪldlaɪf/<snd>snds/ukwi___030.mp3</snd></a>
 
 <q>
 (n) electricity that is produced by water power</q>
@@ -8312,6 +8316,10 @@ to preserve the ​environment | We ​want to preserve the ​character of the 
 <a><b>carbon dioxide</b> /ˌkɑːbən dɑɪˈɒksɑɪd/<snd>snds/ukcld00160.mp3</snd></a>
 
 <q>
+(n) energy that is produced when the central part of an atom is split<img>imgs\nuclear power.jpeg</img></q>
+<a><b>nuclear power</b> /njˈuːkliə pˈaʊə/</a>
+
+<q>
 (n) the Earth and all the people, places, and things on it</q>
 <a><b>world</b> /wɜːld/
 <span style="color:#00f">
@@ -8334,6 +8342,12 @@ Everest is the highest mountain in the world. | She’s travelled all over the w
 <q>
 (n) a ​type of ​animal or ​plant that might ​stop ​existing because there are only a few of that ​type ​alive</q>
 <a><b>endangered species</b> /ɪnˈdeɪn·dʒərd ˈspi·ʃiz/<snd>snds/ukencum005.mp3</snd></a>
+
+<q>
+(n) ​strong, ​unpleasant, and sometimes ​dangerous ​gas or ​smoke</q>
+<a><b>fumes</b> /fjuːmz/
+
+<span style="color:#00f">​exhaust fumes | Petrol fumes always make me ​feel ​ill. | ​cigar fumes</span><snd>snds/ukfumes001.mp3</snd></a>
 
 <q>
 (n) the ​poisonous ​gas ​formed by the ​burning of ​carbon, ​especially in the ​form of ​car ​fuel</q>
@@ -8505,112 +8519,10 @@ She was banned from driving for two ​years. | ban the use of chemicals</span><
 <category name="feelings and personal qualities">
 
 <q>
-(v) you dislike them very much</q>
-<a><b>abide</b> /əˈbaɪd/
+(v) to do something as promised or intended, or to satisfy your hopes or expectations OR to succeed in developing abilities or qualities to their fullest degree</q>
+<a><b>fulfill</b> /fʊlˈfɪl/
 
-<span style="color:#03f">I can't abide her. | He couldn't abide laziness.</span><snd>snds/abide.mp3</snd></a>
-
-<q>
-(adj) experiencing the strong effects of drugs such as heroin or cocaine</q>
-<a><b>strung out</b> /ˌstrʌŋ ˈaʊt/
-
-<span style="color:#03f">For most of her teenage years, she was strung out <b>on</b> crack.</span><snd>snds/strung.out.mp3</snd></a>
-
-<q>
-(n) an exciting action, usually in a film, that is dangerous or appears dangerous and usually needs to be done by someone skilled</q>
-<a><b>stunt</b> /stʌnt/
-
-<span style="color:#03f">It's a typical action movie with plenty of <b>spectacular</b> stunts. | Tom Cruise has performed his own stunts for Mission Impossible 2, defying warnings from professionals.</span><snd>snds/stunt.mp3</snd></a>
-
-<q>
-(adj) having the feeling you get when something happens that you did not expect</q>
-<a><b>surprised</b> /səˈpraɪzd/
-
-<span style="color:#00f">We were very surprised at the ​result. | It's not like you to ​behave like this, Alice - I'm surprised at you (= I ​feel ​disappointed with you)! | I'm not surprised (that) he didn't ​keep his ​promise. | I'm surprised to ​see you here.</span><snd>snds/uksurge018.mp3</snd></a>
-
-<q>
-(n) a ​feeling of ​sadness about something ​sad or ​wrong or about a ​mistake that you have made, and a ​wish that it could have been different and ​better</q>
-<a><b>regret</b> /rɪˈɡret/
-
-<span style="color:#00f">I ​left ​school at 16, but I've had a ​great ​life and I have no regrets. | The ​manager ​expressed ​deep regret at/for the ​number of ​staff ​reductions. | We ​think, much to ​our regret (= and we are very ​sorry about this), that we will not be ​able to ​visit you next ​year.</span><snd>snds/ukregen025.mp3</snd></a>
-
-<q>
-(n) a ​feeling of ​anger towards another ​person that makes someone ​want to ​annoy, ​upset, or ​hurt them, ​especially in a ​small way</q>
-<a><b>spite</b> /spaɪt/
-
-<span style="color:#00f">He's the ​sort of man who would ​let down the ​tyres on ​your ​car just out of/from spite. | He is jealous and full of spite.</span><snd>snds/ukspino018.mp3</snd></a>
-
-<q>
-(adj) feeling very happy and interested, or showing this</q>
-<a><b>excited</b> /ɪkˈsaɪtɪd/
-
-<span style="color:#00f">happy, excited faces | The children are getting really excited about the party.</span><snd>snds/ukexces012.mp3</snd></a>
-
-<q>
-(adj) showing that you love someone</q>
-<a><b>loving</b> /ˈlʌvɪŋ/
-
-<span style="color:#00f">a loving father</span><snd>snds/ukloudn022.mp3</snd></a>
-
-<q>
-(adj) slightly embarrassed, or making you feel slightly embarrassed OR not feeling comfortable and pleasant, or not making you feel comfortable and pleasant</q>
-<a><b>uncomfortable</b> /ʌnˈkʌmf.tə.bl̩/
-
-<span style="color:#00f">I've eaten so much, I actually feel uncomfortable. | These shoes are really uncomfortable.</span><snd>snds/ukunchr011.mp3</snd></a>
-
-<q>
-(adj) feeling bad because you have done something wrong</q>
-<a><b>guilty</b> /ˈɡɪlti/
-
-<span style="color:#00f">I feel so guilty about missing her party.</span><snd>snds/ukguate029.mp3</snd></a>
-
-<q>
-(adj) in very bad condition OR tired and not healthy, especially because of working too much</q>
-<a><b>run-down</b>
-
-<span style="color:#03f">a run-down building/cemetery | My doctor said I was looking run-down. | shoes are run down at the heels.</span><snd>snds/run-down.mp3</snd></a>
-
-<q>
-(adj) happy about something</q>
-<a><b>glad</b> /ɡlæd/
-
-<span style="color:#00f">I’m very glad that you like your present.</span><snd>snds/ukglaci002.mp3</snd></a>
-
-<q>
-(adj) happy</q>
-<a><b>cheerful</b> /ˈtʃɪəfəl/
-
-<span style="color:#00f">She seemed fairly cheerful.</span><snd>snds/ukcheat023.mp3</snd></a>
-
-<q>
-(adj) feeling angry and disappointed about someone or something, or because you have done something wrong</q>
-<a><b>ashamed</b> /əˈʃeɪmd/
-
-<span style="color:#00f">I felt ashamed of my behaviour. | You lied to her? You should be ashamed of yourself!</span><snd>snds/ukasbes021.mp3</snd></a>
-
-<q>
-(adj) relaxed and not worried or frightened</q>
-<a><b>calm</b> /kɑːm/
-
-<span style="color:#00f">a calm voice</span><snd>snds/ukcalip014.mp3</snd></a>
-
-<q>
-(v) to laugh at someone or say unkind things about them, either because you are joking or because you want to upset that person</q>
-<a><b>tease</b> /tiːz/
-
-<span style="color:#03f">I used to hate being teased about my red hair when I was at school. | I was just teasing, I didn't mean to upset you.</span><snd>snds/tease.mp3</snd></a>
-
-<q>
-(n) [mainly disapproving] something that is done to get attention for the person or people responsible for it</q>
-<a><b>stunt</b> /stʌnt/
-
-<span style="color:#03f">an advertising stunt | Their marriage was just a cheap publicity stunt.</span><snd>snds/stunt.mp3</snd></a>
-
-<q>
-(adj) making you feel that something bad or evil might happen</q>
-<a><b>sinister</b> /ˈsɪn.ɪ.stə^r/
-
-<span style="color:#03f">The ruined house had a sinister appearance. | A sinister-looking man sat in the corner of the room.</span><snd>snds/sinister.mp3</snd></a>
+<span style="color:#03f">She said the president had failed to fulfill his campaign promises. | He stayed an extra semester to fulfill his graduation requirements. | At the age of 45, she finally fulfilled her ambition to run a marathon. | Her immediate goal was to complete her novel, but her long-term goal was to fulfill her potential as a writer.</span><snd>snds/fulfill.mp3</snd></a>
 
 <q>
 (adj) [before noun] showing that you find a bad or difficult situation slightly funny</q>
@@ -8643,6 +8555,18 @@ She was banned from driving for two ​years. | ban the use of chemicals</span><
 <span style="color:#03f">I cringed <b>at</b> the sight of my dad dancing.</span><snd>snds/cringe.mp3</snd></a>
 
 <q>
+(adj) feeling bad because you have done something wrong</q>
+<a><b>guilty</b> /ˈɡɪlti/
+
+<span style="color:#00f">I feel so guilty about missing her party.</span><snd>snds/ukguate029.mp3</snd></a>
+
+<q>
+(adj) happy about something</q>
+<a><b>glad</b> /ɡlæd/
+
+<span style="color:#00f">I’m very glad that you like your present.</span><snd>snds/ukglaci002.mp3</snd></a>
+
+<q>
 (v) to avoid something OR to ignore someone and not speak to that person because you cannot accept their behaviour, beliefs, etc.</q>
 <a><b>shun</b> /ʃʌn/
 
@@ -8653,6 +8577,36 @@ She was banned from driving for two ​years. | ban the use of chemicals</span><
 <a><b>suspicious</b> /səˈspɪʃ.əs/
 
 <span style="color:#00f">His colleagues became suspicious (= thought that there was something wrong) when he did not appear at work, since he was always punctual. | They are deeply/highly (= very) suspicious of one another/of each other's motives.</span><snd>snds/uksurro030.mp3</snd></a>
+
+<q>
+(n) a ​feeling of ​anger towards another ​person that makes someone ​want to ​annoy, ​upset, or ​hurt them, ​especially in a ​small way</q>
+<a><b>spite</b> /spaɪt/
+
+<span style="color:#00f">He's the ​sort of man who would ​let down the ​tyres on ​your ​car just out of/from spite. | He is jealous and full of spite.</span><snd>snds/ukspino018.mp3</snd></a>
+
+<q>
+(adj) showing that you love someone</q>
+<a><b>loving</b> /ˈlʌvɪŋ/
+
+<span style="color:#00f">a loving father</span><snd>snds/ukloudn022.mp3</snd></a>
+
+<q>
+(v) you dislike them very much</q>
+<a><b>abide</b> /əˈbaɪd/
+
+<span style="color:#03f">I can't abide her. | He couldn't abide laziness.</span><snd>snds/abide.mp3</snd></a>
+
+<q>
+(adj) feeling very happy and interested, or showing this</q>
+<a><b>excited</b> /ɪkˈsaɪtɪd/
+
+<span style="color:#00f">happy, excited faces | The children are getting really excited about the party.</span><snd>snds/ukexces012.mp3</snd></a>
+
+<q>
+(adj) relaxed and not worried or frightened</q>
+<a><b>calm</b> /kɑːm/
+
+<span style="color:#00f">a calm voice</span><snd>snds/ukcalip014.mp3</snd></a>
 
 <q>
 (n) someone who believes that God does not exist<img>imgs/atheist.jpeg</img></q>
@@ -8675,6 +8629,24 @@ She was banned from driving for two ​years. | ban the use of chemicals</span><
 <a><b>confine</b> /kənˈfaɪn/
 
 <span style="color:#03f">Let's confine our discussion <b>to</b> the matter in question, please! | Please confine your use of the phone <b>to</b> business calls. | By closing the infected farms we're hoping to confine the disease <b>to</b> the north of the region (= stop it from spreading to other areas).</span><snd>snds/confine.mp3</snd></a>
+
+<q>
+(n) a ​feeling of ​sadness about something ​sad or ​wrong or about a ​mistake that you have made, and a ​wish that it could have been different and ​better</q>
+<a><b>regret</b> /rɪˈɡret/
+
+<span style="color:#00f">I ​left ​school at 16, but I've had a ​great ​life and I have no regrets. | The ​manager ​expressed ​deep regret at/for the ​number of ​staff ​reductions. | We ​think, much to ​our regret (= and we are very ​sorry about this), that we will not be ​able to ​visit you next ​year.</span><snd>snds/ukregen025.mp3</snd></a>
+
+<q>
+(adj) happy</q>
+<a><b>cheerful</b> /ˈtʃɪəfəl/
+
+<span style="color:#00f">She seemed fairly cheerful.</span><snd>snds/ukcheat023.mp3</snd></a>
+
+<q>
+(v) to laugh at someone or say unkind things about them, either because you are joking or because you want to upset that person</q>
+<a><b>tease</b> /tiːz/
+
+<span style="color:#03f">I used to hate being teased about my red hair when I was at school. | I was just teasing, I didn't mean to upset you.</span><snd>snds/tease.mp3</snd></a>
 
 <q>
 (adj) showing that you love someone very much</q>
@@ -8707,6 +8679,24 @@ She was banned from driving for two ​years. | ban the use of chemicals</span><
 <span style="color:#03f">He doesn't have the humility to admit when he's wrong. | They might be very rich, but it wouldn't hurt them to show a little humility.</span><snd>snds/humility.mp3</snd></a>
 
 <q>
+(adj) slightly embarrassed, or making you feel slightly embarrassed OR not feeling comfortable and pleasant, or not making you feel comfortable and pleasant</q>
+<a><b>uncomfortable</b> /ʌnˈkʌmf.tə.bl̩/
+
+<span style="color:#00f">I've eaten so much, I actually feel uncomfortable. | These shoes are really uncomfortable.</span><snd>snds/ukunchr011.mp3</snd></a>
+
+<q>
+(adj) making you feel that something bad or evil might happen</q>
+<a><b>sinister</b> /ˈsɪn.ɪ.stə^r/
+
+<span style="color:#03f">The ruined house had a sinister appearance. | A sinister-looking man sat in the corner of the room.</span><snd>snds/sinister.mp3</snd></a>
+
+<q>
+(adj) experiencing the strong effects of drugs such as heroin or cocaine</q>
+<a><b>strung out</b> /ˌstrʌŋ ˈaʊt/
+
+<span style="color:#03f">For most of her teenage years, she was strung out <b>on</b> crack.</span><snd>snds/strung.out.mp3</snd></a>
+
+<q>
 (adj) feeling ashamed or shy</q>
 <a><b>embarrassed</b> /ɪmˈbærəst/
 
@@ -8737,10 +8727,22 @@ She was banned from driving for two ​years. | ban the use of chemicals</span><
 <span style="color:#00f">I'm ready to go home now but I don't want to drag you away if you're enjoying yourself. | The beer festival was a huge open-air event with music, stalls and everyone enjoying themselves.</span></a>
 
 <q>
+(adj) feeling angry and disappointed about someone or something, or because you have done something wrong</q>
+<a><b>ashamed</b> /əˈʃeɪmd/
+
+<span style="color:#00f">I felt ashamed of my behaviour. | You lied to her? You should be ashamed of yourself!</span><snd>snds/ukasbes021.mp3</snd></a>
+
+<q>
 (n) a ​feeling of ​pleasure and ​satisfaction that you get because you or ​people ​connected with you have done or got something good</q>
 <a><b>pride</b> /praɪd/
 
 <span style="color:#00f">She ​felt a ​great ​sense of pride as she ​watched him ​accept the ​award. | He ​felt such pride ​walking his little ​daughter down the ​street.</span><snd>snds/ukprice009.mp3</snd></a>
+
+<q>
+(n) [mainly disapproving] something that is done to get attention for the person or people responsible for it</q>
+<a><b>stunt</b> /stʌnt/
+
+<span style="color:#03f">an advertising stunt | Their marriage was just a cheap publicity stunt.</span><snd>snds/stunt.mp3</snd></a>
 
 <q>
 (adj) annoyed because you cannot achieve or do what you want</q>
@@ -8753,6 +8755,12 @@ She was banned from driving for two ​years. | ban the use of chemicals</span><
 <a><b>confident</b> /ˈkɒnfɪdənt/
 
 <span style="color:#00f">I am confident that we can win this.</span><snd>snds/ukcondu025.mp3</snd></a>
+
+<q>
+(adj) having the feeling you get when something happens that you did not expect</q>
+<a><b>surprised</b> /səˈpraɪzd/
+
+<span style="color:#00f">We were very surprised at the ​result. | It's not like you to ​behave like this, Alice - I'm surprised at you (= I ​feel ​disappointed with you)! | I'm not surprised (that) he didn't ​keep his ​promise. | I'm surprised to ​see you here.</span><snd>snds/uksurge018.mp3</snd></a>
 
 <q>
 (adj) not honest and likely to lie</q>
@@ -8776,6 +8784,12 @@ She was banned from driving for two ​years. | ban the use of chemicals</span><
 <a><b>crush</b> (on smb) /krʌʃ/
 
 <span style="color:#03f">She has a crush on one of her teachers at school.</span><snd>snds/crush.mp3</snd></a>
+
+<q>
+(adj) in very bad condition OR tired and not healthy, especially because of working too much</q>
+<a><b>run-down</b>
+
+<span style="color:#03f">a run-down building/cemetery | My doctor said I was looking run-down. | shoes are run down at the heels.</span><snd>snds/run-down.mp3</snd></a>
 
 <q>
 (adj) behaving in a pleasant, kind way towards someone</q>
@@ -9028,6 +9042,12 @@ Do you ​feel/get nervous during ​exams? | I was too nervous to ​speak. | S
 <span style="color:#00f">She was over the moon about/with her new bike.</span></a>
 
 <q>
+(n) an exciting action, usually in a film, that is dangerous or appears dangerous and usually needs to be done by someone skilled</q>
+<a><b>stunt</b> /stʌnt/
+
+<span style="color:#03f">It's a typical action movie with plenty of <b>spectacular</b> stunts. | Tom Cruise has performed his own stunts for Mission Impossible 2, defying warnings from professionals.</span><snd>snds/stunt.mp3</snd></a>
+
+<q>
 (adj) able to reply in a clever or funny way without thinking for a long time</q>
 <a><b>quick-witted</b> /ˌkwɪkˈwɪt.ɪd/<snd>snds/quick-witted.mp3</snd></a>
 
@@ -9102,12 +9122,6 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <category name="food_and_drink">
 
 <q>
-(adj) extremely unpleasant or unacceptable</q>
-<a><b>disgusting</b> /dɪsˈɡʌs.tɪŋ/
-
-<span style="color:#03f">It's disgusting that there are no schools or hospitals for these people. | Passengers were kept for three hours in a disgusting waiting room.</span><snd>snds/ukdisgu005.mp3</snd></a>
-
-<q>
 (n) a type of bird kept on a farm for its eggs or its meat, or the meat of this bird that is cooked and eaten<img>imgs/chicken.351245.jpeg</img></q>
 <a><b>chicken</b> /ˈtʃɪk.ɪn/
 
@@ -9136,6 +9150,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <q>
 (n) cold, uncooked cabbage, carrot, and onion, cut into long, thin strips and covered in a thick, cold sauce<img>imgs/slaw.jpeg</img></q>
 <a><b>coleslaw</b> /ˈkəʊl.slɔː/<snd>snds/coleslaw.mp3</snd></a>
+
+<q>
+(adj) extremely unpleasant or unacceptable</q>
+<a><b>disgusting</b> /dɪsˈɡʌs.tɪŋ/
+
+<span style="color:#03f">It's disgusting that there are no schools or hospitals for these people. | Passengers were kept for three hours in a disgusting waiting room.</span><snd>snds/ukdisgu005.mp3</snd></a>
 
 <q>
 (n) meat that comes from a deer</q>
@@ -9632,12 +9652,6 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <category name="friends_and_family">
 
 <q>
-(n) the man who someone is engaged to be married to</q>
-<a><b>fiancé</b> /fiˈɒn.seɪ/
-
-<span style="color:#03f">Have you met Christina's fiancé?</span><snd>snds/ukfette017.mp3</snd></a>
-
-<q>
 (idiom) used to say that two people are not having a romantic relationship</q>
 <a><b>just good friends</b></a>
 
@@ -9646,6 +9660,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><b>teenager</b> /ˈtiːnˌeɪ.dʒər/
 
 <span style="color:#03f">The magazine is aimed at teenagers and young adults.</span><snd>snds/uktechn012.mp3</snd></a>
+
+<q>
+(n) the man who someone is engaged to be married to</q>
+<a><b>fiancé</b> /fiˈɒn.seɪ/
+
+<span style="color:#03f">Have you met Christina's fiancé?</span><snd>snds/ukfette017.mp3</snd></a>
 
 <q>
 (idiom) a skill or quality is present in many of your relatives or medical condition often found in members of a particular family</q>
@@ -9876,12 +9896,6 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <category name="fruit,_nuts,_and_vegetables">
 
 <q>
-(n) the sweet fruit of various types of palm tree<img>imgs/date.fruit.4632467.jpeg</img></q>
-<a><b>date</b> /deɪt/
-
-</a>
-
-<q>
 (n) a dried black grape<img>imgs/raisin.456235735.jpeg</img></q>
 <a><b>raisin</b> /ˈreɪ.zən/<snd>snds/ukrains004.mp3</snd></a>
 
@@ -9929,6 +9943,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 
 <span style="color:#03f">Have you ever eaten rhubarb crumble?</span>
 <snd>snds/ukrewou027.mp3</snd></a>
+
+<q>
+(n) the sweet fruit of various types of palm tree<img>imgs/date.fruit.4632467.jpeg</img></q>
+<a><b>date</b> /deɪt/
+
+</a>
 
 <q>
 (n) a small nut from a tropical American tree that can be eaten<img>imgs/cashew.3473.jpeg</img></q>
@@ -10095,22 +10115,6 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <category name="health">
 
 <q>
-(v) to become sick with a cold<img>imgs/catch.a.cold.jpeg</img></q>
-<a><b>catch a cold</b></a>
-
-<q>
-(v) to spoil something or make it weaker so that it is less effective</q>
-<a><b>impair</b> /ɪmˈpeə(r)/
-
-<span style="color:#03f">A recurring knee injury may have impaired his chances of winning the tournament.</span><snd>snds/impair.mp3</snd></a>
-
-<q>
-(v) to become unconscious for a short time, for example when ill, badly hurt, or drunk<img>imgs/pass.out.jpeg</img></q>
-<a><b>pass out</b>
-
-<span style="color:#03f">I was hit on the head and passed out.</span></a>
-
-<q>
 (n) a very small organism that causes disease<img>imgs/germ.jpeg</img></q>
 <a><b>germ</b> /dʒɜːm/
 
@@ -10135,6 +10139,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <span style="color:#03f">The cylinder was lifted from the seabed in a sling. | I had my arm in a sling for six weeks.</span><snd>snds/ukslimm005.mp3</snd></a>
 
 <q>
+(v) to become unconscious for a short time, for example when ill, badly hurt, or drunk<img>imgs/pass.out.jpeg</img></q>
+<a><b>pass out</b>
+
+<span style="color:#03f">I was hit on the head and passed out.</span></a>
+
+<q>
 (v) to empty the contents of the stomach through the mouth<img>imgs/vomit.jpeg</img></q>
 <a><b>vomit</b> /ˈvɒm.ɪt/
 
@@ -10153,6 +10163,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <span style="color:#03f">My leg was in a cast for about six weeks.</span></a>
 
 <q>
+(v) to spoil something or make it weaker so that it is less effective</q>
+<a><b>impair</b> /ɪmˈpeə(r)/
+
+<span style="color:#03f">A recurring knee injury may have impaired his chances of winning the tournament.</span><snd>snds/impair.mp3</snd></a>
+
+<q>
 (n) an infectious disease that produces small, red spots all over the body<img>imgs/measles.jpeg</img></q>
 <a><b>measles</b> /ˈmiː.zəlz/
 
@@ -10167,6 +10183,10 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><b>flinch</b> /flɪntʃ/
 
 <span style="color:#03f">He didn't even flinch when the nurse cleaned the wound.</span><snd>snds/flinch.mp3</snd></a>
+
+<q>
+(v) to become sick with a cold<img>imgs/catch.a.cold.jpeg</img></q>
+<a><b>catch a cold</b></a>
 
 <q>
 (idiom) not completely well<img>imgs/under.the.weather.jpeg</img></q>
@@ -10628,32 +10648,6 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <category name="industry">
 
 <q>
-(n) to send goods to another country for sale<img>imgs/export.jpeg</img></q>
-<a><b>export</b> /ˈek.spɔːrt/
-
-<span style="color:#03f">French cheeses are exported to many different countries. | Our clothes sell so well in this country that we have no need to export.</span><snd>snds/export.mp3</snd></a>
-
-<q>
-(n) the work of building or making something, especially buildings, bridges, etc.</q>
-<a><b>construction</b> /kənˈstrʌk.ʃ(ə)n/
-
-<span style="color:#03f">She works in construction/in the construction industry. | The bridge is a marvellous work of engineering and construction. | This website is currently under construction (= being created).
-​
-</span><snd>snds/construction.mp3</snd></a>
-
-<q>
-(n) the series of actions that are taken to change raw materials during the production of goods</q>
-<a><b>processing</b> /ˈprəʊsesɪŋ/
-
-<span style="color:#03f">Uruguay's manufacturing production and exports are largely based on the processing of natural resources. | The refinery is among the largest and most advanced crude oil processing plants in the world.</span><snd>snds/processing.mp3</snd></a>
-
-<q>
-(n) a line of machines and workers in a factory that a product moves along while it is being built or produced. Each machine or worker performs a particular job that must be finished before the product moves to the next position in the line<img>imgs/Ford_assembly_line_-_1913.jpg</img></q>
-<a><b>assembly line</b> /əˈsem.bli ˌlaɪn/
-
-<span style="color:#03f">assembly-line workers | He works on an assembly line.</span><snd>snds/assembly_line.mp3</snd></a>
-
-<q>
 (n) a company, person, etc. that provides things that people want or need, especially over a long period of time</q>
 <a><b>supplier</b> /səˈplaɪ.ə(r)/
 
@@ -10682,6 +10676,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><b>assemble</b> /əˈsem.b(ə)l/
 
 <span style="color:#03f">Workers were assembling airplanes. | furniture that is easy to assemble | to assemble data</span><snd>snds/assemble.mp3</snd></a>
+
+<q>
+(n) a line of machines and workers in a factory that a product moves along while it is being built or produced. Each machine or worker performs a particular job that must be finished before the product moves to the next position in the line<img>imgs/Ford_assembly_line_-_1913.jpg</img></q>
+<a><b>assembly line</b> /əˈsem.bli ˌlaɪn/
+
+<span style="color:#03f">assembly-line workers | He works on an assembly line.</span><snd>snds/assembly_line.mp3</snd></a>
 
 <q>
 (adj) belonging or connected to a country that is not your own</q>
@@ -10809,6 +10809,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 </span><snd>snds/catering.mp3</snd></a>
 
 <q>
+(n) the series of actions that are taken to change raw materials during the production of goods</q>
+<a><b>processing</b> /ˈprəʊsesɪŋ/
+
+<span style="color:#03f">Uruguay's manufacturing production and exports are largely based on the processing of natural resources. | The refinery is among the largest and most advanced crude oil processing plants in the world.</span><snd>snds/processing.mp3</snd></a>
+
+<q>
 (n) businesses such as hotels, bars, and restaurants that offer people food, drink, or a place to sleep<img>imgs/hospitality.industry.jpeg</img></q>
 <a><b>hospitality industry</b>
 
@@ -10825,10 +10831,24 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><b>call centre</b> /ˈkɔːl ˌsen.tə(r)/<snd>snds/call_centre.mp3</snd></a>
 
 <q>
+(n) the work of building or making something, especially buildings, bridges, etc.</q>
+<a><b>construction</b> /kənˈstrʌk.ʃ(ə)n/
+
+<span style="color:#03f">She works in construction/in the construction industry. | The bridge is a marvellous work of engineering and construction. | This website is currently under construction (= being created).
+​
+</span><snd>snds/construction.mp3</snd></a>
+
+<q>
 (n) the business of catching fish<img>imgs/fishing.industry.jpeg</img></q>
 <a><b>fishing</b> /ˈfɪʃ.ɪŋ/
 
 <span style="color:#03f">Most of the local population depend on fishing for their income.</span><snd>snds/fishing.mp3</snd></a>
+
+<q>
+(n) to send goods to another country for sale<img>imgs/export.jpeg</img></q>
+<a><b>export</b> /ˈek.spɔːrt/
+
+<span style="color:#03f">French cheeses are exported to many different countries. | Our clothes sell so well in this country that we have no need to export.</span><snd>snds/export.mp3</snd></a>
 
 <q>
 (adj) relating to a person's own country</q>
@@ -11082,42 +11102,14 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <category name="law">
 
 <q>
-(v) to do something that the law says you must not do</q>
-<a><b>break the law</b></a>
-
-<q>
-(n) the action or crime of stealing something</q>
-<a><b>theft</b> /θeft/
-
-<span style="color:#03f">car theft</span><snd>snds/theft.mp3</snd></a>
-
-<q>
-(phrase) to support the truth of something, or to support someone's statement or claim</q>
-<a><b>bear out something/someone</b>
-
-<span style="color:#03f">The facts don’t bear out your fears. | The evidence so far simply does not bear him out.</span></a>
-
-<q>
-(v) to decide officially in a court of law that someone has done a crime</q>
-<a><b>convict</b> /kənˈvɪkt/
-
-<span style="color:#03f">He was convicted of murder.</span><snd>snds/convict.mp3</snd></a>
+(n) a group of people in a court of law who decide if someone has done a crime</q>
+<a><b>jury</b> /ˈdʒʊəri/<snd>snds/jury.mp3</snd></a>
 
 <q>
 (v) to do something bad or illegal</q>
 <a><b>commit</b> /kəˈmɪt/
 
 <span style="color:#03f">He went to prison for a crime he didn’t commit.</span><snd>snds/commit.mp3</snd></a>
-
-<q>
-(v) to make an illegal copy of something in order to deceive people</q>
-<a><b>forge</b> /fɔːdʒ/
-
-<span style="color:#03f">She forged his signature.</span><snd>snds/forge.mp3</snd></a>
-
-<q>
-(n) a group of people in a court of law who decide if someone has done a crime</q>
-<a><b>jury</b> /ˈdʒʊəri/<snd>snds/jury.mp3</snd></a>
 
 <q>
 (n) someone who gets into buildings illegally and steals things<img>imgs/burglar.jpeg</img></q>
@@ -11134,6 +11126,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><b>fraud</b> /frɔːd/
 
 <span style="color:#03f">credit card fraud</span><snd>snds/fraud.mp3</snd></a>
+
+<q>
+(v) to make an illegal copy of something in order to deceive people</q>
+<a><b>forge</b> /fɔːdʒ/
+
+<span style="color:#03f">She forged his signature.</span><snd>snds/forge.mp3</snd></a>
 
 <q>
 (n) the money that is demanded for the return of someone who is being kept as a prisoner</q>
@@ -11160,10 +11158,22 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <span style="color:#03f">We always adhere strictly to the guidelines.</span><snd>snds/adhere.mp3</snd></a>
 
 <q>
+(v) to decide officially in a court of law that someone has done a crime</q>
+<a><b>convict</b> /kənˈvɪkt/
+
+<span style="color:#03f">He was convicted of murder.</span><snd>snds/convict.mp3</snd></a>
+
+<q>
 (n) a written agreement between two or more countries, formally approved and signed by their leaders</q>
 <a><b>treaty</b> /ˈtriː.ti/
 
 <span style="color:#03f">a peace treaty | the treaty <b>on</b> European union | We've <b>signed/concluded</b> a treaty <b>with</b> neighbouring states <b>to</b> limit emissions of harmful gases.</span><snd>snds/treaty.mp3</snd></a>
+
+<q>
+(phrase) to support the truth of something, or to support someone's statement or claim</q>
+<a><b>bear out something/someone</b>
+
+<span style="color:#03f">The facts don’t bear out your fears. | The evidence so far simply does not bear him out.</span></a>
 
 <q>
 (n) (an act of) murder</q>
@@ -11216,6 +11226,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><b>hostage</b> /ˈhɒstɪdʒ/<snd>snds/hostage.mp3</snd></a>
 
 <q>
+(n) the action or crime of stealing something</q>
+<a><b>theft</b> /θeft/
+
+<span style="color:#03f">car theft</span><snd>snds/theft.mp3</snd></a>
+
+<q>
 (n) a legal process to decide if someone has committed a crime</q>
 <a><b>trial</b> /traɪəl/
 
@@ -11226,6 +11242,10 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><b>statement</b> /ˈsteɪtmənt/
 
 <span style="color:#03f">The government is expected to make a statement later.</span><snd>snds/statement.mp3</snd></a>
+
+<q>
+(v) to do something that the law says you must not do</q>
+<a><b>break the law</b></a>
 
 <q>
 (adj) connected with a crime</q>
@@ -11326,10 +11346,6 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <category name="music">
 
 <q>
-(v) to stand in front of a group of musicians and control their performance<img>imgs/conduct.jpeg</img></q>
-<a><b>conduct</b> /ˈkɒndʌkt/<snd>snds/conduct.mp3</snd></a>
-
-<q>
 (n) several songs or pieces of music on a CD, a record, etc</q>
 <a><b>album</b> /ˈælbəm/
 
@@ -11362,6 +11378,10 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><b>audio</b> /ˈɔːdiəʊ/
 
 <span style="color:#03f">audio equipment</span><snd>snds/audio.mp3</snd></a>
+
+<q>
+(v) to stand in front of a group of musicians and control their performance<img>imgs/conduct.jpeg</img></q>
+<a><b>conduct</b> /ˈkɒndʌkt/</a>
 
 <q>
 (v) to play a piece of music in front of an audience OR to entertain people by acting, singing, dancing, etc</q>
@@ -11456,22 +11476,18 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <category name="money">
 
 <q>
-(n) an amount of money paid regularly by the government or a private company to a person who does not work any more because they are too old or have become ill</q>
-<a><b>pension</b> /ˈpen.ʃ(ə)n/
-
-<span style="color:#03f">He won't be able to draw (= receive) his pension until he's 65. | The Chancellor announced a miserly 75p a week rise in the state pension. | He retired on a generous pension from the company. | It's a bloody disgrace that some war widows don't get a decent pension. | The perks of the job include a company pension scheme and a generous travel allowance.</span><snd>snds/pension.mp3</snd></a>
-
-<q>
-(idiom) to keep money to use if an unexpected need arises</q>
-<a><b>save something for a rainy day</b></a>
-
-<q>
 (idiom) [informal] having money in the bank and are not in debt</q>
 <a><b>be in the black</b></a>
 
 <q>
 (idiom) to have just enough money to pay for the things that you need</q>
 <a><b>make ends meet</b></a>
+
+<q>
+(n) an amount of money paid regularly by the government or a private company to a person who does not work any more because they are too old or have become ill</q>
+<a><b>pension</b> /ˈpen.ʃ(ə)n/
+
+<span style="color:#03f">He won't be able to draw (= receive) his pension until he's 65. | The Chancellor announced a miserly 75p a week rise in the state pension. | He retired on a generous pension from the company. | It's a bloody disgrace that some war widows don't get a decent pension. | The perks of the job include a company pension scheme and a generous travel allowance.</span><snd>snds/pension.mp3</snd></a>
 
 <q>
 (phrase) to give someone the money that you owe them, especially when you do not want to</q>
@@ -11484,6 +11500,10 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><b>valuable</b> /ˈvæl.jə.b(ə)l/
 
 <span style="color:#03f">These antiques are extremely valuable. | This is losing valuable business for the company.</span><snd>snds/valuable.mp3</snd></a>
+
+<q>
+(idiom) to keep money to use if an unexpected need arises</q>
+<a><b>save something for a rainy day</b></a>
 
 <q>
 (n) a business that lends you money if you want to buy a house, or pays you interest on money you invest there</q>
@@ -11667,16 +11687,16 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <category name="houses and homes">
 
 <q>
-(n) a small, simple building, usually consisting of one room<img>imgs/hut.jpeg</img></q>
-<a><b>hut</b> /hʌt/
-
-<span style="color:#03f">a mountain hut | a row of beach huts | We spent the night in a flimsy wooden hut. | Modern houses have replaced the one-room mud huts with grass roofs that had been home to generations of peasants.</span><snd>snds/hut.mp3</snd></a>
-
-<q>
 (n) the place where someone lives</q>
 <a><b>abode</b> /əˈbəʊd/
 
 <span style="color:#03f">The defendant is of no fixed abode (= has no permanent home). | Welcome to my humble abode!</span><snd>snds/abode.mp3</snd></a>
+
+<q>
+(n) a small, simple building, usually consisting of one room<img>imgs/hut.jpeg</img></q>
+<a><b>hut</b> /hʌt/
+
+<span style="color:#03f">a mountain hut | a row of beach huts | We spent the night in a flimsy wooden hut. | Modern houses have replaced the one-room mud huts with grass roofs that had been home to generations of peasants.</span><snd>snds/hut.mp3</snd></a>
 
 <q>
 (n) the top inside part of a room that you can see when you look above you<img>imgs/ceiling.jpeg</img></q>
@@ -11687,12 +11707,6 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 </category>
 
 <category name="time">
-
-<q>
-(n) the period in the day when light from the sun begins to appear in the sky<img>imgs/dawn.jpeg</img></q>
-<a><b>dawn</b> /dɔːn/
-
-<span style="color:#03f">We woke at dawn. | We left as dawn was breaking (= starting). | We left at the break of dawn.</span><snd>snds/dawn.mp3</snd></a>
 
 <q>
 (n) the time before night when it is not yet dark<img>imgs/dusk.jpeg</img></q>
@@ -11712,6 +11726,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><b>sunset</b> /ˈsʌn.set/
 
 <span style="color:#03f">The fishermen set out at sunset for a night's fishing. | We sat on the beach watching a spectacular sunset.</span><snd>snds/sunset.mp3</snd></a>
+
+<q>
+(n) the period in the day when light from the sun begins to appear in the sky<img>imgs/dawn.jpeg</img></q>
+<a><b>dawn</b> /dɔːn/
+
+<span style="color:#03f">We woke at dawn. | We left as dawn was breaking (= starting). | We left at the break of dawn.</span><snd>snds/dawn.mp3</snd></a>
 
 <q>
 (n) the beginning of an organization or official activity</q>
@@ -11792,6 +11812,12 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <category name="routines">
 
 <q>
+(n) a job or piece of work that is often boring or unpleasant but needs to be done regularly</q>
+<a><b>chore</b> /tʃɔː^r/
+
+<span style="color:#03f">I'll go shopping when I've done my chores (= done the jobs in or around the house). | I find writing reports a real chore (= very boring).</span><snd>snds/chore.mp3</snd></a>
+
+<q>
 (idiom) to stay up very late at night and get up very early in the morning</q>
 <a><b>burn the candle at both ends</b></a>
 
@@ -11800,30 +11826,8 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><b>go out like a light</b></a>
 
 <q>
-(v) to sleep until later in the morning than you usually do</q>
-<a><b>sleep in</b>
-
-<span style="color:#03f">I usually sleep in on Saturdays.</span></a>
-
-<q>
-(v) to eat the main meal of the day, which is usually server in the evening</q>
-<a><b>have dinner</b></a>
-
-<q>
-(n) a usual or fixed way of doing things</q>
-<a><b>routine</b> /ruːˈtiːn/
-
-<span style="color:#03f">There's no set/fixed routine at work - every day is different. | Most companies insure property and equipment against damage or theft as a matter of routine.</span><snd>snds/routine.mp3</snd></a>
-
-<q>
 (v) to organize a place by putting things in their usual places</q>
 <a><b>tide up</b></a>
-
-<q>
-(n) a job or piece of work that is often boring or unpleasant but needs to be done regularly</q>
-<a><b>chore</b> /tʃɔː^r/
-
-<span style="color:#03f">I'll go shopping when I've done my chores (= done the jobs in or around the house). | I find writing reports a real chore (= very boring).</span><snd>snds/chore.mp3</snd></a>
 
 <q>
 (v) to make the same journey regularly between work and home</q>
@@ -11836,6 +11840,10 @@ Tell me where it hurts. | She criticized my writing quite severely and that hurt
 <a><b>drop sb/sth off</b>
 
 <span style="color:#03f">We dropped our luggage off at the hotel and went sightseeing. | Dad dropped me off at shool on his way to work.</span></a>
+
+<q>
+(v) to eat the main meal of the day, which is usually server in the evening</q>
+<a><b>have dinner</b></a>
 
 <q>
 (v) to wash yourself by standing under the water that comes from a shower</q>
@@ -11866,6 +11874,18 @@ Dad set the alarm for eight the next day.</span></a>
 <a><b>have lunch</b> /lʌnt͡ʃ/</a>
 
 <q>
+(n) a usual or fixed way of doing things</q>
+<a><b>routine</b> /ruːˈtiːn/
+
+<span style="color:#03f">There's no set/fixed routine at work - every day is different. | Most companies insure property and equipment against damage or theft as a matter of routine.</span><snd>snds/routine.mp3</snd></a>
+
+<q>
+(v) to sleep until later in the morning than you usually do</q>
+<a><b>sleep in</b>
+
+<span style="color:#03f">I usually sleep in on Saturdays.</span></a>
+
+<q>
 (n) to eat the first of the day</q>
 <a><b>have breakfast</b> /ˈbrek.fəst/
 
@@ -11882,124 +11902,10 @@ Dad set the alarm for eight the next day.</span></a>
 <category name="phrasal verbs">
 
 <q>
-(phrase) to pay someone the money that you owe them [if you do this with someone, you pay them the money that you owe them]</q>
-<a><b>settle up</b> /sˈɛtəl ˈʌp/
+(phrase) to make someone appear stupid</q>
+<a><b>make a monkey out of sb</b>
 
-<span style="color:#00f">Would you like to settle up now, sir? | You buy the tickets and I'll settle up with you later. | You get the tickets, Evan, and I’ll settle up with you later.</span></a>
-
-<q>
-(phrase) if a computer does it, or if you do it, it starts working so that you can use it.</q>
-<a><b>boot up</b> or <b>boot something up</b>
-
-<span style="color:#00f">Go over to your computer and boot it up. | He left the machine to boot up while he looked around.</span></a>
-
-<q>
-(phrase) to move away from someone or something, in order to avoid problems</q>
-<a><b>back off</b> /bˈak ˈɒf/
-
-<span style="color:#00f">When she saw me she backed off, looking worried.</span><snd>snds/back.off.1312.wav</snd></a>
-
-<q>
-(phrase) to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly</q>
-<a><b>put up with</b> sth/sb /pˌʊt ˈʌp wɪð/
-
-<span style="color:#01f">I can put up with the house being messy, but I hate it if it's not clean. | He's so moody - I don't know why she puts up with him. | They have a lot to put up with (= they have a lot of difficulties).</span></a>
-
-<q>
-(phrase) to gradually relax after doing something that has made you tired or worried</q>
-<a><b>wind down</b> /waɪnd dˈaʊn/
-
-<span style="color:#00f">When he goes on holiday, it takes him the first couple of days just to wind down.</span></a>
-
-<q>
-(phrase) to complete an event or activity in a pleasant or satisfactory way</q>
-<a><b>round something off</b> /ɹˈaʊnd sˈʌmθɪŋ ˈɒf/
-
-<span style="color:#00f">To round off her education, her father sent her to a Swiss finishing school. | We rounded the meal off with a chocolate and rum cake.</span><snd>snds/round.something.off.mp3</snd></a>
-
-<q>
-(phrase) to hit or kick someone many times</q>
-<a><b>beat someone up</b>
-
-<span style="color:#00f">I was beaten up and lost a lot of blood.</span></a>
-
-<q>
-(phrase) to spend a lot of money on buying things, especially things that are pleasant to have but that you do not need [someone who buys something expensive]</q>
-<a><b>splash out (sth)</b> (on sth) /splˈaʃ ˈaʊt/
-
-<span style="color:#00f">They splashed out £3,000 on a holiday. | She splashed out on a fancy new camera.</span></a>
-
-<q>
-(phrase) to relax completely, or not allow things to upset you</q>
-<a><b>chill out</b> /tʃˈɪl ˈaʊt/
-
-<span style="color:#00f">I'm just chilling out in front of the TV. | Chill out, Dad. The train doesn't leave for another hour!</span></a>
-
-<q>
-(phrase) to wait or spend time somewhere, usually for no particular reason</q>
-<a><b>hang around (somewhere)</b> /hˈaŋ ɐɹˈaʊnd/
-
-<span style="color:#00f">I spent most of my youth hanging around the bars of Dublin. | I thought I'd hang around for a while and see if she comes.</span></a>
-
-<q>
-(phrase) to spend time in a relaxed way because you have nothing to do or you are waiting for something else to happen</q>
-<a><b>while something away</b> /wˌaɪl sˈʌmθɪŋ ɐwˈeɪ/
-
-<span style="color:#00f">We whiled away the afternoon playing cards in front of the fire. | That's the spot where Sara and I used to while away the hours between lectures.</span></a>
-
-<q>
-(phrase) to stay in a place and do nothing while you wait for someone to arrive or something to happen</q>
-<a><b>wait around/about</b> (for)
-
-<span style="color:#00f">We spent the whole day waiting around for something exciting to happen, but nothing did.</span></a>
-
-<q>
-(phrase) to give all of or the last part of an amount that you owe</q>
-<a><b>pay off something</b> /pˈeɪ ˈɒf sˈʌmθɪŋ/
-
-<span style="color:#00f">I expect to pay the debt off within two years. | I’m hoping to pay off the debt within two years.</span></a>
-
-<q>
-(phrase) to remove problems or find solutions</q>
-<a><b>iron sth out</b> /ˈaɪən ˈaʊt/
-
-<span style="color:#03f">We're still trying to iron out some problems with the computer system. | We hope they can iron out their differences and get on with working together.</span></a>
-
-<q>
-(phrase) to reject something as unacceptable</q>
-<a><b>shoot</b> something <b>down</b> /ʃˈuːt sˈʌmθɪŋ dˈaʊn/
-
-<span style="color:#00f">Once Courtney got wind of the suggestion she immediately shot it down as "stupid".</span></a>
-
-<q>
-(phrase) to become exhausted and unable to continue because of overwork, or to cause this in someone</q>
-<a><b>burn out</b> or <b>burn someone out</b> /bˈɜːn ˈaʊt/
-
-<span style="color:#00f">Some people burn out after only a few months in this job. | Patrick explained he is currently taking a break, as his accelerated program burned him out.</span><snd>snds/burn.out.wav</snd></a>
-
-<q>
-(phrase) to require, in order to progress or succeed OR to suggest strongly that something should happen or be done</q>
-<a><b>call for something</b> /kˈɔːl fɔː sˈʌmθɪŋ/
-
-<span style="color:#00f">The concept ultimately calls for people to transcend the limits of biology by using technology to develop into something more advanced and intelligent. | Greek public sector union ADEDY called for a strike on July 15 to protest labor reforms.</span></a>
-
-<q>
-(phrasal) to have a particular amount of money to buy things</q>
-<a><b>live off something</b> /lˈɪv ˈɒf sˈʌmθɪŋ/
-
-<span style="color:#00f">She had to live off $46 a week. | I am living off £1K monthly. And I am OK ☺</span></a>
-
-<q>
-(phrase) to keep something available for a particular use or purpose</q>
-<a><b>set</b> something <b>aside</b> /sˈɛt sˈʌmθɪŋ ɐsˈaɪd/
-
-<span style="color:#00f">Try to set aside time each day to relax.</span></a>
-
-<q>
-(phrase) to become popular</q>
-<a><b>catch on</b> or <b>catch on with someone</b> /kˈatʃ ˈɒn/
-
-<span style="color:#00f">Photography began to catch on as a hobby. | The play didn't catch on with a wider audience.</span></a>
+</a>
 
 <q>
 (phrase) to stop someone or something developing or doing as well as they should</q>
@@ -12062,6 +11968,12 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <span style="color:#03f">We still have a number of other matters to attend to. | He likes work that requires him to attend to a lot of detail. | Please take a seat and I’ll ask someone to attend to you.</span></a>
 
 <q>
+(phrase) to wait or spend time somewhere, usually for no particular reason</q>
+<a><b>hang around (somewhere)</b> /hˈaŋ ɐɹˈaʊnd/
+
+<span style="color:#00f">I spent most of my youth hanging around the bars of Dublin. | I thought I'd hang around for a while and see if she comes.</span></a>
+
+<q>
 (phrase) to produce something and sell it</q>
 <a><b>bring something out</b> /bɹˈɪŋ sˈʌmθɪŋ ˈaʊt/
 
@@ -12096,6 +12008,48 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <a><b>bury yourself in sth</b> /ˈber.i/
 
 <span style="color:#03f">Since her marriage ended, she has buried herself in her work.</span></a>
+
+<q>
+(phrase) to pay someone the money that you owe them [if you do this with someone, you pay them the money that you owe them]</q>
+<a><b>settle up</b> /sˈɛtəl ˈʌp/
+
+<span style="color:#00f">Would you like to settle up now, sir? | You buy the tickets and I'll settle up with you later. | You get the tickets, Evan, and I’ll settle up with you later.</span></a>
+
+<q>
+(phrase) to relax completely, or not allow things to upset you</q>
+<a><b>chill out</b> /tʃˈɪl ˈaʊt/
+
+<span style="color:#00f">I'm just chilling out in front of the TV. | Chill out, Dad. The train doesn't leave for another hour!</span></a>
+
+<q>
+(phrase) to hit or kick someone many times</q>
+<a><b>beat someone up</b>
+
+<span style="color:#00f">I was beaten up and lost a lot of blood.</span></a>
+
+<q>
+(phrase) to spend time in a relaxed way because you have nothing to do or you are waiting for something else to happen</q>
+<a><b>while something away</b> /wˌaɪl sˈʌmθɪŋ ɐwˈeɪ/
+
+<span style="color:#00f">We whiled away the afternoon playing cards in front of the fire. | That's the spot where Sara and I used to while away the hours between lectures.</span></a>
+
+<q>
+(phrase) to become popular</q>
+<a><b>catch on</b> or <b>catch on with someone</b> /kˈatʃ ˈɒn/
+
+<span style="color:#00f">Photography began to catch on as a hobby. | The play didn't catch on with a wider audience.</span></a>
+
+<q>
+(phrase) to give all of or the last part of an amount that you owe</q>
+<a><b>pay off something</b> /pˈeɪ ˈɒf sˈʌmθɪŋ/
+
+<span style="color:#00f">I expect to pay the debt off within two years. | I’m hoping to pay off the debt within two years.</span></a>
+
+<q>
+(phrase) to spend a lot of money on buying things, especially things that are pleasant to have but that you do not need [someone who buys something expensive]</q>
+<a><b>splash out (sth)</b> (on sth) /splˈaʃ ˈaʊt/
+
+<span style="color:#00f">They splashed out £3,000 on a holiday. | She splashed out on a fancy new camera.</span></a>
 
 <q>
 (phrase) to put something in the place or container where it is usually kept</q>
@@ -12152,6 +12106,18 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <a><b>fix up something</b>
 
 <span style="color:#03f">He recently finished fixing up the 1920s-era bungalow he bought in 1992.</span></a>
+
+<q>
+(phrase) to keep something available for a particular use or purpose</q>
+<a><b>set</b> something <b>aside</b> /sˈɛt sˈʌmθɪŋ ɐsˈaɪd/
+
+<span style="color:#00f">Try to set aside time each day to relax.</span></a>
+
+<q>
+(phrase) to stay in a place and do nothing while you wait for someone to arrive or something to happen</q>
+<a><b>wait around/about</b> (for)
+
+<span style="color:#00f">We spent the whole day waiting around for something exciting to happen, but nothing did.</span></a>
 
 <q>
 (phrase) to defend yourself by taking action against someone who has attacked you</q>
@@ -12221,6 +12187,12 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <span style="color:#00f">Australia on Friday backed down on a hefty 40 per cent tax on mining. | Eventually, Roberto backed down and apologized. | Local residents have forced the local council to back down from/on its plans to build a nightclub on their street.</span></a>
 
 <q>
+(phrasal) to have a particular amount of money to buy things</q>
+<a><b>live off something</b> /lˈɪv ˈɒf sˈʌmθɪŋ/
+
+<span style="color:#00f">She had to live off $46 a week. | I am living off £1K monthly. And I am OK ☺</span></a>
+
+<q>
 (phrase) to introduce a subject into a discussion or conversation</q>
 <a><b>bring something up</b>
 
@@ -12288,6 +12260,12 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <span style="color:#03f">They fitted the factory out for the production of light bulbs. | The apartments are fitted out to the highest standard. | fit sb/sth out with sth The FBI fitted him out with a briefcase that could tape-record the conferences.</span></a>
 
 <q>
+(phrase) to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly</q>
+<a><b>put up with</b> sth/sb /pˌʊt ˈʌp wɪð/
+
+<span style="color:#01f">I can put up with the house being messy, but I hate it if it's not clean. | He's so moody - I don't know why she puts up with him. | They have a lot to put up with (= they have a lot of difficulties).</span></a>
+
+<q>
 (phrase) to try to find something</q>
 <a><b>cast about</b> (for sth) /cast about/
 
@@ -12304,6 +12282,18 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <a><b>start on sth</b>
 
 <span style="color:#03f">I'm just about to start on the cleaning. | When did your baby start on solid food? | I'm about to start on the cooking. | Have you started on the packing yet? | I thought we'd have lunch before starting on the cleaning. | I haven't even started on the painting. | We'd eaten our main course and were about to start on the dessert.</span></a>
+
+<q>
+(phrase) to gradually relax after doing something that has made you tired or worried</q>
+<a><b>wind down</b> /waɪnd dˈaʊn/
+
+<span style="color:#00f">When he goes on holiday, it takes him the first couple of days just to wind down.</span></a>
+
+<q>
+(phrase) to require, in order to progress or succeed OR to suggest strongly that something should happen or be done</q>
+<a><b>call for something</b> /kˈɔːl fɔː sˈʌmθɪŋ/
+
+<span style="color:#00f">The concept ultimately calls for people to transcend the limits of biology by using technology to develop into something more advanced and intelligent. | Greek public sector union ADEDY called for a strike on July 15 to protest labor reforms.</span></a>
 
 <q>
 (phrase) to separate into pieces or separate parts</q>
@@ -12336,10 +12326,22 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <span style="color:#03f">Come over here! | Is your family coming over from Greece for the wedding?</span></a>
 
 <q>
+(phrase) to become exhausted and unable to continue because of overwork, or to cause this in someone</q>
+<a><b>burn out</b> or <b>burn someone out</b> /bˈɜːn ˈaʊt/
+
+<span style="color:#00f">Some people burn out after only a few months in this job. | Patrick explained he is currently taking a break, as his accelerated program burned him out.</span><snd>snds/burn.out.wav</snd></a>
+
+<q>
 (phrase) to make someone extremely tired, weak, or unhappy [informal]</q>
 <a><b>finish sb off</b>
 
 <span style="color:#03f">That game of tennis really finished me off.</span></a>
+
+<q>
+(phrase) to move away from someone or something, in order to avoid problems</q>
+<a><b>back off</b> /bˈak ˈɒf/
+
+<span style="color:#00f">When she saw me she backed off, looking worried.</span><snd>snds/back.off.1312.wav</snd></a>
 
 <q>
 (phrase) to explode</q>
@@ -12376,6 +12378,12 @@ I forked out ten quid for/on the ticket. | I couldn't persuade him to fork out f
 <a><b>catch up on something</b>
 
 <span style="color:#03f">I have to catch up on my reading.</span></a>
+
+<q>
+(phrase) to complete an event or activity in a pleasant or satisfactory way</q>
+<a><b>round something off</b> /ɹˈaʊnd sˈʌmθɪŋ ˈɒf/
+
+<span style="color:#00f">To round off her education, her father sent her to a Swiss finishing school. | We rounded the meal off with a chocolate and rum cake.</span><snd>snds/round.something.off.mp3</snd></a>
 
 <q>
 (phrase) to start on a trip</q>
@@ -12683,6 +12691,12 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 <span style="color:#03f">I stopped in at work on the way home to check my mail. | I've had my tea and I'm stopping in now.</span></a>
 
 <q>
+(phrase) to reject something as unacceptable</q>
+<a><b>shoot</b> something <b>down</b> /ʃˈuːt sˈʌmθɪŋ dˈaʊn/
+
+<span style="color:#00f">Once Courtney got wind of the suggestion she immediately shot it down as "stupid".</span></a>
+
+<q>
 (phrase) to break into pieces<img>imgs\make-the-person-you-fall-in-love-with-happy.jpg</img></q>
 <a><b>fall apart</b> /fˈɔːl əˈpɑːt/
 
@@ -12864,6 +12878,12 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 <span style="color:#00f">I had to dip into my savings to pay for the repairs. | Unfortunately, I had to dip into my savings to pay for the repairs.</span></a>
 
 <q>
+(phrase) if a computer does it, or if you do it, it starts working so that you can use it.</q>
+<a><b>boot up</b> or <b>boot something up</b>
+
+<span style="color:#00f">Go over to your computer and boot it up. | He left the machine to boot up while he looked around.</span></a>
+
+<q>
 (phrase) to blow at a flame so that it stops burning</q>
 <a><b>blow</b> something <b>out</b>
 
@@ -12893,6 +12913,12 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 
 <span style="color:#00f">She came into a bit of money when her grandfather died.</span>
 </a>
+
+<q>
+(phrase) to remove problems or find solutions</q>
+<a><b>iron sth out</b> /ˈaɪən ˈaʊt/
+
+<span style="color:#03f">We're still trying to iron out some problems with the computer system. | We hope they can iron out their differences and get on with working together.</span></a>
 
 <q>
 (phrase) to send air out of your lungs through your nose or mouth</q>
@@ -13153,10 +13179,6 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 <category name="e-mail punctuation">
 
 <q>
-(n) the ​symbol : used in writing, ​especially to ​introduce a ​list of things or a ​sentence or phrase taken from ​somewhere ​else</q>
-<a><b>colon</b> /ˈkəʊ.lɒn/<snd>snds/ukcolle020.mp3</snd></a>
-
-<q>
 (n) either of two ​symbols put around a word, phrase, or ​sentence in a ​piece of writing to show that what is between them should be ​considered as ​separate from the ​main ​part<img>imgs/bracket.235234.png</img></q>
 <a><b>bracket</b> /ˈbræk.ɪt/
 
@@ -13187,6 +13209,10 @@ The villagers were unable to put up any resistance to the invading troops. | We'
 <a><b>comma</b> /ˈkɒm.ə/
 
 <span style="color:#00f">Put a comma after the ​clause. | We usually put a comma after thousands in ​numbers. | Should I put a comma before the 'and'?</span><snd>snds/ukcombi028.mp3</snd></a>
+
+<q>
+(n) the ​symbol : used in writing, ​especially to ​introduce a ​list of things or a ​sentence or phrase taken from ​somewhere ​else</q>
+<a><b>colon</b> /ˈkəʊ.lɒn/<snd>snds/ukcolle020.mp3</snd></a>
 
 <q>
 (n) Also known as inverted commas – simply separate the words someone in a sentence actually says from the rest of the sentence. These words are called direct speech.</q>
@@ -13245,6 +13271,13 @@ the @ ​symbol that ​joins the ​name of a ​person or a ​department in a
 <category name="english_idioms">
 
 <q>
+(idiom) close behind or soon after something</q>
+<a><b>(hard) on the heels of something</b>
+(also) <b>hot/close on the heels of something</b>
+
+<span style="color:#03f">A second mistake followed hard on the heels of the first one.</span></a>
+
+<q>
 (idiom) to make someone become suddenly and completely in love with you</q>
 <a><b>sweep sb off their feet</b>
 
@@ -13255,13 +13288,6 @@ the @ ​symbol that ​joins the ​name of a ​person or a ​department in a
 <a><b>drive someone to distraction</b>
 
 <span style="color:#03f">Nothing I said or did would get them to tidy up their bedrooms. It drove me to distraction.</span></a>
-
-<q>
-(idiom) close behind or soon after something</q>
-<a><b>(hard) on the heels of something</b>
-(also) <b>hot/close on the heels of something</b>
-
-<span style="color:#03f">A second mistake followed hard on the heels of the first one.</span></a>
 
 <q>
 (idiom) felt strongly and often hidden from other people</q>
